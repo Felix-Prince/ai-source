@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T14:02:00.139875+00:00",
+    "generated_at": "2026-08-01T15:31:46.677435+00:00",
     "max_days": 30
   },
   "items": [
@@ -2098,6 +2098,36 @@
       "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
       "published_at": "2026-08-01T14:00:00+00:00",
       "published_ts": 1785592800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:8cc756e29777",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+      "published_at": "2026-08-01T15:05:00+00:00",
+      "published_ts": 1785596700.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.987
+    },
+    {
+      "id": "the_verge:af5d9f971c2b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
+      "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
+      "summary": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus is that Iran is likely behind them. That, of course, hasn't stopped Donald Trump from sharing his own theory - that Governor Tim Walz is [&#8230;]",
+      "published_at": "2026-08-01T15:23:35+00:00",
+      "published_ts": 1785597815.0,
       "category": "international",
       "lang": "en",
       "tier": 1,

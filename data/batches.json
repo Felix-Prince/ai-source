@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T14:02:00.139875+00:00",
+    "generated_at": "2026-08-01T15:31:46.677435+00:00",
     "max_days": 30
   },
   "batches": [
@@ -271,6 +271,30 @@
           "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
           "published_at": "2026-08-01T11:30:54+00:00",
           "summary": "Autonomous vehicle giant disturbs residents' sleep."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-01T15:31:46.677435+00:00",
+      "generated_ts": 1785598306.6774354,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:8cc756e29777",
+          "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.987,
+          "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+          "published_at": "2026-08-01T15:05:00+00:00",
+          "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships."
         }
       ]
     }
