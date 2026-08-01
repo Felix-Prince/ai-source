@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:09.961743+00:00",
-    "last_run_ts": 1785586809.9617426,
+    "last_run_at": "2026-08-01T12:22:45.442654+00:00",
+    "last_run_ts": 1785586965.4426537,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:10.044301+00:00",
-    "last_run_ts": 1785586810.0443006,
+    "last_run_at": "2026-08-01T12:22:45.495425+00:00",
+    "last_run_ts": 1785586965.4954247,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:10.082055+00:00",
-    "last_run_ts": 1785586810.0820549,
+    "last_run_at": "2026-08-01T12:22:45.532032+00:00",
+    "last_run_ts": 1785586965.5320325,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:10.169302+00:00",
-    "last_run_ts": 1785586810.1693015,
+    "last_run_at": "2026-08-01T12:22:45.629098+00:00",
+    "last_run_ts": 1785586965.6290984,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:11.822088+00:00",
-    "last_run_ts": 1785586811.822088,
+    "last_run_at": "2026-08-01T12:22:48.640523+00:00",
+    "last_run_ts": 1785586968.640523,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:20:13.419755+00:00",
-    "last_run_ts": 1785586813.4197552,
+    "last_run_at": "2026-08-01T12:22:54.766927+00:00",
+    "last_run_ts": 1785586974.7669268,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
