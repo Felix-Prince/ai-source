@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:55.828052+00:00",
-    "last_run_ts": 1785613135.828052,
+    "last_run_at": "2026-08-01T21:12:29.260028+00:00",
+    "last_run_ts": 1785618749.260028,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:55.892602+00:00",
-    "last_run_ts": 1785613135.892602,
+    "last_run_at": "2026-08-01T21:12:29.341694+00:00",
+    "last_run_ts": 1785618749.3416939,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:55.990130+00:00",
-    "last_run_ts": 1785613135.9901297,
+    "last_run_at": "2026-08-01T21:12:29.378181+00:00",
+    "last_run_ts": 1785618749.3781805,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:56.073363+00:00",
-    "last_run_ts": 1785613136.0733633,
+    "last_run_at": "2026-08-01T21:12:29.442324+00:00",
+    "last_run_ts": 1785618749.4423237,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:57.171950+00:00",
-    "last_run_ts": 1785613137.1719496,
+    "last_run_at": "2026-08-01T21:12:30.878852+00:00",
+    "last_run_ts": 1785618750.878852,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-01T19:38:58.668270+00:00",
-    "last_run_ts": 1785613138.66827,
+    "last_run_at": "2026-08-01T21:12:32.518865+00:00",
+    "last_run_ts": 1785618752.5188653,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
