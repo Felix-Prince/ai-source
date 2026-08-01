@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T11:37:36.731141+00:00",
+    "generated_at": "2026-08-01T12:00:33.994986+00:00",
     "max_days": 30
   },
   "items": [
@@ -2130,6 +2130,21 @@
       "published_ts": 1785581146.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:f03eb40b2b8f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "The OG reading app just got a big update",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the [&#8230;]",
+      "published_at": "2026-08-01T12:00:00+00:00",
+      "published_ts": 1785585600.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
