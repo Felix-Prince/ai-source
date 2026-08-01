@@ -32,47 +32,52 @@ sources:
     enabled: false
     lang: en
 
-  # ---------- 其余验证可用源（阶段2 逐个启用） ----------
+  # ---------- 其余验证可用源（阶段2 已启用） ----------
 
   - name: the_verge
     url: https://www.theverge.com/rss/index.xml
     type: rss
     category: international
     tier: 1
-    enabled: false
+    enabled: true
     lang: en
+    source_label: The Verge
 
   - name: techcrunch
     url: https://techcrunch.com/feed/
     type: rss
     category: international
     tier: 1
-    enabled: false
+    enabled: true
     lang: en
+    source_label: TechCrunch
 
   - name: ars_technica
     url: https://feeds.arstechnica.com/arstechnica/index
     type: rss
     category: international
     tier: 1
-    enabled: false
+    enabled: true
     lang: en
+    source_label: Ars Technica
 
   - name: kr36
     url: https://36kr.com/feed
     type: rss
     category: domestic
     tier: 1
-    enabled: false
+    enabled: true
     lang: zh
+    source_label: 36氪
 
   - name: qbitai
     url: https://www.qbitai.com/feed
     type: rss
     category: domestic
     tier: 1
-    enabled: false
+    enabled: true
     lang: zh
+    source_label: 量子位
 
 # 阶段2 需替代/补充的源（D2 存疑项）：
 #   - infoq_cn      https://www.infoq.cn/feed    ⚠️ 200 但返回 HTML，非 feed → 需找正确端点

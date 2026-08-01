@@ -1,11 +1,56 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T07:10:43.235282+00:00",
-    "last_run_ts": 1785568243.235282,
+    "last_run_at": "2026-08-01T07:24:44.667481+00:00",
+    "last_run_ts": 1785569084.6674812,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
     "item_count": 1104
+  },
+  "the_verge": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:24:46.820227+00:00",
+    "last_run_ts": 1785569086.8202271,
+    "url": "https://www.theverge.com/rss/index.xml",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 10
+  },
+  "techcrunch": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:24:48.331004+00:00",
+    "last_run_ts": 1785569088.331004,
+    "url": "https://techcrunch.com/feed/",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 20
+  },
+  "ars_technica": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:24:52.269239+00:00",
+    "last_run_ts": 1785569092.269239,
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 20
+  },
+  "kr36": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:24:52.695145+00:00",
+    "last_run_ts": 1785569092.695145,
+    "url": "https://36kr.com/feed",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 30
+  },
+  "qbitai": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:24:52.903759+00:00",
+    "last_run_ts": 1785569092.903759,
+    "url": "https://www.qbitai.com/feed",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 10
   }
 }

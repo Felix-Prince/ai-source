@@ -36,7 +36,7 @@ def to_entry(raw, source_cfg, ai_score=0.0, importance=0.0):
     entry = {
         "id": "%s:%s" % (raw.source, hashlib.md5(title.encode("utf-8")).hexdigest()[:12]),
         "source": raw.source,
-        "source_label": raw.source,
+        "source_label": source_cfg.get("source_label", raw.source),
         "title": title,
         "url": raw.url,
         "summary": raw.summary,
