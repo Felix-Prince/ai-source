@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T10:12:57.632444+00:00",
+    "generated_at": "2026-08-01T11:37:36.731141+00:00",
     "max_days": 30
   },
   "items": [
@@ -2058,6 +2058,81 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.988
+    },
+    {
+      "id": "ars_technica:8d69ec478c8a",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+      "published_at": "2026-08-01T10:00:19+00:00",
+      "published_ts": 1785578419.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:381148d63235",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Defcon's new badge is a security key you can see inside",
+      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+      "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+      "published_at": "2026-08-01T10:05:21+00:00",
+      "published_ts": 1785578721.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:17c709f6de73",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "url": "https://www.qbitai.com/2026/08/464713.html",
+      "summary": "狂刷3小时！",
+      "published_at": "2026-08-01T10:33:18+00:00",
+      "published_ts": 1785580398.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:9d993bdd0601",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "获奖之后，王虹最想感谢的人",
+      "url": "https://www.qbitai.com/2026/08/464761.html",
+      "summary": "\"他真的给了我很大的帮助\"",
+      "published_at": "2026-08-01T10:38:47+00:00",
+      "published_ts": 1785580727.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:773c2e16d9c7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "url": "https://www.qbitai.com/2026/08/464781.html",
+      "summary": "具身智能的τ（bushi）",
+      "published_at": "2026-08-01T10:45:46+00:00",
+      "published_ts": 1785581146.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
