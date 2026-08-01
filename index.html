@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 资讯源看板</title>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+    --green: #3fb950; --red: #f85149; --yellow: #d29922;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; padding: 24px; }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 24px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px; margin-bottom: 24px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 16px; }
+  .panel h2 { font-size: 14px; color: var(--accent); margin-bottom: 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+  /* 源健康 */
+  .source-row { display: flex; align-items: center; gap: 8px; padding: 6px 0; font-size: 13px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .dot.ok { background: var(--green); } .dot.failed { background: var(--red); } .dot.disabled { background: var(--muted); }
+  .src-name { flex: 0 0 100px; color: var(--text); }
+  .src-count { color: var(--muted); font-size: 12px; }
+  .src-fail { color: var(--red); font-size: 11px; }
+  /* 条目 */
+  .item { padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .item:last-child { border-bottom: none; }
+  .item a { color: var(--text); text-decoration: none; font-size: 13px; line-height: 1.4; display: block; }
+  .item a:hover { color: var(--accent); }
+  .item-meta { font-size: 11px; color: var(--muted); margin-top: 3px; display: flex; gap: 8px; align-items: center; }
+  .badge { font-size: 10px; padding: 1px 6px; border-radius: 10px; }
+  .badge.tier0 { background: rgba(88,166,255,.2); color: var(--accent); }
+  .badge.tier1 { background: rgba(139,148,158,.2); color: var(--muted); }
+  .imp { color: var(--yellow); }
+  /* 时间轴 */
+  .tl { display: flex; flex-direction: column; gap: 0; }
+  .tl-batch { padding: 10px 0; border-left: 2px solid var(--border); padding-left: 16px; margin-left: 6px; position: relative; }
+  .tl-batch::before { content: ''; position: absolute; left: -6px; top: 16px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+  .tl-time { font-size: 12px; color: var(--accent); font-weight: 600; }
+  .tl-sub { font-size: 11px; color: var(--muted); margin: 2px 0 6px; }
+  .tl-items { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tl-chip { font-size: 11px; background: #21262d; border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; cursor: pointer; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .tl-chip:hover { border-color: var(--accent); color: var(--accent); }
+  .tl-empty { color: var(--muted); font-size: 12px; }
+  .loading, .error { color: var(--muted); font-size: 13px; padding: 12px 0; }
+  .error { color: var(--red); }
+</style>
+</head>
+<body>
+  <h1>📡 AI 资讯源看板</h1>
+  <div class="sub" id="generated-info">加载中…</div>
+
+  <div class="grid">
+    <div class="panel">
+      <h2>源健康</h2>
+      <div id="source-health" class="loading">加载中…</div>
+    </div>
+    <div class="panel">
+      <h2>今日 AI 资讯</h2>
+      <div id="today-items" class="loading">加载中…</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>采集时间轴（每 2h 一轮）</h2>
+    <div id="timeline" class="loading">加载中…</div>
+  </div>
+
+<script>
+// 相对路径：Pages 部署在 /ai-source/ 子路径，必须 ./ 开头（见 HANDOFF 10.2）
+const DATA = './data/';
+
+async function fetchJSON(name) {
+  const r = await fetch(DATA + name, { cache: 'no-store' });
+  if (!r.ok) throw new Error(name + ' HTTP ' + r.status);
+  return r.json();
+}
+
+function el(tag, cls, text) {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+}
+
+function renderHealth(status, container) {
+  container.innerHTML = '';
+  const names = Object.keys(status);
+  if (!names.length) { container.appendChild(el('div', 'tl-empty', '暂无数据')); return; }
+  for (const name of names) {
+    const s = status[name];
+    const row = el('div', 'source-row');
+    const dot = el('span', 'dot ' + (s.status === 'ok' ? 'ok' : (s.status === 'failed' ? 'failed' : 'disabled')));
+    const nm = el('span', 'src-name', name);
+    row.append(dot, nm);
+    if (s.status === 'ok') row.appendChild(el('span', 'src-count', (s.item_count ?? 0) + ' 条'));
+    else if (s.status === 'failed') {
+      row.appendChild(el('span', 'src-fail', '失败 ' + (s.fail_count ?? 0) + ' 次'));
+      row.title = s.error || '';
+    }
+    else row.appendChild(el('span', 'src-count', 'disabled'));
+    container.appendChild(row);
+  }
+}
+
+function renderItems(items, container, limit) {
+  container.innerHTML = '';
+  if (!items || !items.length) { container.appendChild(el('div', 'tl-empty', '当前时段暂无条目')); return; }
+  (limit ? items.slice(0, limit) : items).forEach(it => {
+    const div = el('div', 'item');
+    const a = el('a', null);
+    a.href = it.url; a.target = '_blank'; a.rel = 'noopener';
+    a.textContent = it.title;
+    div.appendChild(a);
+    const meta = el('div', 'item-meta');
+    meta.appendChild(el('span', null, it.source_label || it.source));
+    meta.appendChild(el('span', 'badge tier' + (it.tier || 1), 'tier' + (it.tier || 1)));
+    meta.appendChild(el('span', 'imp', '重要性 ' + it.importance));
+    div.appendChild(meta);
+    container.appendChild(div);
+  });
+}
+
+function renderTimeline(batches, container) {
+  container.innerHTML = '';
+  if (!batches || !batches.length) { container.appendChild(el('div', 'tl-empty', '暂无采集批次')); return; }
+  // 新→旧，时间轴从最新开始
+  for (const b of batches.slice().reverse()) {
+    const div = el('div', 'tl-batch');
+    div.appendChild(el('div', 'tl-time', b.generated_at ? b.generated_at.replace('T', ' ').slice(0, 16) : '?'));
+    const cnt = (b.items || []).length;
+    const srcs = Object.entries(b.sources || {})
+      .filter(([, n]) => n > 0)
+      .map(([n, c]) => n + ':' + c).join(' · ');
+    div.appendChild(el('div', 'tl-sub', cnt + ' 条 ｜ ' + srcs));
+    const chips = el('div', 'tl-items');
+    (b.items || []).slice(0, 20).forEach(it => {
+      const chip = el('span', 'tl-chip', it.title);
+      chip.title = (it.source_label || it.source) + ' ｜ ' + it.title;
+      chip.addEventListener('click', () => window.open(it.url, '_blank'));
+      chips.appendChild(chip);
+    });
+    if (cnt > 20) chips.appendChild(el('span', 'tl-empty', '…共 ' + cnt + ' 条'));
+    div.appendChild(chips);
+    container.appendChild(div);
+  }
+}
+
+(async () => {
+  try {
+    const [status, latest, batches] = await Promise.all([
+      fetchJSON('source-status.json'),
+      fetchJSON('latest-24h.json'),
+      fetchJSON('batches.json'),
+    ]);
+    document.getElementById('generated-info').textContent =
+      '数据更新于 ' + (latest.meta?.generated_at || '').replace('T', ' ').slice(0, 16) +
+      '（UTC）｜ 共 ' + latest.meta?.total + ' 条';
+    renderHealth(status, document.getElementById('source-health'));
+    renderItems(latest.items, document.getElementById('today-items'), 30);
+    renderTimeline(batches.batches, document.getElementById('timeline'));
+  } catch (e) {
+    document.getElementById('generated-info').textContent = '加载失败';
+    for (const id of ['source-health', 'today-items', 'timeline']) {
+      document.getElementById(id).innerHTML = '';
+      document.getElementById(id).appendChild(el('div', 'error', '加载失败: ' + e.message));
+    }
+  }
+})();
+</script>
+</body>
+</html>

@@ -6,6 +6,46 @@
 
 ---
 
+## 〇、执行状态追踪（最近更新 2026-08-01）
+
+> 本节是各阶段实际落地情况的权威记录，替代下方「八、执行计划」中未完成的假设性描述。新执行的 agent 以此为准。
+
+### 已完成 ✅
+
+| 阶段 | 内容 | 落点 |
+|------|------|------|
+| 阶段 0 | 前置准备 | requirements.txt + 依赖安装；D2 验证选源 |
+| 阶段 1 | 单源闭环 | `scripts/collect.py` 本地跑通，8 个单测全过（commit `293f1ac`）|
+| 阶段 2 | 扩源 6 个 | openai_blog/the_verge/techcrunch/ars_technica/kr36/qbitai 全 `enabled:true`，本地多源跑通（commit `5b9a050`）|
+| 阶段 3 | 接 CI | `.github/workflows/collect.yml`（cron `23 */2 * * *` + python 3.12 + commit data 回仓）（commit `6cf582a`）|
+| 收尾 | push 数据契约 | `main` = `origin/main` = `6cf582a`，数据 URL `raw/main/data/latest-24h.json` 已发布 |
+
+### 当前已启用信源（6 个，2026-08-01 本地实测全 ok）
+
+| 源 | 分类 | 梯级 | item_count(本地) |
+|----|------|------|------------------|
+| openai_blog | international | 0 | 1104 |
+| the_verge | international | 1 | 10 |
+| techcrunch | international | 1 | 20 |
+| ars_technica | international | 1 | 20 |
+| kr36 | international→domestic | 1 | 30 |
+| qbitai | domestic | 1 | 10 |
+
+### 待办 ⏳（按优先级）
+
+1. **CI 首轮验证**（最关键）：确认 Actions 首轮跑绿；查 US 出口下 6 源真实可达性。本机网络对 `github.com` 443 被限、无 `gh` CLI，需在浏览器看 `github.com/Felix-Prince/ai-source/actions`。
+2. **D2 存疑源去留**：hacker_news / huggingface 待 CI 实测（US 出口下可能可达）；infoq / 机器之心 / anthropic 需找正确 URL 或换源。
+3. **Pages 源健康页 `health.html`**：可选可视化，读 `data/source-status.json` 渲染，相对路径 `./data/...`（见第十节 D3）。骨架已生成，未开 Pages。
+4. **连续 3 天稳定性观察**：持续失败源决定保留/替换。
+
+### 已确认决策（含讨论中被否掉的）
+
+- ✅ 采集层**零模型依赖**、零密钥——不调模型翻译。
+- ✅ 翻译**不做**：下游消费方自行处理中英双语（曾讨论采集层加 `title_zh/summary_zh` 字段，因违背零模型原则被否）。
+- ❌ 不加公众号覆盖。
+
+---
+
 ## 一、背景与目标
 
 **现状问题**：每天靠 AI 的 webFetch/webSearch 能力实时爬不同数据源（36氪、钛媒体、The Verge RSS 等）采集 AI 内容。这些数据源不稳定，可能被限制，导致采集不可靠。
@@ -95,11 +135,13 @@ ai-source/
 │   ├── archive.json           # 滚动 30d，去重用，git 可 diff 审计
 │   └── source-status.json     # 源健康看板
 ├── .github/workflows/collect.yml   # cron 每 2h，commit data/
+├── .gitignore                      # __pycache__/ *.pyc .DS_Store
+├── health.html                     # ★ Pages 源健康页（可选，读 source-status.json，相对路径）
 └── tests/
     └── test_collect.py        # 断言产物结构完整、去重生效、评分合理
 ```
 
-> 注：上述目录中 `config/` `requirements.txt` `scripts/fetchers/` 等尚未创建，目录骨架（`.github/` `data/` `scripts/fetchers/` `tests/`）已建好。交接后继续填充代码与文件。
+> 注：以上为**当前实际结构**（2026-08-01 已全部落地）。`scripts/fetchers/static_page.py` 按设计留白（MVP 全 RSS，仅个别静态页需 HTML 抓取时再补）。
 
 ---
 

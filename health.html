@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📡 AI 资讯源健康</title>
+<style>
+  /* ============ design tokens（dataviz 状态看板） ============ */
+  /* status palette 固定，不随主题换；文字穿 ink token，不穿系列色 */
+  :root {
+    --good:      #0ca30c;
+    --warning:   #fab219;
+    --serious:   #ec835a;
+    --critical:  #d03b3b;
+    --surface:   #fcfcfb;
+    --page:      #f9f9f7;
+    --ink-1:     #0b0b0b;
+    --ink-2:     #52514e;
+    --muted:     #898781;
+    --hairline:  #e1e0d9;
+    --border:    rgba(11,11,11,0.10);
+    --good-text: #006300;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      --surface:  #1a1a19;
+      --page:     #0d0d0d;
+      --ink-1:    #ffffff;
+      --ink-2:    #c3c2b7;
+      --muted:    #898781;
+      --hairline: #2c2c2a;
+      --border:   rgba(255,255,255,0.10);
+      --good-text:#0ca30c;
+    }
+  }
+  :root[data-theme="dark"] { /* 主题切换按钮的显式暗色，win 两种路径 */
+    --surface:  #1a1a19;
+    --page:     #0d0d0d;
+    --ink-1:    #ffffff;
+    --ink-2:    #c3c2b7;
+    --muted:    #898781;
+    --hairline: #2c2c2a;
+    --border:   rgba(255,255,255,0.10);
+    --good-text:#0ca30c;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--page);
+    color: var(--ink-1);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.5;
+    padding: 24px;
+    max-width: 980px;
+    margin: 0 auto;
+  }
+  .muted { color: var(--ink-2); }
+
+  /* 顶栏：标题 + 主题切换 + 最后刷新 */
+  header { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: 24px; font-weight: 700; }
+  .last-run { color: var(--muted); font-size: 13px; }
+  #themeToggle {
+    margin-left: auto;
+    background: transparent;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    color: var(--ink-2);
+    padding: 4px 14px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  #themeToggle:hover { color: var(--ink-1); border-color: var(--muted); }
+
+  /* KPI 行：hero 数字 + 状态色小方块 */
+  .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 20px 0; }
+  .kpi {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+  }
+  .kpi .num { font-size: 32px; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .kpi .lbl { font-size: 13px; color: var(--ink-2); margin-top: 2px; }
+  .kpi .swatch { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: middle; }
+
+  /* 状态徽标：icon + label 永远配对，颜色绝不单独承担含义 */
+  .badge {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 13px; font-weight: 600;
+    padding: 3px 10px; border-radius: 999px;
+    background: transparent; border: 1px solid transparent;
+  }
+  .badge::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+  .badge.ok      { color: var(--good-text);    border-color: var(--good); }
+  .badge.ok::before    { background: var(--good); }
+  .badge.warning { color: var(--warning); }
+  .badge.warning::before { background: var(--warning); }
+  .badge.serious { color: var(--serious); }
+  .badge.serious::before { background: var(--serious); }
+  .badge.critical{ color: var(--critical); }
+  .badge.critical::before { background: var(--critical); }
+  .badge.disabled { color: var(--muted); border-color: var(--hairline); }
+  .badge.disabled::before { background: var(--muted); }
+
+  /* 表格：recessive grid，tabular nums，状态列不靠色辨认 */
+  table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+  th, td { padding: 10px 14px; text-align: left; font-size: 14px; }
+  th { color: var(--ink-2); font-weight: 600; border-bottom: 1px solid var(--hairline); white-space: nowrap; }
+  td { border-bottom: 1px solid var(--hairline); vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  .num-cell { font-variant-numeric: tabular-nums; }
+  .mono { font-size: 13px; word-break: break-all; }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .err { color: var(--critical); font-size: 13px; }
+
+  footer { margin-top: 24px; color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📡 AI 资讯源健康</h1>
+  <span class="last-run" id="lastRun">读取中…</span>
+  <button id="themeToggle" type="button">🌓 主题</button>
+</header>
+
+<!-- KPI 行 -->
+<div class="kpi-row">
+  <div class="kpi"><div class="num" id="kpiTotal">–</div><div class="lbl">信源总数</div></div>
+  <div class="kpi"><div class="num" id="kpiOk">–</div><div class="lbl">正常</div></div>
+  <div class="kpi"><div class="num" id="kpiFail">–</div><div class="lbl">失败</div></div>
+  <div class="kpi"><div class="num" id="kpiItems">–</div><div class="lbl">累计条目</div></div>
+</div>
+
+<!-- 明细表 -->
+<table>
+  <thead>
+    <tr><th>信源</th><th>状态</th><th>条目数</th><th>失败累计</th><th>URL</th><th>最近运行</th></tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<footer>
+  数据来源 <code>./data/source-status.json</code>，由 GitHub Actions 每 2h 更新。
+  <span id="dataSource"></span>
+</footer>
+
+<script>
+/* ============ 主题切换 ============ */
+(function () {
+  var b = document.getElementById('themeToggle');
+  function sync() {
+    var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+    b.textContent = dark ? '☀️ 主题' : '🌓 主题';
+  }
+  b.addEventListener('click', function () {
+    var cur = document.documentElement.getAttribute('data-theme');
+    var next = cur === 'dark' ? 'light' : 'dark';
+    if (next === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+    else document.documentElement.removeAttribute('data-theme');
+    try { localStorage.setItem('ai-source-theme', next); } catch (e) {}
+    sync();
+  });
+  var saved = null;
+  try { saved = localStorage.getItem('ai-source-theme'); } catch (e) {}
+  if (saved === 'dark' || (saved === 'light')) {
+    if (saved === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+  }
+  sync();
+})();
+
+/* ============ 状态徽标映射（icon + label 永远配对） ============ */
+function badge(status) {
+  var map = {
+    ok:       ['ok',       '正常'],
+    failed:   ['critical', '失败'],
+    skipped:  ['warning',  '降级'],
+    disabled: ['disabled', '停用']
+  };
+  var m = map[status] || ['disabled', status];
+  return '<span class="badge ' + m[0] + '">' + m[1] + '</span>';
+}
+
+function fmtTime(ts) {
+  if (!ts) return '—';
+  var d = new Date(ts * 1000);
+  return d.toLocaleString('zh-CN', { hour12: false });
+}
+
+function fmtCount(n) {
+  return (n === undefined || n === null) ? '—' : n.toLocaleString('zh-CN');
+}
+
+/* ============ 渲染 ============ */
+function render(data) {
+  var entries = Object.entries(data).filter(function (kv) {
+    return kv[1] && typeof kv[1] === 'object';
+  });
+  var total = entries.length;
+  var ok = entries.filter(function (kv) { return kv[1].status === 'ok'; }).length;
+  var fail = entries.filter(function (kv) {
+    return ['failed', 'skipped'].indexOf(kv[1].status) !== -1;
+  }).length;
+  var items = entries.reduce(function (acc, kv) {
+    return acc + (kv[1].item_count || 0);
+  }, 0);
+
+  document.getElementById('kpiTotal').textContent = total;
+  document.getElementById('kpiOk').textContent = ok;
+  document.getElementById('kpiFail').textContent = fail;
+  document.getElementById('kpiItems').textContent = fmtCount(items);
+
+  var sorted = entries.sort(function (a, b) {
+    var order = { failed: 0, skipped: 1, ok: 2, disabled: 3 };
+    return (order[a[1].status] ?? 3) - (order[b[1].status] ?? 3);
+  });
+
+  var rows = sorted.map(function (kv) {
+    var name = kv[0], s = kv[1];
+    var err = s.error ? '<div class="err">' + s.error + '</div>' : '';
+    return '<tr>' +
+      '<td><strong>' + (s.source_label || name) + '</strong></td>' +
+      '<td>' + badge(s.status) + '</td>' +
+      '<td class="num-cell">' + fmtCount(s.item_count) + '</td>' +
+      '<td class="num-cell">' + fmtCount(s.fail_count) + '</td>' +
+      '<td class="mono"><a href="' + s.url + '" target="_blank" rel="noopener">' + s.url + '</a></td>' +
+      '<td class="mono">' + fmtTime(s.last_run_ts) + err + '</td>' +
+      '</tr>';
+  }).join('');
+  document.getElementById('rows').innerHTML = rows;
+
+  document.getElementById('lastRun').textContent = '最后刷新：' + fmtTime(Date.now() / 1000);
+}
+
+/* ============ DEMO fallback：本地双击或 fetch 失败时展示 ============
+   与当前线上 source-status.json 形态一致，方便本地预览效果。
+   线上 fetch 到真实数据后自动被覆盖。 */
+var DEMO = {
+  "openai_blog": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:44+00:00", "last_run_ts": 1785569084.66,
+    "url": "https://openai.com/news/rss.xml", "error": null, "fail_count": 0, "item_count": 1104
+  },
+  "the_verge": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:46+00:00", "last_run_ts": 1785569086.82,
+    "url": "https://www.theverge.com/rss/index.xml", "error": null, "fail_count": 0, "item_count": 10
+  },
+  "techcrunch": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:48+00:00", "last_run_ts": 1785569088.33,
+    "url": "https://techcrunch.com/feed/", "error": null, "fail_count": 0, "item_count": 20
+  },
+  "ars_technica": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:52+00:00", "last_run_ts": 1785569092.26,
+    "url": "https://feeds.arstechnica.com/arstechnica/index", "error": null, "fail_count": 0, "item_count": 20
+  },
+  "kr36": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:52+00:00", "last_run_ts": 1785569092.69,
+    "url": "https://36kr.com/feed", "error": null, "fail_count": 0, "item_count": 30
+  },
+  "qbitai": {
+    "status": "ok", "last_run_at": "2026-08-01T07:24:52+00:00", "last_run_ts": 1785569092.90,
+    "url": "https://www.qbitai.com/feed", "error": null, "fail_count": 0, "item_count": 10
+  },
+  // 演示各种异常状态的假数据（本地预览用，线上会被真实数据覆盖）
+  "_demo_machine_heart": {
+    "status": "failed", "last_run_at": "2026-08-01T06:00:00+00:00", "last_run_ts": 1785564000,
+    "url": "https://www.jiqizhixin.com/rss", "error": "GET failed after 3 tries: 302 → JS 页", "fail_count": 5, "item_count": 0
+  },
+  "_demo_hacker_news": {
+    "status": "skipped", "last_run_at": "2026-08-01T06:00:00+00:00", "last_run_ts": 1785564000,
+    "url": "https://news.ycombinator.com/rss", "error": null, "fail_count": 0, "item_count": 0
+  },
+  "_demo_disabled": {
+    "status": "disabled", "last_run_at": null, "last_run_ts": null,
+    "url": "https://example.com/rss", "error": null, "fail_count": 0, "item_count": 0
+  }
+};
+
+/* 相对路径 fetch —— 线上 Pages 为 /ai-source/ 前缀，必须相对路径（D3） */
+var DEMO_ACTIVE = false;
+fetch('./data/source-status.json')
+  .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(function (data) {
+    DEMO_ACTIVE = false;
+    document.getElementById('dataSource').textContent = '· 数据源：实时（fetch 成功）';
+    render(data);
+  })
+  .catch(function () {
+    DEMO_ACTIVE = true;
+    document.getElementById('dataSource').textContent = '· 数据源：内置 DEMO（fetch 失败，展示效果用）';
+    render(DEMO);
+  });
+</script>
+</body>
+</html>

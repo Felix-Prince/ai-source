@@ -32,6 +32,7 @@ from scripts import dedupe, health, normalize, score
 
 AI_SCORE_THRESHOLD = 1.0   # AI 相关性分低于此值不进产物
 MAX_ARCHIVE_DAYS = 30      # archive 滚动天数
+MAX_BATCH_DAYS = 30        # batches 滚动天数（时间轴深度）
 
 
 def load_sources(path):
@@ -138,6 +139,33 @@ def main():
     write_json(archive_path, {
         "meta": {"generated_at": now_iso, "max_days": MAX_ARCHIVE_DAYS},
         "items": sorted(merged.values(), key=lambda e: e.get("published_ts") or 0),
+    })
+
+    # 采集批次日志：每轮一条，供可视化时间轴（每 2h 一个刻度，段内展示该轮条目）
+    # 只存轻量字段控制体积，滚动保留 MAX_BATCH_DAYS
+    batch_path = os.path.join(outdir, "batches.json")
+    try:
+        with open(batch_path, "r", encoding="utf-8") as f:
+            batches = json.load(f).get("batches", [])
+    except (OSError, ValueError):
+        batches = []
+    batch_items = [{
+        "id": e["id"], "title": e["title"], "source": e["source"],
+        "source_label": e["source_label"], "importance": e["importance"],
+        "url": e["url"], "published_at": e["published_at"],
+    } for e in fresh]
+    batches.append({
+        "generated_at": now_iso,
+        "generated_ts": now,
+        "sources": {name: v.get("item_count", 0) for name, v in source_status.items()
+                    if v["status"] == "ok"},
+        "items": batch_items,
+    })
+    batch_cutoff = now - MAX_BATCH_DAYS * 86400
+    batches = [b for b in batches if b.get("generated_ts", 0) >= batch_cutoff]
+    write_json(batch_path, {
+        "meta": {"generated_at": now_iso, "max_days": MAX_BATCH_DAYS},
+        "batches": batches,
     })
 
     health.write(status_path, source_status)
