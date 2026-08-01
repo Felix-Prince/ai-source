@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T15:31:46.677435+00:00",
+    "generated_at": "2026-08-01T17:27:20.757503+00:00",
     "max_days": 30
   },
   "items": [
@@ -2120,6 +2120,21 @@
       "importance": 0.987
     },
     {
+      "id": "ars_technica:681b9e141817",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+      "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+      "published_at": "2026-08-01T15:19:04+00:00",
+      "published_ts": 1785597544.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "the_verge:af5d9f971c2b",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -2133,6 +2148,51 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "techcrunch:65c702c7f123",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "published_at": "2026-08-01T15:58:17+00:00",
+      "published_ts": 1785599897.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:6b7f64f360f2",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Spider-Man: Brand New Day leak racks up millions of views",
+      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+      "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of [&#8230;]",
+      "published_at": "2026-08-01T17:00:12+00:00",
+      "published_ts": 1785603612.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:bada20a17232",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "published_at": "2026-08-01T17:07:34+00:00",
+      "published_ts": 1785604054.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.981
     }
   ]
 }
