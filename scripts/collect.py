@@ -153,6 +153,7 @@ def main():
         "id": e["id"], "title": e["title"], "source": e["source"],
         "source_label": e["source_label"], "importance": e["importance"],
         "url": e["url"], "published_at": e["published_at"],
+        "summary": (e.get("summary") or "")[:300],  # 截断摘要控体积
     } for e in fresh]
     batches.append({
         "generated_at": now_iso,

@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:31.174232+00:00",
-    "last_run_ts": 1785575131.174232,
+    "last_run_at": "2026-08-01T09:14:04.220868+00:00",
+    "last_run_ts": 1785575644.220868,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:31.430452+00:00",
-    "last_run_ts": 1785575131.4304519,
+    "last_run_at": "2026-08-01T09:14:04.481821+00:00",
+    "last_run_ts": 1785575644.4818208,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:35.102363+00:00",
-    "last_run_ts": 1785575135.1023629,
+    "last_run_at": "2026-08-01T09:14:05.119452+00:00",
+    "last_run_ts": 1785575645.119452,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:38.964803+00:00",
-    "last_run_ts": 1785575138.964803,
+    "last_run_at": "2026-08-01T09:14:06.646307+00:00",
+    "last_run_ts": 1785575646.646307,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:39.398413+00:00",
-    "last_run_ts": 1785575139.398413,
+    "last_run_at": "2026-08-01T09:14:07.058025+00:00",
+    "last_run_ts": 1785575647.058025,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-01T09:05:39.578429+00:00",
-    "last_run_ts": 1785575139.578429,
+    "last_run_at": "2026-08-01T09:14:07.228609+00:00",
+    "last_run_ts": 1785575647.228609,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
