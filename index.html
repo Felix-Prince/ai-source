@@ -13,20 +13,16 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; padding: 24px; max-width: 1100px; margin: 0 auto; }
   h1 { font-size: 22px; margin-bottom: 4px; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; line-height: 1.8; }
+  .sub .src-badge { display: inline-flex; align-items: center; gap: 4px; background: #21262d; border: 1px solid var(--border); border-radius: 10px; padding: 1px 8px; font-size: 11px; margin-right: 6px; }
+  .sub .src-badge .dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+  .sub .src-badge .dot.ok { background: var(--green); }
+  .sub .src-badge .dot.failed { background: var(--red); }
+  .sub .src-badge .dot.disabled { background: var(--muted); }
+  .sub .src-badge .src-count { color: var(--muted); }
+  .sub .src-badge.failed .src-count { color: var(--red); }
   .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 16px; }
   .panel h2 { font-size: 13px; color: var(--accent); margin-bottom: 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
-
-  /* ---- 源健康：横向一排 ---- */
-  .source-strip { display: flex; gap: 10px; flex-wrap: wrap; }
-  .source-card { display: flex; align-items: center; gap: 7px; background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 12px; }
-  .source-card .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-  .source-card .dot.ok { background: var(--green); }
-  .source-card .dot.failed { background: var(--red); }
-  .source-card .dot.disabled { background: var(--muted); }
-  .source-card .src-name { color: var(--text); font-weight: 600; }
-  .source-card .src-count { color: var(--muted); font-size: 11px; }
-  .source-card .src-fail { color: var(--red); font-size: 11px; }
 
   /* ---- 时间轴：主内容 ---- */
   .timeline { display: flex; flex-direction: column; }
@@ -50,6 +46,10 @@
   .badge.tier0 { background: rgba(88,166,255,.2); color: var(--accent); }
   .badge.tier1 { background: rgba(139,148,158,.2); color: var(--muted); }
 
+  .tl-more { display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; font-size: 12px; color: var(--accent); cursor: pointer; background: none; border: 1px dashed var(--border); border-radius: 6px; padding: 5px 12px; transition: border-color .15s; }
+  .tl-more:hover { border-color: var(--accent); background: rgba(88,166,255,.08); }
+  .tl-more .arrow { transition: transform .2s; }
+  .tl-more.open .arrow { transform: rotate(180deg); }
   .tl-empty, .loading, .error { color: var(--muted); font-size: 13px; padding: 12px 0; }
   .error { color: var(--red); }
 </style>
@@ -57,11 +57,6 @@
 <body>
   <h1>📡 AI 资讯源看板</h1>
   <div class="sub" id="generated-info">加载中…</div>
-
-  <div class="panel" style="margin-bottom:20px">
-    <h2>源健康</h2>
-    <div id="source-health" class="loading">加载中…</div>
-  </div>
 
   <div class="panel">
     <h2>采集时间轴（每 2h 一轮）</h2>
@@ -98,27 +93,41 @@ function fmtLocalLong(iso) {
   return fmtLocal(iso) + ' (本地)';
 }
 
-// 源健康：横向一排卡片
-function renderHealth(status, container) {
-  container.innerHTML = '';
+// 源健康：返回副标题内的小徽章（DOM 元素数组）
+function healthBadges(status) {
+  const badges = [];
   const names = Object.keys(status);
-  if (!names.length) { container.appendChild(el('div', 'tl-empty', '暂无数据')); return; }
-  const strip = el('div', 'source-strip');
   for (const name of names) {
     const s = status[name];
-    const card = el('div', 'source-card');
-    card.appendChild(el('span', 'dot ' + (s.status === 'ok' ? 'ok' : (s.status === 'failed' ? 'failed' : 'disabled'))));
-    card.appendChild(el('span', 'src-name', name));
-    if (s.status === 'ok') card.appendChild(el('span', 'src-count', (s.item_count ?? 0) + '条'));
-    else if (s.status === 'failed') card.appendChild(el('span', 'src-fail', '失败' + (s.fail_count ?? 0)));
-    else card.appendChild(el('span', 'src-count', 'disabled'));
-    if (s.status === 'failed') card.title = s.error || '';
-    strip.appendChild(card);
+    const b = el('span', 'src-badge ' + (s.status === 'failed' ? 'failed' : ''));
+    b.appendChild(el('span', 'dot ' + (s.status === 'ok' ? 'ok' : (s.status === 'failed' ? 'failed' : 'disabled'))));
+    b.appendChild(document.createTextNode(name));
+    if (s.status === 'ok') b.appendChild(el('span', 'src-count', ' ' + (s.item_count ?? 0)));
+    else if (s.status === 'failed') b.appendChild(el('span', 'src-count', ' 失败' + (s.fail_count ?? 0)));
+    else b.appendChild(el('span', 'src-count', ' off'));
+    if (s.status === 'failed') b.title = s.error || '';
+    badges.push(b);
   }
-  container.appendChild(strip);
+  return badges;
 }
 
-// 时间轴：每轮一个批次，条目为完整卡片（标题/来源/重要性/摘要）
+// 单个条目的卡片
+function makeItemCard(it) {
+  const card = el('div', 'tl-item');
+  card.appendChild(el('div', 't', it.title));
+  const m = el('div', 'm');
+  m.appendChild(el('span', 'src', it.source_label || it.source));
+  m.appendChild(el('span', 'badge tier' + (it.tier || 1), 'tier' + (it.tier || 1)));
+  if (it.importance != null) m.appendChild(el('span', 'imp', '重要性 ' + it.importance));
+  if (it.published_at) m.appendChild(el('span', '', fmtLocal(it.published_at)));
+  card.appendChild(m);
+  if (it.summary) card.appendChild(el('div', 'sum', it.summary));
+  card.addEventListener('click', () => it.url && window.open(it.url, '_blank'));
+  return card;
+}
+
+// 时间轴：每轮一个批次，默认展示 top 10，其余折叠在"展开"按钮里
+const TL_TOP = 10;
 function renderTimeline(batches, container) {
   container.innerHTML = '';
   if (!batches || !batches.length) { container.appendChild(el('div', 'tl-empty', '暂无采集批次')); return; }
@@ -133,20 +142,31 @@ function renderTimeline(batches, container) {
     div.appendChild(el('div', 'tl-sub', cnt + ' 条 ｜ ' + srcs));
 
     const itemsWrap = el('div', 'tl-items');
-    if (!cnt) itemsWrap.appendChild(el('div', 'tl-empty', '本轮无 AI 相关条目'));
-    (b.items || []).forEach(it => {
-      const card = el('div', 'tl-item');
-      card.appendChild(el('div', 't', it.title));
-      const m = el('div', 'm');
-      m.appendChild(el('span', 'src', it.source_label || it.source));
-      m.appendChild(el('span', 'badge tier' + (it.tier || 1), 'tier' + (it.tier || 1)));
-      if (it.importance != null) m.appendChild(el('span', 'imp', '重要性 ' + it.importance));
-      if (it.published_at) m.appendChild(el('span', '', fmtLocal(it.published_at)));
-      card.appendChild(m);
-      if (it.summary) card.appendChild(el('div', 'sum', it.summary));
-      card.addEventListener('click', () => it.url && window.open(it.url, '_blank'));
-      itemsWrap.appendChild(card);
-    });
+    const items = (b.items || []).slice();  // 副本，保持原始顺序
+    if (!cnt) {
+      itemsWrap.appendChild(el('div', 'tl-empty', '本轮无 AI 相关条目'));
+    } else {
+      const top = items.slice(0, TL_TOP);
+      const rest = items.slice(TL_TOP);
+      top.forEach(it => itemsWrap.appendChild(makeItemCard(it)));
+      if (rest.length) {
+        // 折叠容器（默认隐藏）+ 展开/收起按钮
+        const moreWrap = el('div');
+        moreWrap.style.display = 'none';
+        rest.forEach(it => moreWrap.appendChild(makeItemCard(it)));
+        const moreBtn = el('button', 'tl-more');
+        moreBtn.appendChild(el('span', null, '展开剩余 ' + rest.length + ' 条'));
+        moreBtn.appendChild(el('span', 'arrow', '▾'));
+        moreBtn.addEventListener('click', () => {
+          const open = moreWrap.style.display !== 'none';
+          moreWrap.style.display = open ? 'none' : 'block';
+          moreBtn.classList.toggle('open', !open);
+          moreBtn.firstChild.textContent = open ? '展开剩余 ' + rest.length + ' 条' : '收起';
+        });
+        itemsWrap.appendChild(moreWrap);
+        itemsWrap.appendChild(moreBtn);
+      }
+    }
     div.appendChild(itemsWrap);
     container.appendChild(div);
   }
@@ -159,16 +179,16 @@ function renderTimeline(batches, container) {
       fetchJSON('latest-24h.json'),
       fetchJSON('batches.json'),
     ]);
-    document.getElementById('generated-info').textContent =
-      '数据更新于 ' + fmtLocalLong(latest.meta?.generated_at) + ' ｜ 共 ' + latest.meta?.total + ' 条';
-    renderHealth(status, document.getElementById('source-health'));
+    const info = document.getElementById('generated-info');
+    info.innerHTML = '';
+    info.appendChild(document.createTextNode('数据更新于 ' + fmtLocalLong(latest.meta?.generated_at) + ' ｜ 共 ' + latest.meta?.total + ' 条　'));
+    healthBadges(status).forEach(b => info.appendChild(b));
     renderTimeline(batches.batches, document.getElementById('timeline'));
   } catch (e) {
     document.getElementById('generated-info').textContent = '加载失败';
-    for (const id of ['source-health', 'timeline']) {
-      document.getElementById(id).innerHTML = '';
-      document.getElementById(id).appendChild(el('div', 'error', '加载失败: ' + e.message));
-    }
+    const tl = document.getElementById('timeline');
+    tl.innerHTML = '';
+    tl.appendChild(el('div', 'error', '加载失败: ' + e.message));
   }
 })();
 </script>
