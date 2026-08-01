@@ -1,0 +1,11 @@
+{
+  "openai_blog": {
+    "status": "ok",
+    "last_run_at": "2026-08-01T07:10:43.235282+00:00",
+    "last_run_ts": 1785568243.235282,
+    "url": "https://openai.com/news/rss.xml",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 1104
+  }
+}

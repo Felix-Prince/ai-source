@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "generated_at": "2026-08-01T07:10:34.646099+00:00",
+    "generated_ts": 1785568234.6460989,
+    "window_hours": 24.0,
+    "total": 1
+  },
+  "items": [
+    {
+      "id": "openai_blog:2f5c057e949b",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "published_ts": 1785510000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.94
+    }
+  ]
+}

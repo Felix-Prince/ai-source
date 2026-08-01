@@ -1,0 +1,82 @@
+# 信源注册表
+# 每个源：
+#   name      — 唯一标识，用作 source-status.json 的 key 与输出 source 字段
+#   url       — RSS/Atom/JSON feed 端点（验证过可达才启用）
+#   type      — rss | static_page（当前 MVP 全 rss）
+#   category  — domestic | international
+#   tier      — 0=官方一手源(OpenAI/Anthropic/HF/arXiv) 1=媒体RSS
+#   enabled   — 是否参与采集；enabled:false 的源在 source-status 里显示为 disabled
+#   lang      — zh | en（normalize 用）
+#
+# 启用原则：仅启用家中网络 + GH Actions 都验证过可达的源。
+# 见 HANDOFF.md 第五·五节 D2 验证结果。
+# 注：Hacker News / HuggingFace 家中网络不可达（US 托管），待阶段3 CI 验证后再决定。
+
+sources:
+  # ---------- MVP 首源：官方一手 ----------
+  - name: openai_blog
+    url: https://openai.com/news/rss.xml
+    type: rss
+    category: international
+    tier: 0
+    enabled: true
+    lang: en
+
+  # arXiv：官方一手，但端点按批次出条目，可能为空（2026-08-01 实测空）。
+  # 不是 bug——源可达即 ok，无条目时 item_count=0。阶段2 再评估是否保留。
+  - name: arxiv_cs_ai
+    url: https://export.arxiv.org/rss/cs.AI
+    type: rss
+    category: international
+    tier: 0
+    enabled: false
+    lang: en
+
+  # ---------- 其余验证可用源（阶段2 逐个启用） ----------
+
+  - name: the_verge
+    url: https://www.theverge.com/rss/index.xml
+    type: rss
+    category: international
+    tier: 1
+    enabled: false
+    lang: en
+
+  - name: techcrunch
+    url: https://techcrunch.com/feed/
+    type: rss
+    category: international
+    tier: 1
+    enabled: false
+    lang: en
+
+  - name: ars_technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    type: rss
+    category: international
+    tier: 1
+    enabled: false
+    lang: en
+
+  - name: kr36
+    url: https://36kr.com/feed
+    type: rss
+    category: domestic
+    tier: 1
+    enabled: false
+    lang: zh
+
+  - name: qbitai
+    url: https://www.qbitai.com/feed
+    type: rss
+    category: domestic
+    tier: 1
+    enabled: false
+    lang: zh
+
+# 阶段2 需替代/补充的源（D2 存疑项）：
+#   - infoq_cn      https://www.infoq.cn/feed    ⚠️ 200 但返回 HTML，非 feed → 需找正确端点
+#   - jiqizhixin    https://www.jiqizhixin.com/rss ⚠️ 302 → JS 页，非 feed → 需找正确端点
+#   - anthropic     https://www.anthropic.com/news/rss.xml ❌ 404 → 需找正确 URL
+#   - hacker_news   https://news.ycombinator.com/rss  ❌ 家中 000（US 托管），阶段3 CI 再测
+#   - huggingface   https://huggingface.co/blog/feed.xml ❌ 家中 000（US 托管），阶段3 CI 再测
