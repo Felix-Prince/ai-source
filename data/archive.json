@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T17:27:20.757503+00:00",
+    "generated_at": "2026-08-01T19:38:55.284403+00:00",
     "max_days": 30
   },
   "items": [
@@ -2193,6 +2193,51 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.981
+    },
+    {
+      "id": "the_verge:49fc0ddac8ea",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
+      "published_at": "2026-08-01T18:20:00+00:00",
+      "published_ts": 1785608400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:c1943403a1f6",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "published_at": "2026-08-01T18:20:11+00:00",
+      "published_ts": 1785608411.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:4e4a54032ad4",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "published_at": "2026-08-01T18:47:27+00:00",
+      "published_ts": 1785610047.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

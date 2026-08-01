@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T17:27:20.757503+00:00",
-    "generated_ts": 1785605240.7575026,
+    "generated_at": "2026-08-01T19:38:55.284403+00:00",
+    "generated_ts": 1785613135.2844026,
     "window_hours": 24.0,
-    "total": 17
+    "total": 15
   },
   "items": [
     {
@@ -230,36 +230,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.62
-    },
-    {
-      "id": "the_verge:ccf0b34af958",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
-      "published_at": "2026-07-31T19:13:29+00:00",
-      "published_ts": 1785525209.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.612
-    },
-    {
-      "id": "the_verge:178d28f81e64",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "The ban on robot vacuums won’t make them safer, only worse",
-      "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-      "summary": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are [&#8230;]",
-      "published_at": "2026-07-31T17:30:49+00:00",
-      "published_ts": 1785519049.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.583
     }
   ]
 }
