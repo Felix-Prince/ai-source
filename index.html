@@ -132,10 +132,12 @@ function renderTimeline(batches, container) {
   container.innerHTML = '';
   if (!batches || !batches.length) { container.appendChild(el('div', 'tl-empty', '暂无采集批次')); return; }
   for (const b of batches.slice().reverse()) {
+    const cnt = (b.items || []).length;
+    if (!cnt) continue;  // 空批次（本轮无 AI 相关条目）不显示节点
+
     const div = el('div', 'tl-batch');
     const timeStr = fmtLocalLong(b.generated_at) || '?';
     div.appendChild(el('div', 'tl-time', timeStr));
-    const cnt = (b.items || []).length;
     const srcs = Object.entries(b.sources || {})
       .filter(([, n]) => n > 0)
       .map(([n, c]) => n + ':' + c).join(' · ');
@@ -143,10 +145,7 @@ function renderTimeline(batches, container) {
 
     const itemsWrap = el('div', 'tl-items');
     const items = (b.items || []).slice();  // 副本，保持原始顺序
-    if (!cnt) {
-      // 空批次：保留时间轴节点（该轮采集过），仅显示时间点，不渲染条目区
-      // （信息已在副标题体现，无额外占位文字）
-    } else {
+    {
       const top = items.slice(0, TL_TOP);
       const rest = items.slice(TL_TOP);
       top.forEach(it => itemsWrap.appendChild(makeItemCard(it)));
