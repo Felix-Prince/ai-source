@@ -33,6 +33,7 @@ from scripts import dedupe, health, normalize, score
 AI_SCORE_THRESHOLD = 1.0   # AI 相关性分低于此值不进产物
 MAX_ARCHIVE_DAYS = 30      # archive 滚动天数
 MAX_BATCH_DAYS = 30        # batches 滚动天数（时间轴深度）
+MAX_ITEMS_PER_SOURCE = 50  # 单源每轮最多保留的条目（防全历史 feed 灌入）
 
 
 def load_sources(path):
@@ -98,6 +99,8 @@ def main():
             health.update(source_status, cfg, "failed", error=err)
             continue
         # 归一 + 评分
+        # 单源截断：全历史 feed（如 OpenAI 1100+ 条）按发布时间取最新 N 条，防历史内容每轮灌入
+        items = sorted(items, key=lambda it: it.published_ts or 0, reverse=True)[:MAX_ITEMS_PER_SOURCE]
         for it in items:
             a = score.ai_score(it.title, it.summary)
             imp = score.importance(cfg.get("tier", 1), a, it.published_ts, now)
@@ -105,34 +108,46 @@ def main():
             entries.append(entry)
         health.update(source_status, cfg, "ok", item_count=len(items))
 
-    # 去重（含与 archive 的近似去重）
+    # 去重（含与 archive 的精确+近似去重）
     archive_items = load_archive(archive_path)
     dedup_input = archive_items + entries
     deduped_all = dedupe.dedupe(dedup_input)
-    deduped_new = [e for e in deduped_all if e["id"] in {x["id"] for x in entries}]
-    entries = deduped_new or entries
+    # 本轮相对 archive 真正新增的条目（id 不在旧 archive 里）
+    archive_ids = {e["id"] for e in archive_items}
+    deduped_new = [e for e in deduped_all if e["id"] in {x["id"] for x in entries}
+                   and e["id"] not in archive_ids]
 
-    # 过滤：AI 相关性 >= 阈值 且 在时间窗内
+    # 过滤：AI 相关性 >= 阈值 且 在时间窗内（基于"本轮新增"，跨批次不重复）
+    # 这是时间轴每轮展示的内容（方案A：每轮只记新增）
     fresh = [
-        e for e in entries
+        e for e in deduped_new
         if e.get("ai_score", 0) >= AI_SCORE_THRESHOLD
         and (e.get("published_ts") is None or now - e["published_ts"] <= window)
     ]
     fresh.sort(key=lambda e: e.get("importance", 0), reverse=True)
+
+    # latest-24h.json：截至本轮，24h 窗口内全部去重后的 AI 条目
+    # （本轮新增 + archive 中仍在窗口内的旧条目），给消费方完整视图
+    latest_items = [
+        e for e in deduped_all
+        if e.get("ai_score", 0) >= AI_SCORE_THRESHOLD
+        and (e.get("published_ts") is None or now - e["published_ts"] <= window)
+    ]
+    latest_items.sort(key=lambda e: e.get("importance", 0), reverse=True)
 
     latest = {
         "meta": {
             "generated_at": now_iso,
             "generated_ts": now,
             "window_hours": args.window_hours,
-            "total": len(fresh),
+            "total": len(latest_items),
         },
-        "items": fresh,
+        "items": latest_items,
     }
     write_json(latest_path, latest)
 
-    # 滚动 archive：合并本轮 + 旧 archive，裁剪到 MAX_ARCHIVE_DAYS
-    merged = {e["id"]: e for e in (entries + archive_items)}
+    # 滚动 archive：合并本轮 + 旧 archive（去重后），裁剪到 MAX_ARCHIVE_DAYS
+    merged = {e["id"]: e for e in deduped_all}
     cutoff = now - MAX_ARCHIVE_DAYS * 86400
     merged = {k: v for k, v in merged.items()
               if v.get("published_ts") is None or v["published_ts"] >= cutoff}
@@ -175,8 +190,9 @@ def main():
         sum(1 for s in source_status.values() if s["status"] == "ok"),
         sum(1 for s in source_status.values() if s["status"] == "failed"),
     ))
-    print("fetched=%d  after_dedupe=%d  final=%d  (window %.0fh, ai_score>=%.1f)" % (
-        len(entries), len(deduped_new), len(fresh), args.window_hours, AI_SCORE_THRESHOLD,
+    print("fetched=%d  new=%d  latest24h=%d  batch_new=%d  (window %.0fh, ai_score>=%.1f)" % (
+        len(entries), len(deduped_new), len(latest_items), len(fresh),
+        args.window_hours, AI_SCORE_THRESHOLD,
     ))
 
 

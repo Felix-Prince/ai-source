@@ -1,17 +1,17 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:34.749445+00:00",
-    "last_run_ts": 1785585634.7494454,
+    "last_run_at": "2026-08-01T12:12:53.595291+00:00",
+    "last_run_ts": 1785586373.595291,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
-    "item_count": 1105
+    "item_count": 50
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:34.866591+00:00",
-    "last_run_ts": 1785585634.8665907,
+    "last_run_at": "2026-08-01T12:12:57.784716+00:00",
+    "last_run_ts": 1785586377.7847161,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:34.984227+00:00",
-    "last_run_ts": 1785585634.9842267,
+    "last_run_at": "2026-08-01T12:13:01.060030+00:00",
+    "last_run_ts": 1785586381.06003,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:35.071883+00:00",
-    "last_run_ts": 1785585635.0718834,
+    "last_run_at": "2026-08-01T12:13:02.063988+00:00",
+    "last_run_ts": 1785586382.063988,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:37.485643+00:00",
-    "last_run_ts": 1785585637.4856431,
+    "last_run_at": "2026-08-01T12:13:02.460951+00:00",
+    "last_run_ts": 1785586382.460951,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-01T12:00:38.924579+00:00",
-    "last_run_ts": 1785585638.9245787,
+    "last_run_at": "2026-08-01T12:13:02.531680+00:00",
+    "last_run_ts": 1785586382.53168,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
