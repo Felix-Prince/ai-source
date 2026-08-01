@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write  # 允许 commit data/ 回仓库
+  pages: write     # 允许部署 Pages
+  id-token: write  # Pages 部署需要 OIDC token
 
 concurrency:
   group: collect
@@ -46,10 +48,14 @@ jobs:
             git push
           fi
 
-      - name: Upload artifacts (debug)
-        if: always()
-        uses: actions/upload-artifact@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: collect-output
-          path: data/
-          retention-days: 7
+          path: .    # 整个仓库根作为 Pages 站点（index.html + data/）
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
