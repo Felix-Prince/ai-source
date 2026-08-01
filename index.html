@@ -85,6 +85,19 @@ function el(tag, cls, text) {
   return n;
 }
 
+// 把 UTC ISO 时间转成浏览器本地时区，返回 "MM-DD HH:MM"（无歧义可读）
+function fmtLocal(iso) {
+  if (!iso) return '';
+  const d = new Date(iso); // ISO 带 +00:00 偏移，浏览器正确解析为 UTC 时刻
+  if (isNaN(d.getTime())) return iso;
+  const p = n => String(n).padStart(2, '0');
+  return p(d.getMonth() + 1) + '-' + p(d.getDate()) + ' ' + p(d.getHours()) + ':' + p(d.getMinutes());
+}
+function fmtLocalLong(iso) {
+  if (!iso) return '';
+  return fmtLocal(iso) + ' (本地)';
+}
+
 // 源健康：横向一排卡片
 function renderHealth(status, container) {
   container.innerHTML = '';
@@ -111,7 +124,7 @@ function renderTimeline(batches, container) {
   if (!batches || !batches.length) { container.appendChild(el('div', 'tl-empty', '暂无采集批次')); return; }
   for (const b of batches.slice().reverse()) {
     const div = el('div', 'tl-batch');
-    const timeStr = b.generated_at ? b.generated_at.replace('T', ' ').slice(0, 16) + ' UTC' : '?';
+    const timeStr = fmtLocalLong(b.generated_at) || '?';
     div.appendChild(el('div', 'tl-time', timeStr));
     const cnt = (b.items || []).length;
     const srcs = Object.entries(b.sources || {})
@@ -128,7 +141,7 @@ function renderTimeline(batches, container) {
       m.appendChild(el('span', 'src', it.source_label || it.source));
       m.appendChild(el('span', 'badge tier' + (it.tier || 1), 'tier' + (it.tier || 1)));
       if (it.importance != null) m.appendChild(el('span', 'imp', '重要性 ' + it.importance));
-      if (it.published_at) m.appendChild(el('span', '', it.published_at.replace('T', ' ').slice(5, 16)));
+      if (it.published_at) m.appendChild(el('span', '', fmtLocal(it.published_at)));
       card.appendChild(m);
       if (it.summary) card.appendChild(el('div', 'sum', it.summary));
       card.addEventListener('click', () => it.url && window.open(it.url, '_blank'));
@@ -147,8 +160,7 @@ function renderTimeline(batches, container) {
       fetchJSON('batches.json'),
     ]);
     document.getElementById('generated-info').textContent =
-      '数据更新于 ' + (latest.meta?.generated_at || '').replace('T', ' ').slice(0, 16) +
-      '（UTC）｜ 共 ' + latest.meta?.total + ' 条';
+      '数据更新于 ' + fmtLocalLong(latest.meta?.generated_at) + ' ｜ 共 ' + latest.meta?.total + ' 条';
     renderHealth(status, document.getElementById('source-health'));
     renderTimeline(batches.batches, document.getElementById('timeline'));
   } catch (e) {
