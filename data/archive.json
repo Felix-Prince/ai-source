@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T07:24:40.563022+00:00",
+    "generated_at": "2026-08-01T08:54:51.326471+00:00",
     "max_days": 30
   },
   "items": [
@@ -1565,6 +1565,21 @@
       "importance": 1.559
     },
     {
+      "id": "openai_blog:1aaa32314d51",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "published_ts": 1785542400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.16
+    },
+    {
       "id": "kr36:af60822cd339",
       "source": "kr36",
       "source_label": "36氪",
@@ -1968,6 +1983,81 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "kr36:79ea9f50717b",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "部分美国企业换上中国大模型以降低成本",
+      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+      "summary": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴巴的Qwen模型，并称赞其“快速且便宜”。",
+      "published_at": "2026-08-01T07:30:11+00:00",
+      "published_ts": 1785569411.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.88
+    },
+    {
+      "id": "kr36:2075b75c801a",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+      "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+      "summary": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
+      "published_at": "2026-08-01T07:45:40+00:00",
+      "published_ts": 1785570340.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "kr36:d9f5fe87444d",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "印度央行：印度引资举措吸引超400亿美元外资",
+      "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
+      "summary": "印度积极吸引海外资本，自6月以来已引入资金超400亿美元，充实印度央行外汇储备。当前国际原油价格走高，印度政策制定者正借此稳定卢比汇率。 印度央行周六公布的数据显示，截至7月31日，非居民外币存款吸纳资金规模达3672亿美元。叠加海外外币借款与境外商业借款流入资金，引资总额约410亿美元。印度央行行长桑杰・马尔霍特拉本周接受采访时向投资者安抚卢比前景。他表示，卢比近期走弱源于地缘冲突、美元走强以及新兴市场普遍波动，并非印度经济基本面出现恶化。",
+      "published_at": "2026-08-01T08:00:06+00:00",
+      "published_ts": 1785571206.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "kr36:366075694705",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "长三角多地发放结婚消费券",
+      "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
+      "summary": "在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试水。日前，浙江义乌市民政部门宣布再次延长结婚消费券活动时间，2026年10月底前，在当地登记结婚的新人均可申领价值1000元、由财政补贴的消费券。当地的结婚消费券发放活动2025年10月中旬启动，这已经是第二次延期。每对办理结婚登记的夫妻可领取10张“满200元减100元”满减券，用于婚礼婚庆、婚纱摄影、休闲旅游、酒店住宿、婚俗文创、零售餐饮等消费，领取后30日内核销。据义乌市婚姻登记中心介绍，到2026年6月底，已有3161对新人领取消费券。",
+      "published_at": "2026-08-01T08:15:09+00:00",
+      "published_ts": 1785572109.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "kr36:fb820ac6dcfe",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "金山办公WPS存储管理新版本上线",
+      "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+      "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。",
+      "published_at": "2026-08-01T08:30:26+00:00",
+      "published_ts": 1785573026.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.988
     }
   ]
 }

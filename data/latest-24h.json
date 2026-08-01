@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T07:24:40.563022+00:00",
-    "generated_ts": 1785569080.5630221,
+    "generated_at": "2026-08-01T08:54:51.326471+00:00",
+    "generated_ts": 1785574491.326471,
     "window_hours": 24.0,
-    "total": 20
+    "total": 21
   },
   "items": [
+    {
+      "id": "kr36:79ea9f50717b",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "部分美国企业换上中国大模型以降低成本",
+      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+      "summary": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴巴的Qwen模型，并称赞其“快速且便宜”。",
+      "published_at": "2026-08-01T07:30:11+00:00",
+      "published_ts": 1785569411.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.88
+    },
     {
       "id": "kr36:7fa3b65059e4",
       "source": "kr36",
@@ -95,6 +110,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.559
+    },
+    {
+      "id": "openai_blog:1aaa32314d51",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "published_ts": 1785542400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.16
+    },
+    {
+      "id": "kr36:fb820ac6dcfe",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "金山办公WPS存储管理新版本上线",
+      "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+      "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。",
+      "published_at": "2026-08-01T08:30:26+00:00",
+      "published_ts": 1785573026.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.988
     },
     {
       "id": "kr36:a5bdabf03a9b",
@@ -275,36 +320,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.523
-    },
-    {
-      "id": "qbitai:ce61a67758e2",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-      "url": "https://www.qbitai.com/2026/07/464277.html",
-      "summary": "尽显AGI黄金时代的奢华",
-      "published_at": "2026-07-31T08:28:30+00:00",
-      "published_ts": 1785486510.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.516
-    },
-    {
-      "id": "kr36:fb64bd969969",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-      "url": "https://36kr.com/p/3919112515956355?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。</p>\n  <p>我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题：</p>\n  <p><strong>未来，企业该如何更好地发展？</strong></p>\n  <p>&nbsp;</p>\n  <p>为了更真实地了解创业者当下最关心的话题，36氪发起了一份<strong>创业者需求调研</strong>。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。</p>\n  <p>当然，我们也会关注一个绕不开的话题——<strong>人工智能正在如何影响创业。</strong></p>\n  <p>但相比讨论\"AI到底有多火\"，我们更想知道的是：</p>\n  <ul>\n   <li>它是否真的帮助企业提升了效率？</li>\n   <li>创业者最希望AI解决哪些实际问题？</li>\n   <li>大家对未来的发展，又有哪些新的期待？</li>\n  </ul>\n  <p>这些真实的反馈，将帮助36氪更深入地理解创业者需求，也将作为我们后续内容策划、行业研究、活动选题及产品服务的重要参考。</p>\n  <p>&nbsp;</p>\n  <h3>参与方式</h3>\n  <p><strong>📋 问卷链接：</strong><br /><a href=\"https://v.wjx.cn/vm/m7i0HLs.aspx#\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://v.wjx.cn/vm/m7i0HLs.aspx#</strong></a></p>\n  <p>&nbsp;</p>\n  <p>如果您正在创业，或正在关注创业、创新和企业发展，我们都非常期待您的参与。</p>\n  <p>感谢每一位愿意分享观点的朋友。</p>\n  <p>也欢迎转发给身边的创业者，让更多真实的声音被听见。</p>\n  <p>&nbsp;</p>\n  <h2>🤝 欢迎聊聊你的创业故事</h2>\n  <p>如果你正在创业，或正在筹备创业项目，也欢迎添加我的企业微信。</p>\n  <p>无论是创业方向、行业观察、融资需求，还是产品打磨、增长探索，我们都很乐意听听你的想法。</p>\n  <p><strong>扫码添加企业微信，备注「创业」即可。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260731/v2_22945aa7f2d24bb183793971d5224249@5284654_oswg55349oswg363oswg348_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫描添加</p>\n  <p>期待认识更多优秀的创业者，也期待你的创业故事，被更多人看见。</p>",
-      "published_at": "2026-07-31T08:24:28+00:00",
-      "published_ts": 1785486268.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.515
     }
   ]
 }
