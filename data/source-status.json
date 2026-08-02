@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:47.459661+00:00",
-    "last_run_ts": 1785626147.4596615,
+    "last_run_at": "2026-08-02T04:00:03.612223+00:00",
+    "last_run_ts": 1785643203.6122227,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:47.631618+00:00",
-    "last_run_ts": 1785626147.6316178,
+    "last_run_at": "2026-08-02T04:00:03.954390+00:00",
+    "last_run_ts": 1785643203.95439,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:47.794043+00:00",
-    "last_run_ts": 1785626147.794043,
+    "last_run_at": "2026-08-02T04:00:04.074596+00:00",
+    "last_run_ts": 1785643204.074596,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:47.937738+00:00",
-    "last_run_ts": 1785626147.9377377,
+    "last_run_at": "2026-08-02T04:00:04.157515+00:00",
+    "last_run_ts": 1785643204.1575146,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:49.103286+00:00",
-    "last_run_ts": 1785626149.1032856,
+    "last_run_at": "2026-08-02T04:00:20.393528+00:00",
+    "last_run_ts": 1785643220.3935275,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-01T23:15:50.694503+00:00",
-    "last_run_ts": 1785626150.694503,
+    "last_run_at": "2026-08-02T04:00:21.806669+00:00",
+    "last_run_ts": 1785643221.8066688,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,

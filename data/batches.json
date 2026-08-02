@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T23:15:46.804613+00:00",
+    "generated_at": "2026-08-02T04:00:03.041106+00:00",
     "max_days": 30
   },
   "batches": [
@@ -371,6 +371,30 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-02T04:00:03.041106+00:00",
+      "generated_ts": 1785643203.0411057,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "kr36:5be1cbeed4eb",
+          "title": "长三角（嘉兴）Token运营中心正式启动",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.971,
+          "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
+          "published_at": "2026-08-02T03:39:57+00:00",
+          "summary": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用DeepSeek、Qwen等100余款主流大模型。 (浙江发布)"
+        }
+      ]
     }
   ]
 }
