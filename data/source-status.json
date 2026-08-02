@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-02T17:28:21.449933+00:00",
-    "last_run_ts": 1785691701.449933,
+    "last_run_at": "2026-08-02T19:39:16.203989+00:00",
+    "last_run_ts": 1785699556.203989,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-02T17:28:21.678299+00:00",
-    "last_run_ts": 1785691701.678299,
+    "last_run_at": "2026-08-02T19:39:16.308471+00:00",
+    "last_run_ts": 1785699556.3084707,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-02T17:28:21.786658+00:00",
-    "last_run_ts": 1785691701.7866576,
+    "last_run_at": "2026-08-02T19:39:16.403765+00:00",
+    "last_run_ts": 1785699556.403765,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-02T17:28:21.912631+00:00",
-    "last_run_ts": 1785691701.9126306,
+    "last_run_at": "2026-08-02T19:39:16.519969+00:00",
+    "last_run_ts": 1785699556.519969,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-02T17:28:23.790462+00:00",
-    "last_run_ts": 1785691703.7904615,
+    "last_run_at": "2026-08-02T19:39:19.082031+00:00",
+    "last_run_ts": 1785699559.0820312,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "failed",
-    "last_run_at": "2026-08-02T17:29:03.234161+00:00",
-    "last_run_ts": 1785691743.2341611,
+    "last_run_at": "2026-08-02T19:39:58.534138+00:00",
+    "last_run_ts": 1785699598.5341382,
     "url": "https://www.qbitai.com/feed",
     "error": "GET https://www.qbitai.com/feed failed after 3 tries: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "fail_count": 1

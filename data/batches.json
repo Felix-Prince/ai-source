@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T17:28:21.064266+00:00",
+    "generated_at": "2026-08-02T19:39:15.662890+00:00",
     "max_days": 30
   },
   "batches": [
@@ -541,6 +541,29 @@
         "kr36": 30
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-02T19:39:15.662890+00:00",
+      "generated_ts": 1785699555.6628904,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30
+      },
+      "items": [
+        {
+          "id": "the_verge:7ea4cff9d1c0",
+          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.998,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "published_at": "2026-08-02T19:36:08+00:00",
+          "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company"
+        }
+      ]
     }
   ]
 }
