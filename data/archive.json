@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T14:03:06.919976+00:00",
+    "generated_at": "2026-08-02T15:31:40.866183+00:00",
     "max_days": 30
   },
   "items": [
@@ -2883,6 +2883,36 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "the_verge:bbd3b3ec087a",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
+      "published_at": "2026-08-02T15:00:00+00:00",
+      "published_ts": 1785682800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:063cb037c80b",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "published_at": "2026-08-02T15:23:19+00:00",
+      "published_ts": 1785684199.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.996
     }
   ]
 }
