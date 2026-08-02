@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T11:38:07.956305+00:00",
+    "generated_at": "2026-08-02T14:03:06.919976+00:00",
     "max_days": 30
   },
   "items": [
@@ -2835,6 +2835,51 @@
       "published_ts": 1785664727.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:e9800828d9de",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Foldables are sort of boring now — and that’s great news for Apple",
+      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn't all start with [&#8230;]",
+      "published_at": "2026-08-02T12:00:00+00:00",
+      "published_ts": 1785672000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:698822ca517a",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
+      "published_at": "2026-08-02T13:00:00+00:00",
+      "published_ts": 1785675600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:9f1777e38172",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+      "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its RTX 5050 [&#8230;]",
+      "published_at": "2026-08-02T14:00:00+00:00",
+      "published_ts": 1785679200.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
