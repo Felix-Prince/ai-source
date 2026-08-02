@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T15:31:40.866183+00:00",
+    "generated_at": "2026-08-02T17:28:21.064266+00:00",
     "max_days": 30
   },
   "batches": [
@@ -529,6 +529,18 @@
           "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen."
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-02T17:28:21.064266+00:00",
+      "generated_ts": 1785691701.0642657,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30
+      },
+      "items": []
     }
   ]
 }
