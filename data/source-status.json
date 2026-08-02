@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-02T07:04:07.309591+00:00",
-    "last_run_ts": 1785654247.3095906,
+    "last_run_at": "2026-08-02T10:11:46.350263+00:00",
+    "last_run_ts": 1785665506.350263,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-02T07:04:07.424788+00:00",
-    "last_run_ts": 1785654247.4247885,
+    "last_run_at": "2026-08-02T10:11:46.398228+00:00",
+    "last_run_ts": 1785665506.3982284,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-02T07:04:07.479097+00:00",
-    "last_run_ts": 1785654247.4790967,
+    "last_run_at": "2026-08-02T10:11:46.458424+00:00",
+    "last_run_ts": 1785665506.458424,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-02T07:04:07.617992+00:00",
-    "last_run_ts": 1785654247.617992,
+    "last_run_at": "2026-08-02T10:11:46.589188+00:00",
+    "last_run_ts": 1785665506.589188,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,20 +37,19 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-02T07:04:09.873552+00:00",
-    "last_run_ts": 1785654249.8735518,
+    "last_run_at": "2026-08-02T10:11:48.656291+00:00",
+    "last_run_ts": 1785665508.6562905,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
     "item_count": 30
   },
   "qbitai": {
-    "status": "ok",
-    "last_run_at": "2026-08-02T07:04:11.587361+00:00",
-    "last_run_ts": 1785654251.5873606,
+    "status": "failed",
+    "last_run_at": "2026-08-02T10:12:28.312875+00:00",
+    "last_run_ts": 1785665548.3128748,
     "url": "https://www.qbitai.com/feed",
-    "error": null,
-    "fail_count": 0,
-    "item_count": 10
+    "error": "GET https://www.qbitai.com/feed failed after 3 tries: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "fail_count": 1
   }
 }
