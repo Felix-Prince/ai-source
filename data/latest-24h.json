@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T19:39:15.662890+00:00",
-    "generated_ts": 1785699555.6628904,
+    "generated_at": "2026-08-02T21:13:12.885302+00:00",
+    "generated_ts": 1785705192.8853023,
     "window_hours": 24.0,
-    "total": 10
+    "total": 9
   },
   "items": [
     {
@@ -95,21 +95,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.996
-    },
-    {
-      "id": "techcrunch:c32d16dc4240",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "published_at": "2026-08-01T19:45:45+00:00",
-      "published_ts": 1785613545.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.959
     },
     {
       "id": "kr36:02854bebf0c3",

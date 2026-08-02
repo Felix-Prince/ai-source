@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T19:39:15.662890+00:00",
+    "generated_at": "2026-08-02T21:13:12.885302+00:00",
     "max_days": 30
   },
   "items": [
@@ -2973,6 +2973,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.998
+    },
+    {
+      "id": "techcrunch:7251e232fe07",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "published_at": "2026-08-02T20:54:22+00:00",
+      "published_ts": 1785704062.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
