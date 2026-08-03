@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T18:12:45.563762+00:00",
+    "generated_at": "2026-08-03T20:03:25.275091+00:00",
     "max_days": 30
   },
   "batches": [
@@ -977,6 +977,50 @@
           "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
           "published_at": "2026-08-03T17:17:54+00:00",
           "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage i"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-03T20:03:25.275091+00:00",
+      "generated_ts": 1785787405.2750914,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:338440089618",
+          "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.974,
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+          "published_at": "2026-08-03T19:45:35+00:00",
+          "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking "
+        },
+        {
+          "id": "techcrunch:0a10db61f27b",
+          "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.975,
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "published_at": "2026-08-03T19:09:56+00:00",
+          "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+        },
+        {
+          "id": "techcrunch:abb51a9c553c",
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.962,
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "published_at": "2026-08-03T18:43:43+00:00",
+          "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it "
         }
       ]
     }
