@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T15:21:41.552001+00:00",
-    "generated_ts": 1785770501.5520015,
+    "generated_at": "2026-08-03T18:12:45.563762+00:00",
+    "generated_ts": 1785780765.563762,
     "window_hours": 24.0,
-    "total": 32
+    "total": 33
   },
   "items": [
     {
@@ -80,6 +80,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.883
+    },
+    {
+      "id": "techcrunch:78d89a161fb4",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "published_at": "2026-08-03T16:40:55+00:00",
+      "published_ts": 1785775255.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.87
     },
     {
       "id": "kr36:4a71494f5603",
@@ -277,21 +292,6 @@
       "importance": 0.998
     },
     {
-      "id": "techcrunch:063cb037c80b",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "published_at": "2026-08-02T15:23:19+00:00",
-      "published_ts": 1785684199.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.996
-    },
-    {
       "id": "kr36:de43d27671b5",
       "source": "kr36",
       "source_label": "36氪",
@@ -332,6 +332,21 @@
       "published_ts": 1785754481.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.974
+    },
+    {
+      "id": "the_verge:ab73e93307db",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage in refurbished condition at [&#8230;]",
+      "published_at": "2026-08-03T17:17:54+00:00",
+      "published_ts": 1785777474.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.974

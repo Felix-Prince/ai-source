@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T15:21:41.552001+00:00",
+    "generated_at": "2026-08-03T18:12:45.563762+00:00",
     "max_days": 30
   },
   "batches": [
@@ -943,6 +943,40 @@
           "url": "https://36kr.com/newsflashes/3923727678503299?f=rss",
           "published_at": "2026-08-03T11:53:10+00:00",
           "summary": "高盛策略师表示，经历近期一轮震荡行情后，人工智能板块前景有所好转。策略师预计，强劲的盈利表现以及投资者持仓回落，将缓解市场剧烈波动。斯奈德写道，AI板块波动走势与以往趋势性上涨行情规律一致，大涨之后通常会迎来盘整。随着对冲基金与ETF投资者削减相关持仓，板块波动率有望回落。（新浪财经）"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-03T18:12:45.563762+00:00",
+      "generated_ts": 1785780765.563762,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:78d89a161fb4",
+          "title": "Congress’s favorite AI tool? ChatGPT",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.87,
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "published_at": "2026-08-03T16:40:55+00:00",
+          "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+        },
+        {
+          "id": "the_verge:ab73e93307db",
+          "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.974,
+          "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+          "published_at": "2026-08-03T17:17:54+00:00",
+          "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage i"
         }
       ]
     }
