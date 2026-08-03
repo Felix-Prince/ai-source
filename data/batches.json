@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T07:52:48.927647+00:00",
+    "generated_at": "2026-08-03T11:50:02.902319+00:00",
     "max_days": 30
   },
   "batches": [
@@ -795,6 +795,90 @@
           "url": "https://www.qbitai.com/2026/08/465176.html",
           "published_at": "2026-08-03T04:29:44+00:00",
           "summary": "终究还是喜提了「美国豆包」"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-03T11:50:02.902319+00:00",
+      "generated_ts": 1785757802.902319,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "kr36:d1ebce668933",
+          "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.984,
+          "url": "https://36kr.com/p/3923717502072969?f=rss",
+          "published_at": "2026-08-03T11:39:13+00:00",
+          "summary": "<p>AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？</p>\n  <p>内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。</p>\n  <p><strong>圆桌嘉宾：</stro"
+        },
+        {
+          "id": "kr36:8f148792e516",
+          "title": "Qwen3.8-Max上线国家超算互联网",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.954,
+          "url": "https://36kr.com/newsflashes/3923698227116422?f=rss",
+          "published_at": "2026-08-03T11:18:12+00:00",
+          "summary": "36氪获悉，8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8-Max，总参数量达到2.4万亿，成为继KimiK3之后又一突破两万亿参数的国产大模型。发布当日，国家超算互联网上线该模型API调用服务，开发者可通过官网直接接入。"
+        },
+        {
+          "id": "the_verge:632fcae8f46b",
+          "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.93,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at": "2026-08-03T11:01:11+00:00",
+          "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi"
+        },
+        {
+          "id": "kr36:041fa5404143",
+          "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 1.883,
+          "url": "https://36kr.com/p/3923603053686151?f=rss",
+          "published_at": "2026-08-03T09:44:31+00:00",
+          "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>&nbsp;</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p>上证指数：38"
+        },
+        {
+          "id": "kr36:fdca66753890",
+          "title": "美国多州拟取消税收优惠，数据中心建设成本或将攀升",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 0.974,
+          "url": "https://36kr.com/newsflashes/3923680984313481?f=rss",
+          "published_at": "2026-08-03T10:54:41+00:00",
+          "summary": "曾经争相引进数据中心的美国各州州长与州议会，如今纷纷着手取消销售税减免政策。此举或将导致每吉瓦AI算力项目成本增加数十亿美元，设备购置成本最高上浮7%以上。全美州议会联合会（NCSL，面向州议员的研究与行业组织）以及《The Information》的分析显示，今年夏天，相关政策转向进程明显提速，但并未引发广泛关注：已有4个州缩减或暂停数据中心税收激励政策，另有9个州的议员正在审议废除相关优惠的法案。（新浪财经）"
+        },
+        {
+          "id": "kr36:9d0e44da5379",
+          "title": "美图旗下RoboNeo接入MiniMax H3，支持局部编辑、多模态理解",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 0.97,
+          "url": "https://36kr.com/newsflashes/3923674190999173?f=rss",
+          "published_at": "2026-08-03T10:47:47+00:00",
+          "summary": "36氪获悉，美图旗下RoboNeo宣布正式接入MiniMax H3，进一步强化多模态理解能力，可理解文字、图片、视频及音频等多种输入形式。同时支持更加精细化的视频局部编辑，包括人物替换、物体增减、背景修改、特效调整、音色迁移以及台词修改等操作。"
+        },
+        {
+          "id": "kr36:497bd1f0ffdc",
+          "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 0.9,
+          "url": "https://36kr.com/p/3923465542364545?f=rss",
+          "published_at": "2026-08-03T08:12:09+00:00",
+          "summary": "<p>其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。</p>\n  <p>这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？</p>\n  <p>围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。</p>\n  <p><strong>先说核心结论：可灵3.0更适合关键镜头的创作。</strong></p>\n"
         }
       ]
     }
