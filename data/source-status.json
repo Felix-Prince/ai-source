@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:03.379040+00:00",
-    "last_run_ts": 1785757803.37904,
+    "last_run_at": "2026-08-03T15:21:42.011542+00:00",
+    "last_run_ts": 1785770502.011542,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:03.463470+00:00",
-    "last_run_ts": 1785757803.4634695,
+    "last_run_at": "2026-08-03T15:21:42.096640+00:00",
+    "last_run_ts": 1785770502.09664,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:03.594891+00:00",
-    "last_run_ts": 1785757803.5948913,
+    "last_run_at": "2026-08-03T15:21:42.144461+00:00",
+    "last_run_ts": 1785770502.1444612,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:03.752954+00:00",
-    "last_run_ts": 1785757803.7529538,
+    "last_run_at": "2026-08-03T15:21:42.298337+00:00",
+    "last_run_ts": 1785770502.2983375,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:06.437753+00:00",
-    "last_run_ts": 1785757806.4377532,
+    "last_run_at": "2026-08-03T15:21:44.122940+00:00",
+    "last_run_ts": 1785770504.12294,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-03T11:50:08.601153+00:00",
-    "last_run_ts": 1785757808.6011527,
+    "last_run_at": "2026-08-03T15:21:49.560055+00:00",
+    "last_run_ts": 1785770509.5600553,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
