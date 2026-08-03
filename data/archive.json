@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T20:03:25.275091+00:00",
+    "generated_at": "2026-08-03T21:33:53.068428+00:00",
     "max_days": 30
   },
   "items": [
@@ -3755,6 +3755,21 @@
       "importance": 0.0
     },
     {
+      "id": "openai_blog:a82173c3ede2",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_ts": 1785740400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.985
+    },
+    {
       "id": "kr36:f8d0519dc7a7",
       "source": "kr36",
       "source_label": "36氪",
@@ -4895,6 +4910,21 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:ce79bacfd162",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "summary": "Top scores increased by 5x.",
+      "published_at": "2026-08-03T19:00:50+00:00",
+      "published_ts": 1785783650.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:0a10db61f27b",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -4908,6 +4938,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.975
+    },
+    {
+      "id": "ars_technica:b95133706427",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "summary": "The orbiting observatory in minifigure scale.",
+      "published_at": "2026-08-03T19:21:16+00:00",
+      "published_ts": 1785784876.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     },
     {
       "id": "techcrunch:b1f95a31a7e9",
@@ -4948,6 +4993,51 @@
       "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
       "published_at": "2026-08-03T20:00:00+00:00",
       "published_ts": 1785787200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:82e25b791359",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+      "published_at": "2026-08-03T20:13:37+00:00",
+      "published_ts": 1785788017.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:ee962e9fae93",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&#38;H Photo both have it discounted to $349.99, where it’s usually $400 or [&#8230;]",
+      "published_at": "2026-08-03T21:13:38+00:00",
+      "published_ts": 1785791618.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:4d0784ec36e6",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your data directly. Previously, you [&#8230;]",
+      "published_at": "2026-08-03T21:24:23+00:00",
+      "published_ts": 1785792263.0,
       "category": "international",
       "lang": "en",
       "tier": 1,

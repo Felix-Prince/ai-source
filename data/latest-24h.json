@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T20:03:25.275091+00:00",
-    "generated_ts": 1785787405.2750914,
+    "generated_at": "2026-08-03T21:33:53.068428+00:00",
+    "generated_ts": 1785792833.0684283,
     "window_hours": 24.0,
-    "total": 35
+    "total": 36
   },
   "items": [
     {
@@ -305,6 +305,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.995
+    },
+    {
+      "id": "openai_blog:a82173c3ede2",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_ts": 1785740400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.985
     },
     {
       "id": "kr36:e810642b51e1",
