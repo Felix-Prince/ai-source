@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T21:41:42.346304+00:00",
-    "generated_ts": 1785879702.3463037,
+    "generated_at": "2026-08-04T23:28:39.633624+00:00",
+    "generated_ts": 1785886119.6336238,
     "window_hours": 24.0,
-    "total": 43
+    "total": 41
   },
   "items": [
     {
@@ -22,19 +22,19 @@
       "importance": 2.981
     },
     {
-      "id": "kr36:75de10ae47d7",
+      "id": "kr36:913e28957442",
       "source": "kr36",
       "source_label": "36氪",
-      "title": "白宫拟召集OpenAI和Anthropic等巨头 讨论AI模型安全测试框架",
-      "url": "https://36kr.com/newsflashes/3924397461649801?f=rss",
-      "summary": "知情人士透露，特朗普政府计划于周二在白宫召集人工智能企业，讨论美国开展人工智能模型自愿安全测试的新框架。知情人士表示，计划出席会议的人工智能开发商包括OpenAI、Anthropic以及Alphabet Inc．旗下谷歌。这套近期完成制定的框架源于美国总统特朗普6月签署的人工智能网络安全行政令。这项行政令提出，对AI模型安全评估采取自愿参机制，并将加强关键计算机系统的安全防护。（新浪财经）",
-      "published_at": "2026-08-03T23:03:32+00:00",
-      "published_ts": 1785798212.0,
+      "title": "Anthropic据悉与Volta达成100亿美元算力协议，满足AI需求增长",
+      "url": "https://36kr.com/newsflashes/3925367691524483?f=rss",
+      "summary": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd.达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最新举措。知情人士表示，Anthropic已签署协议，将使用由英伟达支持的云基础设施初创公司Volta管理的数据中心。Volta周二早些时候宣布，已与一家未具名AI实验室达成一项价值100亿美元的协议，并将与运营数据中心的比特币矿企Bitdeer Technologies Group合作，利用位于挪威的设施。该协议为期六年。（新浪财经）",
+      "published_at": "2026-08-04T23:10:20+00:00",
+      "published_ts": 1785885020.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.96
+      "importance": 2.974
     },
     {
       "id": "kr36:3d869f49d42f",
@@ -277,34 +277,19 @@
       "importance": 1.388
     },
     {
-      "id": "openai_blog:12bd4914d86c",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "published_at": "2026-08-03T22:00:00+00:00",
-      "published_ts": 1785794400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.165
-    },
-    {
-      "id": "kr36:d9f13a5330e7",
+      "id": "kr36:2d4a525edf71",
       "source": "kr36",
       "source_label": "36氪",
-      "title": "Visa斥资24亿美元收购网络安全公司BioCatch，应对AI驱动的诈骗激增",
-      "url": "https://36kr.com/newsflashes/3923960349129092?f=rss",
-      "summary": "Visa公司周一宣布，将以24亿美元现金收购欺诈检测初创公司BioCatch。此举旨在扩大这家支付巨头在网络安全领域的布局，因为银行业正面临由人工智能驱动的诈骗和账户接管事件的激增。此次收购凸显了支付公司正竞相加强欺诈防御，因为生成式人工智能使得攻击成本更低、速度更快且更具迷惑性。Visa估计，诈骗和账户接管每年给全球经济造成的损失超过1万亿美元。（新浪财经）",
-      "published_at": "2026-08-03T23:27:44+00:00",
-      "published_ts": 1785799664.0,
+      "title": "三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术",
+      "url": "https://36kr.com/newsflashes/3925818953414792?f=rss",
+      "summary": "当地时间8月4日， 三星电子在美国圣克拉拉举行的2026年未来存储与内存大会（FMS）上，公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品，并推出采用晶圆键合技术的400层以上V10 BV-NAND。三星表示，zHBM旨在通过将HBM垂直堆叠于AI加速器上方，缩短处理器与内存之间的数据传输距离，以提升AI训练和推理性能。搭载下一代接口系统的zHBM预计性能可达到HBM5的约8倍，同时借助新型晶圆键合技术，实现超过HBM5 10倍的内存密度，并提升能效表现。（界面）",
+      "published_at": "2026-08-04T23:26:28+00:00",
+      "published_ts": 1785885988.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.998
+      "importance": 0.999
     },
     {
       "id": "techcrunch:bc673b6a434d",
@@ -322,34 +307,19 @@
       "importance": 0.993
     },
     {
-      "id": "kr36:8dba852ec6d4",
+      "id": "kr36:7de4ec15ccb9",
       "source": "kr36",
       "source_label": "36氪",
-      "title": "上半年3000亿元涌入中国AI创业公司，创投资金加速涌向AI和硬科技",
-      "url": "https://36kr.com/newsflashes/3923952584734854?f=rss",
-      "summary": "从全球经验来看，很多科技领军企业的崛起，都少不了创业投资的支持。今年上半年，高技术产业投资同比增长4.6%，这一数据背后，是创业投资的活跃度在持续回升。业内人士普遍认为，AI技术的发展，是这一轮创投市场回暖的核心驱动力，资金正加快涌向AI、量子科技、算力等领域。数据显示，2026年上半年中国AI创业公司融资总额突破3000亿元，已超过2025年全年。而资金的集中涌入，带来了估值的快速攀升，“抢额度”成了一级市场的关键词。（央视财经）",
-      "published_at": "2026-08-03T23:11:47+00:00",
-      "published_ts": 1785798707.0,
+      "title": "英伟达、思科、CrowdStrike等企业推动起草AI网络安全指南",
+      "url": "https://36kr.com/newsflashes/3925368415156352?f=rss",
+      "summary": "据英伟达8月4日声明，Linux基金会发布关于“共享AI发现交换”（SAFE）的征求意见稿。据介绍，SAFE是一套拟议指南，旨在将涉及AI智能体的网络安全事件转化为整个生态系统的共享防护能力。声明称，“开放安全AI联盟”的一个工作组正负责起草SAFE指南。英伟达、思科、CrowdStrike、Hugging Face和Red Hat等联盟成员正与Linux基金会合作，共同推进这一初步提案。（界面）",
+      "published_at": "2026-08-04T23:13:48+00:00",
+      "published_ts": 1785885228.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.991
-    },
-    {
-      "id": "kr36:0f1e0987fb89",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "欧盟《人工智能法案》透明度规则正式生效",
-      "url": "https://36kr.com/newsflashes/3923951789176960?f=rss",
-      "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）",
-      "published_at": "2026-08-03T23:08:53+00:00",
-      "published_ts": 1785798533.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.989
+      "importance": 0.993
     },
     {
       "id": "the_verge:a1668366fc9b",
