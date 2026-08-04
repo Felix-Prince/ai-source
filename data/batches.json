@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T10:59:44.508285+00:00",
+    "generated_at": "2026-08-04T14:45:34.730457+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1341,6 +1341,90 @@
           "url": "https://www.qbitai.com/2026/08/465814.html",
           "published_at": "2026-08-04T08:18:45+00:00",
           "summary": "那还说啥了梁圣，我订阅费全给你就是了呗"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-04T14:45:34.730457+00:00",
+      "generated_ts": 1785854734.7304573,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "kr36:1749726d1a74",
+          "title": "Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.786,
+          "url": "https://36kr.com/newsflashes/3925172170324099?f=rss",
+          "published_at": "2026-08-04T12:11:36+00:00",
+          "summary": "据报道，Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议。（第一财经）"
+        },
+        {
+          "id": "the_verge:462c79d898ba",
+          "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.728,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+          "published_at": "2026-08-04T11:27:55+00:00",
+          "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele"
+        },
+        {
+          "id": "qbitai:3d2cc78ad08f",
+          "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.914,
+          "url": "https://www.qbitai.com/2026/08/466386.html",
+          "published_at": "2026-08-04T13:14:27+00:00",
+          "summary": "北京大学&#038;元空AI Agent联合实验室"
+        },
+        {
+          "id": "kr36:f9fa207e1547",
+          "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 1.882,
+          "url": "https://36kr.com/newsflashes/3925199434611072?f=rss",
+          "published_at": "2026-08-04T12:39:20+00:00",
+          "summary": "为增强韩国人工智能技术竞争力、拓展AI服务，被称作“人工智能高速通道”的人工智能算力中心建设工作正式启动。8月3日，韩国科学技术信息通信部在全罗南道光州市海南郡索拉西多数据中心园区，举办人工智能算力中心奠基仪式。该项目总投资2.5万亿韩元，占地面积约4.8万平方米，规划建设一栋两层建筑，预计2028年竣工投用。去年，三星SDS联合NAVER云、三星物产、三星电子、Kakao、KT、光州市政府以及西南海岸企业城市开发公司组建联合体，通过公开招标拿下该项目。（财联社）"
+        },
+        {
+          "id": "kr36:de9ba39377c7",
+          "title": "CoWoS封装产能告急，台积电进一步扩大外包产能",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 1.841,
+          "url": "https://36kr.com/newsflashes/3925154441787525?f=rss",
+          "published_at": "2026-08-04T11:53:34+00:00",
+          "summary": "英伟达的GPU订单已经把台积电的封装产线挤到极限，台积电不得不决定将AI芯片制造核心工席CoWoS中的CoW（晶圆上芯片）封装产能进一步外包给日月光等封测厂商。CoWoS是台积电用于AI芯片的2.5D封装技术，AI处理器位于芯片中心，HBM（高带宽内存）环绕四周，通过中介层连接。（财联社）"
+        },
+        {
+          "id": "techcrunch:b7513f544f15",
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.98,
+          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "published_at": "2026-08-04T14:03:01+00:00",
+          "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+        },
+        {
+          "id": "techcrunch:85f7a7d128e4",
+          "title": "Is the future of data centers portable? Runware builds a pod to find out",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.95,
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "published_at": "2026-08-04T13:00:00+00:00",
+          "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
         }
       ]
     }
