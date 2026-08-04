@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T03:43:55.411954+00:00",
+    "generated_at": "2026-08-04T06:45:29.565492+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1183,6 +1183,70 @@
           "url": "https://36kr.com/newsflashes/3924624581523586?f=rss",
           "published_at": "2026-08-04T02:54:34+00:00",
           "summary": "今天了解到，市场监管总局将免费公开国家标准作为为民办实事的重要举措， 自去年对3万余项国家标准提供免费下载服务后，今年又全文免费公开了2600余项国家标准外文版。截至2026年7月底，国家标准中文版在线阅读量超过1.74亿次、下载量超过5300万次，上线仅三个多月的国家标准外文版在线阅读量超过12万次、下载量超过16万次，《智慧城市时空基础设施 评价指标体系》《有限空间作业安全技术规范》等人工智能与安全方面的国家标准阅读量和下载量位居前列。（央视新闻）"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-04T06:45:29.565492+00:00",
+      "generated_ts": 1785825929.565492,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "kr36:3d9108153bcd",
+          "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.981,
+          "url": "https://36kr.com/p/3924826666301831?f=rss",
+          "published_at": "2026-08-04T06:32:05+00:00",
+          "summary": "<p>&nbsp;</p>\n  <p>文 | 李炤锋</p>\n  <p>编辑 | 张雨忻</p>\n  <p>“长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”</p>\n  <p><strong>过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。</strong></p>\n  <p>今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常"
+        },
+        {
+          "id": "kr36:bbe5908f5ecd",
+          "title": "DeepSeek API出现性能下降情况，现已恢复",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 2.93,
+          "url": "https://36kr.com/newsflashes/3924803122903430?f=rss",
+          "published_at": "2026-08-04T05:56:11+00:00",
+          "summary": "8月4日，海外开源AI Coding Agent平台OpenCode发文称：DeepSeek V4 Flash当前因前所未有的访问量而出现容量不足问题，可能会遇到报错，正在紧急修复中。也有网友发文表示：DeepSeek V4 Flash官方API上午几乎不可用，和Kimi K3刚发布时情况差不多，国产模型能力赶上来了，但可用性与容量仍有改善空间。DeepSeek官方披露，今日上午DeepSeek V4 Flash API出现性能下降情况，目前问题已解决，服务已恢复。（一财）"
+        },
+        {
+          "id": "kr36:de47bb829453",
+          "title": "城堡证券预计AI热潮下的芯片需求将掀起5000亿美元债务融资热潮",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 1.905,
+          "url": "https://36kr.com/newsflashes/3924702184176009?f=rss",
+          "published_at": "2026-08-04T05:04:18+00:00",
+          "summary": "信贷市场对数据中心创纪录的融资活动可能已感到厌倦，但科技公司尚未停下脚步。城堡证券预测，截止到2028年，它们还将在公开市场和私募市场进行超过5000亿美元的债务融资，为人工智能（AI）园区建设所需芯片提供资金。该公司投资级债券部门首席分析师Jeff Eason表示，这一金额相当于彭博美国投资级债券指数总规模的5%以上。他预计，大部分所发债券的期限将较短，约三至五年，匹配芯片的使用寿命，其中一部分可能会以144A私募形式发行。（新浪财经）"
+        },
+        {
+          "id": "openai_blog:12bd4914d86c",
+          "title": "Apple is getting this wrong",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.165,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "published_at": "2026-08-03T22:00:00+00:00",
+          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+        },
+        {
+          "id": "kr36:aaadf17c9196",
+          "title": "新石器无人车变更为股份公司",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 0.95,
+          "url": "https://36kr.com/newsflashes/3924685979236484?f=rss",
+          "published_at": "2026-08-04T04:58:53+00:00",
+          "summary": "36氪获悉，天眼查App显示，近日，新石器无人车关联公司新石器慧通（北京）科技有限公司发生工商变更，企业名称变更为新石器慧通科技股份有限公司。该公司成立于2018年2月，法定代表人为李子夷，注册资本约5016.9万人民币，经营范围包括智能机器人的研发、工业机器人制造、人工智能应用软件开发等。"
         }
       ]
     }
