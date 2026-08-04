@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:30.101906+00:00",
-    "last_run_ts": 1785825930.1019058,
+    "last_run_at": "2026-08-04T10:59:45.049414+00:00",
+    "last_run_ts": 1785841185.049414,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:30.193507+00:00",
-    "last_run_ts": 1785825930.1935067,
+    "last_run_at": "2026-08-04T10:59:45.134819+00:00",
+    "last_run_ts": 1785841185.134819,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:30.234559+00:00",
-    "last_run_ts": 1785825930.234559,
+    "last_run_at": "2026-08-04T10:59:45.189446+00:00",
+    "last_run_ts": 1785841185.1894457,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:30.370800+00:00",
-    "last_run_ts": 1785825930.3708005,
+    "last_run_at": "2026-08-04T10:59:45.272845+00:00",
+    "last_run_ts": 1785841185.2728446,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,8 +37,8 @@
   },
   "kr36": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:32.023795+00:00",
-    "last_run_ts": 1785825932.0237951,
+    "last_run_at": "2026-08-04T10:59:46.675113+00:00",
+    "last_run_ts": 1785841186.675113,
     "url": "https://36kr.com/feed",
     "error": null,
     "fail_count": 0,
@@ -46,8 +46,8 @@
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-04T06:45:33.754224+00:00",
-    "last_run_ts": 1785825933.7542236,
+    "last_run_at": "2026-08-04T10:59:48.032562+00:00",
+    "last_run_ts": 1785841188.0325625,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,

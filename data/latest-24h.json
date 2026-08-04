@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T06:45:29.565492+00:00",
-    "generated_ts": 1785825929.565492,
+    "generated_at": "2026-08-04T10:59:44.508285+00:00",
+    "generated_ts": 1785841184.508285,
     "window_hours": 24.0,
-    "total": 36
+    "total": 37
   },
   "items": [
     {
@@ -75,6 +75,21 @@
       "summary": "36氪获悉，8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8-Max，总参数量达到2.4万亿，成为继KimiK3之后又一突破两万亿参数的国产大模型。发布当日，国家超算互联网上线该模型API调用服务，开发者可通过官网直接接入。",
       "published_at": "2026-08-03T11:18:12+00:00",
       "published_ts": 1785755892.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.954
+    },
+    {
+      "id": "kr36:3d869f49d42f",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+      "url": "https://36kr.com/p/3925067918227591?f=rss",
+      "summary": "<p>一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。</p>\n  <p>具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。</p>\n  <p>由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。</p>\n  <p>而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。</p>\n  <p>针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。</p>\n  <h2><strong>1.采用分布式求解技术，提高电源核签效率3-10倍</strong></h2>\n  <p>谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国技术团队负责人。</p>\n  <p>据他介绍，分布式求解的核心技术思路，来源于计算数学领域的“区域分解法”，通过将电源核签的巨大矩阵拆分为许多可以高效计算的小矩阵，用多台计算机并行运算，从而缩短整体求解时间，每个分析工具在求解大规模问题时候都会采用类似方法，但难点在于各个工具求解的效率会参差不齐。</p>\n  <p>谢卓表示，难点同时集中在算法和工程两方面。</p>\n  <p>一是要切得“科学”，也就是针对电源网络稀疏矩阵的特性，采用基于图论的智能区域分解算法，将百亿级的全局矩阵科学地切分为多个子矩阵，最小化子矩阵间的边界耦合。</p>\n  <p>二是需要运用分布式矩阵求解器优化节点间的通信拓扑和消息传递机制，大幅降低分布式环境下的网络通信开销。在分布式切分求解过程中，还需要引入严格的数值稳定性控制算法，确保分布式计算与单机高精度求解器的结果，达到数学意义上的严格一致，从而满足先进制程严苛的签核精度要求。</p>\n  <p>芯晓科技正是凭借团队在算法和工程层面的技术积累和创新，使IcPower相比国外工具速度提升上3-5倍，“对于一些耗时特别长的动态分析，部分测试水平可以做到10倍以上的速度提升，以前需要跑几周的电源签核，IcPower几天就能完成。”谢卓表示。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_210c834470104dd991a6a16952f88525@5688585_oswg35555oswg1031oswg440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">IcPower实测性能对比</p>\n  <h2><strong>2.抓住国产替代红利，致力于打造芯片设计平台</strong></h2>\n  <p>和许多近几年出现的EDA工具初创企业一样，芯晓科技切入电源签核赛道也是想抓住当下EDA行业“国产替代”的窗口期。</p>\n  <p>全球EDA市场长期被Synopsys（新思科技）、Cadence（楷登电子）、Siemens EDA（西门子EDA）三大巨头垄断。中国银河证券报告显示，三家在全球市场中的份额约为74%。而近年来不断升级的中美科技博弈，使越来越多国内芯片开始重视使用国产工具，将其作为替代或备份方案。</p>\n  <p>基于性能自信，芯晓科技在商业模式上选择对标国外工具，以软件授权为主，定价与国外工具相当。目前IcPower已在国内多家芯片设计公司投入使用，覆盖国产CPU、GPU、智驾芯片等类型，并在应用过程中借助客户的广泛设计用例与测试平台，不断迭代自身产品性能。</p>\n  <p>谢卓透露，2025年芯晓科技营收达到数百万元。“软件的研发成本基本是固定的，客户越多，盈利能力就能越强。”</p>\n  <p>但他也坦承，拓展客户是当下商业化的难点。“客户往往担心创业公司难以保证产品供应的持续性，因此首选规模更大的企业规模，虽然大公司在创新上的能力可能比不上创业公司。”</p>\n  <p>2026年下半年，芯晓科技计划开启天使轮后的新一轮融资，重点引入产业方资金，目的是在市场拓展方面获得更多帮助。</p>\n  <p>以华为提出的“韬（τ）定律”为代表，随着摩尔定律逐渐逼近物理极限，芯片行业正在从制程微缩转向纵向堆叠，这对电源核签来说意味着分析规模将呈指数级增长。</p>\n  <p>“底层技术积累越强，在这个方向上就越有竞争力。”谢卓表示，接下来芯晓科技的产品路线图也将围绕这一趋势展开，下半年将推出热分析和应力分析产品，支撑完整的热电耦合分析，帮助客户在3DIC设计早期发现芯片堆叠带来的发热和热应力问题。</p>\n  <p>此外，芯晓科技也在探索AI智能体在芯片设计中的应用，使客户通过自然语言就可以调用工具并完成各类设计任务，最终打造一个AI驱动，并能够接入其他EDA工具的芯片设计平台。</p>\n  <p>芯晓科技规划的这条路径最终能否走通，不仅取决于核心技术能否在更多场景中得到验证，还要看未来客户的规模化采购意愿，以及资本市场对公司发展潜力的持续信心。</p>",
+      "published_at": "2026-08-04T10:27:21+00:00",
+      "published_ts": 1785839241.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -187,21 +202,6 @@
       "importance": 1.998
     },
     {
-      "id": "kr36:f8d0519dc7a7",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "A股三大指数集体收跌，兆易创新跌停",
-      "url": "https://36kr.com/newsflashes/3923451953966467?f=rss",
-      "summary": "36氪获悉，A股三大指数集体收跌，沪指跌0.59%，深成指跌0.96%，创业板指跌1.24%；芯片股持续走弱，兆易创新跌停，中科飞测、拓荆科技跌超10%；核电、太空算力涨幅居前，中国核建、江苏神通、通宇通讯涨停；个股涨多跌少，全市场超4000股上涨。",
-      "published_at": "2026-08-03T07:01:43+00:00",
-      "published_ts": 1785740503.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.951
-    },
-    {
       "id": "kr36:9a182c42d9db",
       "source": "kr36",
       "source_label": "36氪",
@@ -232,21 +232,6 @@
       "importance": 1.905
     },
     {
-      "id": "kr36:041fa5404143",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
-      "url": "https://36kr.com/p/3923603053686151?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>&nbsp;</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p>上证指数：3809.66&nbsp;点，-0.59%</p>\n  <p>深证成指：13448.29&nbsp;点，-0.96%</p>\n  <p>创业板指：3302.55&nbsp;点，-1.24%</p>\n  <p>&nbsp;</p>\n  <h3><strong>德明利8月3日下跌9.56%</strong></h3>\n  <p><strong>349.00 &nbsp;-36.90 &nbsp;-9.56%</strong></p>\n  <p>当日开盘价373.94；交易量27.21万手；</p>\n  <p>换手率16.49%；缩量幅度0.36%</p>\n  <p>3日涨幅-1.57%；5日涨幅-13.10%</p>\n  <p>成交额：97.75亿；总市值：791.69亿</p>\n  <p>对于投资者来说，真正有价值的并不是股价下跌之后再去复盘，而是在市场情绪变化时，第一时间发现值得关注的信号。</p>\n  <p>这正是36氪企业全情报持续监测企业动态和舆情变化的价值所在。</p>\n  <p><a href=\"https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index&amp;\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>更多德明利相关股价信息点击进入小程序查看</strong></a></p>\n  <p>&nbsp;</p>\n  <h3><strong>股价异动前，企业全情报已捕捉到市场关注事件</strong></h3>\n  <p>财联社7月31日消息，有投资者询问，网传德明利第五大股东李东璘近期爆仓致股价大跌是否属实，还问及公司高管是否履职尽责保护投资者，以及公司有无回购计划。德明利在互动平台回应，前十大股东信息会按规则在定期报告披露，5%以下股东个人股份处:置及融资事宜属股东自身事务，非公司法定披露范畴。公司保持与投资者沟通畅通，将结合自身情况审慎评估举措，后续若涉及相关事项，会按规定及时披露信息。</p>\n  <p><strong>｜事件正负面性质分析</strong></p>\n  <p>截止8月3日，此事件匹配的到全网舆情信息总量为7条，正面信息1条，占比14.3%，负面信息1条，占比14.3%，中性信息5条，占比71.4%，事件舆论呈现出中性偏负的倾向。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_da3d212b7aa34acf8fa4a40b5597fc8e@5284654_oswg39293oswg498oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图示</p>\n  <p><strong>｜渠道传播分析</strong></p>\n  <p>该事件全网监测到传播篇次7条。重点监测平台中，今日头条是事件的主要传播渠道。</p>\n  <p><strong>｜事件影响分析</strong></p>\n  <p><strong>投资者关系维护（利好）：</strong>德明利针对投资者的多项问询及时在互动平台进行回应，保持与投资者的沟通渠道畅通，展现了对投资者关切的重视，有助于缓解投资者的信息不对称问题，增强市场对公司的信任，对股价形成利好支撑。</p>\n  <p><strong>传闻应对效果（利空）：</strong>德明利未直接针对投资者提及的网传第五大股东爆仓致股价大跌的传闻进行明确澄清，仅表示该事项属于5%以下股东自身事务，未能有效打消市场对该传闻的疑虑，可能引发投。资者继续担忧相关风险，属于利空影响。</p>\n  <p><strong>股东信息披露合规性（中性）：</strong>德明利明确表示将按照监管规则在定期报告中披露前十大股东信息，后续涉及相关事项将按规定及时披露，其信息披露行为符合法定要求，未对公司基本面产生额外影响，属于中性范畴。</p>\n  <p><strong>回购计划预期（中性）：</strong>德明利表示将结合自身情况审慎评估回购计划，未明确披露具体的回购方案或实施时间表，未释放明确的利好或利空信号，对股价无直接显著影响，属于中性范畴。</p>\n  <p><strong>高管履职认知（中性）：</strong>德明利未针对投资者提及的高管履职尽责问题进行正面或负面回应，未对市场关于高管履职的认知产生明显正向或负向影响，属于中性范畴。</p>\n  <p><strong>短期来看，</strong>投资者对网传的第五大股东爆仓传闻存在疑虑，公司未直接澄清该事项，可能引发部分投资者的观望情绪，但公司及时回应投资者问询也一定程度上缓解了信息不对称问题，整体短期股价或呈现震荡整理态势。</p>\n  <p><strong>长期来看，</strong>本次事件未涉及德明利自身经营、核心业务等基本面内容，公司仅需按照监管要求履行信息披露义务，未对公司长期内在价值造成负面影响，股价后续将回归由公司自身经营业绩驱动的正常走势。</p>\n  <p><strong>｜股价影响趋势分析</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_1ef2be0461f3451184ccb62edb4fc8f7@5284654_oswg29830oswg492oswg279_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图示</p>\n  <p><a href=\"https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index&amp;\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>更多德明利相关舆情信息点击进入小程序查看</strong></a></p>\n  <p>&nbsp;</p>\n  <h3><strong>专业观点：市场关注焦点仍集中在风险释放</strong></h3>\n  <p><strong>·&nbsp;爱炒股的侠客（看空）：</strong></p>\n  <p>当下市场对德明利的看好情绪较为浓厚，不少市场参与者对该企业的后续表现给出积极判断，但有观点认为德明利即将面临监管层面的临时管控，建议暂缓决策、先观望后续动向，相关潜在风险需要投资者加以留意，以规避可能出现的短期波动影响。</p>\n  <p><strong>·&nbsp;护航灯68&nbsp;（看空）：</strong></p>\n  <p>近期芯片、存储、光模块板块出现回调，德明利当:日股价下跌。资金从该类高位硬科技板块撤离，外围相关板块的波动传导至A股市场，对德明利的股。价表现形成负面影响。该板块短期热度有所下降，德明利股价短期承压，后续需持续关注板块轮动节奏、外围市场变化以及整体市场流动性环境对其股价的进一步影响。</p>\n  <p><a href=\"https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index&amp;\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>更多德明利专业观点点击进入小程序查看</strong></a></p>\n  <p>&nbsp;</p>\n  <h3><strong>企业全情报的价值：帮助投资者更早发现市场信号</strong></h3>\n  <p>很多投资者是在股价出现大涨、大跌之后才开始寻找原因。</p>\n  <p>而36氪企业全情报通过7×24小时全网监测企业动态、媒体报道、互动平台、专业观点及市场舆情，在企业事件发生后的第一时间完成信号捕捉、舆情分析和影响评估。</p>\n  <p>投资不是等股价异动后再寻找原因，而是在市场信号出现时，就提前做好关注与判断。</p>\n  <p><strong>👉 打开36氪企业全情报小程序，查看更多德明利实时舆情、专业观点、股价异动及企业动态。</strong></p>\n  <p class=\"wx-app-wrapper\">\n   \n    &nbsp;\n   </p>\n  <p>*数据来源：红麦聚信(北京)软件技术有限公司&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_99ecd27860f9475ca04e150e676497db@5284654_oswg2504oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">END</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/a_nNsW6P10EngIaqVMFl1A\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪企业舆情报告”</a>，36氪经授权发布。</p>",
-      "published_at": "2026-08-03T09:44:31+00:00",
-      "published_ts": 1785750271.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.883
-    },
-    {
       "id": "kr36:9621abfd9794",
       "source": "kr36",
       "source_label": "36氪",
@@ -260,6 +245,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.867
+    },
+    {
+      "id": "kr36:859c9e8b6fbe",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+      "url": "https://36kr.com/p/3924953058605444?f=rss",
+      "summary": "<p><strong>【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，</strong>国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。</p>\n  <p>&nbsp;</p>\n  <h2><strong>股东结构：市场化资本、产业资本、区域国资同席，老股东再投票</strong></h2>\n  <p>这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。</p>\n  <h2><strong>行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口</strong></h2>\n  <p>这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限。巨头的选择已经给出答案——英特尔宣布玻璃芯基板（GCS）进入大规模量产，台积电CoPoS试产线年内通线，三星、SKC Absolics加速送样与量产准备。玻璃基板，正在从巨头的实验室走向产业的中心。</p>\n  <p>&nbsp;</p>\n  <h2><strong>替代大逻辑：一层“布”卡住了有机基板，三大应用走向全面玻璃基化</strong></h2>\n  <p>比巨头动向更值得关注的，是有机基板的成本地基正在松动。2025年下半年以来，PCB产业链经历了一轮罕见涨价：覆铜板价格大幅攀升，PCB厂商全线调价。而涨价的真正源头，不是铜箔，也不是树脂，而是一层“布”——电子级玻璃纤维布。它的价格较2025年低点翻倍，行业库存降至历史极低位，高端低介电产品被海外厂商高度垄断，而扩产以年计。这层“布”的紧缺，短期内无解。</p>\n  <p>玻纤布之所以不可或缺，是因为它是有机基板的“骨架”，核心使命之一正是热应力匹配：AI服务器PCB层数不断攀升，为了让有机基材的热膨胀系数贴近硅芯片，行业不得不大量使用昂贵的低CTE特种玻纤布。换句话说，<strong>有机基板正在用越来越贵的“布”，去模仿玻璃与生俱来的性能</strong>——玻璃CTE天然与硅匹配，介电损耗远低于有机材料，而且根本不需要这层“布”。当“补丁”的成本越过材料替代的成本拐点，玻璃基化就从可选项变成了必然项。但“玻璃基化”并不是一件事，而是三件事——三大应用的需求逻辑、技术指标与产业节奏，截然不同：</p>\n  <p><strong>第一类，PCB替代——一场由经济性驱动的存量替代，节奏最快。</strong>面向AI服务器背板、高频通信板与新型显示基板，替代对象是FR-4与传统PCB，逻辑简单而锋利：性能更好，成本更低。信号损耗显著降低，显示与HDI基板场景的综合成本大幅优于PCB基板。这一类比拼的是大规模制造与成本控制能力，是当前放量的主战场——2026年，将是玻璃基PCB的替代元年。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_347f933315314b7bacecb2f9f9a631a8@5284654_oswg3007833oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板替代传统PCB示意图</p>\n  <p><strong>&nbsp;</strong></p>\n  <p><strong>第二类，ABF载板替代——由可靠性与供给安全驱动，节奏居中。</strong>面向超大尺寸FC-BGA封装、Chiplet与HBM高带宽存储，替代被海外垄断且持续紧缺的载板。这是一场硬指标的对决：翘曲、线宽线距、孔径与深宽比全面收紧，考验的是精细制程与可靠性验证的深水区能力。相关产品将在2027年逐步推向市场。</p>\n  <p>&nbsp;</p>\n  <p><strong>第三类，Interposer替代——由成本革命驱动的远期替代，空间最大。</strong>面向CoWoS先进封装与CPO光电共封装，替代昂贵的硅TSV中介层：玻璃介电性能显著优于硅，面板级加工利用率更高，综合成本有望大幅低于硅TSV；更关键的是，CPO场景下玻璃可以直接承载光波导，实现光电一体化。这条产业链将在2027-2030年逐步成熟——谁提前卡位，谁就握住了下一代封装的入场券。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_969d298d35a9443f9288dad2f7f6c9d7@5284654_oswg2828838oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃芯基板与玻璃中阶层的应用示意图</p>\n  <p>&nbsp;</p>\n  <p><strong>值得注意的是，当行业目光普遍聚焦GCS（Glass Core Substrate）与GI（Glass Interposer）时，PCB的玻璃基化同样必然快速落地，而Glass PCB有一个残酷前提：替代指标极高，极少企业能够真正满足。</strong>玻璃基板要替代有机PCB，必须同时跨过三道门槛——<strong>成本框架</strong>，多数企业的TGV基板成本模型根本无法闭合；<strong>高铜厚线宽比</strong>，精细线路之下，服务器电源与显示大电流驱动同样要求厚铜，而厚铜恰是行业玻璃覆铜的普遍短板；<strong>全工序直通良率</strong>，这是行业公认的经济性生死线，国内量产水平参差不齐。<strong>巽霖科技是全球极少数三重指标全部通过、且具备量产可能性的企业</strong>：综合成本有望较同类型PCB大幅降低，厚铜能力与精细线路兼得，直通良率行业领先，叠加数倍于行业的覆铜结合强度，保障贴装与返修的长期可靠性。涨价持续的窗口期里，玻璃基板与有机PCB的性价比天平正在反转——而反转之后能接住需求的企业，必须先过这三关。</p>\n  <p>&nbsp;</p>\n  <h2><strong>量产进展：最后一公里已经打通</strong></h2>\n  <p>行业从来不缺概念和样品，缺的是能稳定批量交付的真实产能。在巽霖科技看来，只有工厂落地、良率跑通、成本模型闭合，需求才能从样品订单变成可持续的批量订单。为此，巽霖在天津自主建设了玻璃基板全流程工厂，从切割、减薄、TGV成孔，到PVD金属化、电镀、图形化、阻焊，全制程一厂覆盖，年产能30万平方米。依托源自航空发动机热障涂层体系的自研PVD覆铜技术与Cu-ABX四元合金种子层，公司覆铜结合强度数倍于行业水平，TGV量产孔径与深径比覆盖主流需求，连续VCP电镀产能数倍于传统线体。目前，公司Mini LED背光、COB直显及MIP显示模组基板已进入批量出货阶段，并通过自有模组封装线体获得国内头部客户验证——玻璃基板PCB从实验室走向生产线的“最后一公里”，已被打通。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_ca737d3a8a304616a6f021f1cdf37d7a@5284654_oswg3150534oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板在MicroLED中的应用</p>\n  <p>&nbsp;</p>\n  <h2><strong>加工路径：三套工艺平台递进交互，六级精度逐级跃迁</strong></h2>\n  <p>巽霖的扩产逻辑，不是产能的简单复制，而是围绕TGV成孔、PVD金属化、电镀与图形化等底层能力，构建三套递进且交互的工艺平台，在孔径、孔密度、结构、层数、线宽线距五个维度逐级收紧、逐级打开市场——六级产品，沿三条工艺主线拾级而上。</p>\n  <p>这条路径的起点，是<strong>第一套平台——以减成法为核心的大尺寸玻璃基PCB工艺</strong>：已进入量产的显示背光与COB玻璃基PCB，双面覆铜加TGV垂直导通，大板面、高良率，既是现金流基本盘，也是所有层级的可靠性底座；同一平台收紧图形化精度，即延伸出玻璃基HDI，引入微孔与盲埋孔，实现多层TGV精细布线，切入高速PCB与光模块载板。<strong>第二套平台，是以半加成精细线路与多层键合为核心的高阶互连工艺</strong>：高阶HDI以单元体键合实现层数倍增堆叠，规避逐层压合的累积对准误差，这是巽霖多层化的差异化打法；这套精细线路能力继续向载板延伸，便打开了GCS玻璃芯载板——转向“通孔—填孔—RDL—多层堆叠”的精细制程，直指百亿美金级的ABF存量替代市场，也是本轮融资的研发主攻方向。<strong>第三套平台，面向封装与光的融合</strong>：高精度TGV与玻璃中介层（GI）向更小孔径、更高深宽比与更高通孔密度持续攻关，成本有望大幅低于硅TSV，面向2.5D/3D封装与HBM的远期市场；同一平台上再叠加光加工能力，同板加工离子交换光波导、激光直写改性、光纤穿插孔与精密腔体，最终实现“电路+光路”的同板共构。三套平台并非彼此割裂：减成法平台验证的覆铜可靠性与量产良率，是精细线路与封装工艺的共同底座；而填孔、RDL与光加工中沉淀的精密能力，又持续反哺前两套平台的精度爬升——递进之中，互为支撑。</p>\n  <p>这条六级路径不是跳跃式押注，而是精度迭代的线性演进——与国内PCB大厂“单双面板—多层板—HDI—高阶HDI—IC载板”的爬升逻辑完全同构：孔径持续收紧、线路不断精细、层数从双面走向数十层，本质是共享底层工艺能力上的连续收窄与逐级叠加。<strong>这一模式从根本上规避了行业最大的隐性风险——产线淘汰与投资失效</strong>：TGV、PVD、电镀、曝光、蚀刻等核心制程在三套平台间大量复用，平台升级依靠工艺包迭代与模块化工序叠加，而非推倒重建；每一级产品的量产收入，又反哺下一代研发。本轮融资形成的产能，不会随产品迭代贬值，反而会随精度爬升持续增值。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_48e338ae4f5e4964ad08134be1c29637@5284654_oswg3069351oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板产业升级跳转逻辑</p>\n  <p>&nbsp;</p>\n  <h2><strong>投资方与创始人观点</strong></h2>\n  <p>本轮投资方英诺基金表示：“玻璃基板正处在从技术验证走向规模量产的关键窗口期。我们看重巽霖科技在PVD覆铜等底层工艺上的原创突破，更看重其已建成全流程产线并实现批量出货的落地能力——在硬科技投资中，能交付的团队最稀缺。”</p>\n  <p>巽霖科技创始人兼CEO甄真博士表示：“本轮融资是产业伙伴与市场资本对玻璃基板量产路线的双重确认。玻纤布涨价让全行业看清了有机基板的成本天花板，也让玻璃基板的替代价值第一次有了经济学的确定性。接下来，资金将集中投向产能爬坡、封装落地与精度升级——从显示基板到高阶HDI，从玻璃芯载板到光波导，我们用三套递进交互的工艺平台与持续的精度跃迁，让真实的批量交付成为行业需求的最终解。”</p>\n  <p>&nbsp;</p>\n  <p><strong>关于巽霖科技</strong></p>\n  <p>巽霖科技成立于2023年9月，专注于玻璃基板全制程技术的研发与产业化，覆盖TGV通孔、PVD复合镀膜、连续式电镀与精细线路等核心工艺，产品应用于Mini LED背光、COB/Micro LED直显、玻璃基HDI、先进封装载板及光电共封装等领域。公司已实现Micro LED级别线路精度与高密度TGV基板量产，正加速推进从基板到模组、从显示到封装、从电到光的产业版图。</p>",
+      "published_at": "2026-08-04T08:31:59+00:00",
+      "published_ts": 1785832319.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.863
     },
     {
       "id": "kr36:4ab4588bee2a",
@@ -337,21 +337,6 @@
       "importance": 0.989
     },
     {
-      "id": "openai_blog:a82173c3ede2",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "published_ts": 1785740400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.985
-    },
-    {
       "id": "kr36:431905f61190",
       "source": "kr36",
       "source_label": "36氪",
@@ -365,21 +350,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.981
-    },
-    {
-      "id": "kr36:e810642b51e1",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "长鑫存储增资至约313.9亿",
-      "url": "https://36kr.com/newsflashes/3923461182107009?f=rss",
-      "summary": "36氪获悉，天眼查App显示，近日，长鑫存储技术有限公司发生工商变更，注册资本由约238.9亿人民币增至约313.9亿人民币，增幅约31%。该公司成立于2017年11月，法定代表人为吴丽影，经营范围包含集成电路设计、集成电路芯片及产品制造等，由长鑫科技集团股份有限公司全资持股。",
-      "published_at": "2026-08-03T07:11:06+00:00",
-      "published_ts": 1785741066.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.98
     },
     {
       "id": "kr36:f43e8a07dc32",
@@ -412,21 +382,6 @@
       "importance": 0.975
     },
     {
-      "id": "kr36:fdca66753890",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "美国多州拟取消税收优惠，数据中心建设成本或将攀升",
-      "url": "https://36kr.com/newsflashes/3923680984313481?f=rss",
-      "summary": "曾经争相引进数据中心的美国各州州长与州议会，如今纷纷着手取消销售税减免政策。此举或将导致每吉瓦AI算力项目成本增加数十亿美元，设备购置成本最高上浮7%以上。全美州议会联合会（NCSL，面向州议员的研究与行业组织）以及《The Information》的分析显示，今年夏天，相关政策转向进程明显提速，但并未引发广泛关注：已有4个州缩减或暂停数据中心税收激励政策，另有9个州的议员正在审议废除相关优惠的法案。（新浪财经）",
-      "published_at": "2026-08-03T10:54:41+00:00",
-      "published_ts": 1785754481.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.974
-    },
-    {
       "id": "the_verge:ab73e93307db",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -440,21 +395,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.974
-    },
-    {
-      "id": "kr36:9d0e44da5379",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "美图旗下RoboNeo接入MiniMax H3，支持局部编辑、多模态理解",
-      "url": "https://36kr.com/newsflashes/3923674190999173?f=rss",
-      "summary": "36氪获悉，美图旗下RoboNeo宣布正式接入MiniMax H3，进一步强化多模态理解能力，可理解文字、图片、视频及音频等多种输入形式。同时支持更加精细化的视频局部编辑，包括人物替换、物体增减、背景修改、特效调整、音色迁移以及台词修改等操作。",
-      "published_at": "2026-08-03T10:47:47+00:00",
-      "published_ts": 1785754067.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.97
     },
     {
       "id": "techcrunch:abb51a9c553c",
@@ -472,6 +412,36 @@
       "importance": 0.962
     },
     {
+      "id": "qbitai:1a0ec5443c23",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+      "url": "https://www.qbitai.com/2026/08/465792.html",
+      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+      "published_at": "2026-08-04T09:22:46+00:00",
+      "published_ts": 1785835366.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.954
+    },
+    {
+      "id": "qbitai:5b86cf6ad1a6",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+      "url": "https://www.qbitai.com/2026/08/466262.html",
+      "summary": "Skill和Agent也能被封装调用",
+      "published_at": "2026-08-04T09:18:08+00:00",
+      "published_ts": 1785835088.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.952
+    },
+    {
       "id": "kr36:aaadf17c9196",
       "source": "kr36",
       "source_label": "36氪",
@@ -487,6 +457,36 @@
       "importance": 0.95
     },
     {
+      "id": "qbitai:e53320725303",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+      "url": "https://www.qbitai.com/2026/08/466032.html",
+      "summary": "OpenAI+田园牧歌，画风属实太违和",
+      "published_at": "2026-08-04T09:13:57+00:00",
+      "published_ts": 1785834837.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.95
+    },
+    {
+      "id": "qbitai:27720d35e585",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+      "url": "https://www.qbitai.com/2026/08/465973.html",
+      "summary": "元宝已接入",
+      "published_at": "2026-08-04T08:58:21+00:00",
+      "published_ts": 1785833901.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.943
+    },
+    {
       "id": "kr36:547d6d1bda21",
       "source": "kr36",
       "source_label": "36氪",
@@ -495,6 +495,36 @@
       "summary": "36氪获悉，中国信息通信研究院持续开展人工智能产业研究，并开展2025年人工智能产业规模测算。经测算，2025年我国人工智能产业规模超1.2万亿元，同比增长40%。截至2026年6月，人工智能企业数量超6600家，全球占比达到15%，已形成覆盖基础底座、模型框架、行业应用的完整产业体系。",
       "published_at": "2026-08-03T12:40:09+00:00",
       "published_ts": 1785760809.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.925
+    },
+    {
+      "id": "kr36:8228b010a66a",
+      "source": "kr36",
+      "source_label": "36氪",
+      "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+      "url": "https://36kr.com/p/3924913931679877?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_2e223b3f6f994090a3d4944d9162d843@5284654_oswg647144oswg1080oswg459_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪企业全情报带你发现涨停背后的机会</p>\n  <h3><strong>开篇，先给大家送个福利</strong></h3>\n  <p>最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。</p>\n  <p><strong>体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。</strong></p>\n  <p>奖品有影石Insta360&nbsp;Luna&nbsp;Ultra、运动相机挂脖支架、36氪航天徽章。</p>\n  <p><strong>祝大家都能中奖，点击即可参与：👇</strong></p>\n  <p><a href=\"https://lucky.nocode.com/v2/s/8VhKju6Ehgy\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://lucky.nocode.com/v2/s/8VhKju6Ehgy</strong></a></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_a300936239e240d7a177ec6cfcc50c1d@5284654_oswg1734654oswg943oswg1668_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码抽奖！</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p><strong>上证指数：</strong>3822.28&nbsp;点，+0.33%</p>\n  <p><strong>深证成指：</strong>13885.71&nbsp;点，+3.25%</p>\n  <p><strong>创业板指：</strong>3488.97&nbsp;点，+5.64%</p>\n  <p>&nbsp;</p>\n  <h3><strong>东山精密8月4日上涨10.00%</strong></h3>\n  <p><strong>179.09 &nbsp;+16.28 &nbsp;+10.00%</strong></p>\n  <p>当日开盘价168.76；交易量86.82万手；</p>\n  <p>换手率6.26%；放量幅度0.07%</p>\n  <p>3日涨幅+10.69%；5日涨幅-6.09%</p>\n  <p>成交额：153.29亿；总市值：3280.23亿</p>\n  <p>&nbsp;</p>\n  <h3><strong>舆情分析：积极信息占比超九成，市场关注度持续提升</strong></h3>\n  <p>近日，深市存储产业链相关公司接连释放积极信号，业界看好行业高景气度持续性。大普微发布自研SLC+QLC双模SSD方案，已进入客户灰度验证阶段，其2026年半年度预计归母净利润12亿-13.5亿元。江波龙控股股东提议回购股份，2026年上半年预计归母净利润92亿-110亿元。北京君正上半年预计营业总收入约39.89亿元，净利润10.79亿-12.82亿元。东山精密虽非存储企业，但业务相关，看好AI算力产业中长期发展，将依托协同布局把握机遇。</p>\n  <p><strong>｜事件正负面性质分析</strong></p>\n  <p>截止8月4日，此事件匹配的到全网舆情信息总量为56<strong>条</strong>，正面信息<strong>52条</strong>，占比<strong>92.9%</strong>，负面信息<strong>0条</strong>，占比<strong>0%</strong>，中性信息<strong>4条</strong>，占比<strong>7.1%</strong>，<strong>事件舆论呈现出显著正面的倾向。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_2e01044ce3644d49bccee071e45104b5@5284654_oswg39927oswg498oswg237_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">舆情图</p>\n  <p><strong>｜渠道传播分析</strong></p>\n  <p>该事件全网监测到传播篇次<strong>56条</strong>。重点监测平台中，<strong>今日头条</strong>是事件的主要传播渠道。</p>\n  <p><strong>｜事件影响分析</strong></p>\n  <p><strong>AI算力业务布局利好（利好）：</strong>东山精密明确看好AI算力产业中长期发展，并计划依托与存储产业链的协同布局把握行业机遇，有助于其拓展业务赛道，打开新的业绩增长空间，对公司长期发展形成利好。</p>\n  <p><strong>产业链景气辐射利好（利好）：</strong>深市存储产业链多家企业发布亮眼业绩预告及积极动作，行业高景气度获业界持续看好，东山精密业务与存储产业链相关，有望受益于产业链整体向上的发展红利，利好其业务协同与市场拓展。</p>\n  <p><strong>赛道情绪提振利好（利好）：</strong>存储产业链的积极信号带动整个电子科技赛道市场情绪升温，东山精密作为相关布局企业，将间接受益于赛道整体情绪回暖，存在估值修复的预期。</p>\n  <p><strong>短期业绩无实质影响（中性）：</strong>新闻仅提及东山精密的布局规划与行业看好态度，未披露当前已落地的具体订单、营收增厚等实际业务动作，短期对公司业绩无直接实质影响。</p>\n  <p><strong>非主业关联的中性影响（中性）：</strong>东山精密并非存储企业，仅业务与存储产业链相关，当前布局仅为战略规划，尚未形成具体业务规模，对公司当前经营基本面无显著正向或负向影响。</p>\n  <p><strong>短期来看，</strong>存储产业链的积极信号带动电子科技赛道情绪升温，东山精密作为相关布局企业将间接受益，但目前暂无实质业务落地，对其短期业绩无直接显著:影响，整体影响偏中性偏积极。</p>\n  <p><strong>长期来看，</strong>东山精密明确布局AI算力赛道并依托产业链协同把握机遇，叠加存储产业链高景气度的辐射带动，有助于其拓展业务边界，强化长期核心竞争力，利好公司长期发展。</p>\n  <p><strong>｜股价影响趋势分析</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_4c26c292a6c94f7facd980b11fd1ecb2@5284654_oswg29830oswg492oswg279_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">影响力指数</p>\n  <p>&nbsp;</p>\n  <h3><strong>专业观点：市场看好科技修复，但仍需关注风险</strong></h3>\n  <p><strong>·&nbsp;刀锋（看多）：</strong></p>\n  <p>当前市场迎来集体修复，指数与情绪共振上升，截至当日上午收盘��A股超四千只个股上涨，涨停数量达85家，8月属于科技修复的阶段性黄金窗口。东山精密当日涨停，带动相关板块上涨，短线具备博弈机会，但缩量背景下追涨大权重需谨慎，可关注前排科技品种的首板机会，需密切跟踪市场变化以合理把握后续操作节奏。</p>\n  <p><strong>·&nbsp;张莉&nbsp;（看多）：</strong></p>\n  <p>东山精密当日出现强势涨停行情，相关操作被分享至短线黑马组，从当前股价表现来看，该股短期市场走势较强，反映出短期市场资金对其关注度有所提升，短期上涨态势较为明显。不过股票市场存在固有波动风险，后续股价的长期走势还需结合企业基本面、行业环境等多方面因素综合考量，单日涨停仅能体现短期的市场反应，投资者仍需理性看待短期股价波动，避免盲目追涨。</p>\n  <p>&nbsp;</p>\n  <h3><strong>从一次涨停，看企业全情报的价值</strong></h3>\n  <p>对于投资者而言，重要的不只是看到“哪家公司涨了”，更重要的是：</p>\n  <p><strong>能否在股价变化之前，发现企业正在发生什么。</strong></p>\n  <p>从产业变化，到舆情升温，再到股价表现，企业全情报希望帮助投资者建立更完整的信息链路：</p>\n  <p><strong>发现信号 → 分析影响 → 跟踪市场 → 辅助决策</strong></p>\n  <p><strong>更多东山精密相关股价、舆情及企业动态分析，欢迎进入36氪企业全情报小程序查看。</strong></p>\n  <p>*数据来源：红麦聚信(北京)软件技术有限公司&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_24e4620797da4fc288dfd488a0689974@5284654_oswg2504oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">END</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s?__biz=MzkzNTc1NTg2OA==&amp;tempkey=MTM4NV9yWE8wQ2lLTHlqdXgwZG55UndhcTJpQ2JhNUgxNVhyQ2EtUFlBekdTT2RMS2hNeFRGUDVoUm5GY2FfcGpXRmRRY2FBc18zc29BbENCY2VZdU9IOTE5LTV6VDdZWV9BOEt3bm9NQWthOG5uU2Z6NjRDaFZQcDRiQVlqT1BfMnl1d3JhRjUyZDVsVGlOSmM2NTk0a1lPRnlLZ0ZEZEt3WXZDUFhsaGJBfn4%3D&amp;chksm=c2abbbaef5dc32b88fd0f395d9ed3fc6b13f563388c3295f80a19e184fa1f645e3a59cc6316c&amp;token=1909350270&amp;lang=zh_CN#rd\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪企业舆情报告”</a>，36氪经授权发布。</p>",
+      "published_at": "2026-08-04T08:18:21+00:00",
+      "published_ts": 1785831501.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.925
+    },
+    {
+      "id": "qbitai:67285d931f13",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+      "url": "https://www.qbitai.com/2026/08/465814.html",
+      "summary": "那还说啥了梁圣，我订阅费全给你就是了呗",
+      "published_at": "2026-08-04T08:18:45+00:00",
+      "published_ts": 1785831525.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -530,21 +560,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.904
-    },
-    {
-      "id": "kr36:497bd1f0ffdc",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
-      "url": "https://36kr.com/p/3923465542364545?f=rss",
-      "summary": "<p>其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。</p>\n  <p>这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？</p>\n  <p>围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。</p>\n  <p><strong>先说核心结论：可灵3.0更适合关键镜头的创作。</strong></p>\n  <p>模型在构图、光影、情绪氛围和人物主体一致性上表现突出，针对目标明确的短动作镜头，可以稳定产出高质量画面。若需用可灵处理复杂叙事影片，更稳妥的思路是把长动作拆成单目标的短镜头，再通过分镜设计与后期剪辑串联为完整段落。</p>\n  <p>当任务同时涉及跨空间移动、多道具与多人物打斗场景时，最终画面效果高度依赖提示词、参考图、镜头时长和拆分方法。</p>\n  <p>这次压力测试，目的是找到更稳定的创作方法，而非对模型能力下定论。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_b8a25b6679284399912faee0a8687d02@5284654_oswg431142oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">【图1｜本次测试使用的参考图】</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_a0aae574e0294d86b6deeec22bd17220@5284654_oswg5705oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>电影感，率先在关键镜头中落地</strong></p>\n  <p>从测试结果来看，可灵3.0的核心优势集中在关键镜头的画面完整度。</p>\n  <p>当镜头目标明确、人物关系简洁、动作时长较短时，模型能生成高质量画面。光影、构图、人物和情绪氛围均表现亮眼。</p>\n  <p>例如戏子镜前准备的画面，最能直观体现可灵的画面表现力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_7769bcecb42d4efabd13f866d3f2cac9@5284654_oswg720064oswg1080oswg605_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">【图2｜戏子镜前准备】</p>\n  <p>这个画面可灵并非只进行了简单的动态化处理，镜框把人物限定在视觉中心，左侧珠串和戏服形成前景，人物与铜镜置于中景，后台走廊与暖光充当远景，形成标准的前中后三层纵深结构。</p>\n  <p>画面摆脱了平面感，呈现出鲜明的电影空间质感。</p>\n  <p><strong>可灵在这类镜头里的核心价值，在于一次性生成构图、光线和人物状态完整的视觉画面。</strong></p>\n  <p>这也侧面印证了第一篇测评中，用户普遍将可灵与“电影感”“高质感镜头”绑定的核心原因。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_2e3e63d0aa574fa2bd2548a9681636b8@5284654_oswg7930oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>短动作镜头，可稳定输出高质量动态效果</strong></p>\n  <p>电影感并非仅来源于静态构图。可灵同样能完成具备冲击力的电影感动态镜头。</p>\n  <p>项羽在战场打斗的场景，我们经多轮测试，得到了一版完成度较高的短镜头。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>【视频1｜项羽突围画面】</strong></p>\n  <p>画面重点：短时间内人物气势、战场压迫感和动作方向的合理性。</p>\n  <p>该片段中，项羽的突围路线清晰，人物动态传递出杀伐张力。黄沙战地、兵器交锋、人体倒地和尘土弥漫的效果，共同构建出混战中的压迫感。</p>\n  <p>让可灵在生成长镜头动作画面时，核心前提在于有明确的目标镜头，只承载一个主要的动作，目标越清晰，输出的结果稳定性越高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_f3d257cf255e4f178187eb64769ed4d9@5284654_oswg7843oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>氛围塑造和人物一致性：为叙事提供锚点</strong></p>\n  <h2><strong>&nbsp; 1. 氛围塑造方面</strong></h2>\n  <p>项羽乌江自刎前后的情绪镜头，是本轮测试中另一组完成度较高的素材。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>【视频2｜项羽乌江自刎】</strong></p>\n  <p>画面重点：光影和暗部细节。</p>\n  <p>这段画面的整体亮度偏低，项羽近景镜头里，剑身呈现微弱反光，冷灰天光搭配脸上的泥土、血污和泪痕，共同烘托出英雄末路的悲壮情绪。</p>\n  <h2><strong>&nbsp; 2. 人物一致性方面</strong></h2>\n  <p>主体绑定主体的能力也为成片提供了支撑。项羽、虞姬和戏子在不同镜头中，保持人脸、服饰与人物身份的一致，未出现偏差。</p>\n  <p><strong>主体绑定解决了叙事的基本问题：保障角色的可识别性，让观众能够持续识别同一角色。</strong></p>\n  <p>人物稳定以后，不同地点、景别和情绪的镜头才具备剪辑进同一段叙事的基础。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_4c2cda65b2214168b4905050218e808f@5284654_oswg6731oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>复杂叙事：需要先拆成一套标准镜头工作流</strong></p>\n  <p>经过本轮测试，我们进一步明确了可灵 3.0的合理创作方式。完整叙事并非无法实现，但不能将所有创作任务集中于单个长镜头。</p>\n  <h2><strong>&nbsp;&nbsp;1.&nbsp;单镜头承载单一任务</strong></h2>\n  <p>如果一个镜头同时包含走位、转身、舞剑、追兵、马匹和镜头环绕等元素，模型需要同时处理的信息过多。更稳妥的方式是，需缩短镜头时长，使其仅完成一次清晰动作，避免长时间运动中出现形态偏差。</p>\n  <h2><strong>&nbsp; 2.&nbsp;战斗场景通过分镜与剪辑实现</strong></h2>\n  <p>“冲锋、挥剑、击中、敌人受力、倒地、追兵包围”的完整动作链，无需由单个镜头全部呈现。可拆解为冲锋、挥剑、敌军后退与战场反应等独立镜头，再通过音效与剪辑，让观众感知完整的战斗过程。</p>\n  <p><strong>3.&nbsp;空间路径提前拆分为节点</strong></p>\n  <p>人物从后台走向侧台、再进入舞台的动线，本身包含多个空间节点。将每个节点设为独立镜头，或为关键转折分别设置首尾帧，比仅在提示词中强调“从侧方上台”更易控制效果。</p>\n  <p>这套创作方法并非绕开模型能力，而是将模型擅长的关键镜头，有机组织为完整叙事。<strong>AI负责镜头生成，创作者负责任务拆解、连续性构建与最终效果判定。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_a09e05ead9844c4a8cfc611dffa46ab7@5284654_oswg7422oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>压力测试验证：复杂空间和物理交互仍需加强控制</strong></p>\n  <p>明确优势与创作工作流后，再来看本轮压力测试中难度最高的场景。</p>\n  <p>测试结果受提示词、首尾帧设计、主体参考图、镜头时长和生成随机性等多重因素影响，结论仅适用于本轮测试参数，不代表所有场景效果。</p>\n  <p><strong>1.&nbsp;精确空间路线需更精细化的镜头约束</strong></p>\n  <p>我们测试了戏子从后台准备走向舞台的连续场面调度。该任务要求模型理解后台、侧台与舞台的空间关系，而非仅完成“人物登台”的动作。</p>\n  <p>5轮测试结果显示，人物可稳定完成“走上舞台”的语义结果，但很难持续遵循“从侧方上台”的具体动线。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>【视频3｜戏子从后台到舞台空间衔接】</strong></p>\n  <p>画面重点：人物是否从侧方进入舞台，以及后台与舞台之间的空间连接逻辑。</p>\n  <p>该画面的色调、人物状态与舞台氛围均符合预期，偏差主要出现在第7秒前后的路径衔接处。可灵生成了视觉顺滑的移动效果，但无法稳定复现真实剧场的登台动线。</p>\n  <p>在实际创作中，更合理的处理方式是将后台、侧台与舞台拆分为两个镜头，通过人物朝向、视线引导与剪辑手法，构建空间连续性。</p>\n  <h2><strong>&nbsp; 2.&nbsp;多道具和多人战斗，对生成条件更敏感</strong></h2>\n  <p>戏曲与战场镜头同时包含双剑、水袖、盔甲、长矛、手部动作、身体重心与摄影机运动，是本轮信息密度最高的测试任务。</p>\n  <p>部分测试版本中，出现了双剑的数量变化、水袖的形变、击杀人物反馈不匹配等问题。提示词可提供方向约束，但在较长的连续动作中，无法完全消除此类偏差。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>【视频4-6｜舞剑镜头中的道具变化】</strong></p>\n  <p>画面重点：剑、水袖与手部动作在连续运动中的一致性。</p>\n  <p>战斗镜头经数十轮测试，不同版本的输出效果差异较大。部分版本出现粉末化击打效果，被击中后的身体反馈逻辑不正确。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>【视频7-8｜战斗镜头中的击打反馈差异】</strong></p>\n  <p>画面重点：兵器接触与敌军反应能否形成连贯的逻辑关系。</p>\n  <p>这组结果可总结为：<strong>在本轮测试方法下，复杂交互场景的产出确定性远低于单目标短镜头。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_f4af8483965746d1ad4b7194c84aa310@5284654_oswg8485oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">标题</p>\n  <p><strong>结论：可灵更适合关键镜头生产，复杂叙事需要拆解工作流</strong></p>\n  <p>回到开篇的核心问题：可灵能否支撑具备电影感的短片创作？</p>\n  <p><strong>答案是肯定的，但创作方式的选择至关重要。</strong></p>\n  <p>可灵3.0可实现优质构图、氛围感光影与相对稳定的人物主体，也能在短镜头中生成兼具压迫感和情绪张力的动态画面。这些能力已足以支撑其参与高质量内容的关键镜头生产环节。</p>\n  <p>当任务涉及跨空间调度、多道具连续动作与多人战斗场景时，创作者需将叙事拆解为更明确的单镜头任务，复杂交互逻辑通过后期剪辑完成。</p>\n  <p><strong>现阶段可得出明确判断：可灵适合生产高质量短镜头和电影感氛围影片；在进行复杂叙事时，通过拆解式工作流可获得更稳定的输出效果。</strong></p>\n  <p>其价值不仅在于画面生成的能力上限，也在于融入创作者的镜头生产流程。创作者主导叙事设计、分镜规划与内容取舍，可灵负责高质量完成部分镜头的生成工作。这也呼应了第一篇测评中用户的真实诉求：专业创作者既需要画面能力的上限，也需要项目落地的确定性。</p>\n  <p>将可灵应用在适配的镜头创作场景中，它将成为专业创作者的高价值AI生产工具。</p>\n  <p>下一篇，我们将测试场景延伸至商业领域：可灵能够产出电影感画面，它能否进一步支撑品牌广告与商业性创作？生成内容距离可直接落地的商业成品，还有多大差距？</p>\n  <p>资料说明：本文为36氪 AI测评基于自制《霸王别姬·前世今生》测试脚本展开的可灵3.0图生视频实测。本次结论仅反映本轮提示词、参考图、生成参数、剪辑逻辑下的模型表现，不代表模型所有场景的通用能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_6d429e912f3f431e9379383a007a5735@5284654_oswg5018oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">THE END</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_33e0f32a5c03430cac3a857266f5ca3f@5284654_oswg47466oswg1080oswg300_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_83a1120473ec443994fabf3e0f703614@5284654_oswg273593oswg1080oswg448_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图例</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/EcptiWr9NcWk6OH06i8l7w\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪AI测评”</a>，36氪经授权发布。</p>",
-      "published_at": "2026-08-03T08:12:09+00:00",
-      "published_ts": 1785744729.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.9
     }
   ]
 }
