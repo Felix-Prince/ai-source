@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T20:02:49.882058+00:00",
+    "generated_at": "2026-08-04T21:41:42.346304+00:00",
     "max_days": 30
   },
   "items": [
@@ -7355,6 +7355,21 @@
       "importance": 0.989
     },
     {
+      "id": "openai_blog:63daf6f86dd1",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "published_at": "2026-08-04T19:00:00+00:00",
+      "published_ts": 1785870000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.388
+    },
+    {
       "id": "the_verge:6e87fa2a199f",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -7413,6 +7428,126 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.993
+    },
+    {
+      "id": "techcrunch:f7d83335ae57",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "published_at": "2026-08-04T20:05:26+00:00",
+      "published_ts": 1785873926.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:df0c92cc7ede",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "EA is now a private company",
+      "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]",
+      "published_at": "2026-08-04T20:18:14+00:00",
+      "published_ts": 1785874694.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:c9cf202e6b95",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+      "published_at": "2026-08-04T20:26:53+00:00",
+      "published_ts": 1785875213.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:fb82ab5a3869",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "published_at": "2026-08-04T20:34:28+00:00",
+      "published_ts": 1785875668.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:414df16d7536",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "published_at": "2026-08-04T20:36:30+00:00",
+      "published_ts": 1785875790.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.969
+    },
+    {
+      "id": "the_verge:30292698288f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "SpaceX has more neocloud revenue",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+      "published_at": "2026-08-04T20:47:55+00:00",
+      "published_ts": 1785876475.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:09d6241a7666",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [&#8230;]",
+      "published_at": "2026-08-04T20:57:49+00:00",
+      "published_ts": 1785877069.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:e4ecdf2cd02c",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "published_at": "2026-08-04T21:07:26+00:00",
+      "published_ts": 1785877646.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

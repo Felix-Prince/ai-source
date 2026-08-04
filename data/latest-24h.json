@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T20:02:49.882058+00:00",
-    "generated_ts": 1785873769.882058,
+    "generated_at": "2026-08-04T21:41:42.346304+00:00",
+    "generated_ts": 1785879702.3463037,
     "window_hours": 24.0,
-    "total": 41
+    "total": 43
   },
   "items": [
     {
@@ -262,6 +262,21 @@
       "importance": 1.755
     },
     {
+      "id": "openai_blog:63daf6f86dd1",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "published_at": "2026-08-04T19:00:00+00:00",
+      "published_ts": 1785870000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.388
+    },
+    {
       "id": "openai_blog:12bd4914d86c",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -440,6 +455,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.977
+    },
+    {
+      "id": "techcrunch:414df16d7536",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "published_at": "2026-08-04T20:36:30+00:00",
+      "published_ts": 1785875790.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.969
     },
     {
       "id": "qbitai:1a0ec5443c23",
