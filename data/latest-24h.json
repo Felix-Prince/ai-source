@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T18:09:35.733907+00:00",
-    "generated_ts": 1785866975.7339075,
+    "generated_at": "2026-08-04T20:02:49.882058+00:00",
+    "generated_ts": 1785873769.882058,
     "window_hours": 24.0,
-    "total": 42
+    "total": 41
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.981
-    },
-    {
-      "id": "techcrunch:338440089618",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
-      "published_at": "2026-08-03T19:45:35+00:00",
-      "published_ts": 1785786335.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.974
     },
     {
       "id": "kr36:75de10ae47d7",
@@ -307,6 +292,21 @@
       "importance": 0.998
     },
     {
+      "id": "techcrunch:bc673b6a434d",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "published_at": "2026-08-04T19:48:40+00:00",
+      "published_ts": 1785872920.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.993
+    },
+    {
       "id": "kr36:8dba852ec6d4",
       "source": "kr36",
       "source_label": "36氪",
@@ -360,6 +360,21 @@
       "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has the handheld [&#8230;]",
       "published_at": "2026-08-04T17:35:04+00:00",
       "published_ts": 1785864904.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.984
+    },
+    {
+      "id": "techcrunch:1d0d690392ff",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "published_at": "2026-08-04T19:28:49+00:00",
+      "published_ts": 1785871729.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
@@ -425,36 +440,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.977
-    },
-    {
-      "id": "techcrunch:0a10db61f27b",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "published_at": "2026-08-03T19:09:56+00:00",
-      "published_ts": 1785784196.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.975
-    },
-    {
-      "id": "techcrunch:abb51a9c553c",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "published_at": "2026-08-03T18:43:43+00:00",
-      "published_ts": 1785782623.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.962
     },
     {
       "id": "qbitai:1a0ec5443c23",

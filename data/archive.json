@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T18:09:35.733907+00:00",
+    "generated_at": "2026-08-04T20:02:49.882058+00:00",
     "max_days": 30
   },
   "items": [
@@ -7353,6 +7353,66 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.989
+    },
+    {
+      "id": "the_verge:6e87fa2a199f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
+      "url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
+      "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk for [&#8230;]",
+      "published_at": "2026-08-04T19:11:05+00:00",
+      "published_ts": 1785870665.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:1d0d690392ff",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "published_at": "2026-08-04T19:28:49+00:00",
+      "published_ts": 1785871729.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.984
+    },
+    {
+      "id": "techcrunch:62204a1e317c",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "published_at": "2026-08-04T19:34:34+00:00",
+      "published_ts": 1785872074.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:bc673b6a434d",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "published_at": "2026-08-04T19:48:40+00:00",
+      "published_ts": 1785872920.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.993
     }
   ]
 }
