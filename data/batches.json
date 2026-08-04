@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T14:45:34.730457+00:00",
+    "generated_at": "2026-08-04T18:09:35.733907+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1425,6 +1425,100 @@
           "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
           "published_at": "2026-08-04T13:00:00+00:00",
           "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-04T18:09:35.733907+00:00",
+      "generated_ts": 1785866975.7339075,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "kr36": 30,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "ars_technica:902bc8155575",
+          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.755,
+          "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+          "published_at": "2026-08-04T13:38:29+00:00",
+          "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says."
+        },
+        {
+          "id": "the_verge:a1668366fc9b",
+          "title": "How an OpenAI influencer trip backfired",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.989,
+          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "published_at": "2026-08-04T17:46:41+00:00",
+          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro"
+        },
+        {
+          "id": "the_verge:c7dfeeb3a335",
+          "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.984,
+          "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+          "published_at": "2026-08-04T17:35:04+00:00",
+          "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has t"
+        },
+        {
+          "id": "the_verge:cb6e681be9c6",
+          "title": "‘Not healthy’ LLM use is more common than you think",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.983,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "published_at": "2026-08-04T17:33:46+00:00",
+          "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor"
+        },
+        {
+          "id": "the_verge:3553be283440",
+          "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.943,
+          "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+          "published_at": "2026-08-04T16:07:02+00:00",
+          "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 percent APR for a limited time. Even if [&#"
+        },
+        {
+          "id": "kr36:ae8b77d8ec06",
+          "title": "“车企牌”电池相继上车，不只是PK宁德时代",
+          "source": "kr36",
+          "source_label": "36氪",
+          "importance": 0.933,
+          "url": "https://36kr.com/p/3925382191708552?f=rss",
+          "published_at": "2026-08-04T15:46:22+00:00",
+          "summary": "<p>“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。</p>\n  <p>车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。</p>\n  <p>这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。</p>\n  <p>“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。</p>\n  <p>这与过往的动力电"
+        },
+        {
+          "id": "the_verge:dc9ecde278c4",
+          "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.92,
+          "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
+          "published_at": "2026-08-04T15:15:36+00:00",
+          "summary": "The Asus Chromebook Plus CX34 is a dependable laptop that doesn’t cost a fortune, despite being nearly three years old. It’s cheaper than usual right now, and you have a few options in the sub-$400 range. The option with the most storage is currently on sale for $399.99 (about $100 off recent prices"
+        },
+        {
+          "id": "openai_blog:2948de59d0ca",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.888,
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "published_at": "2026-08-04T00:00:00+00:00",
+          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
         }
       ]
     }
