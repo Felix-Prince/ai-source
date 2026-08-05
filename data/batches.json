@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T23:28:39.633624+00:00",
+    "generated_at": "2026-08-05T03:40:15.331484+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1633,6 +1633,18 @@
           "summary": "据英伟达8月4日声明，Linux基金会发布关于“共享AI发现交换”（SAFE）的征求意见稿。据介绍，SAFE是一套拟议指南，旨在将涉及AI智能体的网络安全事件转化为整个生态系统的共享防护能力。声明称，“开放安全AI联盟”的一个工作组正负责起草SAFE指南。英伟达、思科、CrowdStrike、Hugging Face和Red Hat等联盟成员正与Linux基金会合作，共同推进这一初步提案。（界面）"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-05T03:40:15.331484+00:00",
+      "generated_ts": 1785901215.3314843,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }

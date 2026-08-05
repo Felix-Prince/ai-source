@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T23:28:39.633624+00:00",
+    "generated_at": "2026-08-05T03:40:15.331484+00:00",
     "max_days": 30
   },
   "items": [
@@ -7785,6 +7785,21 @@
       "published_ts": 1785885550.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:cc356115297f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Don’t screw this up, Marvel",
+      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]",
+      "published_at": "2026-08-04T23:20:56+00:00",
+      "published_ts": 1785885656.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
