@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T21:37:23.512913+00:00",
-    "generated_ts": 1785965843.5129135,
+    "generated_at": "2026-08-05T23:26:10.419264+00:00",
+    "generated_ts": 1785972370.4192636,
     "window_hours": 24.0,
-    "total": 21
+    "total": 19
   },
   "items": [
-    {
-      "id": "kr36:913e28957442",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "Anthropic据悉与Volta达成100亿美元算力协议，满足AI需求增长",
-      "url": "https://36kr.com/newsflashes/3925367691524483?f=rss",
-      "summary": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd.达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最新举措。知情人士表示，Anthropic已签署协议，将使用由英伟达支持的云基础设施初创公司Volta管理的数据中心。Volta周二早些时候宣布，已与一家未具名AI实验室达成一项价值100亿美元的协议，并将与运营数据中心的比特币矿企Bitdeer Technologies Group合作，利用位于挪威的设施。该协议为期六年。（新浪财经）",
-      "published_at": "2026-08-04T23:10:20+00:00",
-      "published_ts": 1785885020.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.974
-    },
     {
       "id": "ars_technica:4172099914cf",
       "source": "ars_technica",
@@ -110,21 +95,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.999
-    },
-    {
-      "id": "kr36:7de4ec15ccb9",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "英伟达、思科、CrowdStrike等企业推动起草AI网络安全指南",
-      "url": "https://36kr.com/newsflashes/3925368415156352?f=rss",
-      "summary": "据英伟达8月4日声明，Linux基金会发布关于“共享AI发现交换”（SAFE）的征求意见稿。据介绍，SAFE是一套拟议指南，旨在将涉及AI智能体的网络安全事件转化为整个生态系统的共享防护能力。声明称，“开放安全AI联盟”的一个工作组正负责起草SAFE指南。英伟达、思科、CrowdStrike、Hugging Face和Red Hat等联盟成员正与Linux基金会合作，共同推进这一初步提案。（界面）",
-      "published_at": "2026-08-04T23:13:48+00:00",
-      "published_ts": 1785885228.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.993
     },
     {
       "id": "techcrunch:bdd2385825f3",
