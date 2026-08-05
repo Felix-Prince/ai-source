@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T10:55:48.590293+00:00",
-    "generated_ts": 1785927348.590293,
+    "generated_at": "2026-08-05T14:39:58.233218+00:00",
+    "generated_ts": 1785940798.233218,
     "window_hours": 24.0,
-    "total": 25
+    "total": 20
   },
   "items": [
     {
@@ -22,64 +22,19 @@
       "importance": 2.974
     },
     {
-      "id": "kr36:1749726d1a74",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议",
-      "url": "https://36kr.com/newsflashes/3925172170324099?f=rss",
-      "summary": "据报道，Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议。（第一财经）",
-      "published_at": "2026-08-04T12:11:36+00:00",
-      "published_ts": 1785845496.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.786
-    },
-    {
-      "id": "the_verge:462c79d898ba",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email [&#8230;]",
-      "published_at": "2026-08-04T11:27:55+00:00",
-      "published_ts": 1785842875.0,
+      "id": "techcrunch:574c4750927c",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "published_at": "2026-08-05T14:13:18+00:00",
+      "published_ts": 1785939198.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.728
-    },
-    {
-      "id": "qbitai:3d2cc78ad08f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "url": "https://www.qbitai.com/2026/08/466386.html",
-      "summary": "北京大学&#038;元空AI Agent联合实验室",
-      "published_at": "2026-08-04T13:14:27+00:00",
-      "published_ts": 1785849267.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.914
-    },
-    {
-      "id": "kr36:f9fa207e1547",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
-      "url": "https://36kr.com/newsflashes/3925199434611072?f=rss",
-      "summary": "为增强韩国人工智能技术竞争力、拓展AI服务，被称作“人工智能高速通道”的人工智能算力中心建设工作正式启动。8月3日，韩国科学技术信息通信部在全罗南道光州市海南郡索拉西多数据中心园区，举办人工智能算力中心奠基仪式。该项目总投资2.5万亿韩元，占地面积约4.8万平方米，规划建设一栋两层建筑，预计2028年竣工投用。去年，三星SDS联合NAVER云、三星物产、三星电子、Kakao、KT、光州市政府以及西南海岸企业城市开发公司组建联合体，通过公开招标拿下该项目。（财联社）",
-      "published_at": "2026-08-04T12:39:20+00:00",
-      "published_ts": 1785847160.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.882
+      "importance": 1.974
     },
     {
       "id": "qbitai:c741c21dc021",
@@ -95,36 +50,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.871
-    },
-    {
-      "id": "kr36:de9ba39377c7",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "CoWoS封装产能告急，台积电进一步扩大外包产能",
-      "url": "https://36kr.com/newsflashes/3925154441787525?f=rss",
-      "summary": "英伟达的GPU订单已经把台积电的封装产线挤到极限，台积电不得不决定将AI芯片制造核心工席CoWoS中的CoW（晶圆上芯片）封装产能进一步外包给日月光等封测厂商。CoWoS是台积电用于AI芯片的2.5D封装技术，AI处理器位于芯片中心，HBM（高带宽内存）环绕四周，通过中介层连接。（财联社）",
-      "published_at": "2026-08-04T11:53:34+00:00",
-      "published_ts": 1785844414.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.841
-    },
-    {
-      "id": "ars_technica:902bc8155575",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-      "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
-      "published_at": "2026-08-04T13:38:29+00:00",
-      "published_ts": 1785850709.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.755
     },
     {
       "id": "openai_blog:63daf6f86dd1",
@@ -247,21 +172,6 @@
       "importance": 0.983
     },
     {
-      "id": "techcrunch:b7513f544f15",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "published_at": "2026-08-04T14:03:01+00:00",
-      "published_ts": 1785852181.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.98
-    },
-    {
       "id": "techcrunch:414df16d7536",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -277,21 +187,6 @@
       "importance": 0.969
     },
     {
-      "id": "techcrunch:85f7a7d128e4",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "published_at": "2026-08-04T13:00:00+00:00",
-      "published_ts": 1785848400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.95
-    },
-    {
       "id": "the_verge:3553be283440",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -305,6 +200,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.943
+    },
+    {
+      "id": "techcrunch:9132c49232c6",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "published_at": "2026-08-05T12:28:38+00:00",
+      "published_ts": 1785932918.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.939
     },
     {
       "id": "kr36:ae8b77d8ec06",
@@ -335,6 +245,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.92
+    },
+    {
+      "id": "the_verge:503591ec81f3",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in an email apparently sent to [&#8230;]",
+      "published_at": "2026-08-05T11:12:50+00:00",
+      "published_ts": 1785928370.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.905
     },
     {
       "id": "the_verge:ecbd839f0cc2",
