@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T03:40:15.331484+00:00",
+    "generated_at": "2026-08-05T06:46:49.911062+00:00",
     "max_days": 30
   },
   "items": [
@@ -7878,6 +7878,21 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:c741c21dc021",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+      "url": "https://www.qbitai.com/2026/08/466454.html",
+      "summary": "二季度AI收入暴涨247%",
+      "published_at": "2026-08-05T04:28:31+00:00",
+      "published_ts": 1785904111.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.871
     }
   ]
 }
