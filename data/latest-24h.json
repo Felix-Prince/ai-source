@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T17:57:21.122658+00:00",
-    "generated_ts": 1785952641.1226583,
+    "generated_at": "2026-08-05T19:59:34.692233+00:00",
+    "generated_ts": 1785959974.6922326,
     "window_hours": 24.0,
-    "total": 19
+    "total": 16
   },
   "items": [
     {
@@ -67,21 +67,6 @@
       "importance": 1.871
     },
     {
-      "id": "openai_blog:63daf6f86dd1",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "published_at": "2026-08-04T19:00:00+00:00",
-      "published_ts": 1785870000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.388
-    },
-    {
       "id": "kr36:2d4a525edf71",
       "source": "kr36",
       "source_label": "36氪",
@@ -97,21 +82,6 @@
       "importance": 0.999
     },
     {
-      "id": "techcrunch:bc673b6a434d",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "published_at": "2026-08-04T19:48:40+00:00",
-      "published_ts": 1785872920.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.993
-    },
-    {
       "id": "kr36:7de4ec15ccb9",
       "source": "kr36",
       "source_label": "36氪",
@@ -125,21 +95,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.993
-    },
-    {
-      "id": "techcrunch:1d0d690392ff",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "published_at": "2026-08-04T19:28:49+00:00",
-      "published_ts": 1785871729.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.984
     },
     {
       "id": "the_verge:e6785ba1f3d3",
