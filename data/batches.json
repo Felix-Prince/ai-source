@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T19:59:34.692233+00:00",
+    "generated_at": "2026-08-05T21:37:23.512913+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1829,6 +1829,79 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-05T21:37:23.512913+00:00",
+      "generated_ts": 1785965843.5129135,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "ars_technica:4172099914cf",
+          "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.928,
+          "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+          "published_at": "2026-08-05T20:47:11+00:00",
+          "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
+        },
+        {
+          "id": "techcrunch:2e494806efab",
+          "title": "Why Lightspeed is going all-in on creator-led venture capital",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.954,
+          "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+          "published_at": "2026-08-05T20:48:54+00:00",
+          "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisiti"
+        },
+        {
+          "id": "techcrunch:bdd2385825f3",
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.992,
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "published_at": "2026-08-05T21:21:28+00:00",
+          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+        },
+        {
+          "id": "techcrunch:c43a3f0ed8c7",
+          "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.985,
+          "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+          "published_at": "2026-08-05T21:05:37+00:00",
+          "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees."
+        },
+        {
+          "id": "techcrunch:5ff2d0295045",
+          "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.978,
+          "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+          "published_at": "2026-08-05T20:50:45+00:00",
+          "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis."
+        },
+        {
+          "id": "techcrunch:995793d9adee",
+          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.957,
+          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+          "published_at": "2026-08-05T20:05:00+00:00",
+          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+        }
+      ]
     }
   ]
 }

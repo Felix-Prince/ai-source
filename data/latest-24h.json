@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T19:59:34.692233+00:00",
-    "generated_ts": 1785959974.6922326,
+    "generated_at": "2026-08-05T21:37:23.512913+00:00",
+    "generated_ts": 1785965843.5129135,
     "window_hours": 24.0,
-    "total": 16
+    "total": 21
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.974
+    },
+    {
+      "id": "ars_technica:4172099914cf",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "published_at": "2026-08-05T20:47:11+00:00",
+      "published_ts": 1785962831.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.928
     },
     {
       "id": "the_verge:61c39acdcde1",
@@ -50,6 +65,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.974
+    },
+    {
+      "id": "techcrunch:2e494806efab",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisition&#160;of TBPN.&#160;Lightspeed Venture Partners&#160;just made its own notable hire in that vein, bringing on&#160;Claire Zau, a seed investor with a major following on Instagram and [&#8230;]",
+      "published_at": "2026-08-05T20:48:54+00:00",
+      "published_ts": 1785962934.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.954
     },
     {
       "id": "qbitai:c741c21dc021",
@@ -97,6 +127,51 @@
       "importance": 0.993
     },
     {
+      "id": "techcrunch:bdd2385825f3",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "published_at": "2026-08-05T21:21:28+00:00",
+      "published_ts": 1785964888.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.992
+    },
+    {
+      "id": "techcrunch:c43a3f0ed8c7",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "published_at": "2026-08-05T21:05:37+00:00",
+      "published_ts": 1785963937.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.985
+    },
+    {
+      "id": "techcrunch:5ff2d0295045",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "published_at": "2026-08-05T20:50:45+00:00",
+      "published_ts": 1785963045.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.978
+    },
+    {
       "id": "the_verge:e6785ba1f3d3",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -112,19 +187,19 @@
       "importance": 0.972
     },
     {
-      "id": "techcrunch:414df16d7536",
+      "id": "techcrunch:995793d9adee",
       "source": "techcrunch",
       "source_label": "TechCrunch",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "published_at": "2026-08-04T20:36:30+00:00",
-      "published_ts": 1785875790.0,
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "published_at": "2026-08-05T20:05:00+00:00",
+      "published_ts": 1785960300.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.969
+      "importance": 0.957
     },
     {
       "id": "the_verge:2d9e3f7f6978",
