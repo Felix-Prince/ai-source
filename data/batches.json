@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T14:39:58.233218+00:00",
+    "generated_at": "2026-08-05T17:57:21.122658+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1752,6 +1752,69 @@
           "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
           "published_at": "2026-08-05T11:12:50+00:00",
           "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement "
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-05T17:57:21.122658+00:00",
+      "generated_ts": 1785952641.1226583,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:61c39acdcde1",
+          "title": "Rogue AI agents created fake online identities in another hacking attempt",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.774,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+          "published_at": "2026-08-05T15:14:57+00:00",
+          "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems."
+        },
+        {
+          "id": "the_verge:e6785ba1f3d3",
+          "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.972,
+          "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+          "published_at": "2026-08-05T16:59:23+00:00",
+          "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage a"
+        },
+        {
+          "id": "the_verge:2d9e3f7f6978",
+          "title": "Reddit is introducing a new moderator: AI",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.945,
+          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+          "published_at": "2026-08-05T16:00:00+00:00",
+          "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan"
+        },
+        {
+          "id": "techcrunch:3ba8581ce9c2",
+          "title": "Hark previews its browser use agent for completing tasks",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.939,
+          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+          "published_at": "2026-08-05T15:46:27+00:00",
+          "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
+        },
+        {
+          "id": "ars_technica:23d12e0ae989",
+          "title": "Google plans to kill Assistant on your phone on September 4",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.932,
+          "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+          "published_at": "2026-08-05T15:30:02+00:00",
+          "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
         }
       ]
     }
