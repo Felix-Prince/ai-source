@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T07:07:55.270622+00:00",
-    "generated_ts": 1786000075.2706215,
+    "generated_at": "2026-08-06T10:57:24.622909+00:00",
+    "generated_ts": 1786013844.6229086,
     "window_hours": 24.0,
-    "total": 15
+    "total": 17
   },
   "items": [
     {
@@ -65,6 +65,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.954
+    },
+    {
+      "id": "the_verge:b09616f26e40",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
+      "published_at": "2026-08-06T09:33:11+00:00",
+      "published_ts": 1786008791.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.921
+    },
+    {
+      "id": "qbitai:5a1c2e0dcdf5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+      "url": "https://www.qbitai.com/2026/08/467444.html",
+      "summary": "",
+      "published_at": "2026-08-06T07:43:56+00:00",
+      "published_ts": 1786002236.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.822
     },
     {
       "id": "techcrunch:bdd2385825f3",
