@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T23:26:10.419264+00:00",
-    "generated_ts": 1785972370.4192636,
+    "generated_at": "2026-08-06T03:45:51.469672+00:00",
+    "generated_ts": 1785987951.4696717,
     "window_hours": 24.0,
-    "total": 19
+    "total": 18
   },
   "items": [
     {
@@ -80,21 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.871
-    },
-    {
-      "id": "kr36:2d4a525edf71",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术",
-      "url": "https://36kr.com/newsflashes/3925818953414792?f=rss",
-      "summary": "当地时间8月4日， 三星电子在美国圣克拉拉举行的2026年未来存储与内存大会（FMS）上，公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品，并推出采用晶圆键合技术的400层以上V10 BV-NAND。三星表示，zHBM旨在通过将HBM垂直堆叠于AI加速器上方，缩短处理器与内存之间的数据传输距离，以提升AI训练和推理性能。搭载下一代接口系统的zHBM预计性能可达到HBM5的约8倍，同时借助新型晶圆键合技术，实现超过HBM5 10倍的内存密度，并提升能效表现。（界面）",
-      "published_at": "2026-08-04T23:26:28+00:00",
-      "published_ts": 1785885988.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.999
     },
     {
       "id": "techcrunch:bdd2385825f3",

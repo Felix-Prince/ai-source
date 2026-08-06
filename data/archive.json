@@ -1,39 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T23:26:10.419264+00:00",
+    "generated_at": "2026-08-06T03:45:51.469672+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:fb2b0f0179dc",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "published_ts": 1783382400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
-    {
-      "id": "openai_blog:a7c45a4e2908",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "published_ts": 1783382400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:cfddd03286f7",
       "source": "openai_blog",
@@ -8923,6 +8893,36 @@
       "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
       "published_at": "2026-08-05T22:55:43+00:00",
       "published_ts": 1785970543.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:4dfbb1a174b5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+      "published_at": "2026-08-05T23:52:10+00:00",
+      "published_ts": 1785973930.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:43cf97754fec",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+      "published_at": "2026-08-06T00:25:10+00:00",
+      "published_ts": 1785975910.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
