@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T03:45:51.469672+00:00",
-    "generated_ts": 1785987951.4696717,
+    "generated_at": "2026-08-06T07:07:55.270622+00:00",
+    "generated_ts": 1786000075.2706215,
     "window_hours": 24.0,
-    "total": 18
+    "total": 15
   },
   "items": [
     {
@@ -65,21 +65,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.954
-    },
-    {
-      "id": "qbitai:c741c21dc021",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
-      "url": "https://www.qbitai.com/2026/08/466454.html",
-      "summary": "二季度AI收入暴涨247%",
-      "published_at": "2026-08-05T04:28:31+00:00",
-      "published_ts": 1785904111.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.871
     },
     {
       "id": "techcrunch:bdd2385825f3",
@@ -157,6 +142,21 @@
       "importance": 0.957
     },
     {
+      "id": "qbitai:53184aa53f29",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "url": "https://www.qbitai.com/2026/08/467262.html",
+      "summary": "",
+      "published_at": "2026-08-06T05:29:40+00:00",
+      "published_ts": 1785994180.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.954
+    },
+    {
       "id": "the_verge:2d9e3f7f6978",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -230,51 +230,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.905
-    },
-    {
-      "id": "the_verge:ecbd839f0cc2",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Ted Lasso returns at an important time for Apple TV",
-      "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
-      "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed [&#8230;]",
-      "published_at": "2026-08-05T07:00:00+00:00",
-      "published_ts": 1785913200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.893
-    },
-    {
-      "id": "qbitai:9cf33c88d30f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-      "url": "https://www.qbitai.com/2026/08/466739.html",
-      "summary": "内部默认用GPT-5.6",
-      "published_at": "2026-08-05T06:33:40+00:00",
-      "published_ts": 1785911620.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.881
-    },
-    {
-      "id": "qbitai:5f9297b75e47",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-      "url": "https://www.qbitai.com/2026/08/466553.html",
-      "summary": "CUDA又危了？",
-      "published_at": "2026-08-05T05:53:38+00:00",
-      "published_ts": 1785909218.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.865
     }
   ]
 }

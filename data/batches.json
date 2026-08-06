@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T03:45:51.469672+00:00",
+    "generated_at": "2026-08-06T07:07:55.270622+00:00",
     "max_days": 30
   },
   "batches": [
@@ -1926,6 +1926,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-06T07:07:55.270622+00:00",
+      "generated_ts": 1786000075.2706215,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:53184aa53f29",
+          "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.954,
+          "url": "https://www.qbitai.com/2026/08/467262.html",
+          "published_at": "2026-08-06T05:29:40+00:00",
+          "summary": ""
+        }
+      ]
     }
   ]
 }

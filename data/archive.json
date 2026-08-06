@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T03:45:51.469672+00:00",
+    "generated_at": "2026-08-06T07:07:55.270622+00:00",
     "max_days": 30
   },
   "items": [
@@ -8925,6 +8925,51 @@
       "published_ts": 1785975910.0,
       "category": "international",
       "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:53184aa53f29",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "url": "https://www.qbitai.com/2026/08/467262.html",
+      "summary": "",
+      "published_at": "2026-08-06T05:29:40+00:00",
+      "published_ts": 1785994180.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.954
+    },
+    {
+      "id": "qbitai:312f90bd4755",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
+      "url": "https://www.qbitai.com/2026/08/467270.html",
+      "summary": "",
+      "published_at": "2026-08-06T05:36:37+00:00",
+      "published_ts": 1785994597.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:4b5e048029ce",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "这人谁啊？哈萨比斯都让位了",
+      "url": "https://www.qbitai.com/2026/08/467274.html",
+      "summary": "没想到还有LeCun的事儿",
+      "published_at": "2026-08-06T06:17:43+00:00",
+      "published_ts": 1785997063.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
