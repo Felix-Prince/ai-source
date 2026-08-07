@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T00:19:46.529252+00:00",
-    "generated_ts": 1786061986.5292518,
+    "generated_at": "2026-08-07T03:21:33.863263+00:00",
+    "generated_ts": 1786072893.8632631,
     "window_hours": 24.0,
-    "total": 15
+    "total": 19
   },
   "items": [
+    {
+      "id": "qbitai:aea949963b15",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
+      "published_at": "2026-08-07T02:56:46+00:00",
+      "published_ts": 1786071406.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.964
+    },
     {
       "id": "ars_technica:ce14a17263b0",
       "source": "ars_technica",
@@ -35,6 +50,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.921
+    },
+    {
+      "id": "qbitai:926973064001",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "url": "https://www.qbitai.com/2026/08/467487.html",
+      "summary": "此后模型、算力、数据中心都在合作范围内",
+      "published_at": "2026-08-07T00:25:07+00:00",
+      "published_ts": 1786062307.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.837
     },
     {
       "id": "qbitai:5a1c2e0dcdf5",
@@ -80,6 +110,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.618
+    },
+    {
+      "id": "qbitai:f868e4f0448a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+      "published_at": "2026-08-07T03:08:51+00:00",
+      "published_ts": 1786072131.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.994
     },
     {
       "id": "openai_blog:1ab26683a1d6",
@@ -140,6 +185,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.953
+    },
+    {
+      "id": "qbitai:9006f1cfa2c7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "url": "https://www.qbitai.com/2026/08/467663.html",
+      "summary": "指环王成为大模型新基准",
+      "published_at": "2026-08-07T01:15:42+00:00",
+      "published_ts": 1786065342.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.941
     },
     {
       "id": "techcrunch:949905e4eead",

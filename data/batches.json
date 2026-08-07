@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T00:19:46.529252+00:00",
+    "generated_at": "2026-08-07T03:21:33.863263+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2125,6 +2125,59 @@
           "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
           "published_at": "2026-08-06T15:10:32+00:00",
           "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-07T03:21:33.863263+00:00",
+      "generated_ts": 1786072893.8632631,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:aea949963b15",
+          "title": "AI SSD：大模型推理的存储范式转移",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.964,
+          "url": "https://www.qbitai.com/2026/08/467840.html",
+          "published_at": "2026-08-07T02:56:46+00:00",
+          "summary": "算力、网络、内存与存储开始围绕每个Token协同"
+        },
+        {
+          "id": "qbitai:926973064001",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.837,
+          "url": "https://www.qbitai.com/2026/08/467487.html",
+          "published_at": "2026-08-07T00:25:07+00:00",
+          "summary": "此后模型、算力、数据中心都在合作范围内"
+        },
+        {
+          "id": "qbitai:f868e4f0448a",
+          "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.994,
+          "url": "https://www.qbitai.com/2026/08/467871.html",
+          "published_at": "2026-08-07T03:08:51+00:00",
+          "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
+        },
+        {
+          "id": "qbitai:9006f1cfa2c7",
+          "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.941,
+          "url": "https://www.qbitai.com/2026/08/467663.html",
+          "published_at": "2026-08-07T01:15:42+00:00",
+          "summary": "指环王成为大模型新基准"
         }
       ]
     }

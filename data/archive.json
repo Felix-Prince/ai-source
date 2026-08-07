@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T00:19:46.529252+00:00",
+    "generated_at": "2026-08-07T03:21:33.863263+00:00",
     "max_days": 30
   },
   "items": [
@@ -9860,6 +9860,21 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:dfe9af3d823e",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+      "published_at": "2026-08-06T22:20:50+00:00",
+      "published_ts": 1786054850.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:f9914213c4d4",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -9873,6 +9888,111 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.955
+    },
+    {
+      "id": "qbitai:926973064001",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "url": "https://www.qbitai.com/2026/08/467487.html",
+      "summary": "此后模型、算力、数据中心都在合作范围内",
+      "published_at": "2026-08-07T00:25:07+00:00",
+      "published_ts": 1786062307.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.837
+    },
+    {
+      "id": "qbitai:d066c74b5aa5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "url": "https://www.qbitai.com/2026/08/467486.html",
+      "summary": "采集、仿真、训练和评测，闭环了",
+      "published_at": "2026-08-07T00:55:47+00:00",
+      "published_ts": 1786064147.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:9006f1cfa2c7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "url": "https://www.qbitai.com/2026/08/467663.html",
+      "summary": "指环王成为大模型新基准",
+      "published_at": "2026-08-07T01:15:42+00:00",
+      "published_ts": 1786065342.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.941
+    },
+    {
+      "id": "qbitai:f4279e800859",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "智元下架了首席科学家罗剑岚",
+      "url": "https://www.qbitai.com/2026/08/467730.html",
+      "summary": "智元机器人高管生变！",
+      "published_at": "2026-08-07T01:25:40+00:00",
+      "published_ts": 1786065940.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:fd17b76be7ac",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "summary": "",
+      "published_at": "2026-08-07T01:39:16+00:00",
+      "published_ts": 1786066756.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:aea949963b15",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
+      "published_at": "2026-08-07T02:56:46+00:00",
+      "published_ts": 1786071406.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.964
+    },
+    {
+      "id": "qbitai:f868e4f0448a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+      "published_at": "2026-08-07T03:08:51+00:00",
+      "published_ts": 1786072131.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.994
     }
   ]
 }
