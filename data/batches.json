@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T19:25:14.412044+00:00",
+    "generated_at": "2026-08-07T21:03:52.403313+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2392,6 +2392,18 @@
           "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-07T21:03:52.403313+00:00",
+      "generated_ts": 1786136632.4033127,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }

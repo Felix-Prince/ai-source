@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T19:25:14.412044+00:00",
-    "generated_ts": 1786130714.4120438,
+    "generated_at": "2026-08-07T21:03:52.403313+00:00",
+    "generated_ts": 1786136632.4033127,
     "window_hours": 24.0,
-    "total": 18
+    "total": 16
   },
   "items": [
     {
@@ -35,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.961
-    },
-    {
-      "id": "ars_technica:ce14a17263b0",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Anthropic will design its own hardware to power Claude",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-      "published_at": "2026-08-06T20:03:44+00:00",
-      "published_ts": 1786046624.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.652
     },
     {
       "id": "the_verge:f3d664e9849f",
@@ -260,21 +245,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.93
-    },
-    {
-      "id": "the_verge:fe5fd96e305c",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
-      "published_at": "2026-08-06T20:55:39+00:00",
-      "published_ts": 1786049739.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.906
     }
   ]
 }
