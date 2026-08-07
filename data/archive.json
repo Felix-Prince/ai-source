@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T03:21:33.863263+00:00",
+    "generated_at": "2026-08-07T05:54:10.603323+00:00",
     "max_days": 30
   },
   "items": [
@@ -9993,6 +9993,36 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.994
+    },
+    {
+      "id": "qbitai:5071afa88e0d",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "summary": "Chat优化版",
+      "published_at": "2026-08-07T03:23:01+00:00",
+      "published_ts": 1786072981.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.93
+    },
+    {
+      "id": "qbitai:ba858ab889dd",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "published_at": "2026-08-07T03:23:54+00:00",
+      "published_ts": 1786073034.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.93
     }
   ]
 }

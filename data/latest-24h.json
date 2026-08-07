@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T03:21:33.863263+00:00",
-    "generated_ts": 1786072893.8632631,
+    "generated_at": "2026-08-07T05:54:10.603323+00:00",
+    "generated_ts": 1786082050.6033235,
     "window_hours": 24.0,
-    "total": 19
+    "total": 20
   },
   "items": [
     {
@@ -157,21 +157,6 @@
       "importance": 0.955
     },
     {
-      "id": "qbitai:53184aa53f29",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-      "url": "https://www.qbitai.com/2026/08/467262.html",
-      "summary": "",
-      "published_at": "2026-08-06T05:29:40+00:00",
-      "published_ts": 1785994180.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.954
-    },
-    {
       "id": "techcrunch:7abe7d3a352c",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -215,6 +200,36 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.939
+    },
+    {
+      "id": "qbitai:ba858ab889dd",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "published_at": "2026-08-07T03:23:54+00:00",
+      "published_ts": 1786073034.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.93
+    },
+    {
+      "id": "qbitai:5071afa88e0d",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "summary": "Chat优化版",
+      "published_at": "2026-08-07T03:23:01+00:00",
+      "published_ts": 1786072981.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.93
     },
     {
       "id": "techcrunch:56a0c548007a",
