@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T11:11:57.258471+00:00",
+    "generated_at": "2026-08-07T13:43:06.100034+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2260,6 +2260,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-07T13:43:06.100034+00:00",
+      "generated_ts": 1786110186.1000338,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "ars_technica:d171ef4f86de",
+          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.993,
+          "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+          "published_at": "2026-08-07T13:29:22+00:00",
+          "summary": "TikTok owner training a model with 10 trillion parameters."
+        }
+      ]
     }
   ]
 }

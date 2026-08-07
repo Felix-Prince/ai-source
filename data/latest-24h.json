@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T11:11:57.258471+00:00",
-    "generated_ts": 1786101117.2584715,
+    "generated_at": "2026-08-07T13:43:06.100034+00:00",
+    "generated_ts": 1786110186.1000338,
     "window_hours": 24.0,
-    "total": 17
+    "total": 15
   },
   "items": [
     {
@@ -112,6 +112,21 @@
       "importance": 0.994
     },
     {
+      "id": "ars_technica:d171ef4f86de",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "summary": "TikTok owner training a model with 10 trillion parameters.",
+      "published_at": "2026-08-07T13:29:22+00:00",
+      "published_ts": 1786109362.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.993
+    },
+    {
       "id": "techcrunch:f9914213c4d4",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -127,21 +142,6 @@
       "importance": 0.955
     },
     {
-      "id": "techcrunch:7abe7d3a352c",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
-      "published_at": "2026-08-06T13:00:00+00:00",
-      "published_ts": 1786021200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.953
-    },
-    {
       "id": "qbitai:9006f1cfa2c7",
       "source": "qbitai",
       "source_label": "量子位",
@@ -155,21 +155,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.941
-    },
-    {
-      "id": "techcrunch:949905e4eead",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "published_at": "2026-08-06T12:30:00+00:00",
-      "published_ts": 1786019400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.939
     },
     {
       "id": "qbitai:5071afa88e0d",
@@ -200,21 +185,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.93
-    },
-    {
-      "id": "techcrunch:56a0c548007a",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "published_at": "2026-08-06T12:00:00+00:00",
-      "published_ts": 1786017600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.926
     },
     {
       "id": "the_verge:fe5fd96e305c",
