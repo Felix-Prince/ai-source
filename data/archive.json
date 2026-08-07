@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T05:54:10.603323+00:00",
+    "generated_at": "2026-08-07T07:47:57.787683+00:00",
     "max_days": 30
   },
   "items": [
@@ -10023,6 +10023,36 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.93
+    },
+    {
+      "id": "qbitai:98730d98bdef",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "url": "https://www.qbitai.com/2026/08/467878.html",
+      "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+      "published_at": "2026-08-07T05:30:08+00:00",
+      "published_ts": 1786080608.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:e1a8b6a0f3d7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "summary": "从「能用」走向「规模化落地」",
+      "published_at": "2026-08-07T06:18:51+00:00",
+      "published_ts": 1786083531.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
