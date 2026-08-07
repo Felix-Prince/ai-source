@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T15:13:15.510683+00:00",
+    "generated_at": "2026-08-07T17:12:29.242551+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2304,6 +2304,49 @@
           "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
           "published_at": "2026-08-07T14:05:00+00:00",
           "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB [&#8230;]"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-07T17:12:29.242551+00:00",
+      "generated_ts": 1786122749.242551,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:c04b9044b7de",
+          "title": "What&#8217;s behind the Google AI shake-up",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.961,
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "published_at": "2026-08-07T16:45:14+00:00",
+          "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;"
+        },
+        {
+          "id": "openai_blog:bc8b927aeea1",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.421,
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "published_at": "2026-08-07T15:20:00+00:00",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+        },
+        {
+          "id": "techcrunch:57202996456e",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.973,
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "published_at": "2026-08-07T16:16:09+00:00",
+          "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
         }
       ]
     }

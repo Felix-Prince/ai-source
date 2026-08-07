@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T15:13:15.510683+00:00",
-    "generated_ts": 1786115595.5106833,
+    "generated_at": "2026-08-07T17:12:29.242551+00:00",
+    "generated_ts": 1786122749.242551,
     "window_hours": 24.0,
-    "total": 15
+    "total": 16
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.964
+    },
+    {
+      "id": "the_verge:c04b9044b7de",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+      "published_at": "2026-08-07T16:45:14+00:00",
+      "published_ts": 1786121114.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.961
     },
     {
       "id": "ars_technica:ce14a17263b0",
@@ -67,21 +82,6 @@
       "importance": 1.646
     },
     {
-      "id": "the_verge:dc3f0e9bae34",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
-      "published_at": "2026-08-06T17:00:00+00:00",
-      "published_ts": 1786035600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.618
-    },
-    {
       "id": "openai_blog:8f19a86b6fd8",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -95,6 +95,21 @@
       "tier": 0,
       "ai_score": 1.0,
       "importance": 1.48
+    },
+    {
+      "id": "openai_blog:bc8b927aeea1",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "published_at": "2026-08-07T15:20:00+00:00",
+      "published_ts": 1786116000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.421
     },
     {
       "id": "qbitai:f868e4f0448a",
@@ -125,6 +140,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.993
+    },
+    {
+      "id": "techcrunch:57202996456e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "published_ts": 1786119369.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.973
     },
     {
       "id": "the_verge:02d65904b7eb",
@@ -215,21 +245,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.906
-    },
-    {
-      "id": "ars_technica:abc8445aac0b",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-      "published_at": "2026-08-06T16:15:30+00:00",
-      "published_ts": 1786032930.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.792
     }
   ]
 }
