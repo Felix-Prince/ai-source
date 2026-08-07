@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T17:12:29.242551+00:00",
-    "generated_ts": 1786122749.242551,
+    "generated_at": "2026-08-07T19:25:14.412044+00:00",
+    "generated_ts": 1786130714.4120438,
     "window_hours": 24.0,
-    "total": 16
+    "total": 18
   },
   "items": [
     {
@@ -52,6 +52,21 @@
       "importance": 2.652
     },
     {
+      "id": "the_verge:f3d664e9849f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "published_ts": 1786128034.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.957
+    },
+    {
       "id": "qbitai:926973064001",
       "source": "qbitai",
       "source_label": "量子位",
@@ -65,21 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.837
-    },
-    {
-      "id": "techcrunch:2f47c10fc2a2",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "published_at": "2026-08-06T17:34:42+00:00",
-      "published_ts": 1786037682.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.646
     },
     {
       "id": "openai_blog:8f19a86b6fd8",
@@ -172,6 +172,21 @@
       "importance": 0.968
     },
     {
+      "id": "the_verge:eb72457aef8d",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Disney Plus tries a new AI-powered search",
+      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new [&#8230;]",
+      "published_at": "2026-08-07T17:53:44+00:00",
+      "published_ts": 1786125224.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.957
+    },
+    {
       "id": "techcrunch:f9914213c4d4",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -185,6 +200,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.955
+    },
+    {
+      "id": "ars_technica:c8bab6498752",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "published_at": "2026-08-07T17:36:22+00:00",
+      "published_ts": 1786124182.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.949
     },
     {
       "id": "qbitai:9006f1cfa2c7",

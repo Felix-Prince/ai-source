@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T17:12:29.242551+00:00",
+    "generated_at": "2026-08-07T19:25:14.412044+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2347,6 +2347,49 @@
           "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
           "published_at": "2026-08-07T16:16:09+00:00",
           "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-07T19:25:14.412044+00:00",
+      "generated_ts": 1786130714.4120438,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:f3d664e9849f",
+          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.957,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "published_at": "2026-08-07T18:40:34+00:00",
+          "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al"
+        },
+        {
+          "id": "the_verge:eb72457aef8d",
+          "title": "Disney Plus tries a new AI-powered search",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.957,
+          "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+          "published_at": "2026-08-07T17:53:44+00:00",
+          "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But "
+        },
+        {
+          "id": "ars_technica:c8bab6498752",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.949,
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "published_at": "2026-08-07T17:36:22+00:00",
+          "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
         }
       ]
     }
