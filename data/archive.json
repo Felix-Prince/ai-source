@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T09:27:43.597569+00:00",
+    "generated_at": "2026-08-07T11:11:57.258471+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:46c73d1b4619",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "published_at": "2026-07-08T10:00:00+00:00",
-      "published_ts": 1783504800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:61bb24f8531d",
       "source": "openai_blog",
@@ -10108,6 +10093,36 @@
       "summary": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental [&#8230;]",
       "published_at": "2026-08-07T09:10:01+00:00",
       "published_ts": 1786093801.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:7d3d185ccbf5",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
+      "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+      "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not [&#8230;]",
+      "published_at": "2026-08-07T10:30:00+00:00",
+      "published_ts": 1786098600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:ea2b62c1b558",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Why does Apple keep banning Telegram, but never X?",
+      "url": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+      "summary": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in countries under censorship. Apple later [&#8230;]",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "published_ts": 1786100400.0,
       "category": "international",
       "lang": "en",
       "tier": 1,

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T09:27:43.597569+00:00",
+    "generated_at": "2026-08-07T11:11:57.258471+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2248,6 +2248,18 @@
           "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-07T11:11:57.258471+00:00",
+      "generated_ts": 1786101117.2584715,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }

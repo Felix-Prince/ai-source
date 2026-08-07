@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T09:27:43.597569+00:00",
-    "generated_ts": 1786094863.5975695,
+    "generated_at": "2026-08-07T11:11:57.258471+00:00",
+    "generated_ts": 1786101117.2584715,
     "window_hours": 24.0,
-    "total": 19
+    "total": 17
   },
   "items": [
     {
@@ -35,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.652
-    },
-    {
-      "id": "the_verge:b09616f26e40",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
-      "published_at": "2026-08-06T09:33:11+00:00",
-      "published_ts": 1786008791.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.921
     },
     {
       "id": "qbitai:926973064001",
@@ -125,21 +110,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.994
-    },
-    {
-      "id": "openai_blog:1ab26683a1d6",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "published_at": "2026-08-06T10:00:00+00:00",
-      "published_ts": 1786010400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.992
     },
     {
       "id": "techcrunch:f9914213c4d4",
