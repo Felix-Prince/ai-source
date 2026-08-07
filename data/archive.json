@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T07:47:57.787683+00:00",
+    "generated_at": "2026-08-07T09:27:43.597569+00:00",
     "max_days": 30
   },
   "items": [
@@ -10050,6 +10050,66 @@
       "published_ts": 1786083531.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:785292a85194",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "summary": "",
+      "published_at": "2026-08-07T06:21:05+00:00",
+      "published_ts": 1786083665.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:415d1d5b1bb8",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "summary": "AI语音“听、说、创”一站式满足",
+      "published_at": "2026-08-07T07:43:06+00:00",
+      "published_ts": 1786088586.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "openai_blog:8f19a86b6fd8",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "published_at": "2026-08-07T09:00:00+00:00",
+      "published_ts": 1786093200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.48
+    },
+    {
+      "id": "the_verge:9c07e46208d0",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+      "summary": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental [&#8230;]",
+      "published_at": "2026-08-07T09:10:01+00:00",
+      "published_ts": 1786093801.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0

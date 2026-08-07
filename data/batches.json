@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T07:47:57.787683+00:00",
+    "generated_at": "2026-08-07T09:27:43.597569+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2225,6 +2225,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-07T09:27:43.597569+00:00",
+      "generated_ts": 1786094863.5975695,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:8f19a86b6fd8",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.48,
+          "url": "https://openai.com/index/hsp-gruppe",
+          "published_at": "2026-08-07T09:00:00+00:00",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+        }
+      ]
     }
   ]
 }
