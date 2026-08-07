@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T13:43:06.100034+00:00",
+    "generated_at": "2026-08-07T15:13:15.510683+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2281,6 +2281,29 @@
           "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
           "published_at": "2026-08-07T13:29:22+00:00",
           "summary": "TikTok owner training a model with 10 trillion parameters."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-07T15:13:15.510683+00:00",
+      "generated_ts": 1786115595.5106833,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:02d65904b7eb",
+          "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.968,
+          "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+          "published_at": "2026-08-07T14:05:00+00:00",
+          "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB [&#8230;]"
         }
       ]
     }
