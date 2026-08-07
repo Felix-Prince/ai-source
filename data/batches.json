@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T14:40:16.961661+00:00",
+    "generated_at": "2026-08-07T00:19:46.529252+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2022,6 +2022,109 @@
           "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
           "published_at": "2026-08-06T12:00:00+00:00",
           "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-07T00:19:46.529252+00:00",
+      "generated_ts": 1786061986.5292518,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "ars_technica:ce14a17263b0",
+          "title": "Anthropic will design its own hardware to power Claude",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.652,
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "published_at": "2026-08-06T20:03:44+00:00",
+          "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
+        },
+        {
+          "id": "techcrunch:2f47c10fc2a2",
+          "title": "ChatGPT brings unlimited text chats to free users",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.646,
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+          "published_at": "2026-08-06T17:34:42+00:00",
+          "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+        },
+        {
+          "id": "the_verge:dc3f0e9bae34",
+          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.618,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "published_at": "2026-08-06T17:00:00+00:00",
+          "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]"
+        },
+        {
+          "id": "openai_blog:1ab26683a1d6",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.992,
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "published_at": "2026-08-06T10:00:00+00:00",
+          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+        },
+        {
+          "id": "techcrunch:f9914213c4d4",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.955,
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "published_at": "2026-08-06T22:43:53+00:00",
+          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+        },
+        {
+          "id": "the_verge:fe5fd96e305c",
+          "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.906,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "published_at": "2026-08-06T20:55:39+00:00",
+          "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove"
+        },
+        {
+          "id": "openai_blog:c0bb4ff3455b",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.883,
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "published_at": "2026-08-06T06:00:00+00:00",
+          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+        },
+        {
+          "id": "ars_technica:abc8445aac0b",
+          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.792,
+          "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+          "published_at": "2026-08-06T16:15:30+00:00",
+          "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
+        },
+        {
+          "id": "techcrunch:4bd19e9329f7",
+          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.768,
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+          "published_at": "2026-08-06T15:10:32+00:00",
+          "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st"
         }
       ]
     }
