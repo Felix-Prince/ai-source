@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T21:03:52.403313+00:00",
+    "generated_at": "2026-08-07T22:58:41.363915+00:00",
     "max_days": 30
   },
   "items": [
@@ -10610,6 +10610,36 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:7c59042f7b7a",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+      "published_at": "2026-08-07T19:00:17+00:00",
+      "published_ts": 1786129217.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:9d00d27b3a4e",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+      "published_at": "2026-08-07T19:49:27+00:00",
+      "published_ts": 1786132167.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "the_verge:4fff4fcfdd2e",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -10638,6 +10668,81 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "ars_technica:8099c93126d0",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+      "published_at": "2026-08-07T21:09:00+00:00",
+      "published_ts": 1786136940.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:41197869ec99",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "published_at": "2026-08-07T21:20:00+00:00",
+      "published_ts": 1786137600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:cd1b46673ccf",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "published_ts": 1786138211.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:594917455cee",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]",
+      "published_at": "2026-08-07T22:05:08+00:00",
+      "published_ts": 1786140308.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:b2ca74bb5fb1",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "published_ts": 1786142904.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.995
     }
   ]
 }
