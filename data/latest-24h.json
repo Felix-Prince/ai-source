@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T10:55:31.471749+00:00",
-    "generated_ts": 1786186531.4717493,
+    "generated_at": "2026-08-08T13:16:54.742483+00:00",
+    "generated_ts": 1786195014.7424834,
     "window_hours": 24.0,
-    "total": 10
+    "total": 11
   },
   "items": [
     {
@@ -140,6 +140,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.957
+    },
+    {
+      "id": "ars_technica:2b2ac22d8713",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "published_at": "2026-08-08T11:30:48+00:00",
+      "published_ts": 1786188648.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.95
     },
     {
       "id": "ars_technica:c8bab6498752",

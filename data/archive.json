@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T10:55:31.471749+00:00",
+    "generated_at": "2026-08-08T13:16:54.742483+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:1aa6734e4d2d",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "published_ts": 1783602000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:25072fe0b260",
       "source": "openai_blog",
@@ -10818,6 +10803,66 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.968
+    },
+    {
+      "id": "ars_technica:38ac616df36d",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "published_at": "2026-08-08T11:05:50+00:00",
+      "published_ts": 1786187150.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:2b2ac22d8713",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "published_at": "2026-08-08T11:30:48+00:00",
+      "published_ts": 1786188648.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.95
+    },
+    {
+      "id": "the_verge:f0f570e54715",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]",
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "published_ts": 1786190400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:49e603b9d294",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "My favorite feel-good show is back",
+      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "published_ts": 1786190400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
