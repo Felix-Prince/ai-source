@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T19:03:48.350759+00:00",
+    "generated_at": "2026-08-08T20:52:41.844017+00:00",
     "max_days": 30
   },
   "items": [
@@ -10953,6 +10953,21 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "techcrunch:46a486d36928",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "published_at": "2026-08-08T19:41:13+00:00",
+      "published_ts": 1786218073.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.932
     }
   ]
 }
