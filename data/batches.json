@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:25:26.643024+00:00",
+    "generated_at": "2026-08-08T09:04:43.338809+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2474,6 +2474,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-08T09:04:43.338809+00:00",
+      "generated_ts": 1786179883.338809,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:3db99c456c86",
+          "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.968,
+          "url": "https://www.qbitai.com/2026/08/468631.html",
+          "published_at": "2026-08-08T07:57:35+00:00",
+          "summary": "这就有些尴尬了。"
+        }
+      ]
     }
   ]
 }

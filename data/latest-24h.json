@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:25:26.643024+00:00",
-    "generated_ts": 1786173926.6430244,
+    "generated_at": "2026-08-08T09:04:43.338809+00:00",
+    "generated_ts": 1786179883.338809,
     "window_hours": 24.0,
     "total": 10
   },
@@ -35,21 +35,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.957
-    },
-    {
-      "id": "openai_blog:8f19a86b6fd8",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "published_at": "2026-08-07T09:00:00+00:00",
-      "published_ts": 1786093200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.48
     },
     {
       "id": "openai_blog:bc8b927aeea1",
@@ -122,6 +107,21 @@
       "published_ts": 1786111500.0,
       "category": "international",
       "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.968
+    },
+    {
+      "id": "qbitai:3db99c456c86",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "url": "https://www.qbitai.com/2026/08/468631.html",
+      "summary": "这就有些尴尬了。",
+      "published_at": "2026-08-08T07:57:35+00:00",
+      "published_ts": 1786175855.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.968

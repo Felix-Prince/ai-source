@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:25:26.643024+00:00",
+    "generated_at": "2026-08-08T09:04:43.338809+00:00",
     "max_days": 30
   },
   "items": [
@@ -10818,6 +10818,51 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:515fa16698ab",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "url": "https://www.qbitai.com/2026/08/468498.html",
+      "summary": "「我，Jeff Dean，打钱」",
+      "published_at": "2026-08-08T07:51:53+00:00",
+      "published_ts": 1786175513.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:23acd25db4ce",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "url": "https://www.qbitai.com/2026/08/468555.html",
+      "summary": "海外团队纷纷下注，NeoLab浪潮狂飙",
+      "published_at": "2026-08-08T07:56:09+00:00",
+      "published_ts": 1786175769.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:3db99c456c86",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "url": "https://www.qbitai.com/2026/08/468631.html",
+      "summary": "这就有些尴尬了。",
+      "published_at": "2026-08-08T07:57:35+00:00",
+      "published_ts": 1786175855.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.968
     }
   ]
 }
