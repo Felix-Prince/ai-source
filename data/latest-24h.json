@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T02:25:22.831914+00:00",
-    "generated_ts": 1786155922.8319137,
+    "generated_at": "2026-08-08T05:12:15.097801+00:00",
+    "generated_ts": 1786165935.0978007,
     "window_hours": 24.0,
-    "total": 14
+    "total": 11
   },
   "items": [
-    {
-      "id": "qbitai:aea949963b15",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "url": "https://www.qbitai.com/2026/08/467840.html",
-      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
-      "published_at": "2026-08-07T02:56:46+00:00",
-      "published_ts": 1786071406.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.964
-    },
     {
       "id": "the_verge:c04b9044b7de",
       "source": "the_verge",
@@ -95,21 +80,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.995
-    },
-    {
-      "id": "qbitai:f868e4f0448a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "url": "https://www.qbitai.com/2026/08/467871.html",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-      "published_at": "2026-08-07T03:08:51+00:00",
-      "published_ts": 1786072131.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.994
     },
     {
       "id": "ars_technica:d171ef4f86de",
@@ -187,34 +157,19 @@
       "importance": 0.949
     },
     {
-      "id": "qbitai:5071afa88e0d",
+      "id": "qbitai:036085b288f7",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "summary": "Chat优化版",
-      "published_at": "2026-08-07T03:23:01+00:00",
-      "published_ts": 1786072981.0,
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "summary": "从「能用」走向「规模化落地」",
+      "published_at": "2026-08-07T06:18:51+00:00",
+      "published_ts": 1786083531.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.93
-    },
-    {
-      "id": "qbitai:ba858ab889dd",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "url": "https://www.qbitai.com/2026/08/467877.html",
-      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-      "published_at": "2026-08-07T03:23:54+00:00",
-      "published_ts": 1786073034.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.93
+      "importance": 0.516
     }
   ]
 }

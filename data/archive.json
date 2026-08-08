@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T02:25:22.831914+00:00",
+    "generated_at": "2026-08-08T05:12:15.097801+00:00",
     "max_days": 30
   },
   "items": [
@@ -9995,10 +9995,10 @@
       "importance": 0.0
     },
     {
-      "id": "qbitai:e1a8b6a0f3d7",
+      "id": "qbitai:036085b288f7",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
       "url": "https://www.qbitai.com/2026/08/468305.html",
       "summary": "从「能用」走向「规模化落地」",
       "published_at": "2026-08-07T06:18:51+00:00",
@@ -10006,8 +10006,8 @@
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
-      "ai_score": 0.0,
-      "importance": 0.0
+      "ai_score": 1.0,
+      "importance": 0.516
     },
     {
       "id": "qbitai:785292a85194",
@@ -10758,6 +10758,36 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.995
+    },
+    {
+      "id": "qbitai:1c11956c8142",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "summary": "啊，这真是个AI“失控”的夏天",
+      "published_at": "2026-08-08T02:35:38+00:00",
+      "published_ts": 1786156538.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:59753298e020",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "summary": "再花15亿美元买现成AI编程团队",
+      "published_at": "2026-08-08T02:45:02+00:00",
+      "published_ts": 1786157102.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
