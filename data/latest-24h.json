@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T22:58:41.363915+00:00",
-    "generated_ts": 1786143521.363915,
+    "generated_at": "2026-08-08T02:25:22.831914+00:00",
+    "generated_ts": 1786155922.8319137,
     "window_hours": 24.0,
-    "total": 16
+    "total": 14
   },
   "items": [
     {
@@ -50,21 +50,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.957
-    },
-    {
-      "id": "qbitai:926973064001",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "url": "https://www.qbitai.com/2026/08/467487.html",
-      "summary": "此后模型、算力、数据中心都在合作范围内",
-      "published_at": "2026-08-07T00:25:07+00:00",
-      "published_ts": 1786062307.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.837
     },
     {
       "id": "openai_blog:8f19a86b6fd8",
@@ -200,21 +185,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.949
-    },
-    {
-      "id": "qbitai:9006f1cfa2c7",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-      "url": "https://www.qbitai.com/2026/08/467663.html",
-      "summary": "指环王成为大模型新基准",
-      "published_at": "2026-08-07T01:15:42+00:00",
-      "published_ts": 1786065342.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.941
     },
     {
       "id": "qbitai:5071afa88e0d",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T22:58:41.363915+00:00",
+    "generated_at": "2026-08-08T02:25:22.831914+00:00",
     "max_days": 30
   },
   "items": [
@@ -10708,6 +10708,21 @@
       "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
       "published_at": "2026-08-07T21:30:11+00:00",
       "published_ts": 1786138211.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:4f859ddac110",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "published_at": "2026-08-07T21:48:21+00:00",
+      "published_ts": 1786139301.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
