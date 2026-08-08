@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T20:52:41.844017+00:00",
+    "generated_at": "2026-08-08T22:51:21.213689+00:00",
     "max_days": 30
   },
   "items": [
@@ -10968,6 +10968,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.932
+    },
+    {
+      "id": "techcrunch:3bb5a1419cd1",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "published_at": "2026-08-08T21:24:02+00:00",
+      "published_ts": 1786224242.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

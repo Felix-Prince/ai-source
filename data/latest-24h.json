@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T20:52:41.844017+00:00",
-    "generated_ts": 1786222361.8440166,
+    "generated_at": "2026-08-08T22:51:21.213689+00:00",
+    "generated_ts": 1786229481.2136893,
     "window_hours": 24.0,
-    "total": 4
+    "total": 3
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.932
-    },
-    {
-      "id": "techcrunch:b2ca74bb5fb1",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
-      "published_at": "2026-08-07T22:48:24+00:00",
-      "published_ts": 1786142904.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.995
     },
     {
       "id": "qbitai:3db99c456c86",
