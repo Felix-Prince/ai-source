@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T14:54:11.268068+00:00",
-    "generated_ts": 1786200851.2680683,
+    "generated_at": "2026-08-08T16:56:46.360303+00:00",
+    "generated_ts": 1786208206.3603027,
     "window_hours": 24.0,
-    "total": 9
+    "total": 6
   },
   "items": [
-    {
-      "id": "the_verge:c04b9044b7de",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
-      "published_at": "2026-08-07T16:45:14+00:00",
-      "published_ts": 1786121114.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.961
-    },
     {
       "id": "the_verge:f3d664e9849f",
       "source": "the_verge",
@@ -37,21 +22,6 @@
       "importance": 1.957
     },
     {
-      "id": "openai_blog:bc8b927aeea1",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "published_at": "2026-08-07T15:20:00+00:00",
-      "published_ts": 1786116000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.421
-    },
-    {
       "id": "techcrunch:b2ca74bb5fb1",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -65,21 +35,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.995
-    },
-    {
-      "id": "techcrunch:57202996456e",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "published_at": "2026-08-07T16:16:09+00:00",
-      "published_ts": 1786119369.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.973
     },
     {
       "id": "qbitai:3db99c456c86",
