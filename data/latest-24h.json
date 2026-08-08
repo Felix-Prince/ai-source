@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T05:12:15.097801+00:00",
-    "generated_ts": 1786165935.0978007,
+    "generated_at": "2026-08-08T07:25:26.643024+00:00",
+    "generated_ts": 1786173926.6430244,
     "window_hours": 24.0,
-    "total": 11
+    "total": 10
   },
   "items": [
     {
@@ -155,21 +155,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.949
-    },
-    {
-      "id": "qbitai:036085b288f7",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "summary": "从「能用」走向「规模化落地」",
-      "published_at": "2026-08-07T06:18:51+00:00",
-      "published_ts": 1786083531.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.516
     }
   ]
 }

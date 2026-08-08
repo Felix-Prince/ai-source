@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T05:12:15.097801+00:00",
+    "generated_at": "2026-08-08T07:25:26.643024+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2462,6 +2462,18 @@
           "summary": "从「能用」走向「规模化落地」"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-08T07:25:26.643024+00:00",
+      "generated_ts": 1786173926.6430244,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }

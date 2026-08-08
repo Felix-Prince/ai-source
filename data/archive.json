@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T05:12:15.097801+00:00",
+    "generated_at": "2026-08-08T07:25:26.643024+00:00",
     "max_days": 30
   },
   "items": [
@@ -10785,6 +10785,36 @@
       "published_ts": 1786157102.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:35df3ace904c",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "url": "https://www.qbitai.com/2026/08/468462.html",
+      "summary": "唉，赶紧整完快点发布吧。。。",
+      "published_at": "2026-08-08T04:33:53+00:00",
+      "published_ts": 1786163633.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:df4229ea0720",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]",
+      "published_at": "2026-08-08T07:00:00+00:00",
+      "published_ts": 1786172400.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
