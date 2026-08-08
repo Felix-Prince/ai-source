@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T16:56:46.360303+00:00",
-    "generated_ts": 1786208206.3603027,
+    "generated_at": "2026-08-08T19:03:48.350759+00:00",
+    "generated_ts": 1786215828.3507586,
     "window_hours": 24.0,
-    "total": 6
+    "total": 3
   },
   "items": [
-    {
-      "id": "the_verge:f3d664e9849f",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "published_at": "2026-08-07T18:40:34+00:00",
-      "published_ts": 1786128034.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.957
-    },
     {
       "id": "techcrunch:b2ca74bb5fb1",
       "source": "techcrunch",
@@ -52,21 +37,6 @@
       "importance": 0.968
     },
     {
-      "id": "the_verge:eb72457aef8d",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Disney Plus tries a new AI-powered search",
-      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new [&#8230;]",
-      "published_at": "2026-08-07T17:53:44+00:00",
-      "published_ts": 1786125224.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.957
-    },
-    {
       "id": "ars_technica:2b2ac22d8713",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -80,21 +50,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.95
-    },
-    {
-      "id": "ars_technica:c8bab6498752",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "published_at": "2026-08-07T17:36:22+00:00",
-      "published_ts": 1786124182.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.949
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T16:56:46.360303+00:00",
+    "generated_at": "2026-08-08T19:03:48.350759+00:00",
     "max_days": 30
   },
   "items": [
@@ -10933,6 +10933,21 @@
       "summary": "X is winding down its existing Revenue Sharing program.",
       "published_at": "2026-08-08T16:34:22+00:00",
       "published_ts": 1786206862.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:64d7644e2415",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+      "published_at": "2026-08-08T17:53:34+00:00",
+      "published_ts": 1786211614.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
