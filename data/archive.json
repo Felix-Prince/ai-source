@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T05:26:29.367512+00:00",
+    "generated_at": "2026-08-09T07:27:22.417290+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:f1dafa7ac2c0",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "published_ts": 1783666800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:dbb47a6f0585",
       "source": "openai_blog",
@@ -10998,6 +10983,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.943
+    },
+    {
+      "id": "qbitai:24c13801a972",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "url": "https://www.qbitai.com/2026/08/468782.html",
+      "summary": "AI参与创造下一代AI",
+      "published_at": "2026-08-09T03:40:25+00:00",
+      "published_ts": 1786246825.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
