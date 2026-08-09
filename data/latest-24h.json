@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T19:06:52.928632+00:00",
-    "generated_ts": 1786302412.928632,
+    "generated_at": "2026-08-09T20:56:36.208227+00:00",
+    "generated_ts": 1786308996.2082272,
     "window_hours": 24.0,
     "total": 7
   },
@@ -22,19 +22,19 @@
       "importance": 1.975
     },
     {
-      "id": "techcrunch:46a486d36928",
+      "id": "techcrunch:9183eb3455f3",
       "source": "techcrunch",
       "source_label": "TechCrunch",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
-      "published_at": "2026-08-08T19:41:13+00:00",
-      "published_ts": 1786218073.0,
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "published_at": "2026-08-09T19:20:32+00:00",
+      "published_ts": 1786303232.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.932
+      "importance": 1.91
     },
     {
       "id": "the_verge:86cf59fbfd48",

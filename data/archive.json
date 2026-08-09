@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T19:06:52.928632+00:00",
+    "generated_at": "2026-08-09T20:56:36.208227+00:00",
     "max_days": 30
   },
   "items": [
@@ -11178,6 +11178,51 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.95
+    },
+    {
+      "id": "techcrunch:9183eb3455f3",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "published_at": "2026-08-09T19:20:32+00:00",
+      "published_ts": 1786303232.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.91
+    },
+    {
+      "id": "the_verge:561f1f2b189c",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a [&#8230;]",
+      "published_at": "2026-08-09T20:28:31+00:00",
+      "published_ts": 1786307311.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:01b4f496feeb",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "published_at": "2026-08-09T20:35:17+00:00",
+      "published_ts": 1786307717.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

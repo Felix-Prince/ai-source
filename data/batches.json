@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T19:06:52.928632+00:00",
+    "generated_at": "2026-08-09T20:56:36.208227+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2774,6 +2774,29 @@
           "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
           "published_at": "2026-08-09T17:20:30+00:00",
           "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. "
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-09T20:56:36.208227+00:00",
+      "generated_ts": 1786308996.2082272,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:9183eb3455f3",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.91,
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "published_at": "2026-08-09T19:20:32+00:00",
+          "summary": "Programming with Claude Code will soon require even less human oversight."
         }
       ]
     }
