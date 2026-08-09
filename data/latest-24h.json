@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T13:25:09.756069+00:00",
-    "generated_ts": 1786281909.756069,
+    "generated_at": "2026-08-09T14:56:31.135635+00:00",
+    "generated_ts": 1786287391.135635,
     "window_hours": 24.0,
-    "total": 5
+    "total": 6
   },
   "items": [
+    {
+      "id": "techcrunch:f749e7114459",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "published_at": "2026-08-09T14:30:00+00:00",
+      "published_ts": 1786285800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.975
+    },
     {
       "id": "techcrunch:46a486d36928",
       "source": "techcrunch",
