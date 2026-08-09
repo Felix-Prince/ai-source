@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T02:32:49.675282+00:00",
+    "generated_at": "2026-08-09T05:26:29.367512+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2615,6 +2615,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-09T05:26:29.367512+00:00",
+      "generated_ts": 1786253189.3675115,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:598f21dbeda4",
+          "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.943,
+          "url": "https://www.qbitai.com/2026/08/468766.html",
+          "published_at": "2026-08-09T03:25:00+00:00",
+          "summary": "据说GPT-5.6很适合拿来做游戏"
+        }
+      ]
     }
   ]
 }

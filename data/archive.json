@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T02:32:49.675282+00:00",
+    "generated_at": "2026-08-09T05:26:29.367512+00:00",
     "max_days": 30
   },
   "items": [
@@ -10968,6 +10968,36 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:ae4a8bc0584d",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "url": "https://www.qbitai.com/2026/08/468715.html",
+      "summary": "谷歌缓兵之计把人留下",
+      "published_at": "2026-08-09T03:17:18+00:00",
+      "published_ts": 1786245438.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:598f21dbeda4",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "url": "https://www.qbitai.com/2026/08/468766.html",
+      "summary": "据说GPT-5.6很适合拿来做游戏",
+      "published_at": "2026-08-09T03:25:00+00:00",
+      "published_ts": 1786245900.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.943
     }
   ]
 }
