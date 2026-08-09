@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T22:51:21.213689+00:00",
+    "generated_at": "2026-08-09T02:32:49.675282+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:25072fe0b260",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "published_at": "2026-07-10T00:00:00+00:00",
-      "published_ts": 1783641600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:f1dafa7ac2c0",
       "source": "openai_blog",

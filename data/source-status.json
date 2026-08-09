@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-08T22:51:21.819770+00:00",
-    "last_run_ts": 1786229481.8197699,
+    "last_run_at": "2026-08-09T02:32:50.246420+00:00",
+    "last_run_ts": 1786242770.2464197,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-08T22:51:21.884169+00:00",
-    "last_run_ts": 1786229481.8841689,
+    "last_run_at": "2026-08-09T02:32:50.311437+00:00",
+    "last_run_ts": 1786242770.3114374,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-08T22:51:21.958342+00:00",
-    "last_run_ts": 1786229481.9583416,
+    "last_run_at": "2026-08-09T02:32:50.384835+00:00",
+    "last_run_ts": 1786242770.3848345,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-08T22:51:22.037604+00:00",
-    "last_run_ts": 1786229482.037604,
+    "last_run_at": "2026-08-09T02:32:50.444402+00:00",
+    "last_run_ts": 1786242770.4444017,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,16 +37,16 @@
   },
   "kr36": {
     "status": "failed",
-    "last_run_at": "2026-08-08T22:51:22.903844+00:00",
-    "last_run_ts": 1786229482.903844,
+    "last_run_at": "2026-08-09T02:32:51.314470+00:00",
+    "last_run_ts": 1786242771.3144696,
     "url": "https://36kr.com/feed",
     "error": "parse https://36kr.com/feed: <unknown>:10:542: not well-formed (invalid token)",
     "fail_count": 1
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-08T22:51:24.309348+00:00",
-    "last_run_ts": 1786229484.3093479,
+    "last_run_at": "2026-08-09T02:32:52.550326+00:00",
+    "last_run_ts": 1786242772.550326,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
