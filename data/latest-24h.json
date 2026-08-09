@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T16:59:58.962157+00:00",
-    "generated_ts": 1786294798.962157,
+    "generated_at": "2026-08-09T19:06:52.928632+00:00",
+    "generated_ts": 1786302412.928632,
     "window_hours": 24.0,
-    "total": 6
+    "total": 7
   },
   "items": [
     {
@@ -80,6 +80,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.953
+    },
+    {
+      "id": "the_verge:13e9473bbd42",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted [&#8230;]",
+      "published_at": "2026-08-09T17:20:30+00:00",
+      "published_ts": 1786296030.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.95
     },
     {
       "id": "qbitai:598f21dbeda4",
