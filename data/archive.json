@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T09:06:32.450064+00:00",
+    "generated_at": "2026-08-09T10:56:43.365452+00:00",
     "max_days": 30
   },
   "items": [
@@ -10998,6 +10998,36 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:ae2cd2acf369",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "url": "https://www.qbitai.com/2026/08/468913.html",
+      "summary": "作者读博时就在研究，17年后被AI解开了",
+      "published_at": "2026-08-09T09:16:58+00:00",
+      "published_ts": 1786267018.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.953
+    },
+    {
+      "id": "qbitai:746d01c14908",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "url": "https://www.qbitai.com/2026/08/469010.html",
+      "summary": "Claude不是我说你，钱真不能这么花",
+      "published_at": "2026-08-09T09:25:10+00:00",
+      "published_ts": 1786267510.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.957
     }
   ]
 }
