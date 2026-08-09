@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T10:56:43.365452+00:00",
+    "generated_at": "2026-08-09T13:25:09.756069+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2693,6 +2693,29 @@
           "url": "https://www.qbitai.com/2026/08/468913.html",
           "published_at": "2026-08-09T09:16:58+00:00",
           "summary": "作者读博时就在研究，17年后被AI解开了"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-09T13:25:09.756069+00:00",
+      "generated_ts": 1786281909.756069,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:86cf59fbfd48",
+          "title": "AI detectors are creating a new era of distrust",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.96,
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "published_at": "2026-08-09T12:00:00+00:00",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT beca"
         }
       ]
     }

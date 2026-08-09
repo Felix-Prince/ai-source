@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T10:56:43.365452+00:00",
-    "generated_ts": 1786273003.3654518,
+    "generated_at": "2026-08-09T13:25:09.756069+00:00",
+    "generated_ts": 1786281909.756069,
     "window_hours": 24.0,
     "total": 5
   },
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.932
+    },
+    {
+      "id": "the_verge:86cf59fbfd48",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+      "published_at": "2026-08-09T12:00:00+00:00",
+      "published_ts": 1786276800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.96
     },
     {
       "id": "qbitai:746d01c14908",
@@ -50,21 +65,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.953
-    },
-    {
-      "id": "ars_technica:2b2ac22d8713",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-      "published_at": "2026-08-08T11:30:48+00:00",
-      "published_ts": 1786188648.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.95
     },
     {
       "id": "qbitai:598f21dbeda4",

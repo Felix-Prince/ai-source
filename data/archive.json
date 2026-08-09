@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T10:56:43.365452+00:00",
+    "generated_at": "2026-08-09T13:25:09.756069+00:00",
     "max_days": 30
   },
   "items": [
@@ -11028,6 +11028,66 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.957
+    },
+    {
+      "id": "ars_technica:b3b5fa1e42c3",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "published_at": "2026-08-09T11:00:14+00:00",
+      "published_ts": 1786273214.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:86cf59fbfd48",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+      "published_at": "2026-08-09T12:00:00+00:00",
+      "published_ts": 1786276800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.96
+    },
+    {
+      "id": "the_verge:7799159567e1",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Dropbox is a PC builder’s best friend",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot [&#8230;]",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "published_ts": 1786280400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:a208e9292900",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "published_ts": 1786280400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
