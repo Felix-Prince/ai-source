@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T07:27:22.417290+00:00",
+    "generated_at": "2026-08-09T09:06:32.450064+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2642,6 +2642,18 @@
     {
       "generated_at": "2026-08-09T07:27:22.417290+00:00",
       "generated_ts": 1786260442.4172902,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
+    },
+    {
+      "generated_at": "2026-08-09T09:06:32.450064+00:00",
+      "generated_ts": 1786266392.4500637,
       "sources": {
         "openai_blog": 50,
         "the_verge": 10,

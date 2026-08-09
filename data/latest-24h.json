@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T07:27:22.417290+00:00",
-    "generated_ts": 1786260442.4172902,
+    "generated_at": "2026-08-09T09:06:32.450064+00:00",
+    "generated_ts": 1786266392.4500637,
     "window_hours": 24.0,
-    "total": 4
+    "total": 3
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.932
-    },
-    {
-      "id": "qbitai:3db99c456c86",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-      "url": "https://www.qbitai.com/2026/08/468631.html",
-      "summary": "这就有些尴尬了。",
-      "published_at": "2026-08-08T07:57:35+00:00",
-      "published_ts": 1786175855.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.968
     },
     {
       "id": "ars_technica:2b2ac22d8713",
