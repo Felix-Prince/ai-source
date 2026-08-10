@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T05:49:28.970334+00:00",
+    "generated_at": "2026-08-10T08:09:29.262774+00:00",
     "max_days": 30
   },
   "items": [
@@ -11313,6 +11313,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.994
+    },
+    {
+      "id": "qbitai:eb972a1ef74c",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "url": "https://www.qbitai.com/2026/08/469520.html",
+      "summary": "“我们90天就成了独角兽”",
+      "published_at": "2026-08-10T06:58:58+00:00",
+      "published_ts": 1786345138.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

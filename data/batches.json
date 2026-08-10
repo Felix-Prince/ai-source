@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T05:49:28.970334+00:00",
+    "generated_at": "2026-08-10T08:09:29.262774+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2867,6 +2867,18 @@
           "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-10T08:09:29.262774+00:00",
+      "generated_ts": 1786349369.2627745,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }
