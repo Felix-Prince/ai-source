@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T02:38:29.577160+00:00",
+    "generated_at": "2026-08-10T05:49:28.970334+00:00",
     "max_days": 30
   },
   "items": [
@@ -11253,6 +11253,66 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:ca856f0f0417",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+      "url": "https://www.qbitai.com/2026/08/469454.html",
+      "summary": "",
+      "published_at": "2026-08-10T02:25:55+00:00",
+      "published_ts": 1786328755.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:8b4a9975d114",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+      "url": "https://www.qbitai.com/2026/08/469475.html",
+      "summary": "先解决这轮内存荒！",
+      "published_at": "2026-08-10T02:34:48+00:00",
+      "published_ts": 1786329288.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:1946464d1080",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+      "url": "https://www.qbitai.com/2026/08/469493.html",
+      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+      "published_at": "2026-08-10T03:24:23+00:00",
+      "published_ts": 1786332263.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.933
+    },
+    {
+      "id": "qbitai:c3e7f7c18715",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "url": "https://www.qbitai.com/2026/08/469500.html",
+      "summary": "会话越长，人的表现越差",
+      "published_at": "2026-08-10T05:37:51+00:00",
+      "published_ts": 1786340271.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.994
     }
   ]
 }

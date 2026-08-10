@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T02:38:29.577160+00:00",
+    "generated_at": "2026-08-10T05:49:28.970334+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2832,6 +2832,39 @@
           "url": "https://www.qbitai.com/2026/08/469076.html",
           "published_at": "2026-08-10T01:12:33+00:00",
           "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-10T05:49:28.970334+00:00",
+      "generated_ts": 1786340968.9703343,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:c3e7f7c18715",
+          "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.994,
+          "url": "https://www.qbitai.com/2026/08/469500.html",
+          "published_at": "2026-08-10T05:37:51+00:00",
+          "summary": "会话越长，人的表现越差"
+        },
+        {
+          "id": "qbitai:1946464d1080",
+          "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.933,
+          "url": "https://www.qbitai.com/2026/08/469493.html",
+          "published_at": "2026-08-10T03:24:23+00:00",
+          "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
         }
       ]
     }

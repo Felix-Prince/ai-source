@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T02:38:29.577160+00:00",
-    "generated_ts": 1786329509.57716,
+    "generated_at": "2026-08-10T05:49:28.970334+00:00",
+    "generated_ts": 1786340968.9703343,
     "window_hours": 24.0,
-    "total": 8
+    "total": 9
   },
   "items": [
     {
@@ -35,6 +35,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.91
+    },
+    {
+      "id": "qbitai:c3e7f7c18715",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "url": "https://www.qbitai.com/2026/08/469500.html",
+      "summary": "会话越长，人的表现越差",
+      "published_at": "2026-08-10T05:37:51+00:00",
+      "published_ts": 1786340271.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.994
     },
     {
       "id": "the_verge:86cf59fbfd48",
@@ -112,19 +127,19 @@
       "importance": 0.95
     },
     {
-      "id": "qbitai:598f21dbeda4",
+      "id": "qbitai:1946464d1080",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "url": "https://www.qbitai.com/2026/08/468766.html",
-      "summary": "据说GPT-5.6很适合拿来做游戏",
-      "published_at": "2026-08-09T03:25:00+00:00",
-      "published_ts": 1786245900.0,
+      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+      "url": "https://www.qbitai.com/2026/08/469493.html",
+      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+      "published_at": "2026-08-10T03:24:23+00:00",
+      "published_ts": 1786332263.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.943
+      "importance": 0.933
     }
   ]
 }
