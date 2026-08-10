@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T11:28:24.869528+00:00",
+    "generated_at": "2026-08-10T13:49:40.918529+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2903,6 +2903,29 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-10T13:49:40.918529+00:00",
+      "generated_ts": 1786369780.918529,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:74750bd74293",
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.423,
+          "url": "https://openai.com/index/model-ml",
+          "published_at": "2026-08-10T12:00:00+00:00",
+          "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+        }
+      ]
     }
   ]
 }
