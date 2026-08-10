@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T17:13:17.349697+00:00",
+    "generated_at": "2026-08-10T19:25:29.833774+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3010,6 +3010,29 @@
           "url": "https://openai.com/index/premium-seats-chatgpt-business",
           "published_at": "2026-08-10T00:00:00+00:00",
           "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-10T19:25:29.833774+00:00",
+      "generated_ts": 1786389929.833774,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:08774a44c6ae",
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.285,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "published_at": "2026-08-10T10:00:00+00:00",
+          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
         }
       ]
     }

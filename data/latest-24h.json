@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T17:13:17.349697+00:00",
-    "generated_ts": 1786381997.3496969,
+    "generated_at": "2026-08-10T19:25:29.833774+00:00",
+    "generated_ts": 1786389929.833774,
     "window_hours": 24.0,
-    "total": 12
+    "total": 11
   },
   "items": [
     {
-      "id": "techcrunch:9183eb3455f3",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "published_at": "2026-08-09T19:20:32+00:00",
-      "published_ts": 1786303232.0,
+      "id": "openai_blog:08774a44c6ae",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "published_ts": 1786356000.0,
       "category": "international",
       "lang": "en",
-      "tier": 1,
+      "tier": 0,
       "ai_score": 2.0,
-      "importance": 1.91
+      "importance": 2.285
     },
     {
       "id": "openai_blog:d5d3a88e8553",
@@ -140,21 +140,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.955
-    },
-    {
-      "id": "the_verge:13e9473bbd42",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted [&#8230;]",
-      "published_at": "2026-08-09T17:20:30+00:00",
-      "published_ts": 1786296030.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.95
     },
     {
       "id": "qbitai:1946464d1080",
