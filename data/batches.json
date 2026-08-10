@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T15:27:14.193662+00:00",
+    "generated_at": "2026-08-10T17:13:17.349697+00:00",
     "max_days": 30
   },
   "batches": [
@@ -2967,6 +2967,49 @@
           "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
           "published_at": "2026-08-10T13:51:46+00:00",
           "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero, which has been developing an autonomous electric aircraf"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-10T17:13:17.349697+00:00",
+      "generated_ts": 1786381997.3496969,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:d5d3a88e8553",
+          "title": "What building an AI-native finance function taught me",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.49,
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "published_at": "2026-08-10T17:00:00+00:00",
+          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+        },
+        {
+          "id": "openai_blog:16c3f693041b",
+          "title": "Putting frontier cyber models in more trusted hands",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.218,
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "published_at": "2026-08-10T10:00:00+00:00",
+          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+        },
+        {
+          "id": "openai_blog:27fa6d4cf28c",
+          "title": "Premium seats are coming to ChatGPT Business",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.912,
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
         }
       ]
     }

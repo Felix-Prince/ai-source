@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T15:27:14.193662+00:00",
-    "generated_ts": 1786375634.1936622,
+    "generated_at": "2026-08-10T17:13:17.349697+00:00",
+    "generated_ts": 1786381997.3496969,
     "window_hours": 24.0,
-    "total": 9
+    "total": 12
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.91
+    },
+    {
+      "id": "openai_blog:d5d3a88e8553",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "published_ts": 1786381200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.49
     },
     {
       "id": "openai_blog:2514b0518d62",
@@ -50,6 +65,21 @@
       "tier": 0,
       "ai_score": 1.0,
       "importance": 1.423
+    },
+    {
+      "id": "openai_blog:16c3f693041b",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "published_ts": 1786356000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.218
     },
     {
       "id": "qbitai:c3e7f7c18715",
@@ -140,6 +170,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.933
+    },
+    {
+      "id": "openai_blog:27fa6d4cf28c",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "published_ts": 1786320000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.912
     }
   ]
 }

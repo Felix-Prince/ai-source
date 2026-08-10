@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T15:27:14.193662+00:00",
+    "generated_at": "2026-08-10T17:13:17.349697+00:00",
     "max_days": 30
   },
   "items": [
@@ -7820,6 +7820,21 @@
       "importance": 0.0
     },
     {
+      "id": "openai_blog:9a31a508652f",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Introducing GPT-Daybreak to accelerate defenders",
+      "url": "https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy",
+      "summary": "Frontier cyber models for defenders, from broad defensive work to advanced security research.",
+      "published_at": "2026-08-05T10:00:00+00:00",
+      "published_ts": 1785924000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.038
+    },
+    {
       "id": "the_verge:d4cff6a05688",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -11240,6 +11255,21 @@
       "importance": 0.0
     },
     {
+      "id": "openai_blog:27fa6d4cf28c",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "published_ts": 1786320000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.912
+    },
+    {
       "id": "qbitai:3e13562f0c75",
       "source": "qbitai",
       "source_label": "量子位",
@@ -11358,6 +11388,21 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "openai_blog:16c3f693041b",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "published_ts": 1786356000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.218
     },
     {
       "id": "the_verge:f098d1be5e30",
@@ -11570,6 +11615,21 @@
       "importance": 0.0
     },
     {
+      "id": "the_verge:fd68417cf374",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "What happens to Bose when headphones become AI?",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "published_ts": 1786370400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:b711a9a147fe",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -11645,6 +11705,21 @@
       "importance": 0.0
     },
     {
+      "id": "the_verge:96cc226b5b7b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Apple will stream Friday Night Baseball live in Vision Pro",
+      "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
+      "summary": "Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and live graphics will be anchored around the viewers space during the game. After the games conclude, replays will be made available in the Apple TV [&#8230;]",
+      "published_at": "2026-08-10T15:00:00+00:00",
+      "published_ts": 1786374000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "ars_technica:2f0dff2e50ce",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -11690,6 +11765,21 @@
       "importance": 0.0
     },
     {
+      "id": "the_verge:e598453bb673",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+      "published_at": "2026-08-10T15:19:05+00:00",
+      "published_ts": 1786375145.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:d359368eacd2",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -11703,6 +11793,36 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "techcrunch:3bc6c6ead2fd",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+      "published_at": "2026-08-10T16:20:13+00:00",
+      "published_ts": 1786378813.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "openai_blog:d5d3a88e8553",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "published_ts": 1786381200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 1.49
     }
   ]
 }
