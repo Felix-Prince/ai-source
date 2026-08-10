@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T21:05:58.429530+00:00",
+    "generated_at": "2026-08-10T23:00:06.961441+00:00",
     "max_days": 30
   },
   "items": [
@@ -11255,6 +11255,21 @@
       "importance": 0.0
     },
     {
+      "id": "openai_blog:9764e6d3a8e0",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "published_ts": 1786320000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 1.544
+    },
+    {
       "id": "openai_blog:27fa6d4cf28c",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -11268,6 +11283,21 @@
       "tier": 0,
       "ai_score": 1.0,
       "importance": 0.912
+    },
+    {
+      "id": "openai_blog:57913097e36d",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "published_ts": 1786320000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 1.0,
+      "importance": 0.772
     },
     {
       "id": "qbitai:3e13562f0c75",
@@ -12020,6 +12050,21 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:974571b22b64",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+      "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "summary": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
+      "published_at": "2026-08-10T20:01:15+00:00",
+      "published_ts": 1786392075.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:527a464d68be",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -12035,6 +12080,21 @@
       "importance": 1.942
     },
     {
+      "id": "ars_technica:743feb1120f1",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "published_at": "2026-08-10T20:45:52+00:00",
+      "published_ts": 1786394752.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:d5a2b88121ff",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -12048,6 +12108,126 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.994
+    },
+    {
+      "id": "the_verge:5d6c33490762",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
+      "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+      "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it’s small enough [&#8230;]",
+      "published_at": "2026-08-10T21:18:15+00:00",
+      "published_ts": 1786396695.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:7037fc720e41",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+      "published_at": "2026-08-10T21:20:04+00:00",
+      "published_ts": 1786396804.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:ff8610b3fb29",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+      "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+      "summary": "A reminder of the perils of digital ownership.",
+      "published_at": "2026-08-10T21:26:38+00:00",
+      "published_ts": 1786397198.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:ee5a7fc3b3ae",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
+      "published_at": "2026-08-10T21:42:56+00:00",
+      "published_ts": 1786398176.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:74430e81ee98",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
+      "published_at": "2026-08-10T22:00:00+00:00",
+      "published_ts": 1786399200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:75d09ad38b77",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "published_at": "2026-08-10T22:13:03+00:00",
+      "published_ts": 1786399983.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:774ce64da104",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+      "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+      "published_at": "2026-08-10T22:23:43+00:00",
+      "published_ts": 1786400623.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:14c6579a5c20",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Now Rippling is counter suing tiny startup Runlayer",
+      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.",
+      "published_at": "2026-08-10T22:26:54+00:00",
+      "published_ts": 1786400814.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }

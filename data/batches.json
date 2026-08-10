@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T21:05:58.429530+00:00",
+    "generated_at": "2026-08-10T23:00:06.961441+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3066,6 +3066,39 @@
           "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
           "published_at": "2026-08-10T20:53:02+00:00",
           "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-10T23:00:06.961441+00:00",
+      "generated_ts": 1786402806.9614408,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:9764e6d3a8e0",
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.544,
+          "url": "https://openai.com/index/zapier",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+        },
+        {
+          "id": "openai_blog:57913097e36d",
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.772,
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
         }
       ]
     }
