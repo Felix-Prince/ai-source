@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T19:25:29.833774+00:00",
+    "generated_at": "2026-08-10T21:05:58.429530+00:00",
     "max_days": 30
   },
   "items": [
@@ -12003,6 +12003,51 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "the_verge:8a6c9980017a",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+      "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that [&#8230;]",
+      "published_at": "2026-08-10T19:26:50+00:00",
+      "published_ts": 1786390010.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:527a464d68be",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "published_at": "2026-08-10T20:04:24+00:00",
+      "published_ts": 1786392264.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.942
+    },
+    {
+      "id": "techcrunch:d5a2b88121ff",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "published_at": "2026-08-10T20:53:02+00:00",
+      "published_ts": 1786395182.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.994
     }
   ]
 }
