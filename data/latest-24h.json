@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T22:54:08.761968+00:00",
-    "generated_ts": 1786316048.7619677,
+    "generated_at": "2026-08-10T02:38:29.577160+00:00",
+    "generated_ts": 1786329509.57716,
     "window_hours": 24.0,
-    "total": 7
+    "total": 8
   },
   "items": [
     {
@@ -50,6 +50,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.96
+    },
+    {
+      "id": "qbitai:3e13562f0c75",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+      "url": "https://www.qbitai.com/2026/08/469076.html",
+      "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
+      "published_at": "2026-08-10T01:12:33+00:00",
+      "published_ts": 1786324353.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.959
     },
     {
       "id": "qbitai:746d01c14908",
