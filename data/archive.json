@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T09:52:30.302199+00:00",
+    "generated_at": "2026-08-10T11:28:24.869528+00:00",
     "max_days": 30
   },
   "items": [
@@ -11325,6 +11325,51 @@
       "published_ts": 1786345138.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:c4d50083d9d0",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "模型路线趋同之后，Physical AI的胜负手变了",
+      "url": "https://www.qbitai.com/2026/08/469544.html",
+      "summary": "物理AI新瓶颈已出现",
+      "published_at": "2026-08-10T09:20:50+00:00",
+      "published_ts": 1786353650.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:f098d1be5e30",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
+      "published_at": "2026-08-10T11:00:00+00:00",
+      "published_ts": 1786359600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:432312cffefc",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Space mirrors could ruin astronomy — and your eyes",
+      "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+      "summary": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists experimented with the concept in the '90s with the Znamya project. The idea is to put [&#8230;]",
+      "published_at": "2026-08-10T11:00:00+00:00",
+      "published_ts": 1786359600.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
