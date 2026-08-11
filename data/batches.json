@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T21:08:29.332530+00:00",
+    "generated_at": "2026-08-11T23:07:39.174468+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3428,6 +3428,29 @@
           "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
           "published_at": "2026-08-11T19:48:12+00:00",
           "summary": "But will Gemini's surge survive slowing model releases?"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T23:07:39.174468+00:00",
+      "generated_ts": 1786489659.1744676,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:50150732cd2e",
+          "title": "Daybreak models are now available on AWS",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.027,
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "published_at": "2026-08-11T10:00:00+00:00",
+          "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
         }
       ]
     }
