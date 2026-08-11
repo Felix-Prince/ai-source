@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T15:25:40.733029+00:00",
+    "generated_at": "2026-08-11T17:17:12.323702+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3299,6 +3299,39 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
           "published_at": "2026-08-11T14:45:44+00:00",
           "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The e"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T17:17:12.323702+00:00",
+      "generated_ts": 1786468632.3237023,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "openai_blog:d15b2792ffe1",
+          "title": "Testing ads in ChatGPT",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.431,
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "published_at": "2026-08-11T10:00:00+00:00",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+        },
+        {
+          "id": "techcrunch:7ea695e2a67c",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.975,
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "published_at": "2026-08-11T16:25:20+00:00",
+          "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
         }
       ]
     }

@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T15:25:40.733029+00:00",
-    "generated_ts": 1786461940.733029,
+    "generated_at": "2026-08-11T17:17:12.323702+00:00",
+    "generated_ts": 1786468632.3237023,
     "window_hours": 24.0,
-    "total": 14
+    "total": 15
   },
   "items": [
+    {
+      "id": "openai_blog:d15b2792ffe1",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "published_ts": 1786442400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.431
+    },
     {
       "id": "techcrunch:527a464d68be",
       "source": "techcrunch",
@@ -52,21 +67,6 @@
       "importance": 1.902
     },
     {
-      "id": "openai_blog:d5d3a88e8553",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "published_ts": 1786381200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.49
-    },
-    {
       "id": "techcrunch:d5a2b88121ff",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -95,6 +95,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.981
+    },
+    {
+      "id": "techcrunch:7ea695e2a67c",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "published_at": "2026-08-11T16:25:20+00:00",
+      "published_ts": 1786465520.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.975
     },
     {
       "id": "techcrunch:352adc34a043",
