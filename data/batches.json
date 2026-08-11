@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T17:17:12.323702+00:00",
+    "generated_at": "2026-08-11T19:30:05.070196+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3332,6 +3332,69 @@
           "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
           "published_at": "2026-08-11T16:25:20+00:00",
           "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T19:30:05.070196+00:00",
+      "generated_ts": 1786476605.0701957,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:e02e74e8dbe8",
+          "title": "Google’s Gemini app surges to one billion users",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.942,
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "published_at": "2026-08-11T18:49:12+00:00",
+          "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
+        },
+        {
+          "id": "techcrunch:81460dd8b6dc",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.986,
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+          "published_at": "2026-08-11T19:15:35+00:00",
+          "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+        },
+        {
+          "id": "the_verge:9deb73477b13",
+          "title": "Another OpenAI executive takes off",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.953,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+          "published_at": "2026-08-11T17:50:01+00:00",
+          "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next h"
+        },
+        {
+          "id": "techcrunch:2ea20712ccb5",
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.949,
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+          "published_at": "2026-08-11T17:41:34+00:00",
+          "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
+        },
+        {
+          "id": "techcrunch:5c2357fc1cd2",
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.949,
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "published_at": "2026-08-11T17:41:22+00:00",
+          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
         }
       ]
     }
