@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T05:31:38.060440+00:00",
+    "generated_at": "2026-08-11T07:42:26.279222+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3165,6 +3165,39 @@
           "url": "https://www.qbitai.com/2026/08/469869.html",
           "published_at": "2026-08-11T03:11:12+00:00",
           "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T07:42:26.279222+00:00",
+      "generated_ts": 1786434146.2792222,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:35a77e1f2d4c",
+          "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.93,
+          "url": "https://www.qbitai.com/2026/08/470485.html",
+          "published_at": "2026-08-11T05:12:20+00:00",
+          "summary": "把下界推高了一大截"
+        },
+        {
+          "id": "qbitai:5f5ed3c43bdf",
+          "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.912,
+          "url": "https://www.qbitai.com/2026/08/470254.html",
+          "published_at": "2026-08-11T04:31:39+00:00",
+          "summary": "真就把GPU当理财产品了～"
         }
       ]
     }
