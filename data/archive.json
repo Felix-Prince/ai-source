@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T19:30:05.070196+00:00",
+    "generated_at": "2026-08-11T21:08:29.332530+00:00",
     "max_days": 30
   },
   "items": [
@@ -12740,6 +12740,21 @@
       "importance": 0.0
     },
     {
+      "id": "techcrunch:119a6920755a",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Block Blast! goes ad-free on Apple Arcade",
+      "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
+      "published_at": "2026-08-11T15:33:59+00:00",
+      "published_ts": 1786462439.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:5609dec1d5f7",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -13010,6 +13025,21 @@
       "importance": 2.942
     },
     {
+      "id": "the_verge:6a64048e9ff4",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Threads has a VR app now",
+      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that [&#8230;]",
+      "published_at": "2026-08-11T19:10:14+00:00",
+      "published_ts": 1786475414.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:81460dd8b6dc",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -13023,6 +13053,81 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.986
+    },
+    {
+      "id": "techcrunch:dc2d5364db5b",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "published_at": "2026-08-11T19:38:23+00:00",
+      "published_ts": 1786477103.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:faa9ec44e1c1",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+      "published_at": "2026-08-11T19:41:42+00:00",
+      "published_ts": 1786477302.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.877
+    },
+    {
+      "id": "ars_technica:a4d7c0402e81",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "published_at": "2026-08-11T19:48:12+00:00",
+      "published_ts": 1786477692.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.962
+    },
+    {
+      "id": "techcrunch:93c55b632cdb",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "summary": "The divesture comes as the two once-tight companies have started to diverge on the business side.",
+      "published_at": "2026-08-11T20:02:02+00:00",
+      "published_ts": 1786478522.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:59bbe17e33ee",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+      "published_at": "2026-08-11T20:27:16+00:00",
+      "published_ts": 1786480036.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
