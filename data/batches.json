@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:42:26.279222+00:00",
+    "generated_at": "2026-08-11T09:17:33.795284+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3200,6 +3200,18 @@
           "summary": "真就把GPU当理财产品了～"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-11T09:17:33.795284+00:00",
+      "generated_ts": 1786439853.7952838,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }
