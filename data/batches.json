@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T13:47:41.252636+00:00",
+    "generated_at": "2026-08-11T15:25:40.733029+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3276,6 +3276,29 @@
           "url": "https://www.qbitai.com/2026/08/470621.html",
           "published_at": "2026-08-11T11:36:42+00:00",
           "summary": "算力竞赛的天平，正在向电力倾斜"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T15:25:40.733029+00:00",
+      "generated_ts": 1786461940.733029,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "the_verge:4c054135dd65",
+          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.981,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "published_at": "2026-08-11T14:45:44+00:00",
+          "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The e"
         }
       ]
     }
