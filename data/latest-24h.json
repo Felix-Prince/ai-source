@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T09:17:33.795284+00:00",
-    "generated_ts": 1786439853.7952838,
+    "generated_at": "2026-08-11T11:09:09.847872+00:00",
+    "generated_ts": 1786446549.8478715,
     "window_hours": 24.0,
-    "total": 15
+    "total": 14
   },
   "items": [
-    {
-      "id": "openai_blog:08774a44c6ae",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "published_ts": 1786356000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.285
-    },
     {
       "id": "techcrunch:527a464d68be",
       "source": "techcrunch",
@@ -35,6 +20,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.942
+    },
+    {
+      "id": "qbitai:d75641383ee5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "summary": "谷歌算力分配内耗严重",
+      "published_at": "2026-08-11T09:24:44+00:00",
+      "published_ts": 1786440284.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.902
     },
     {
       "id": "openai_blog:d5d3a88e8553",
@@ -80,21 +80,6 @@
       "tier": 0,
       "ai_score": 1.0,
       "importance": 1.423
-    },
-    {
-      "id": "openai_blog:16c3f693041b",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "published_ts": 1786356000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 1.218
     },
     {
       "id": "techcrunch:d5a2b88121ff",

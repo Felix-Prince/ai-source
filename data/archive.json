@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T09:17:33.795284+00:00",
+    "generated_at": "2026-08-11T11:09:09.847872+00:00",
     "max_days": 30
   },
   "items": [
@@ -12378,6 +12378,36 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.93
+    },
+    {
+      "id": "qbitai:d75641383ee5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "summary": "谷歌算力分配内耗严重",
+      "published_at": "2026-08-11T09:24:44+00:00",
+      "published_ts": 1786440284.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.902
+    },
+    {
+      "id": "the_verge:35c377f43ce6",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "The AI takeover of mathematics has begun",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+      "published_at": "2026-08-11T11:00:00+00:00",
+      "published_ts": 1786446000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
     }
   ]
 }
