@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T02:31:35.166765+00:00",
+    "generated_at": "2026-08-11T05:31:38.060440+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3132,6 +3132,39 @@
           "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
           "published_at": "2026-08-10T23:56:15+00:00",
           "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-11T05:31:38.060440+00:00",
+      "generated_ts": 1786426298.06044,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "qbitai:34c2c1c66415",
+          "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.953,
+          "url": "https://www.qbitai.com/2026/08/470228.html",
+          "published_at": "2026-08-11T03:51:24+00:00",
+          "summary": "大水印时代来了"
+        },
+        {
+          "id": "qbitai:c38619db3c45",
+          "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 0.935,
+          "url": "https://www.qbitai.com/2026/08/469869.html",
+          "published_at": "2026-08-11T03:11:12+00:00",
+          "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
         }
       ]
     }

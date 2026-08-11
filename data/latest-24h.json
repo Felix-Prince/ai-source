@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T02:31:35.166765+00:00",
-    "generated_ts": 1786415495.1667655,
+    "generated_at": "2026-08-11T05:31:38.060440+00:00",
+    "generated_ts": 1786426298.06044,
     "window_hours": 24.0,
-    "total": 13
+    "total": 14
   },
   "items": [
     {
@@ -157,19 +157,34 @@
       "importance": 0.955
     },
     {
-      "id": "qbitai:1946464d1080",
+      "id": "qbitai:34c2c1c66415",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "url": "https://www.qbitai.com/2026/08/469493.html",
-      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-      "published_at": "2026-08-10T03:24:23+00:00",
-      "published_ts": 1786332263.0,
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "url": "https://www.qbitai.com/2026/08/470228.html",
+      "summary": "大水印时代来了",
+      "published_at": "2026-08-11T03:51:24+00:00",
+      "published_ts": 1786420284.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 1.0,
-      "importance": 0.933
+      "importance": 0.953
+    },
+    {
+      "id": "qbitai:c38619db3c45",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "url": "https://www.qbitai.com/2026/08/469869.html",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+      "published_at": "2026-08-11T03:11:12+00:00",
+      "published_ts": 1786417872.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.935
     },
     {
       "id": "techcrunch:cee4c8ba8f13",

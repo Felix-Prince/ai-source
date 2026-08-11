@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T02:31:35.166765+00:00",
+    "generated_at": "2026-08-11T05:31:38.060440+00:00",
     "max_days": 30
   },
   "items": [
@@ -12288,6 +12288,51 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:c38619db3c45",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "url": "https://www.qbitai.com/2026/08/469869.html",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+      "published_at": "2026-08-11T03:11:12+00:00",
+      "published_ts": 1786417872.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.935
+    },
+    {
+      "id": "qbitai:483719e6829e",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "url": "https://www.qbitai.com/2026/08/469880.html",
+      "summary": "",
+      "published_at": "2026-08-11T03:37:31+00:00",
+      "published_ts": 1786419451.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:34c2c1c66415",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "url": "https://www.qbitai.com/2026/08/470228.html",
+      "summary": "大水印时代来了",
+      "published_at": "2026-08-11T03:51:24+00:00",
+      "published_ts": 1786420284.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.953
     }
   ]
 }
