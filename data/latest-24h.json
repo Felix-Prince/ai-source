@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T07:56:29.339028+00:00",
-    "generated_ts": 1786521389.339028,
+    "generated_at": "2026-08-12T09:34:29.404775+00:00",
+    "generated_ts": 1786527269.4047747,
     "window_hours": 24.0,
-    "total": 16
+    "total": 15
   },
   "items": [
     {
@@ -80,21 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.919
-    },
-    {
-      "id": "qbitai:d75641383ee5",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-      "url": "https://www.qbitai.com/2026/08/470576.html",
-      "summary": "谷歌算力分配内耗严重",
-      "published_at": "2026-08-11T09:24:44+00:00",
-      "published_ts": 1786440284.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.902
     },
     {
       "id": "openai_blog:50150732cd2e",
