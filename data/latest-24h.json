@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T13:52:53.464777+00:00",
-    "generated_ts": 1786542773.4647768,
+    "generated_at": "2026-08-12T15:24:25.628988+00:00",
+    "generated_ts": 1786548265.6289883,
     "window_hours": 24.0,
-    "total": 15
+    "total": 19
   },
   "items": [
     {
@@ -67,6 +67,21 @@
       "importance": 1.986
     },
     {
+      "id": "techcrunch:c215c040d05e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.",
+      "published_at": "2026-08-12T14:00:00+00:00",
+      "published_ts": 1786543200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.92
+    },
+    {
       "id": "qbitai:b1c40821e376",
       "source": "qbitai",
       "source_label": "量子位",
@@ -80,21 +95,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.993
-    },
-    {
-      "id": "the_verge:4c054135dd65",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
-      "published_at": "2026-08-11T14:45:44+00:00",
-      "published_ts": 1786459544.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.981
     },
     {
       "id": "techcrunch:7ea695e2a67c",
@@ -112,6 +112,36 @@
       "importance": 0.975
     },
     {
+      "id": "the_verge:430727036348",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, and publish content faster and more [&#8230;]",
+      "published_at": "2026-08-12T14:30:00+00:00",
+      "published_ts": 1786545000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.974
+    },
+    {
+      "id": "techcrunch:d3123203536f",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "published_at": "2026-08-12T14:20:33+00:00",
+      "published_ts": 1786544433.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.97
+    },
+    {
       "id": "ars_technica:a4d7c0402e81",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -125,6 +155,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.962
+    },
+    {
+      "id": "techcrunch:b49082de4bba",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "published_at": "2026-08-12T14:00:00+00:00",
+      "published_ts": 1786543200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.96
     },
     {
       "id": "the_verge:9deb73477b13",
@@ -155,6 +200,21 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.951
+    },
+    {
+      "id": "ars_technica:75901046f3a6",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+      "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+      "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
+      "published_at": "2026-08-12T13:37:12+00:00",
+      "published_ts": 1786541832.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.95
     },
     {
       "id": "techcrunch:5c2357fc1cd2",

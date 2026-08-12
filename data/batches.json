@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T13:52:53.464777+00:00",
+    "generated_at": "2026-08-12T15:24:25.628988+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3585,6 +3585,69 @@
           "url": "https://www.qbitai.com/2026/08/471030.html",
           "published_at": "2026-08-12T10:54:29+00:00",
           "summary": "免训练、开箱即用！"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-12T15:24:25.628988+00:00",
+      "generated_ts": 1786548265.6289883,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:c215c040d05e",
+          "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.92,
+          "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage."
+        },
+        {
+          "id": "the_verge:430727036348",
+          "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 0.974,
+          "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+          "published_at": "2026-08-12T14:30:00+00:00",
+          "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, a"
+        },
+        {
+          "id": "techcrunch:d3123203536f",
+          "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.97,
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "published_at": "2026-08-12T14:20:33+00:00",
+          "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+        },
+        {
+          "id": "techcrunch:b49082de4bba",
+          "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 0.96,
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking."
+        },
+        {
+          "id": "ars_technica:75901046f3a6",
+          "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.95,
+          "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+          "published_at": "2026-08-12T13:37:12+00:00",
+          "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
         }
       ]
     }
