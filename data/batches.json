@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T17:17:27.699599+00:00",
+    "generated_at": "2026-08-12T19:31:31.037998+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3671,6 +3671,29 @@
           "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
           "published_at": "2026-08-12T16:58:29+00:00",
           "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-12T19:31:31.037998+00:00",
+      "generated_ts": 1786563091.0379977,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:22f780bf880e",
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.897,
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "published_at": "2026-08-12T17:41:29+00:00",
+          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
         }
       ]
     }
