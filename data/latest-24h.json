@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T03:00:22.557770+00:00",
-    "generated_ts": 1786503622.5577698,
+    "generated_at": "2026-08-12T05:49:59.881529+00:00",
+    "generated_ts": 1786513799.8815289,
     "window_hours": 24.0,
-    "total": 20
+    "total": 16
   },
   "items": [
     {
@@ -172,21 +172,6 @@
       "importance": 0.956
     },
     {
-      "id": "qbitai:34c2c1c66415",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-      "url": "https://www.qbitai.com/2026/08/470228.html",
-      "summary": "大水印时代来了",
-      "published_at": "2026-08-11T03:51:24+00:00",
-      "published_ts": 1786420284.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.953
-    },
-    {
       "id": "the_verge:9deb73477b13",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -247,21 +232,6 @@
       "importance": 0.939
     },
     {
-      "id": "qbitai:c38619db3c45",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "url": "https://www.qbitai.com/2026/08/469869.html",
-      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-      "published_at": "2026-08-11T03:11:12+00:00",
-      "published_ts": 1786417872.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.935
-    },
-    {
       "id": "the_verge:cd8cf58945f4",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -275,36 +245,6 @@
       "tier": 1,
       "ai_score": 1.0,
       "importance": 0.934
-    },
-    {
-      "id": "qbitai:35a77e1f2d4c",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "url": "https://www.qbitai.com/2026/08/470485.html",
-      "summary": "把下界推高了一大截",
-      "published_at": "2026-08-11T05:12:20+00:00",
-      "published_ts": 1786425140.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.93
-    },
-    {
-      "id": "qbitai:5f5ed3c43bdf",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-      "url": "https://www.qbitai.com/2026/08/470254.html",
-      "summary": "真就把GPU当理财产品了～",
-      "published_at": "2026-08-11T04:31:39+00:00",
-      "published_ts": 1786422699.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 1.0,
-      "importance": 0.912
     }
   ]
 }
