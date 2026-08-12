@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T09:34:29.404775+00:00",
+    "generated_at": "2026-08-12T11:12:56.675676+00:00",
     "max_days": 30
   },
   "items": [
@@ -13318,6 +13318,36 @@
       "summary": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
       "published_at": "2026-08-12T04:30:00+00:00",
       "published_ts": 1786509000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:b4808cf3122c",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "summary": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+      "published_at": "2026-08-12T10:00:00+00:00",
+      "published_ts": 1786528800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:025b34a1f38e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "published_at": "2026-08-12T11:00:00+00:00",
+      "published_ts": 1786532400.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
