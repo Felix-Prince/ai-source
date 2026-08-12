@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T21:07:37.102429+00:00",
+    "generated_at": "2026-08-12T23:05:58.050738+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3708,6 +3708,49 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-12T23:05:58.050738+00:00",
+      "generated_ts": 1786575958.0507379,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": [
+        {
+          "id": "techcrunch:95a5e2af5e4a",
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.962,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "published_at": "2026-08-12T22:26:37+00:00",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+        },
+        {
+          "id": "ars_technica:29e640b17291",
+          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 0.924,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+          "published_at": "2026-08-12T20:20:52+00:00",
+          "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\""
+        },
+        {
+          "id": "openai_blog:1299f9a22d6d",
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 0.77,
+          "url": "https://openai.com/index/ringcentral",
+          "published_at": "2026-08-12T00:00:00+00:00",
+          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
+        }
+      ]
     }
   ]
 }
