@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T19:31:31.037998+00:00",
+    "generated_at": "2026-08-12T21:07:37.102429+00:00",
     "max_days": 30
   },
   "items": [
@@ -14158,6 +14158,51 @@
       "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and [&#8230;]",
       "published_at": "2026-08-12T19:30:00+00:00",
       "published_ts": 1786563000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:5cc389683eec",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "published_at": "2026-08-12T20:10:40+00:00",
+      "published_ts": 1786565440.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:bdf695fb49db",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "published_at": "2026-08-12T20:53:41+00:00",
+      "published_ts": 1786568021.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:eb651f140b79",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will [&#8230;]",
+      "published_at": "2026-08-12T21:07:17+00:00",
+      "published_ts": 1786568837.0,
       "category": "international",
       "lang": "en",
       "tier": 1,

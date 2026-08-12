@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T19:31:31.037998+00:00",
+    "generated_at": "2026-08-12T21:07:37.102429+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3696,6 +3696,18 @@
           "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-12T21:07:37.102429+00:00",
+      "generated_ts": 1786568857.102429,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }
