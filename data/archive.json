@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T23:07:39.174468+00:00",
+    "generated_at": "2026-08-12T03:00:22.557770+00:00",
     "max_days": 30
   },
   "items": [
@@ -13220,6 +13220,21 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:2adde4724370",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "published_at": "2026-08-11T22:31:45+00:00",
+      "published_ts": 1786487505.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "the_verge:8778d721f039",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -13233,6 +13248,36 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "ars_technica:2a997b370456",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "published_at": "2026-08-12T00:08:40+00:00",
+      "published_ts": 1786493320.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:cd8cf58945f4",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+      "published_at": "2026-08-12T00:39:26+00:00",
+      "published_ts": 1786495166.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.934
     }
   ]
 }
