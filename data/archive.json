@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T23:05:58.050738+00:00",
+    "generated_at": "2026-08-13T03:03:29.305768+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:dbb47a6f0585",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "published_ts": 1783987200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:badec9c79b58",
       "source": "openai_blog",
@@ -14330,6 +14315,21 @@
       "importance": 0.0
     },
     {
+      "id": "ars_technica:134f50add4f5",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "published_at": "2026-08-12T22:02:25+00:00",
+      "published_ts": 1786572145.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
       "id": "techcrunch:bbb0222e063e",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -14358,6 +14358,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.962
+    },
+    {
+      "id": "ars_technica:1fcb368daaca",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+      "published_at": "2026-08-12T22:31:19+00:00",
+      "published_ts": 1786573879.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.877
     }
   ]
 }
