@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T07:58:13.048089+00:00",
+    "generated_at": "2026-08-13T09:35:53.698009+00:00",
     "max_days": 30
   },
   "items": [
@@ -14443,6 +14443,21 @@
       "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
       "published_at": "2026-08-13T06:33:52+00:00",
       "published_ts": 1786602832.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:bbded89df430",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚！Ilya首个模型曝光了",
+      "url": "https://www.qbitai.com/2026/08/471701.html",
+      "summary": "SSI第一剑，劈向持续学习",
+      "published_at": "2026-08-13T08:36:53+00:00",
+      "published_ts": 1786610213.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
