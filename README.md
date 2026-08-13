@@ -12,10 +12,10 @@
 
 | 文件 | URL | 说明 |
 |------|-----|------|
-| `latest-24h.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/latest-24h.json` | ★ 近 24h 已过滤 AI 相关条目（importance 排序） |
+| `latest-24h.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/latest-24h.json` | ★ 近 24h 已过滤 AI 相关条目（ai_score ≥ 1.5，importance 排序） |
 | `archive.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/archive.json` | 滚动 30 天全量，去重用 |
 | `source-status.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/source-status.json` | 各信源健康看板 |
-| `batches.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/batches.json` | 采集批次日志（每 2h 一条，供时间轴） |
+| `batches.json` | `https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/batches.json` | 采集批次日志（每 6h 一条，供时间轴） |
 
 拉取示例：
 
@@ -28,25 +28,25 @@ curl -s https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/lates
 ```jsonc
 {
   "meta": {
-    "generated_at": "2026-08-01T09:14:02Z",   // UTC
-    "generated_ts": 1785568442,                 // 秒级时间戳
+    "generated_at": "2026-08-13T15:25:30Z",   // UTC
+    "generated_ts": 1786634730,                 // 秒级时间戳
     "window_hours": 24,
-    "total": 20
+    "total": 19
   },
   "items": [
     {
-      "id": "kr36:ab12cd34ef56",
-      "source": "kr36",
-      "source_label": "36氪",
-      "title": "报道称OpenAI面临投资者担忧...",
-      "url": "https://36kr.com/...",
+      "id": "qbitai:ab12cd34ef56",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "…",
+      "url": "https://www.qbitai.com/...",
       "summary": "…",
-      "published_at": "2026-08-01T07:00:00+00:00",  // UTC
-      "published_ts": 1785567600,
+      "published_at": "2026-08-13T07:00:00+00:00",  // UTC
+      "published_ts": 1786561200,
       "category": "domestic",           // domestic | international
       "lang": "zh",                     // zh | en
       "tier": 1,                        // 0=官方一手源 1=媒体RSS
-      "ai_score": 2.0,                  // AI 相关性 0~3
+      "ai_score": 2.0,                  // AI 相关性 0~3，低于 1.5 不进产物
       "importance": 1.889              // tier × ai_score × 新鲜度
     }
   ]
@@ -55,7 +55,7 @@ curl -s https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/lates
 
 ### 可视化看板
 
-- 主看板：<https://felix-prince.github.io/ai-source/>（源健康徽章 + 2h 采集时间轴，条目卡片可点击）
+- 主看板：<https://felix-prince.github.io/ai-source/>（源健康徽章 + 6h 采集时间轴，条目卡片可点击）
 - 独立源健康页：<https://felix-prince.github.io/ai-source/health.html>
 
 ---
@@ -63,33 +63,33 @@ curl -s https://raw.githubusercontent.com/Felix-Prince/ai-source/main/data/lates
 ## 二、架构
 
 ```
-GitHub Actions (每 2h 定时)
+GitHub Actions (每 6h 定时, 0/6/12/18 点 UTC)
    ↓ scripts/collect.py
    ↓ 读 config/sources.yaml（信源注册表）
    ↓ fetchers/rss.py（feedparser 解析，重试3/超时60/伪装UA/限并发）
    ↓ normalize.py（RawItem → 结构化条目）
    ↓ dedupe.py（哈希精确 + SequenceMatcher 近似>0.8）
-   ↓ score.py（AI 关键词相关性 + tier×新鲜度 importance）
+   ↓ score.py（AI 关键词相关性 + tier×新鲜度 importance，阈值 ≥ 1.5）
    ↓ health.py（写 source-status.json）
    ↓ 输出 data/latest-24h.json + archive.json + batches.json
-   ↓ git commit data/ 回 main（git 版本化）
+   ↓ git commit data/ 回 main（git 版本化）+ 部署 Pages
 ```
 
-信源阶梯：官方 RSS 为主干 → 别人仓库 Actions feed → newsletter 归档 → 静态页 → 密钥 API（梯级 6，未启用）→ 私人邮箱/cookies（**不碰**）。当前启用 6 个官方源（见 [config/sources.yaml](config/sources.yaml)）。
+信源阶梯：官方 RSS 为主干 → 别人仓库 Actions feed → newsletter 归档 → 静态页 → 密钥 API（梯级 6，未启用）→ 私人邮箱/cookies（**不碰**）。当前启用 **9 个**源（国内 4：36氪/量子位/钛媒体/cnBeta；国际 5：OpenAI/The Verge/TechCrunch/Ars/VentureBeat，见 [config/sources.yaml](config/sources.yaml)）。
 
 ---
 
 ## 三、本地开发
 
 ```bash
-# 1. 装依赖（Python 3.7+）
-python -m pip install -r requirements.txt
+# 1. 装依赖（Python 3.7+；macOS 下用 python3）
+python3 -m pip install -r requirements.txt
 
 # 2. 跑采集（本地单机验证）
-python scripts/collect.py --output-dir data --window-hours 24
+python3 scripts/collect.py --output-dir data --window-hours 24
 
 # 3. 跑测试
-python -m tests.test_collect
+python3 -m unittest discover -s tests
 ```
 
 主要文件：
@@ -109,8 +109,7 @@ python -m tests.test_collect
 
 ## 四、CI/CD
 
-- `.github/workflows/collect.yml` — 每 2h 定时采集（`23 */2 * * *` UTC），产物 commit 回 main；支持 `workflow_dispatch` 手动触发
-- `.github/workflows/pages.yml` — 推送 main 时部署可视化看板到 GitHub Pages
+- `.github/workflows/collect.yml` — 每 6h 定时采集（`23 */6 * * *` UTC，即 0/6/12/18 点），产物 commit 回 main，随后部署 GitHub Pages；支持 `workflow_dispatch` 手动触发
 
 手动触发一次采集：
 
@@ -127,16 +126,19 @@ gh workflow run collect.yml --repo Felix-Prince/ai-source --ref main
 ```jsonc
 {
   "kr36": {
-    "status": "ok",           // ok | failed | disabled
+    "status": "failed",      // ok | failed | disabled
     "last_run_at": "...",
-    "item_count": 30,
-    "fail_count": 0,
-    "error": null             // 失败时记录原因
+    "item_count": 0,
+    "fail_count": 1,
+    "error": "GET ... failed after 3 tries: ..."  // 失败时记录原因
   }
 }
 ```
 
-持续失败的源可在 `config/sources.yaml` 里 `enabled: false` 关掉，或替换 URL。
+持续失败的源可在 `config/sources.yaml` 里 `enabled: false` 关掉，或替换 URL。已知情况：
+
+- **36氪**（2026-08-13 起）：源端风控，所有端点返回 HTML 挑战页，保持 `enabled: true` 观察
+- **cnBeta**（2026-08-13 修复）：`.tw` 镜像 TLS 证书链缺中间证书，GH Actions 下 SSL 校验失败 → 该源配置 `insecure_tls: true` 单源豁免（见 [config/sources.yaml](config/sources.yaml)）
 
 ---
 
@@ -156,7 +158,7 @@ ai-source/
 │   ├── normalize.py / dedupe.py / score.py / health.py
 ├── data/                   # 产物（git 版本化，自动提交）
 │   ├── latest-24h.json / archive.json / source-status.json / batches.json
-├── .github/workflows/      # collect.yml + pages.yml
+├── .github/workflows/collect.yml   # 采集 + Pages 部署（二合一）
 └── tests/test_collect.py
 ```
 
