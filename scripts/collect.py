@@ -30,7 +30,7 @@ from scripts.fetchers import rss
 from scripts.fetchers.base import FetchError
 from scripts import dedupe, health, normalize, score
 
-AI_SCORE_THRESHOLD = 1.0   # AI 相关性分低于此值不进产物
+AI_SCORE_THRESHOLD = 1.5   # AI 相关性分低于此值不进产物（2026-08-13 从 1.0 调高，提升 latest-24h 质量）
 MAX_ARCHIVE_DAYS = 30      # archive 滚动天数
 MAX_BATCH_DAYS = 30        # batches 滚动天数（时间轴深度）
 MAX_ITEMS_PER_SOURCE = 50  # 单源每轮最多保留的条目（防全历史 feed 灌入）
