@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T11:13:34.994109+00:00",
+    "generated_at": "2026-08-13T13:53:44.375365+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3833,6 +3833,71 @@
         "qbitai": 10
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-13T13:53:44.375365+00:00",
+      "generated_ts": 1786629224.375365,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:448ecdfbfb21",
+          "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.923,
+          "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+          "published_at": "2026-08-13T13:00:00+00:00",
+          "summary": "<p><a href=\"https://writer.com/\">Writer</a>, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model <a href=\"https://writer.com/llms/\">Palmyra X6</a> today, alongside a rebuilt agent orchestration &quot;harness&quot; an"
+        },
+        {
+          "id": "qbitai:deca6ac3ad9f",
+          "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.888,
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "published_at": "2026-08-13T12:34:42+00:00",
+          "summary": "首颗AI芯片已进入量产"
+        },
+        {
+          "id": "tmtpost:bed695fc197a",
+          "title": "腾讯528亿算力账：模型优先，出租是退路，但退路有多宽？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.773,
+          "url": "https://www.tmtpost.com/8102187.html",
+          "published_at": "2026-08-13T09:43:50+00:00",
+          "summary": "腾讯、资本开支、AI算力、混元大模型、WorkBuddy 、腾讯Q2财报、AI战略"
+        },
+        {
+          "id": "venturebeat:490c973080a4",
+          "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 1.726,
+          "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+          "published_at": "2026-08-12T18:44:50+00:00",
+          "summary": "<p>Visa&#x27;s president of technology, Rajat Taneja, walked the <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> audience through <a href=\"https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-"
+        },
+        {
+          "id": "venturebeat:b7eff22b71b8",
+          "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 1.662,
+          "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+          "published_at": "2026-08-12T17:26:58+00:00",
+          "summary": "<p>Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released <a href=\"https://x.ai/news/grok-4-6\">Grok 4.6</a>, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.</p><p>Th"
+        }
+      ]
     }
   ]
 }

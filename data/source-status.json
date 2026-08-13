@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-08-13T11:13:35.590709+00:00",
-    "last_run_ts": 1786619615.5907087,
+    "last_run_at": "2026-08-13T13:53:44.822472+00:00",
+    "last_run_ts": 1786629224.822472,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-08-13T11:13:35.674383+00:00",
-    "last_run_ts": 1786619615.674383,
+    "last_run_at": "2026-08-13T13:53:44.900296+00:00",
+    "last_run_ts": 1786629224.9002964,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-08-13T11:13:35.797225+00:00",
-    "last_run_ts": 1786619615.797225,
+    "last_run_at": "2026-08-13T13:53:44.935792+00:00",
+    "last_run_ts": 1786629224.9357924,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-08-13T11:13:36.060375+00:00",
-    "last_run_ts": 1786619616.0603755,
+    "last_run_at": "2026-08-13T13:53:45.090349+00:00",
+    "last_run_ts": 1786629225.0903492,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,19 +37,45 @@
   },
   "kr36": {
     "status": "failed",
-    "last_run_at": "2026-08-13T11:13:36.947667+00:00",
-    "last_run_ts": 1786619616.9476666,
+    "last_run_at": "2026-08-13T13:53:46.319124+00:00",
+    "last_run_ts": 1786629226.319124,
     "url": "https://36kr.com/feed",
     "error": "parse https://36kr.com/feed: <unknown>:10:542: not well-formed (invalid token)",
     "fail_count": 1
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-08-13T11:13:38.239126+00:00",
-    "last_run_ts": 1786619618.2391264,
+    "last_run_at": "2026-08-13T13:53:48.112933+00:00",
+    "last_run_ts": 1786629228.112933,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
     "item_count": 10
+  },
+  "tmtpost": {
+    "status": "ok",
+    "last_run_at": "2026-08-13T13:53:50.854497+00:00",
+    "last_run_ts": 1786629230.8544972,
+    "url": "https://www.tmtpost.com/feed",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 17
+  },
+  "cnbeta": {
+    "status": "failed",
+    "last_run_at": "2026-08-13T13:53:59.414793+00:00",
+    "last_run_ts": 1786629239.414793,
+    "url": "https://rss.cnbeta.com.tw/",
+    "error": "GET https://rss.cnbeta.com.tw/ failed after 3 tries: SSLError: HTTPSConnectionPool(host='rss.cnbeta.com.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+    "fail_count": 1
+  },
+  "venturebeat": {
+    "status": "ok",
+    "last_run_at": "2026-08-13T13:53:59.636283+00:00",
+    "last_run_ts": 1786629239.6362832,
+    "url": "https://venturebeat.com/feed/",
+    "error": null,
+    "fail_count": 0,
+    "item_count": 7
   }
 }
