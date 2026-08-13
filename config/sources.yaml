@@ -61,6 +61,8 @@ sources:
     lang: en
     source_label: Ars Technica
 
+  # 36氪：2026-08-13 源端风控，所有端点返回 HTML 挑战页（HTTP 200 但非 feed）。
+  # 8-01 曾正常出 30 条，8-13 起 failed。保持 enabled:true 观察，等风控解除自动恢复。
   - name: kr36
     url: https://36kr.com/feed
     type: rss
@@ -78,6 +80,36 @@ sources:
     enabled: true
     lang: zh
     source_label: 量子位
+
+  # 2026-08-13 补充验证：钛媒体 feed 200 + 真 XML feed，可用
+  - name: tmtpost
+    url: https://www.tmtpost.com/feed
+    type: rss
+    category: domestic
+    tier: 1
+    enabled: true
+    lang: zh
+    source_label: 钛媒体
+
+  # 2026-08-13 补充验证：cnBeta 官方站 .com 被限，用 .tw 镜像的 rss 端点（200 + XML feed）
+  - name: cnbeta
+    url: https://rss.cnbeta.com.tw/
+    type: rss
+    category: domestic
+    tier: 1
+    enabled: true
+    lang: zh
+    source_label: cnBeta
+
+  # 2026-08-13 补充验证：VentureBeat feed 200 + 真 XML feed，可用（AI 垂直外媒）
+  - name: venturebeat
+    url: https://venturebeat.com/feed/
+    type: rss
+    category: international
+    tier: 1
+    enabled: true
+    lang: en
+    source_label: VentureBeat
 
 # 阶段2 需替代/补充的源（D2 存疑项）：
 #   - infoq_cn      https://www.infoq.cn/feed    ⚠️ 200 但返回 HTML，非 feed → 需找正确端点
