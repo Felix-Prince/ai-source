@@ -92,6 +92,8 @@ sources:
     source_label: 钛媒体
 
   # 2026-08-13 补充验证：cnBeta 官方站 .com 被限，用 .tw 镜像的 rss 端点（200 + XML feed）
+  # 该端点的 TLS 证书链缺中间证书：本地 macOS 缓存了中间证书可通，GH Actions Ubuntu 验证失败。
+  # insecure_tls: true 仅对本站关闭证书校验（见 fetchers/rss.py）。2026-08-13 实测本地 ok。
   - name: cnbeta
     url: https://rss.cnbeta.com.tw/
     type: rss
@@ -100,6 +102,7 @@ sources:
     enabled: true
     lang: zh
     source_label: cnBeta
+    insecure_tls: true
 
   # 2026-08-13 补充验证：VentureBeat feed 200 + 真 XML feed，可用（AI 垂直外媒）
   - name: venturebeat

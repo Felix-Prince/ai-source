@@ -4,9 +4,16 @@
 """
 import threading
 import time
+import warnings
 from collections import namedtuple
 
 import requests
+
+# 个别源（如 cnbeta）用 insecure_tls: true 关闭证书校验，
+# 抑制由此产生的 InsecureRequestWarning，避免每轮日志刷屏。
+requests.packages.urllib3.disable_warnings(
+    requests.packages.urllib3.exceptions.InsecureRequestWarning
+)
 
 # ---- 条目中间结构 ----
 RawItem = namedtuple(
