@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T13:53:44.375365+00:00",
+    "generated_at": "2026-08-13T19:30:50.615850+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3896,6 +3896,222 @@
           "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
           "published_at": "2026-08-12T17:26:58+00:00",
           "summary": "<p>Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released <a href=\"https://x.ai/news/grok-4-6\">Grok 4.6</a>, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.</p><p>Th"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-13T19:30:50.615850+00:00",
+      "generated_ts": 1786649450.6158497,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "openai_blog:b752e20eb254",
+          "title": "The builder’s guide to GPT‑5.6",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.519,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "published_at": "2026-08-13T11:00:00+00:00",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+        },
+        {
+          "id": "openai_blog:082349220075",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.419,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "published_at": "2026-08-13T10:00:00+00:00",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+        },
+        {
+          "id": "venturebeat:0e87a80fad63",
+          "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.876,
+          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+          "published_at": "2026-08-13T18:02:54+00:00",
+          "summary": "<p>Google is <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\">rolling out Gemini 3.7 Flash</a>, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporari"
+        },
+        {
+          "id": "venturebeat:c4de062de8cf",
+          "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.774,
+          "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+          "published_at": "2026-08-13T16:47:55+00:00",
+          "summary": "<p>DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.</p><p>The Chinese AI lab on Thursday <a href=\"https://x.com/deepseek_ai/status/2087864585504305397\">launched the official version of DeepSeek-V4-Pro</a>, an updated flagship model fo"
+        },
+        {
+          "id": "cnbeta:f6fbc70ebbd7",
+          "title": "已推出数年的NVIDIA A100依然供不应求",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.613,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573080.htm",
+          "published_at": "2026-08-13T14:43:50+00:00",
+          "summary": "<p>AI 算力需求持续爆发，即便已推出数年的“老将”硬件依然供不应求。云算力服务商 CoreWeave 最新签署的一项租赁协议显示，英伟达（NVIDIA）于 2020 年发布的 A100“安培”（Ampere）架构 AI 加速卡已被客户续租至 2029 年。这意味着这款诞生于近半个世纪前的算力芯片，其生命周期将破例延续至近十年的时间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573080.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:93481cd5da5c",
+          "title": "Why Capital One built its multi-agent AI platform around open-weight models",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.558,
+          "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+          "published_at": "2026-08-13T14:00:00+00:00",
+          "summary": "<p><i>Presented by Capital One </i></p><hr /><p>At <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>, <!-- -->Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the bank built a scalab"
+        },
+        {
+          "id": "ars_technica:ef85f883836c",
+          "title": "Anthropic could be worth $2 trillion when it goes public",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.557,
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+          "published_at": "2026-08-13T13:58:56+00:00",
+          "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
+        },
+        {
+          "id": "cnbeta:37d6010ac59b",
+          "title": "代理AI时代，CPU要和GPU“1:1”？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.539,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573062.htm",
+          "published_at": "2026-08-13T13:44:31+00:00",
+          "summary": "<p>智能体AI（Agentic AI）浪潮正在从根本上改变数据中心的计算架构，CPU的战略地位随之大幅跃升。美国银行证券在最新研究报告中将2030年服务器CPU总潜在市场规模（TAM）上调至逾2100亿美元，较此前约1700亿美元的预测提升逾两成，并将年复合增长率预期从30%上调至36%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573062.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8958051eaa3f",
+          "title": "DeepSeek V4 Pro正式版上线：Agent能力升级 API启用峰谷定价",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.538,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573060.htm",
+          "published_at": "2026-08-13T13:43:02+00:00",
+          "summary": "<p><strong>DeepSeek今日宣布DeepSeek V4 Pro正式版上线，目前已同步更新至APP、网页端和API。</strong>用户可在APP及网页端通过“专家模式”使用V4 Pro正式版，API模型名保持不变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573060.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:08da1dacbf33",
+          "title": "Google Gemini新版迟迟不发 路透曝内幕：芯片不够、内讧不断",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.175,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573044.htm",
+          "published_at": "2026-08-13T08:22:37+00:00",
+          "summary": "<p>8月13日消息，Google刚刚调整完DeepMind管理层，下一代Gemini延期的更多内情也浮出水面。路透社援引知情人士称，这款旗舰模型在内部测试中，编程等能力仍落后竞争对手，发布时间因此推迟了两个月。Gemini 3去年11月一度追上前沿，此后Anthropic和OpenAI相继更新模型，Google又回到追赶位置。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573044.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:ed2281770771",
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.992,
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "published_at": "2026-08-13T19:22:40+00:00",
+          "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+        },
+        {
+          "id": "techcrunch:8091bdcb45cc",
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.941,
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "published_at": "2026-08-13T18:28:14+00:00",
+          "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+        },
+        {
+          "id": "cnbeta:23b245a2ab7f",
+          "title": "OpenAI营收负责人丹尼斯・德雷瑟即将离职 数日之内第二位高管出走",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.87,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573092.htm",
+          "published_at": "2026-08-13T17:11:35+00:00",
+          "summary": "<p>OpenAI 周四官宣，首席营收官丹尼斯・德雷瑟即将离任。距离她加入这家人工智能实验室尚不足一年。当下 OpenAI 正筹备市场普遍预期的大规模首次公开募股，高管接连离职引发外界关注。公告显示，德雷瑟离职是为 “寻求其他发展机遇”。OpenAI 已聘请网络安全企业 Wiz 前总裁兼首席运营官达利・拉吉奇接任该职位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573092.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e6e7b52c09ca",
+          "title": "芯片算力热潮挤压存储组件 千元以下智能手机已难以生存",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.744,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573088.htm",
+          "published_at": "2026-08-13T14:46:27+00:00",
+          "summary": "<p>随着芯片技术革命引领的算力热潮持续升温，超大规模数据中心对内存芯片的需求出现爆发式增长，由此引发的全球存储组件供应紧张及价格上涨，正对低端消费电子市场造成沉重打击。Counterpoint Research发布的最新市场跟踪数据显示，2026年第二季度美国智能手机整体销量同比下滑5%，其中售价在100美元以下的超低端智能手机市场受创最为严重，销量同比大幅暴跌64%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573088.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:39cf9c24562f",
+          "title": "DeepSeek不再白菜价？API最高涨11倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.703,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573070.htm",
+          "published_at": "2026-08-13T13:57:03+00:00",
+          "summary": "<p>“价格屠夫”开始重新算账。8月13日晚，DeepSeek正式发布公告介绍DeepSeek V4 Pro正式版上线，不过模型更新的消息前一晚已在业内流传，公告中更值得注意的信息是API调价。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a8694b36a192",
+          "title": "DeepSeek Harness预览版上线：把Agent能力全部做成插件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.693,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573064.htm",
+          "published_at": "2026-08-13T13:44:51+00:00",
+          "summary": "<p>8月13日，DeepSeek宣布，<strong>DeepSeek Harness开发者预览版（v0.1）正式面向全球开发者开放测试</strong>，并同步以MIT协议开源。该项目采用插件式开放架构，模型、工具、技能、会话、沙箱、存储、调度及UI等Agent能力均可通过插件进行组合和替换。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573064.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:2f3bb178e5fe",
+          "title": "韩国股市10天内上涨22% 芯片股重拾涨势",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.675,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573048.htm",
+          "published_at": "2026-08-13T13:21:53+00:00",
+          "summary": "<p>全球人工智能（AI）交易的复苏推动韩国股市迈入技术性牛市，标志着市场从上个月的历史性暴跌中实现了戏剧性的逆转。周四，基准Kospi指数收涨3.6%，自7月30日低点以来的累计涨幅约22%。内存芯片制造商三星电子和SK海力士等权重股对该指数的贡献最大，两家公司分别收涨约5%和6%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6da6b8443e20",
+          "title": "高通宣布推出Snapdragon C系列处理器 锁定300美元入门级笔记本市场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.407,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573038.htm",
+          "published_at": "2026-08-13T07:19:52+00:00",
+          "summary": "<p>高通今日正式公布了其入门级PC处理器Snapdragon C系列的详细规格与性能实测数据。该系列芯片最早于2026年Computex展会上首次公开，旨在为售价约300美元（约合人民币2100元左右）的入门级笔记本电脑提供长效续航与流畅的基础计算体验，主要面向学生、家庭以及小型办公人群。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573038.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3fbfc4c25ab6",
+          "title": "Anthropic投资方押注其创下IPO纪录 估值有望达到2万亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.397,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573024.htm",
+          "published_at": "2026-08-13T07:05:25+00:00",
+          "summary": "<p>投资方预计，人工智能初创企业Anthropic将于 10 月挂牌上市，估值达到 2 万亿美元乃至更高。这一惊人估值将超越SpaceX，让这家 AI 实验室创下史上规模最大的首次公开募股纪录。六位该公司投资方透露，凭借营收迅猛攀升，Anthropic计划于今年秋季上市，估值较当前水平有望翻一倍以上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573024.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:dc999d1a7923",
+          "title": "DeepSeekV4 Pro惊艳登场 与全球最强仅差0.1",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.289,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1572996.htm",
+          "published_at": "2026-08-13T04:18:19+00:00",
+          "summary": "<p>酝酿了多时，DeepSeek最强模型终于揭开面纱。8 月 12 日深夜，DeepSeek 官网 API 文档悄然换版——模型版本从 V4-Pro 预览版切换为“DeepSeek-V4-Pro-0813”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1572996.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
