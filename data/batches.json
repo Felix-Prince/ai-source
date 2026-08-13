@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T05:52:15.161598+00:00",
+    "generated_at": "2026-08-13T07:58:13.048089+00:00",
     "max_days": 30
   },
   "batches": [
@@ -3797,6 +3797,18 @@
           "summary": "现在调用V4 Pro，能直接用上完全体"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-13T07:58:13.048089+00:00",
+      "generated_ts": 1786607893.048089,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10
+      },
+      "items": []
     }
   ]
 }

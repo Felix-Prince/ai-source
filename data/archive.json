@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T05:52:15.161598+00:00",
+    "generated_at": "2026-08-13T07:58:13.048089+00:00",
     "max_days": 30
   },
   "items": [
@@ -14428,6 +14428,21 @@
       "summary": "",
       "published_at": "2026-08-13T05:10:50+00:00",
       "published_ts": 1786597850.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:1ce95486b872",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "url": "https://www.qbitai.com/2026/08/471697.html",
+      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+      "published_at": "2026-08-13T06:33:52+00:00",
+      "published_ts": 1786602832.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,

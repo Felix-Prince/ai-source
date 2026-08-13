@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T05:52:15.161598+00:00",
-    "generated_ts": 1786600335.1615984,
+    "generated_at": "2026-08-13T07:58:13.048089+00:00",
+    "generated_ts": 1786607893.048089,
     "window_hours": 24.0,
-    "total": 16
+    "total": 15
   },
   "items": [
-    {
-      "id": "openai_blog:e39993603042",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "published_at": "2026-08-12T06:00:00+00:00",
-      "published_ts": 1786514400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 3.584
-    },
     {
       "id": "techcrunch:95a5e2af5e4a",
       "source": "techcrunch",
