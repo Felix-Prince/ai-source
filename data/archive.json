@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T09:35:53.698009+00:00",
+    "generated_at": "2026-08-13T11:13:34.994109+00:00",
     "max_days": 30
   },
   "items": [
-    {
-      "id": "openai_blog:badec9c79b58",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "published_at": "2026-07-14T10:00:00+00:00",
-      "published_ts": 1784023200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 1.0,
-      "importance": 0.0
-    },
     {
       "id": "openai_blog:0cea288ac523",
       "source": "openai_blog",
@@ -14458,6 +14443,36 @@
       "summary": "SSI第一剑，劈向持续学习",
       "published_at": "2026-08-13T08:36:53+00:00",
       "published_ts": 1786610213.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:031b480c488e",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+      "url": "https://www.qbitai.com/2026/08/471884.html",
+      "summary": "",
+      "published_at": "2026-08-13T10:01:47+00:00",
+      "published_ts": 1786615307.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "qbitai:29f1a7676e63",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+      "url": "https://www.qbitai.com/2026/08/471893.html",
+      "summary": "让一部分人先飞起来",
+      "published_at": "2026-08-13T10:20:32+00:00",
+      "published_ts": 1786616432.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
