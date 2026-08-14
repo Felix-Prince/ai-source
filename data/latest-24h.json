@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T03:03:33.985747+00:00",
-    "generated_ts": 1786676613.985747,
+    "generated_at": "2026-08-14T07:55:09.015539+00:00",
+    "generated_ts": 1786694109.0155394,
     "window_hours": 24.0,
-    "total": 27
+    "total": 26
   },
   "items": [
     {
@@ -262,6 +262,21 @@
       "importance": 1.87
     },
     {
+      "id": "cnbeta:b28e04e38147",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573210.htm",
+      "summary": "<p>中国最大的芯片代工企业中芯国际周五表示，人工智能（AI）相关的需求将继续支撑其产能订单，并且公司已对最抢手的产能上调了价格。得益于强劲的市场需求，中芯国际第二季度营收首次突破30亿美元大关，这一表现以及多项关键财务指标均超出了伦敦证交所集团（LSEG）分析师的平均预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573210.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-14T05:04:24+00:00",
+      "published_ts": 1786683864.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.842
+    },
+    {
       "id": "cnbeta:a224b9eade51",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -305,6 +320,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.773
+    },
+    {
+      "id": "cnbeta:b955457bb841",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苦等两年ChatGPT杀入Linux Codex上手能改你的代码",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573194.htm",
+      "summary": "<p>刚刚，Linux用户苦等了两年的客户端，终于落地了。OpenAI官宣：ChatGPT桌面应用的Linux版本，开放预览。ChatGPT、Work和Codex，从此装进同一个App。Linux是开发者密度最高的系统之一，却一直被OpenAI官方桌面端漏掉。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573194.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-14T03:25:11+00:00",
+      "published_ts": 1786677911.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.756
     },
     {
       "id": "cnbeta:e6e7b52c09ca",
@@ -365,51 +395,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.675
-    },
-    {
-      "id": "cnbeta:6da6b8443e20",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "高通宣布推出Snapdragon C系列处理器 锁定300美元入门级笔记本市场",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573038.htm",
-      "summary": "<p>高通今日正式公布了其入门级PC处理器Snapdragon C系列的详细规格与性能实测数据。该系列芯片最早于2026年Computex展会上首次公开，旨在为售价约300美元（约合人民币2100元左右）的入门级笔记本电脑提供长效续航与流畅的基础计算体验，主要面向学生、家庭以及小型办公人群。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573038.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T07:19:52+00:00",
-      "published_ts": 1786605592.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.407
-    },
-    {
-      "id": "cnbeta:3fbfc4c25ab6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic投资方押注其创下IPO纪录 估值有望达到2万亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573024.htm",
-      "summary": "<p>投资方预计，人工智能初创企业Anthropic将于 10 月挂牌上市，估值达到 2 万亿美元乃至更高。这一惊人估值将超越SpaceX，让这家 AI 实验室创下史上规模最大的首次公开募股纪录。六位该公司投资方透露，凭借营收迅猛攀升，Anthropic计划于今年秋季上市，估值较当前水平有望翻一倍以上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573024.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T07:05:25+00:00",
-      "published_ts": 1786604725.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.397
-    },
-    {
-      "id": "cnbeta:dc999d1a7923",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeekV4 Pro惊艳登场 与全球最强仅差0.1",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1572996.htm",
-      "summary": "<p>酝酿了多时，DeepSeek最强模型终于揭开面纱。8 月 12 日深夜，DeepSeek 官网 API 文档悄然换版——模型版本从 V4-Pro 预览版切换为“DeepSeek-V4-Pro-0813”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1572996.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T04:18:19+00:00",
-      "published_ts": 1786594699.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.289
     }
   ]
 }

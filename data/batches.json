@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T03:03:33.985747+00:00",
+    "generated_at": "2026-08-14T07:55:09.015539+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4168,6 +4168,42 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573134.htm",
           "published_at": "2026-08-13T23:43:40+00:00",
           "summary": "<p>OpenAI宣布为macOS上的ChatGPT Work和Codex推出了一项名为“电脑历史（Computer History）”的全新可选功能。该功能面向Pro、Business和Enterprise用户开放，在获得用户授权后，它能够跨应用和网站追踪用户的日常电脑操作活动，并将其转化为记忆和时间线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-14T07:55:09.015539+00:00",
+      "generated_ts": 1786694109.0155394,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:b28e04e38147",
+          "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.842,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573210.htm",
+          "published_at": "2026-08-14T05:04:24+00:00",
+          "summary": "<p>中国最大的芯片代工企业中芯国际周五表示，人工智能（AI）相关的需求将继续支撑其产能订单，并且公司已对最抢手的产能上调了价格。得益于强劲的市场需求，中芯国际第二季度营收首次突破30亿美元大关，这一表现以及多项关键财务指标均超出了伦敦证交所集团（LSEG）分析师的平均预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573210.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b955457bb841",
+          "title": "苦等两年ChatGPT杀入Linux Codex上手能改你的代码",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.756,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573194.htm",
+          "published_at": "2026-08-14T03:25:11+00:00",
+          "summary": "<p>刚刚，Linux用户苦等了两年的客户端，终于落地了。OpenAI官宣：ChatGPT桌面应用的Linux版本，开放预览。ChatGPT、Work和Codex，从此装进同一个App。Linux是开发者密度最高的系统之一，却一直被OpenAI官方桌面端漏掉。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573194.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
