@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T19:30:50.615850+00:00",
+    "generated_at": "2026-08-14T03:03:33.985747+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4112,6 +4112,62 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1572996.htm",
           "published_at": "2026-08-13T04:18:19+00:00",
           "summary": "<p>酝酿了多时，DeepSeek最强模型终于揭开面纱。8 月 12 日深夜，DeepSeek 官网 API 文档悄然换版——模型版本从 V4-Pro 预览版切换为“DeepSeek-V4-Pro-0813”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1572996.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-14T03:03:33.985747+00:00",
+      "generated_ts": 1786676613.985747,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:9da307198b83",
+          "title": "OpenAI为GPT-5.6 Sol推出全新“超快”模式 处理速度跃升14倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.705,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573110.htm",
+          "published_at": "2026-08-13T23:28:42+00:00",
+          "summary": "<p>早在今年6月，OpenAI 在首次公布 GPT-5.6 系列模型时曾透露，Sol 版本将于7月登陆 Cerebras 平台，并为部分特定客户提供高达每秒750个 token 的处理速度。然而在整个7月期间，OpenAI 并未披露关于在 Cerebras 平台上运行 Sol 推理的任何具体细节。随后，OpenAI 员工在 X 平台上证实，公司一直在与部分特定客户进行这项高速模式的内部预览。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573110.htm\" target=\"_blank\"><strong>阅读全文</stron"
+        },
+        {
+          "id": "venturebeat:3310b70bf24f",
+          "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.464,
+          "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
+          "published_at": "2026-08-13T20:14:20+00:00",
+          "summary": "<p>Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other&#x27;s Unix accounts, ran kill scripts randomized to dodge pkill, and planted malw"
+        },
+        {
+          "id": "cnbeta:a224b9eade51",
+          "title": "黑鲸出水，DeepSeek下半场开始",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.841,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573150.htm",
+          "published_at": "2026-08-14T00:11:31+00:00",
+          "summary": "<p>8月13日傍晚，DeepSeek官方终于发声，两个重要信息发布。其一，是DeepSeek V4 Pro正式版发布，并同步在 APP、网页端和 API 更新上线。用户可以通过 APP 或网页端选择“专家模式”使用全新的 V4 Pro 正式版模型，API 模型名不变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573150.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:be7ed994c0bd",
+          "title": "OpenAI推出全新Mac端功能 ChatGPT无需截屏即可完成记忆用户操作",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.817,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573134.htm",
+          "published_at": "2026-08-13T23:43:40+00:00",
+          "summary": "<p>OpenAI宣布为macOS上的ChatGPT Work和Codex推出了一项名为“电脑历史（Computer History）”的全新可选功能。该功能面向Pro、Business和Enterprise用户开放，在获得用户授权后，它能够跨应用和网站追踪用户的日常电脑操作活动，并将其转化为记忆和时间线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

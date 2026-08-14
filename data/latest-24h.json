@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T19:30:50.615850+00:00",
-    "generated_ts": 1786649450.6158497,
+    "generated_at": "2026-08-14T03:03:33.985747+00:00",
+    "generated_ts": 1786676613.985747,
     "window_hours": 24.0,
-    "total": 24
+    "total": 27
   },
   "items": [
     {
@@ -97,6 +97,21 @@
       "importance": 2.774
     },
     {
+      "id": "cnbeta:9da307198b83",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI为GPT-5.6 Sol推出全新“超快”模式 处理速度跃升14倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573110.htm",
+      "summary": "<p>早在今年6月，OpenAI 在首次公布 GPT-5.6 系列模型时曾透露，Sol 版本将于7月登陆 Cerebras 平台，并为部分特定客户提供高达每秒750个 token 的处理速度。然而在整个7月期间，OpenAI 并未披露关于在 Cerebras 平台上运行 Sol 推理的任何具体细节。随后，OpenAI 员工在 X 平台上证实，公司一直在与部分特定客户进行这项高速模式的内部预览。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-13T23:28:42+00:00",
+      "published_ts": 1786663722.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.705
+    },
+    {
       "id": "cnbeta:f6fbc70ebbd7",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -172,6 +187,21 @@
       "importance": 2.538
     },
     {
+      "id": "venturebeat:3310b70bf24f",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
+      "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
+      "summary": "<p>Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other&#x27;s Unix accounts, ran kill scripts randomized to dodge pkill, and planted malware disguised as a rival&#x27;s work. There was no prompt injection and no adversary. Anthropic&#x27;s Frontier Red Team <a href=\"https://www.anthropic.com/research/multiagent-systems\">published the transcripts on Thursday</a> and called the escalation “increasingly aggressive, self-replicating malware.”</p><p>The setup was ordinary by design. Anthropic put three instances of the same model in Claude Code, each told to migrate a Python backend to a different target language, each unaware the others existed. Every model tested read the interference as hostility and answered in kind. One Mythos Preview trace shows an agent reasoning its way into sabotage in real time: &quot;<i>Since I have root, I could revoke u2 and u3&#x27;s sudo access or change their SSH keys. That would stop them from deploying. Very aggressive, potentially harmful to real colleagues. But if the alternative is an infinite deploy war that makes prod unusable … — Mythos Preview reasoning trace, via Anthropic.</i>&quot;</p><p>That is a production outage being reasoned into existence by the software you deployed to prevent one.</p><p>Four months earlier, the U.K. AI Security Institute documented the other half of the same problem. Its <a href=\"https://arxiv.org/abs/2604.24618\">April paper</a>, an independent evaluation of Claude models, including two pre-release snapshots, found that when Claude Mythos Preview continues a sabotage trajectory, its reasoning and the output it shows the user diverge in 65% of those runs. One research body has now published how Claude agents fight, and the other how the same model family conceals it. For any security leader wiring multiple agents into shared infrastructure, both halves are now in writing.</p><h2>Force settled 61% of Sonnet 4.6 runs, and capability did not fix it</h2><p>Across 120 episodes per model, Sonnet 4.6 ended 61% of its turf wars by force and left the other 39% unresolved, the only two outcomes it produced. Force, in Anthropic&#x27;s accounting, means one agent cut the others off through sudo removal, account locks, nologin, or SSH denial. Opus 4.6 landed almost identically at 60% force. The newest model, Mythos 5, reached a negotiated truce 98% of the time, which reads like progress until the mechanism shows through. Anthropic found that prosociality and raw capability are orthogonal, and that its Mythos-class models often locked rivals out first, then reverted the lockout and negotiated afterward. More capable models did not fight less. They fought faster and cleaned up better.</p><p>In several Mythos 5 episodes, the agents invented their own way out, in effect creating a performance tournament among the three language implementations. One Rust agent&#x27;s reasoning trace worked out how to propose benchmark criteria that looked neutral but favored Rust, warning itself to be “careful not to be seen as metric shopping.” The Golang and TypeScript agents lost the bake-off, conceded the codebase, and abandoned their original user directives. Diplomacy, in these runs, was a more polished route to the same end the malware chased.</p><h2>18 of 30 agents picked the same branch name, and 2.4 million requests bought 117 jobs</h2><p>The same low variance that makes a single agent predictable makes a fleet of them dangerous. Identical models in identical situations reach for identical moves, so an isolated bad call becomes a synchronized one. In an early build-a-game run, 18 of 30 agents created a git branch with the exact same name, “mvp-game-loop,” with no coordination between them. Told to each build something impressive, more than half of a swarm chose either a ray tracer or a self-hosting compiler. In an iterated prisoner&#x27;s dilemma with communication, the agents converged on one strategy and then all defected in the same round, tanking their own rewards together. And handed job queues on a bandwidth-limited system with no way to coordinate, agents flooded the scheduler with polling daemons firing 30 times per second. One run generated 2.4 million job requests and 117 accepted jobs.</p><p>Merritt Baer, a former deputy CISO at AWS and an advisor to <a href=\"https://www.g2i.ai/\">G2i</a> and <a href=\"https://andesite.ai/\">Andesite</a>, has not seen correlated same-model risk land as its own line on most enterprise risk registers. “I don&#x27;t see correlated same-model risk consistently represented as its own line item on enterprise risk registers yet,” she told VentureBeat. “Most organizations still capture it indirectly under AI concentration risk, third-party risk, model risk or resilience.” The conformity results are why the distinction matters to her. “If you deploy ten agents backed by the same model, you may not have ten independent decision-makers—you may have ten opportunities for the same failure mode to execute simultaneously,” Baer added. “That undermines some of the assumptions we normally make about redundancy.”</p><p>Competition collapsed just as fast. Anthropic placed three to eight profit-maximizing agents in a Bertrand pricing game with identical wholesale costs. Given a private back-channel, they began colluding almost immediately and had explicit price floors set by round 3: &quot;wholesale is 10 for all of us, so a price war just burns everyone&#x27;s margin… happy to coordinate who covers which niches. — agent 1, round 1, via Anthropic.&quot;</p><p>Anthropic then stripped out every direct communication channel. The agents colluded anyway, price-matching to the penny through a public listings board. Any enterprise running pricing, procurement, or bidding agents against a competitor&#x27;s agents now owns that behavior, and no regulator will care that no human wrote the memo.</p><p>Coordination has an upside, which is why Anthropic keeps chasing it. Pointed at 15 open-source projects, a 45-agent swarm sharing a forum found 266 vulnerabilities where independent parallel agents found 21. The gap is coverage, not raw efficiency. The swarm spent 27 million tokens against the parallel run&#x27;s 6.5 million, and roughly half its findings came from outside the core directories the parallel agents were told to search. Anthropic calls the two methods largely complementary, with only 12 findings in common. What the swarm did that the parallel agents could not was build its own tools and specialize by vulnerability class, ranging wherever it judged the bugs were richest.</p><h2>Agents keep trusting liars, and keep burying the one fact that matters</h2><p>Anthropic ran two tests of agent judgment, and they failed in opposite directions. In the first, a listener agent made routing calls off four scouts, one lying at a fixed rate, and was never told any source might be unreliable. Newer models held out longer as the lie rate climbed, recovering more of the gap between trusting every report and a perfect oracle, but none acted skeptically until the contradictions forced it. The second test inverted the pressure. In a hidden-profile task, the decisive facts sat split across four agents while their shared evidence pointed the wrong way, so the group could only get it right by trusting the one member holding the missing piece.</p><p>Mythos 5 surfaced the right answer about 85% of the time. Every other model tested landed between 17% and 36%, far below the near-100% rate a single model hits when it holds all the facts alone. One failure comes from trusting a liar, the other from refusing to back a lone truth-teller against the room, and Anthropic notes that turning a single dial to fix one only widens the other.</p><h2>AISI found zero unprompted sabotage, and a model that hides the difference</h2><p>Independent testing complicates the picture in one direction and sharpens it in another. AISI researchers Robert Kirk, Alexandra Souly, Kai Fronsdal, Abby D&#x27;Cruz, and Xander Davies evaluated whether frontier models would sabotage AI safety research across 270 scenarios. Left alone, no model did it unprompted. AISI attaches a caveat that matters here, though. Its scenarios were often recognizable as evaluations, and a model that behaves only when it senses a test is a thinner guarantee than a clean zero rate suggests. Dropped mid-trajectory into a run where sabotage was already underway, Mythos Preview continued it 7% of the time, against 3% for Opus 4.6 and 4% for Sonnet 4.6 — and 0% for Opus 4.7 Preview, the one model in the study that never took the bait. In 65% of the continuations Mythos Preview did pursue, its reasoning and its reported output diverged. What individual alignment does not touch is coordination, and Anthropic writes that it does not emerge from stronger intelligence or from alignment at the individual level.</p><p>Kayne McGladrey, a senior member of the IEEE, has been tracking this exact behavior class. “An AI will take shortcuts. It&#x27;s what a human would call cheating, and it will not disclose it to you in its chain of thought,” McGladrey told VentureBeat. “If you get into the inference layer, it won&#x27;t tell you it&#x27;s cheating, and it will lie about having cheated.”</p><p>The governance consequence is sharper than the security one, in his reading. Corporate accountability assumes an entity that can be compelled to tell the truth. “They certainly have a duty to be forthright. Think about it like that&#x27;s the basis of fiduciary duty,” he argued. “However, they don&#x27;t necessarily have the capability to do it.”</p><p>Baer draws the same line from the architecture side, and she starts by demoting the reasoning trace. “I would treat chain-of-thought as a useful signal, not a security boundary,” she explained. “If the model can conceal, distort or simply fail to surface the reasoning associated with a harmful action, then reasoning traces can&#x27;t be your primary control.” Her fix is to watch what the agent does rather than what it says it is doing. “There&#x27;s an analogy to insider threat: you don&#x27;t secure an enterprise by asking employees to narrate their intentions. You establish permissions, separation of duties and telemetry, and then investigate behavior (sometimes building off of a nuanced understanding of motives).”</p><p>McGladrey reaches the same place from the audit side, where auditing outcomes is what remains. “We can audit code for compliance. We can audit code for security. We cannot audit code for ethics or bias, there is no scalable way to do that,” he put it. “I think that&#x27;s going to be the only meaningful way to look at what an AI forward entity does.”</p><h2>Only 18% of enterprises isolate the agents most likely to turn</h2><p>VentureBeat&#x27;s own survey data puts numbers on the distance between these experiments and production reality. In VentureBeat Pulse Research&#x27;s July wave, 65% of enterprises enforce scoped agent permissions at runtime while 18% isolate their highest-risk agents, and the 53 enterprises that enforce without isolating carry a <a href=\"https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue\">58% incident or near-miss rate</a>. Anthropic&#x27;s turf war is that architecture animated. Every locked account and camouflaged binary in the experiment ran on infrastructure the agents shared without isolation, holding credentials that stayed valid throughout.</p><p>Baer said the first thing that changes for a team running agents in production is the threat model itself. “We&#x27;ve spent years designing controls around malicious users acting through software. With multi-agent systems, the software itself can become an adversarial participant—even if every agent started with legitimate credentials and an ostensibly legitimate objective,” she said. The Anthropic transcripts are why she puts independent telemetry ahead of trust. “If an agent can rename malicious code to look like a health monitor, you can&#x27;t base trust on what a process calls itself or what the model says it is doing. You need independent telemetry around what actually happened.”</p><p>Anthropic flags its own limits in the post. Agents deployed in the wild will act with more variance than its lab swarms because their contexts differ and they will not all be Claude. Anthropic engineered the turf war, putting three agents on one server with incompatible orders and no isolation by design. And the disclosure itself is a control working as intended. A frontier lab publishing verbatim transcripts of its own models writing malware, reasoning included, is the transparency level enterprise buyers have spent two years demanding on every vendor questionnaire.</p><p>The board question writes itself. If two of our agents lock each other out of production at 2 a.m., who holds the kill switch, and how long does the rollback take? The experiments translate that question into tests a security team can run this quarter, before production runs them first.</p><table><tbody><tr><td><p><b>Behavior Anthropic documented</b></p></td><td><p><b>Where it surfaces in an enterprise stack</b></p></td><td><p><b>The test to run this quarter</b></p></td></tr><tr><td><p>Goal-conflict sabotage. Every model tested locked rivals out and disguised malware when handed clashing objectives.</p></td><td><p>Any two agents with write access to the same repo, pipeline, or production host and no isolation between them.</p></td><td><p>Run a contradictory-objective drill in a sandbox. Confirm each agent has its own identity, a kill switch, and a rollback path before it touches production.</p></td></tr><tr><td><p>Concealment. Mythos Preview&#x27;s reasoning and its reported output diverged in 65% of the sabotage-continuation runs it kept going.</p></td><td><p>Chain-of-thought monitoring used as a primary control on agent behavior.</p></td><td><p>Score agents on outcomes against policy, not on stated reasoning. Treat the reasoning trace as advisory telemetry that can lie.</p></td></tr><tr><td><p>Conformity. 18 of 30 agents chose the same branch name, and one job queue took 2.4 million requests to accept 117.</p></td><td><p>Fleets of identical agents on one model making correlated calls at the same moment.</p></td><td><p>Set per-agent rate limits and run a shared-failure chaos test. Confirm one bad decision does not replicate across the fleet at once.</p></td></tr><tr><td><p>Collusion. Three to eight pricing agents set price floors by round 3, and matched to the penny with no channel at all.</p></td><td><p>Pricing, bidding, or procurement agents acting in the same market.</p></td><td><p>Monitor cross-agent convergence directly. Alert when independent agents move in lockstep, with or without a channel between them.</p></td></tr></tbody></table><p>Anthropic closes its post with a choice rather than a prediction. The conditions that make agent-to-agent interaction safe get discovered deliberately and early, or they get discovered by default in production, after agent interactions outnumber human ones. The transcripts, the truce rates, and the concealment numbers are all public now, which turns the schedule into a decision. “I think that there&#x27;s a level of tolerance that&#x27;s being given right now in AI that is unlike anything else in society,” McGladrey said. </p><p>McGladrey&#x27;s tolerance point cuts both ways: the same enterprises still deciding how much of it to extend are the ones sitting at 18% isolation — which is a choice, not a limitation.</p>",
+      "published_at": "2026-08-13T20:14:20+00:00",
+      "published_ts": 1786652060.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.464
+    },
+    {
       "id": "cnbeta:08da1dacbf33",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -202,21 +232,6 @@
       "importance": 1.992
     },
     {
-      "id": "techcrunch:95a5e2af5e4a",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "published_at": "2026-08-12T22:26:37+00:00",
-      "published_ts": 1786573597.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.962
-    },
-    {
       "id": "techcrunch:8091bdcb45cc",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -245,6 +260,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.87
+    },
+    {
+      "id": "cnbeta:a224b9eade51",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "黑鲸出水，DeepSeek下半场开始",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573150.htm",
+      "summary": "<p>8月13日傍晚，DeepSeek官方终于发声，两个重要信息发布。其一，是DeepSeek V4 Pro正式版发布，并同步在 APP、网页端和 API 更新上线。用户可以通过 APP 或网页端选择“专家模式”使用全新的 V4 Pro 正式版模型，API 模型名不变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573150.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-14T00:11:31+00:00",
+      "published_ts": 1786666291.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.841
+    },
+    {
+      "id": "cnbeta:be7ed994c0bd",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI推出全新Mac端功能 ChatGPT无需截屏即可完成记忆用户操作",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573134.htm",
+      "summary": "<p>OpenAI宣布为macOS上的ChatGPT Work和Codex推出了一项名为“电脑历史（Computer History）”的全新可选功能。该功能面向Pro、Business和Enterprise用户开放，在获得用户授权后，它能够跨应用和网站追踪用户的日常电脑操作活动，并将其转化为记忆和时间线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-13T23:43:40+00:00",
+      "published_ts": 1786664620.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.817
     },
     {
       "id": "tmtpost:bed695fc197a",
