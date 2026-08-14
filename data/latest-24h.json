@@ -1,71 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T07:55:09.015539+00:00",
-    "generated_ts": 1786694109.0155394,
+    "generated_at": "2026-08-14T13:49:39.336135+00:00",
+    "generated_ts": 1786715379.3361354,
     "window_hours": 24.0,
-    "total": 26
+    "total": 18
   },
   "items": [
-    {
-      "id": "openai_blog:b752e20eb254",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "published_ts": 1786618800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 3.519
-    },
-    {
-      "id": "openai_blog:082349220075",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "published_at": "2026-08-13T10:00:00+00:00",
-      "published_ts": 1786615200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 3.419
-    },
-    {
-      "id": "venturebeat:448ecdfbfb21",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "summary": "<p><a href=\"https://writer.com/\">Writer</a>, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model <a href=\"https://writer.com/llms/\">Palmyra X6</a> today, alongside a rebuilt agent orchestration &quot;harness&quot; and new governance tools designed to give IT leaders control over runaway token spending.</p><p>The headline numbers are striking: Writer says its agent product now operates at an average 52% lower cost, with a 48% improvement in speed and a 10% improvement in quality when paired with Palmyra X6. But the more consequential story may be how the company got there — and what its choices reveal about where the enterprise AI market is heading.</p><p><a href=\"https://writer.com/llms/\">Palmyra X6</a> is not trained from scratch. It is a post-trained version of <a href=\"https://z.ai/blog/glm-5.2\">GLM-5.2</a>, the open-weight mixture-of-experts model from Beijing-based <a href=\"http://z.ai\">Z.ai</a>, formerly Zhipu AI — a fact Writer discloses openly in its technical report, and one that places the San Francisco company at the center of one of the industry&#x27;s most charged debates: whether American enterprises should build on Chinese open-source foundations.</p><p>&quot;This model is in no way, shape, or form connected to any of its original developers. It is fully run on our U.S. infrastructure,&quot; Matan-Paul Shetrit, Writer&#x27;s director of product management, told VentureBeat in an exclusive interview ahead of the announcement.</p><p>Dan Bikel, who leads Writer&#x27;s AI research, put it more bluntly: &quot;It&#x27;s very much a Palmyra model, and we just happen to grab the floating point numbers as the starting point, and train from there.&quot;</p><h2><b>Why AI agents are blowing up enterprise budgets in ways chatbots never did</b></h2><p>Writer&#x27;s announcement lands at a moment when the economics of agentic AI have moved to the center of enterprise buying decisions. Unlike a chatbot, which typically generates one answer per user request, an AI agent turns a single request into repeated rounds of planning, retrieval, tool calls, validation, and retries — with every loop consuming metered tokens. The user sees one answer; the invoice reflects the entire loop.</p><p>The scale of the problem is becoming clear. Goldman Sachs forecasts that token consumption will <a href=\"https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars\">multiply 24 times between 2026 and 2030</a>, reaching 120 quadrillion tokens per month, driven not by more people asking questions but by always-on enterprise agents. The same analysis warned that falling per-token prices do not guarantee falling bills: if an agentic task draws 20 times more tokens while unit prices fall 75%, total charges still rise fivefold.</p><p>&quot;The enterprise wants token consumption to explode — it means adoption is happening — but they need costs to flatten,&quot; said Waseem AlShikh, Writer&#x27;s CTO and co-founder, in a statement.</p><p>Shetrit framed the cost problem as the primary obstacle to enterprise AI adoption — more so than model capability itself. &quot;The biggest barrier today to enterprise expansion using AI is actually not model capabilities in most cases; it&#x27;s actually the cost around them,&quot; he said. &quot;The reality today is, in most cases, the alternative for AI is not another AI, it is human labor.&quot;</p><p>Asked whether cutting customers&#x27; token consumption would cannibalize Writer&#x27;s own per-token revenue, Shetrit rejected the premise. &quot;Reducing the cost is not hurting my bottom line. It&#x27;s actually expanding it, because it&#x27;s expanding the TAM of opportunity within an organization,&quot; he said, arguing that lower per-task costs unlock workflows enterprises would otherwise never automate. That argument echoes a pattern familiar from the cloud era, where unit prices fell for a decade while total bills rose as consumption expanded — a dynamic Writer is explicitly betting will repeat with agents, and betting it can profit from.</p><h2><b>Inside Palmyra X6: how 626 training examples fine-tuned a 744-billion-parameter model</b></h2><p><a href=\"https://writer.com/llms/\">Palmyra X6</a> is a 744-billion-parameter mixture-of-experts model with roughly 40 billion active parameters per token, inheriting GLM-5.2&#x27;s architecture unchanged, according to Writer&#x27;s technical report. The company&#x27;s contribution is a deliberately conservative post-training recipe: a technique called <a href=\"https://arxiv.org/abs/2509.23753\">anchored supervised fine-tuning (ASFT)</a>, applied to a remarkably small corpus of just 626 curated synthetic agentic trajectories, trained for a single epoch at a low learning rate.</p><p>The tiny dataset is the point, not a limitation. ASFT pairs a token-weighting scheme with a KL-divergence &quot;anchor&quot; that penalizes the fine-tuned model for drifting too far from a frozen copy of the base model — teaching new tool-use behaviors without eroding the general capabilities the base already has. Writer also swapped the standard Adam optimizer for <a href=\"https://kellerjordan.github.io/posts/muon/\">Muon</a>, a newer method that treats weight matrices as geometric objects, on the model&#x27;s core weight matrices.</p><p>&quot;There&#x27;s a whole string of papers following a quote-unquote &#x27;less is more&#x27;&quot; philosophy, Bikel said, referencing research showing that &quot;small, extremely high quality data sets go a really long way.&quot; He added: &quot;That&#x27;s the philosophy — one of the philosophies — that we followed when building this model, and it showed. It allowed us to optimize for our customers at lower cost to do the work of optimization, and that ultimately yielded a lower cost model for us and for them.&quot;</p><p>The training data itself is fully synthetic — every plan, tool call, and final answer machine-generated by teacher models, then filtered through structural quality gates, a model-based verifier, and a two-model LLM judging panel before entering training. That continues a long-standing Writer practice: the company&#x27;s <a href=\"https://writer.com/llms/palmyra-x4/\">Palmyra X 004</a> was trained almost entirely on synthetic data for <a href=\"https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/\">roughly $700,000</a> back in 2024, as TechCrunch reporte at the time, and <a href=\"https://writer.com/blog/long-context-palmyra-x5/\">Palmyra X5</a> required about $1 million in GPU hours, according to <a href=\"https://siliconangle.com/2025/04/28/writer-announces-palmyra-x5-llm-1m-token-context-window-power-ai-agents/\">SiliconANGLE</a>.</p><p>On Writer&#x27;s internal evaluations — nine capabilities spanning grounding and retrieval, tool use, content generation, sub-agent delegation, and brand voice — X6 scored an average of 0.87 out of 1.00, edging out Anthropic&#x27;s Claude <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Opus 4.8</a> (0.86), <a href=\"https://www.anthropic.com/news/claude-sonnet-4-6\">Claude Sonnet 4.6</a> (0.85), OpenAI&#x27;s <a href=\"https://openai.com/index/introducing-gpt-5-5/\">GPT-5.5</a> (0.80), and Google&#x27;s <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\">Gemini 3.1</a> (0.77). The price gap is the real differentiator: Writer prices X6 at $2 per million input tokens and $8 per million output tokens, versus 15/75 for Opus 4.8. The company says X6 completes tasks in 26 seconds on average and can work unattended toward a single goal for up to eight hours.</p><p>Writer is candid that internal benchmarks invite skepticism. Asked directly whether the company would publish its methodology after grading its own homework, Bikel said the technical report covers &quot;both the protocol we used to do our public benchmarking as well as our internal evaluations.&quot; He described public benchmarks as sanity checks rather than targets: &quot;We do things like public benchmarks to let us know that we&#x27;re climbing the right hill and that we don&#x27;t have any sort of huge gaps, but we don&#x27;t slavishly follow them either, because that&#x27;s not really serving our customers.&quot;</p><h2><b>The China question: what building on GLM-5.2 means for enterprise security and trust</b></h2><p>Writer&#x27;s choice of base model would have been unthinkable for an American enterprise vendor two years ago. Today it reflects a market reality: <a href=\"https://z.ai/blog/glm-5.2\">GLM-5.2</a>, released in June under the permissive MIT license, is arguably the most capable openly available model in the world. Independent analysis house <a href=\"https://artificialanalysis.ai/\">Artificial Analysis</a> scored it at 51 on its <a href=\"https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index\">Intelligence Index</a> — ahead of <a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\">DeepSeek V4 Pro</a>, <a href=\"https://artificialanalysis.ai/models/kimi-k2-6\">Kimi K2.6</a>, and even some of Google&#x27;s Gemini models on agentic tasks — while undercutting U.S. flagship API pricing many times over, as European tech outlet Trending Topics reported. Writer&#x27;s press release calls it &quot;the strongest available open-weight model.&quot;</p><p>The open-weight surge carries genuine baggage. An August report from AI safety nonprofit <a href=\"https://www.safer-ai.org/\">SaferAI</a> found that <a href=\"https://www.safer-ai.org/research/glm-5-2-evaluation-report\">GLM-5.2 refused none of the offensive cyber or biology tasks it was given</a> via Z.ai&#x27;s public API, and that Z.ai published no safety framework or pre-deployment risk assessment — a gap that widens once anyone can download and modify the weights.</p><p>Writer&#x27;s answer is that provenance and post-training matter more than origin. Bikel emphasized that the company &quot;grabbed the weights off of the U.S. <a href=\"https://huggingface.co/zai-org/GLM-5\">Hugging Face</a>&quot; and trained entirely on American infrastructure; the technical report states all datasets were synthesized and stored in the U.S., and all training hardware was located in the U.S.</p><p>The company also ran what it describes as an unusually rigorous, pre-registered model-risk evaluation covering political bias, censorship, factuality, and refusal behavior — 19,674 evaluated responses scored by blinded judges — comparing X6 against its GLM-5.2 base and four frontier control models.</p><p>On the Washington Post&#x27;s <a href=\"https://modelslant.com/\">ModelSlant</a> political-bias evaluation, Writer says X6 presented both sides of hot-button questions 80% of the time, the highest rate of any model tested, and answered politically sensitive prompts that DeepSeek V4 refused outright. On the <a href=\"https://arxiv.org/abs/2506.14922\">FORTRESS adversarial safety benchmark</a>, X6 with its deployment system message scored 8.6 points higher on adversarial safety than the raw GLM-5.2 base, at negligible cost to benign helpfulness.</p><p>&quot;We&#x27;ve run extensive benchmarking around bias, around censorship,&quot; Shetrit said, &quot;and the work Dan and the team has done has actually proven that this model is actually significantly better than not just open source alternatives, but any closed source alternative in the market at the time of the benchmarking.&quot; </p><p>The report does hedge in one notable place: while English-language behavior showed no statistically robust political asymmetry, &quot;the behavior was shown to vary by language&quot; — a candid admission that 626 fine-tuning trajectories do not scrub every trace of a base model&#x27;s training.</p><h2><b>The harness effect: why orchestration may matter more than the model itself</b></h2><p>Perhaps the most strategically interesting claim in Writer&#x27;s announcement has nothing to do with Palmyra X6 at all. The company says its rebuilt <a href=\"https://writer.com/product/writer-agent/\">Writer Agent harness</a> — the orchestration layer that plans tasks, batches work, delegates to sub-agents, and manages context — cuts costs by 41% and completes tasks 44% faster across every model it tested, including third-party models from <a href=\"https://www.anthropic.com/\">Anthropic</a> and <a href=\"https://openai.com/\">OpenAI</a>, while maintaining quality. Writer published the finding in an accompanying research paper on what it calls &quot;<a href=\"https://arxiv.org/pdf/2607.06906\">The Harness Effect</a>.&quot;</p><p>That raises an obvious question, which VentureBeat put to the company: if the harness alone delivers most of the savings on any model, why build a model at all?</p><p>Shetrit&#x27;s answer was about control. &quot;I cannot control if a lab deprecates their model. I cannot control what data they use in their model,&quot; he said. &quot;Where when I build the model, I have significant moral control, and I can answer the tough questions that enterprise customers ask me.&quot;</p><p>Bikel added that the model and harness were developed together: &quot;This model was built and essentially co-evolved with the harness... We know that we have a flagship product, <a href=\"https://writer.com/product/writer-agent/\">Writer Agent</a>. We want that to work really, really well with this model, and sure enough, it does. And we take that into account during model development, and that&#x27;s something that is not possible if you don&#x27;t build your own model.&quot;</p><p>Notably, Writer is simultaneously hedging. With this release, the company extends multi-model support to <a href=\"https://writer.com/product/writer-agent/\">Writer Agent</a>, letting admins enable models from <a href=\"https://www.anthropic.com/\">Anthropic</a>, <a href=\"https://openai.com/\">OpenAI</a>, and cloud providers including <a href=\"https://azure.microsoft.com/en-us\">Microsoft Azure</a>, <a href=\"https://aws.amazon.com/bedrock/\">AWS Bedrock</a>, and <a href=\"https://developer.nvidia.com/nim\">Nvidia NIM</a> — even image-generation models, a category Writer does not build. The message to CIOs is disarmingly simple: use our model because it is cheapest and best for your workflows, but the platform saves you money either way.</p><h2><b>New governance tools aim to end surprise AI bills before they start</b></h2><p>The third leg of the release targets a quieter enterprise pain point: nobody in the C-suite knows what the agents are spending. New governance tools give administrators a centralized view of agent usage across the business, per-workflow analytics for the company&#x27;s shareable &quot;<a href=\"https://writer.com/product/playbooks/\">Playbooks</a>&quot; and &quot;<a href=\"https://writer.com/blog/writer-skills-team-expertise/\">Skills</a>&quot; automations, and consumption controls with alerts and spending limits.</p><p>Asked whether the introduction of spending controls implied that customers had been receiving surprise bills, Shetrit reframed it as an adoption enabler rather than damage control. &quot;How do we build the tools to allow you as the CIO, CISO in a company, to feel comfortable both on the security and spend, so you can expand AI usage in your organization,&quot; he said. In his telling, visibility is what lets leaders say yes: businesses with clear cost data &quot;are actually looking to expand AI adoption to use cases that they would never have touched before.&quot;</p><p>The feature set tracks a broader shift in how enterprises budget for AI. As Forbes analysis of the token price wars argued, sophisticated buyers are learning to model <a href=\"https://www.forbes.com/sites/janakirammsv/2026/07/13/cheaper-ai-tokens-do-not-guarantee-cheaper-enterprise-agents/\">cost per successful task</a> — counting retries, tool calls, and escalations — rather than multiplying expected calls by the advertised rate card. Writer is effectively productizing that discipline, turning what has been a finance-team spreadsheet exercise into a native platform capability.</p><p>It also completes a governance arc the company has been building for over a year. Writer shipped its unified agent experience with admin controls last November, then added agent Skills and workflow analytics in March, according to earlier company announcements. Thursday&#x27;s release closes the loop by attaching a price tag — and a spending limit — to every workflow.</p><p><a href=\"https://writer.com/\">Writer</a>, founded in 2020 by May Habib and Waseem AlShikh, <a href=\"https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/\">raised $200 million</a> at a $1.9 billion valuation in late 2024, and has built its business on regulated, high-stakes deployments rather than consumer scale. Shetrit made no apology for the narrowness of that focus. &quot;The privilege of working and focusing on enterprise use cases is that I don&#x27;t need my model to be able to write a French sonnet,&quot; he said. &quot;When you don&#x27;t try to do everything, you can focus on your customer problem and needs.&quot;</p><p>He was equally direct about identity: &quot;We are not a research lab converted to a consumer product now dabbling in enterprise. We are first and foremost an enterprise company that serves enterprise customers, and we evaluate our decisions within that lens. Which means, if we think building things from scratch is the right decision, that&#x27;s what we will do. But if we think there are other alternatives out there in the market that serve our customers better, that&#x27;s what we will do.&quot;</p><p>That pragmatism may be the release&#x27;s most important signal. A well-capitalized American AI company with five years of model-building experience has concluded that the frontier of value no longer lies in pretraining, but in the last mile: post-training open weights, engineering the harness around them, and handing the CFO a dashboard. If Writer is right, the frontier labs&#x27; moat narrows to the workloads where quality genuinely justifies a sevenfold price premium — and for everything else, the winning model is the one somebody else paid to pretrain.</p><p>In an industry that has spent three years arguing about whose model is smartest, Writer is making a different wager: the enterprise AI race won&#x27;t be won by the company with the best floating point numbers, but by the one that knows what to do with them.</p><p>\n</p>",
-      "published_at": "2026-08-13T13:00:00+00:00",
-      "published_ts": 1786626000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.923
-    },
-    {
-      "id": "qbitai:deca6ac3ad9f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "summary": "首颗AI芯片已进入量产",
-      "published_at": "2026-08-13T12:34:42+00:00",
-      "published_ts": 1786624482.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.888
-    },
     {
       "id": "venturebeat:0e87a80fad63",
       "source": "venturebeat",
@@ -80,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.876
+    },
+    {
+      "id": "cnbeta:b211e2fea9bb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达弃用交流电 力推800V直流供电",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573232.htm",
+      "summary": "<p><strong>英伟达近日联合Google、微软，通过OCP（开放计算项目）推出业界首套800V高压直流供电架构，推动AI工厂告别交流供电，已有超过80家设备厂商按新规范跟进。</strong>传统交流供电要经过多次变换，每级都有损耗，密度越高浪费越大。改用800V直流后，电网到GPU之间变换级数明显减少，高压电可直接供给加速器，更多功率直达芯片，冲破算力扩展的电力墙。<br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-14T12:19:07+00:00",
+      "published_ts": 1786709947.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.872
     },
     {
       "id": "venturebeat:c4de062de8cf",
@@ -157,36 +112,6 @@
       "importance": 2.557
     },
     {
-      "id": "cnbeta:37d6010ac59b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "代理AI时代，CPU要和GPU“1:1”？",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573062.htm",
-      "summary": "<p>智能体AI（Agentic AI）浪潮正在从根本上改变数据中心的计算架构，CPU的战略地位随之大幅跃升。美国银行证券在最新研究报告中将2030年服务器CPU总潜在市场规模（TAM）上调至逾2100亿美元，较此前约1700亿美元的预测提升逾两成，并将年复合增长率预期从30%上调至36%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573062.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T13:44:31+00:00",
-      "published_ts": 1786628671.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.539
-    },
-    {
-      "id": "cnbeta:8958051eaa3f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek V4 Pro正式版上线：Agent能力升级 API启用峰谷定价",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573060.htm",
-      "summary": "<p><strong>DeepSeek今日宣布DeepSeek V4 Pro正式版上线，目前已同步更新至APP、网页端和API。</strong>用户可在APP及网页端通过“专家模式”使用V4 Pro正式版，API模型名保持不变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573060.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T13:43:02+00:00",
-      "published_ts": 1786628582.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.538
-    },
-    {
       "id": "venturebeat:3310b70bf24f",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -200,21 +125,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.464
-    },
-    {
-      "id": "cnbeta:08da1dacbf33",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google Gemini新版迟迟不发 路透曝内幕：芯片不够、内讧不断",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573044.htm",
-      "summary": "<p>8月13日消息，Google刚刚调整完DeepMind管理层，下一代Gemini延期的更多内情也浮出水面。路透社援引知情人士称，这款旗舰模型在内部测试中，编程等能力仍落后竞争对手，发布时间因此推迟了两个月。Gemini 3去年11月一度追上前沿，此后Anthropic和OpenAI相继更新模型，Google又回到追赶位置。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573044.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T08:22:37+00:00",
-      "published_ts": 1786609357.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.175
     },
     {
       "id": "techcrunch:ed2281770771",
@@ -245,6 +155,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.941
+    },
+    {
+      "id": "cnbeta:c01e562f2d96",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
+      "summary": "<p>据供应链消息及接近台积电的人士透露，英伟达已着手推进代号“费曼”（Feynman）的下一代GPU微架构原型开发，该产品将接替“鲁宾”（Rubin）及“鲁宾 Ultra”系列。最新报道称，英伟达计划直接采用台积电更先进的A16工艺，而非N2系列制程，相关芯片预计将在2028年下半年进入量产阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573244.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-14T12:31:12+00:00",
+      "published_ts": 1786710672.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.926
     },
     {
       "id": "cnbeta:23b245a2ab7f",
@@ -307,21 +232,6 @@
       "importance": 1.817
     },
     {
-      "id": "tmtpost:bed695fc197a",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "腾讯528亿算力账：模型优先，出租是退路，但退路有多宽？",
-      "url": "https://www.tmtpost.com/8102187.html",
-      "summary": "腾讯、资本开支、AI算力、混元大模型、WorkBuddy 、腾讯Q2财报、AI战略",
-      "published_at": "2026-08-13T09:43:50+00:00",
-      "published_ts": 1786614230.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.773
-    },
-    {
       "id": "cnbeta:b955457bb841",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -365,36 +275,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.703
-    },
-    {
-      "id": "cnbeta:a8694b36a192",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek Harness预览版上线：把Agent能力全部做成插件",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573064.htm",
-      "summary": "<p>8月13日，DeepSeek宣布，<strong>DeepSeek Harness开发者预览版（v0.1）正式面向全球开发者开放测试</strong>，并同步以MIT协议开源。该项目采用插件式开放架构，模型、工具、技能、会话、沙箱、存储、调度及UI等Agent能力均可通过插件进行组合和替换。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573064.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T13:44:51+00:00",
-      "published_ts": 1786628691.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.693
-    },
-    {
-      "id": "cnbeta:2f3bb178e5fe",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "韩国股市10天内上涨22% 芯片股重拾涨势",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573048.htm",
-      "summary": "<p>全球人工智能（AI）交易的复苏推动韩国股市迈入技术性牛市，标志着市场从上个月的历史性暴跌中实现了戏剧性的逆转。周四，基准Kospi指数收涨3.6%，自7月30日低点以来的累计涨幅约22%。内存芯片制造商三星电子和SK海力士等权重股对该指数的贡献最大，两家公司分别收涨约5%和6%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-13T13:21:53+00:00",
-      "published_ts": 1786627313.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.675
     }
   ]
 }

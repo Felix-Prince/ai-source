@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T07:55:09.015539+00:00",
+    "generated_at": "2026-08-14T13:49:39.336135+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4204,6 +4204,42 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573194.htm",
           "published_at": "2026-08-14T03:25:11+00:00",
           "summary": "<p>刚刚，Linux用户苦等了两年的客户端，终于落地了。OpenAI官宣：ChatGPT桌面应用的Linux版本，开放预览。ChatGPT、Work和Codex，从此装进同一个App。Linux是开发者密度最高的系统之一，却一直被OpenAI官方桌面端漏掉。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573194.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-14T13:49:39.336135+00:00",
+      "generated_ts": 1786715379.3361354,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:b211e2fea9bb",
+          "title": "英伟达弃用交流电 力推800V直流供电",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.872,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573232.htm",
+          "published_at": "2026-08-14T12:19:07+00:00",
+          "summary": "<p><strong>英伟达近日联合Google、微软，通过OCP（开放计算项目）推出业界首套800V高压直流供电架构，推动AI工厂告别交流供电，已有超过80家设备厂商按新规范跟进。</strong>传统交流供电要经过多次变换，每级都有损耗，密度越高浪费越大。改用800V直流后，电网到GPU之间变换级数明显减少，高压电可直接供给加速器，更多功率直达芯片，冲破算力扩展的电力墙。<br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573232.htm\" target=\"_blank\"><strong>阅读全文</strong><"
+        },
+        {
+          "id": "cnbeta:c01e562f2d96",
+          "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.926,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
+          "published_at": "2026-08-14T12:31:12+00:00",
+          "summary": "<p>据供应链消息及接近台积电的人士透露，英伟达已着手推进代号“费曼”（Feynman）的下一代GPU微架构原型开发，该产品将接替“鲁宾”（Rubin）及“鲁宾 Ultra”系列。最新报道称，英伟达计划直接采用台积电更先进的A16工艺，而非N2系列制程，相关芯片预计将在2028年下半年进入量产阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573244.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
