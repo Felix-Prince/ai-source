@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T01:53:39.903507+00:00",
+    "generated_at": "2026-08-15T07:03:14.444748+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4392,6 +4392,52 @@
           "url": "https://www.tmtpost.com/8104305.html",
           "published_at": "2026-08-15T00:25:00+00:00",
           "summary": "Model+Harness=Agent"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-15T07:03:14.444748+00:00",
+      "generated_ts": 1786777394.4447484,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:d564284594a6",
+          "title": "疑似任正非给梁文锋的邮件曝光：基于昇腾训练的DeepSeek V4 走出自己的技术路线",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.968,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573308.htm",
+          "published_at": "2026-08-15T06:40:44+00:00",
+          "summary": "<p>日近，网络上曝光一份疑似华为创始人任正非2026年4月23日向DeepSeek创始人梁文锋发出的一封邮件。邮件中任正非对DeepSeek团队基于昇腾算力底座训练的DeepSeek V4表示祝贺，称这一成果&quot;<strong>走出了中国自己的技术路线，在全球人工智能领域树立了新的标杆&quot;</strong>。附在后面的还有一封任正非给全体员工的邮件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573308.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:03021869b73d",
+          "title": "上线12小时5万星 DeepSeek Harness实测：能干活，但得盯着",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.98,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573312.htm",
+          "published_at": "2026-08-15T06:42:40+00:00",
+          "summary": "<p>DeepSeek也有自己的“马具”了。8月13日晚，DeepSeek发布首个Harness产品DeepSeek Harness。上线一天，GitHub Star就突破5万。Harness是什么？简单理解，如果模型是“大脑”，Harness就是让模型真正动手干活的一套“手脚”。文件怎么读、工具怎么调、上下文怎么管理、任务如何持续执行，都需要Harness来组织。模型决定它有没有能力完成一件事，Harness则影响这些能力最后能不能顺利跑起来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573312.htm\" target=\""
+        },
+        {
+          "id": "cnbeta:ded5df5fdad0",
+          "title": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.979,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573310.htm",
+          "published_at": "2026-08-15T06:41:15+00:00",
+          "summary": "<p>8月15日，据《商业内幕》报道，Anthropic给Claude生成文本添加水印的做法，正在导致一些用户离开其AI助手。Anthropic本周表示，部分版本的Claude将<strong>在输出文本中直接嵌入一种“不可察觉的水印”</strong>。Anthropic称，当内容被复制粘贴时，这种水印会随文本一起传播，并且在经过部分编辑后仍可能保留下来，从而帮助区分AI生成的内容和人类创作的文字。Anthropic表示，水印不会改变Claude回复的含义、质量或可读性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573310"
         }
       ]
     }
