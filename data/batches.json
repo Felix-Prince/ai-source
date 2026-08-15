@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T13:03:35.529322+00:00",
+    "generated_at": "2026-08-15T18:52:06.589021+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4506,6 +4506,21 @@
           "summary": "DeepSeek Harness可能压根没把普通用户当第一批用户。"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-15T18:52:06.589021+00:00",
+      "generated_ts": 1786819926.5890214,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }

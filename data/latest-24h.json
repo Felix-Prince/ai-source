@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T13:03:35.529322+00:00",
-    "generated_ts": 1786799015.529322,
+    "generated_at": "2026-08-15T18:52:06.589021+00:00",
+    "generated_ts": 1786819926.5890214,
     "window_hours": 24.0,
-    "total": 20
+    "total": 17
   },
   "items": [
     {
@@ -65,21 +65,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.754
-    },
-    {
-      "id": "techcrunch:56a2276c2cb8",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "published_at": "2026-08-14T14:50:11+00:00",
-      "published_ts": 1786719011.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.629
     },
     {
       "id": "qbitai:192fbe1cef3e",
@@ -202,21 +187,6 @@
       "importance": 1.954
     },
     {
-      "id": "tmtpost:00dbb11b0ab4",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-      "url": "https://www.tmtpost.com/8104508.html",
-      "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
-      "published_at": "2026-08-15T12:04:24+00:00",
-      "published_ts": 1786795464.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.944
-    },
-    {
       "id": "tmtpost:a1d269e9febe",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -225,6 +195,21 @@
       "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书",
       "published_at": "2026-08-15T12:04:21+00:00",
       "published_ts": 1786795461.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.944
+    },
+    {
+      "id": "tmtpost:00dbb11b0ab4",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+      "url": "https://www.tmtpost.com/8104508.html",
+      "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
+      "published_at": "2026-08-15T12:04:24+00:00",
+      "published_ts": 1786795464.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -260,36 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.916
-    },
-    {
-      "id": "cnbeta:f3ea171a0a2c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google更新AI工具设置 用户现可选择关闭Gemini可见水印",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573252.htm",
-      "summary": "<p>Google现已允许用户移除由其人工智能工具生成的图像、视频和音乐中的可见水印。通过最新的一项更新，用户可以在Gemini以及GoogleAI视频生成器Flow中找到并关闭新增的“媒体水印”选项。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573252.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-14T17:22:43+00:00",
-      "published_ts": 1786728163.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.886
-    },
-    {
-      "id": "ars_technica:8151fa12a8cf",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "published_at": "2026-08-14T14:27:14+00:00",
-      "published_ts": 1786717634.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.733
     },
     {
       "id": "tmtpost:d4a80a951167",
