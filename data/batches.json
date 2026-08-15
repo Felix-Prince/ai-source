@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T19:24:20.486638+00:00",
+    "generated_at": "2026-08-15T01:53:39.903507+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4286,6 +4286,112 @@
           "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
           "published_at": "2026-08-14T14:27:14+00:00",
           "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-15T01:53:39.903507+00:00",
+      "generated_ts": 1786758819.9035068,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:9d773ccf264b",
+          "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.97,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
+          "published_at": "2026-08-15T01:32:29+00:00",
+          "summary": "<p>SpaceX已完成对人工智能编程初创公司Cursor的收购，这笔交易是埃隆·马斯克追赶Anthropic、OpenAI等竞争对手的重要一步。根据监管文件，这笔交易于8月14日正式生效。Cursor也在官网宣布正式被SpaceX收购，收购流程始于今年4月，当时两家公司宣布建立合作，以加速模型训练。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6d522c729c14",
+          "title": "DeepSeek补上一块短板 正面对抗Anthropic？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.966,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573296.htm",
+          "published_at": "2026-08-15T01:29:51+00:00",
+          "summary": "<p>8月13日，DeepSeek上线两项重大更新。在模型层面，DeepSeek V4 Pro正式版全量上线，而在智能体框架层面，DeepSeek Harness v0.1以MIT协议开放源码。此前主要通过模型、应用和API进入开发者工作流的DeepSeek，由此拥有了自己维护的通用Agent。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573296.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:2a5c3276e850",
+          "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.754,
+          "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+          "published_at": "2026-08-14T22:56:16+00:00",
+          "summary": "<p>Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, <a href=\"https://z.ai/blog/glm-5.3\">today released GLM-5.3</a> with substantial gains in long-horizon coding and a more consequential — and potentially sensitive —"
+        },
+        {
+          "id": "cnbeta:a9f17452c82f",
+          "title": "阿里开源Qwen3.8-27B 270亿参数模型编程能力超越Qwen3.7-Plus",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.978,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573298.htm",
+          "published_at": "2026-08-15T01:30:34+00:00",
+          "summary": "<p>8月15日，阿里巴巴旗下千问大模型团队于8月14日晚间正式开源Qwen3.8系列模型中的Qwen3.8-27B。该模型采用Apache 2.0协议面向所有开发者、科研机构及企业开放权重，支持免费下载、部署及商用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c41b4773986a",
+          "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.957,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573282.htm",
+          "published_at": "2026-08-15T01:08:25+00:00",
+          "summary": "<p>据业内人士看到的文件显示，Anthropic PBC在向潜在投资者推介时透露，公司第二季度的营业收入较去年同期实现了约14倍的巨幅增长。文件显示，这家Claude聊天机器人开发商在最新结束的季度中报告的初步营收超过115亿美元。作为对比，其在2025年同期的营收仅为7.87亿美元，而今年第一季度则为47.3 亿美元。此外，文件还显示，Anthropic在2026年第二季度的调整后营业利润为正。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573282.htm\" target=\"_blank\"><strong>阅读全文</st"
+        },
+        {
+          "id": "cnbeta:facd75ddf0ef",
+          "title": "OpenAI首席财务官透露：企业级业务营收现已超越消费者业务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.955,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573276.htm",
+          "published_at": "2026-08-15T01:06:25+00:00",
+          "summary": "<p>经过高管层的一周动荡后，OpenAI首席财务官莎拉·弗莱尔（Sarah Friar）于周五与投资者举行了会议。她在会上着重介绍了公司在企业级市场的增长，并表示该业务目前创造的营收已经超过了以ChatGPT为主导的消费者业务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573276.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:04bec7060a95",
+          "title": "Anthropic评估AI风险上升 暂不公开更强“Model 2”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.954,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573274.htm",
+          "published_at": "2026-08-15T01:05:15+00:00",
+          "summary": "<p>根据 Anthropic 最新发布的风险报告，该公司目前不打算对外发布一款被称为“模型 2”的内部大模型。尽管该模型在能力上似乎已经超越了其现有的顶尖模型“Mythos”，但 Anthropic 的整体研发步伐并未因此放缓。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573274.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ce48527952b7",
+          "title": "企业级SSD消耗全球48%的NAND闪存供应",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.943,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573268.htm",
+          "published_at": "2026-08-15T00:53:10+00:00",
+          "summary": "<p>人工智能数据中心和超大规模运算设施正在大举吞噬全球的NAND闪存芯片产能。随着芯片制造业将大部分生产能力向科技巨头和AI初创公司倾斜，整个存储市场正在经历一场深刻的变革。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573268.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:13ebb2223125",
+          "title": "DeepSeek Harness，“杀死”Agent黑箱",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.916,
+          "url": "https://www.tmtpost.com/8104305.html",
+          "published_at": "2026-08-15T00:25:00+00:00",
+          "summary": "Model+Harness=Agent"
         }
       ]
     }
