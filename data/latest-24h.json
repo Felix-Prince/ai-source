@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:03:14.444748+00:00",
-    "generated_ts": 1786777394.4447484,
+    "generated_at": "2026-08-15T13:03:35.529322+00:00",
+    "generated_ts": 1786799015.529322,
     "window_hours": 24.0,
-    "total": 17
+    "total": 20
   },
   "items": [
     {
@@ -52,21 +52,6 @@
       "importance": 2.966
     },
     {
-      "id": "cnbeta:b211e2fea9bb",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达弃用交流电 力推800V直流供电",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573232.htm",
-      "summary": "<p><strong>英伟达近日联合Google、微软，通过OCP（开放计算项目）推出业界首套800V高压直流供电架构，推动AI工厂告别交流供电，已有超过80家设备厂商按新规范跟进。</strong>传统交流供电要经过多次变换，每级都有损耗，密度越高浪费越大。改用800V直流后，电网到GPU之间变换级数明显减少，高压电可直接供给加速器，更多功率直达芯片，冲破算力扩展的电力墙。<br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-14T12:19:07+00:00",
-      "published_ts": 1786709947.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.872
-    },
-    {
       "id": "venturebeat:2a5c3276e850",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -95,6 +80,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.629
+    },
+    {
+      "id": "qbitai:192fbe1cef3e",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "summary": "推理能力还能自定义",
+      "published_at": "2026-08-15T06:05:31+00:00",
+      "published_ts": 1786773931.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.453
+    },
+    {
+      "id": "cnbeta:ea03c0cd5e91",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AMD与ARM蚕食英特尔服务器市场份额 但x86架构仍将是主导",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573354.htm",
+      "summary": "<p>根据美国银行全球研究（BofA Global Research）、Mercury Research以及IDC等机构的最新数据表明，受人工智能（尤其是高度依赖CPU的智能体工作流）需求激增的推动，服务器CPU的总潜在市场（TAM）将在未来几年内显著扩张，预计到2030年将突破2000亿美元大关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-15T12:51:07+00:00",
+      "published_ts": 1786798267.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.988
     },
     {
       "id": "cnbeta:03021869b73d",
@@ -187,6 +202,36 @@
       "importance": 1.954
     },
     {
+      "id": "tmtpost:00dbb11b0ab4",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+      "url": "https://www.tmtpost.com/8104508.html",
+      "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
+      "published_at": "2026-08-15T12:04:24+00:00",
+      "published_ts": 1786795464.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.944
+    },
+    {
+      "id": "tmtpost:a1d269e9febe",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+      "url": "https://www.tmtpost.com/8104597.html",
+      "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书",
+      "published_at": "2026-08-15T12:04:21+00:00",
+      "published_ts": 1786795461.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.944
+    },
+    {
       "id": "cnbeta:ce48527952b7",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -200,21 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.943
-    },
-    {
-      "id": "cnbeta:c01e562f2d96",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
-      "summary": "<p>据供应链消息及接近台积电的人士透露，英伟达已着手推进代号“费曼”（Feynman）的下一代GPU微架构原型开发，该产品将接替“鲁宾”（Rubin）及“鲁宾 Ultra”系列。最新报道称，英伟达计划直接采用台积电更先进的A16工艺，而非N2系列制程，相关芯片预计将在2028年下半年进入量产阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573244.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-14T12:31:12+00:00",
-      "published_ts": 1786710672.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.926
     },
     {
       "id": "tmtpost:13ebb2223125",
@@ -260,6 +290,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.733
+    },
+    {
+      "id": "tmtpost:d4a80a951167",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "DeepSeek故意做了一个难用的Agent？",
+      "url": "https://www.tmtpost.com/8104384.html",
+      "summary": "DeepSeek Harness可能压根没把普通用户当第一批用户。",
+      "published_at": "2026-08-15T07:24:00+00:00",
+      "published_ts": 1786778640.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.698
     }
   ]
 }

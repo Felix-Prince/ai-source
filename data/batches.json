@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:03:14.444748+00:00",
+    "generated_at": "2026-08-15T13:03:35.529322+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4438,6 +4438,72 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573310.htm",
           "published_at": "2026-08-15T06:41:15+00:00",
           "summary": "<p>8月15日，据《商业内幕》报道，Anthropic给Claude生成文本添加水印的做法，正在导致一些用户离开其AI助手。Anthropic本周表示，部分版本的Claude将<strong>在输出文本中直接嵌入一种“不可察觉的水印”</strong>。Anthropic称，当内容被复制粘贴时，这种水印会随文本一起传播，并且在经过部分编辑后仍可能保留下来，从而帮助区分AI生成的内容和人类创作的文字。Anthropic表示，水印不会改变Claude回复的含义、质量或可读性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573310"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-15T13:03:35.529322+00:00",
+      "generated_ts": 1786799015.529322,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "qbitai:192fbe1cef3e",
+          "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.453,
+          "url": "https://www.qbitai.com/2026/08/473669.html",
+          "published_at": "2026-08-15T06:05:31+00:00",
+          "summary": "推理能力还能自定义"
+        },
+        {
+          "id": "cnbeta:ea03c0cd5e91",
+          "title": "AMD与ARM蚕食英特尔服务器市场份额 但x86架构仍将是主导",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.988,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573354.htm",
+          "published_at": "2026-08-15T12:51:07+00:00",
+          "summary": "<p>根据美国银行全球研究（BofA Global Research）、Mercury Research以及IDC等机构的最新数据表明，受人工智能（尤其是高度依赖CPU的智能体工作流）需求激增的推动，服务器CPU的总潜在市场（TAM）将在未来几年内显著扩张，预计到2030年将突破2000亿美元大关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:00dbb11b0ab4",
+          "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.944,
+          "url": "https://www.tmtpost.com/8104508.html",
+          "published_at": "2026-08-15T12:04:24+00:00",
+          "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。"
+        },
+        {
+          "id": "tmtpost:a1d269e9febe",
+          "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.944,
+          "url": "https://www.tmtpost.com/8104597.html",
+          "published_at": "2026-08-15T12:04:21+00:00",
+          "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书"
+        },
+        {
+          "id": "tmtpost:d4a80a951167",
+          "title": "DeepSeek故意做了一个难用的Agent？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.698,
+          "url": "https://www.tmtpost.com/8104384.html",
+          "published_at": "2026-08-15T07:24:00+00:00",
+          "summary": "DeepSeek Harness可能压根没把普通用户当第一批用户。"
         }
       ]
     }
