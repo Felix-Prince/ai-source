@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:05:49.241222+00:00",
+    "generated_at": "2026-08-16T13:05:29.148558+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4611,6 +4611,52 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573416.htm",
           "published_at": "2026-08-16T06:27:29+00:00",
           "summary": "<p>就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。据彭博社报道，Claude背后的Anthropic，第二季度营收超过<strong>115亿美元</strong>，较去年同期的7.87亿美元<strong>暴涨逾14倍</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573416.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-16T13:05:29.148558+00:00",
+      "generated_ts": 1786885529.1485584,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:d3281dc3d7da",
+          "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.992,
+          "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+          "published_at": "2026-08-16T13:00:00+00:00",
+          "summary": "<p>DeepSeek&#x27;s V4 Flash has topped model leaderboards and been hailed by developers as a &quot;total monster&quot; since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. </p><p><a href=\"https://x.com/composio/status/2085330847951970801?s=20\">Comp"
+        },
+        {
+          "id": "tmtpost:b8ae062d425f",
+          "title": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.919,
+          "url": "https://www.tmtpost.com/8104888.html",
+          "published_at": "2026-08-16T12:08:41+00:00",
+          "summary": "（8月10日~8月15日）面壁智能启动IPO；英伟达研发万亿参数开源模型Nemotron 4；SpaceXAI推出“全天候数字同事”Grok Bot；宇树科技：网上投资者放弃认购8734股"
+        },
+        {
+          "id": "the_verge:18fe2d6230d5",
+          "title": "Rogue AI aren’t science fiction anymore",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.907,
+          "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+          "published_at": "2026-08-16T12:00:00+00:00",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous"
         }
       ]
     }

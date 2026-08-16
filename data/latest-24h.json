@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:05:49.241222+00:00",
-    "generated_ts": 1786863949.2412217,
+    "generated_at": "2026-08-16T13:05:29.148558+00:00",
+    "generated_ts": 1786885529.1485584,
     "window_hours": 24.0,
-    "total": 10
+    "total": 9
   },
   "items": [
+    {
+      "id": "venturebeat:d3281dc3d7da",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "summary": "<p>DeepSeek&#x27;s V4 Flash has topped model leaderboards and been hailed by developers as a &quot;total monster&quot; since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. </p><p><a href=\"https://x.com/composio/status/2085330847951970801?s=20\">Composio ran the model through eight different agent harnesses</a>, including Claude Code, Codex, and OpenCode, on 30 deliberately difficult, multi-step tasks spanning live tools like Gmail, GitHub, Slack, and Google Sheets. Of 240 total runs, 129 passed — and only six of the 30 workflows were completed successfully by every harness tested.</p><p>The gap illustrates why orchestration, not raw model capability, may decide whether the model succeeds in enterprise settings: the same model produced substantially different results depending on the harness, tool configuration, caching behavior, retries, and provider stack it ran on.</p><p><a href=\"https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/\">DeepSeek said it will be hiking the prices for V4 Flash and Pro</a>, models that have quickly become favorites among developers building coding assistants and agents. </p><p>While it seems the move might undercut its very appeal — strikingly capable models at ultra-low pricing that frontier providers simply can&#x27;t match — it also moves the story beyond the now-clichéd &quot;cheap Chinese model&quot; narrative, as early use cases emerge and enterprises figure out where different models fit into their tech stacks and what workflows they should be aimed at.</p><h2>&quot;<!-- -->Insane&quot; adoption numbers as DeepSeek flips the cost structure</h2><p>DeepSeek rolled out V4 Flash to public beta July 31, and made V4 Pro generally available on August 13. The 284-billion-parameter Flash is built for volume and speed, the 1.6 trillion-parameter Pro for more complex workflows.</p><p>Both models have flexible reasoning capabilities (low, high, max) and ‘thinking modes’ applying chain-of-thought (CoT) reasoning to improve answer accuracy.</p><p>Users were immediately impressed by Flash’s capabilities. It has <a href=\"https://openrouter.ai/rankings\">dominated OpenRouter&#x27;s usage leaderboard</a> since its rollout, currently the most-used model on the platform by weekly token volume.</p><p>“The adoption numbers of the initial DeepSeek V4 Flash were insane,” <a href=\"https://x.com/natolambert/status/2084790959636922652?s=20\">ML researcher Nathan Lambert posted to X</a>, <!-- -->adding that the new version &quot;scored the same as GLM 5.2,&quot; making it a &quot;total monster&quot; that will be used extensively.</p><div></div><p>DeepSeek switching the cost model adds an interesting dimension. </p><p><a href=\"https://api-docs.deepseek.com/quick_start/pricing/\">V4 API rates</a> are going up by as much as 1,100% depending on the model, token type and time of use. The new pricing structure: </p><ul><li><p>Flash will be 22 cents per million input tokens and 66 cents per million output tokens off-peak; and 44 cents per million input tokens and $1.32 per million output tokens at peak. This represents a 57% to 371% increase. </p></li><li><p>Pro will be 66 cents per million input tokens and $1.98 per million output tokens off-peak; and $1.32 per million input tokens and $3.96 per million output tokens at peak. This shows a 51% to 355% jump. </p></li><li><p>Cache hits, meanwhile (when models reuse prompts rather than starting from scratch), are going up between 52% and 1,100%.</p></li></ul><p>DeepSeek says offering 50% lower off-peak usage is intended to encourage “more flexible workload scheduling.&quot; Seventeen of every 24 hours stay at half price, and the new structure actually prices the company&#x27;s home market the highest.</p><p>&quot;This is not a simple price rise,&quot; said <a href=\"https://greyhoundresearch.com/svg/\">Sanchit vir Gogia of Greyhound Research</a>. &quot;It is a pricing architecture that makes the timing of inference an economic variable.&quot;</p><p>Work that can wait — such as batch evaluation, synthetic-data generation, and overnight development runs — moves into the cheap hours; interactive agents and live operations cannot. Gogia said irritation among developers and enterprises is genuine and vocal, and that DeepSeek&#x27;s past low pricing doesn&#x27;t obligate it to stay cheap forever.</p><p>At first glance, it does look like a “suicidal move from a platform still looking for credibility against more established AI model vendors,” <a href=\"https://www.linkedin.com/in/carmi/\">said tech analyst Carmi Levy</a>. The increases will certainly eat into DeepSeek&#x27;s price advantage and force customers to weigh concerns around the company&#x27;s Chinese origins more heavily.</p><p>Still, DeepSeek remains far cheaper by all pricing measures relative to competing models from OpenAI, Anthropic, Google, Cohere, xAI, and others, he said. </p><p>So, while the move will force DeepSeek to emphasize performance and security over cost, it hardly wipes out its already-notable price-performance advantage, and still gives customers ample wiggle room to justify its use for specific workloads, Levy said. The math will just have to be more tightly calculated. </p><p>“The advantage will likely erode over time as DeepSeek inevitably continues to align pricing with market realities, but for now it&#x27;s still easy to make the business case,” Levy said. </p><h2>Where can DeepSeek Flash fit into enterprise environments? </h2><p>Adoption inside enterprises remains an open question due to cost, capability, reliability, data governance, security, and other factors.</p><p>One use case is batch processing, Levy said. This kind of work is typically routine and repetitive rather than demanding top-tier intelligence, so it makes sense to use a cheaper, more efficient model. “It’s a high-performance inference engine that enterprises can consider using for point solution workloads rather than as a wholesale replacement for the incumbent offerings,” Levy said. </p><p>Partial adoption will likely involve isolated, non-sensitive workloads with clearly-defined success metrics, strict oversight, permissions controls, and fallback models in case of failures, he noted. Broader deployment will require DeepSeek and its hosting partners to demonstrate strong reliability, security, privacy, auditability, and deployment options. As it adjusts price structures based on demand, DeepSeek also must retain a large enough price-performance advantage to justify any risk, he said.</p><p>Expect unsanctioned, smaller-scale use in backroom labs and contained test environments as IT teams get familiar with the new model and figure out when and how to bring it to senior leadership for budget approval.</p><p>“DeepSeek has built a well-earned reputation as a global disruptor,” he said, “and it’s clear that its march to broader enterprise adoption will continue to gather momentum.”</p><h2>Testing DeepSeek in multi-tool workflows </h2><p>While many use cases are still in the experimental phases, Meta software engineer Naman Ahuja offers one that could translate directly into enterprise environments. In a project unrelated to his employer, he built a home-automation agent with DeepSeek V4 Flash to explore how a lower-cost model performs as the reasoning/orchestration layer for a real multi-tool workflow.</p><p>When he leaves home, an agent coordinates several actions across otherwise separate systems: Such as setting a thermostat to “away” to reduce unnecessary energy use, arming a Ring security system, closing and locking doors. </p><p>“What interested me was not simply whether the model could understand a command, but whether it could translate intent into a sequence of actions across multiple tools where reliability matters,” Ahuja said. </p><p>The biggest lesson was that once a model can take actions, reliability matters as much as intelligence. The system needs structured tool outputs, verification that actions actually succeeded, retry/failure handling, and clear boundaries around what the model is allowed to do.</p><p>In the case of enterprise, “the architecture is similar.” Home devices change to ticketing systems, databases, CRM platforms, or infrastructure APIs. The most useful agents will likely orchestrate repetitive workflows across multiple systems, with scoped permissions, auditability, observability, and human approval for higher-risk actions.</p><p>“Many valuable AI agents will not be chatbots; they will be background agents coordinating APIs, infrastructure, and business systems in response to events,” he said. </p><h2>Enterprises need tangible use cases</h2><p>But Flash&#x27;s API is still in public beta, Gogia pointed out, and there is not yet an evidence trail of settled enterprise adoption, real-world deployments, and named customers.</p><p>“The benchmark story is looser than its retelling, the portfolio story is newer than it looks, and the economics have moved into the system around the model,” he said. Developer mainstreaming is proven; enterprise standardization is not. “The model is mainstream by traffic and still unproven by contract.”</p><p>DeepSeek&#x27;s own integration guidance is an important consideration, he said: Its documentation for at least one popular agent environment states that built-in V4 entries are not sufficient for reliable operation without compatibility overrides. </p><p>“Which is a vendor telling the market, accurately, that benchmark performance is not a proxy for production readiness,” Gogia said. “A model can score beautifully and still misbehave once tools, credentials, and state enter the room.”</p><p>The serving layer behaves no differently: the same open weights run by different hosts show visible differences in throughput and uptime. &quot;Choosing Flash therefore answers one procurement question and opens three more: Who serves it, where it runs, and which controls surround it,&quot; Gogia said.</p><h2>Prepare for a multi-model future</h2><p>DeepSeek offers a nuanced case for a multi-model future. V4 Flash is being deployed as the high-volume worker inside diverse estates, Gogia noted: It handles routine generation, retrieval, and background automation, while more difficult or sensitive tasks go elsewhere. </p><p>“The question is whether its performance is sufficient for the real-world workflows enterprises actually run, not whether it tops every benchmark,” he said. Enterprises must determine which combination of model, harness, and provider completes the work safely at the lowest cost.</p><p>Adam Dalloul, CEO and founder of EmpirioLabs AI, pointed out that bigger isn’t always better; workflows should be task-dependent. For example, his team at EmpirioLabs AI — which hosts 100-plus models on one API, including DeepSeek V4 Flash — were recently working on translating its site into different languages, and there was no need for a large model like GPT 5.6 Sol or Opus 5 to complete the task. </p><p>“This is where subagents come in handy,” he said. </p><p>His recommended approach: Spawn cheaper subagents and adapt per task. For instance, use Flash variants for day-to-day work, and Pro variants when you need something more powerful. “It depends on the nature of your application.”</p><p>Many companies are pivoting towards their own internal benchmarks to route models effectively, Dalloul noted. For example, his team has a workflow that puts a model through various gates and instructions. This helps them identify the model with the speed and accuracy required for the task. </p><p>In another example, one of his enterprise clients exclusively wanted access to DeepSeek V4 Flash. They had tested a variety of models and V4 Flash was the only one that met their criteria for speed, cost, and an “appropriate intelligence threshold.”</p><p>Meta’s Ahuja agreed that smaller, more efficient models can handle frequent, well-defined agentic tasks, while more expensive frontier models can be reserved for “ambiguous, difficult, or higher-risk decisions.” The relevant metric increasingly becomes cost per successfully completed workflow rather than simply cost per token. </p><p>The trade-off, however, is that cheap inference does not automatically mean cheap or safe automation, he said. Once an AI system can take actions, reliability, verification, permissions, failure handling, and security become much more important. </p><p>“A failed text response is inconvenient; a failed action in an operational workflow can have real consequences,” Ahuja said. </p>",
+      "published_at": "2026-08-16T13:00:00+00:00",
+      "published_ts": 1786885200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.992
+    },
     {
       "id": "cnbeta:97c038d052c9",
       "source": "cnbeta",
@@ -35,6 +50,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.95
+    },
+    {
+      "id": "tmtpost:b8ae062d425f",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
+      "url": "https://www.tmtpost.com/8104888.html",
+      "summary": "（8月10日~8月15日）面壁智能启动IPO；英伟达研发万亿参数开源模型Nemotron 4；SpaceXAI推出“全天候数字同事”Grok Bot；宇树科技：网上投资者放弃认购8734股",
+      "published_at": "2026-08-16T12:08:41+00:00",
+      "published_ts": 1786882121.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.919
+    },
+    {
+      "id": "the_verge:18fe2d6230d5",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+      "published_at": "2026-08-16T12:00:00+00:00",
+      "published_ts": 1786881600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.907
     },
     {
       "id": "venturebeat:0ffb4b5fb007",
@@ -67,21 +112,6 @@
       "importance": 1.994
     },
     {
-      "id": "cnbeta:ea03c0cd5e91",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AMD与ARM蚕食英特尔服务器市场份额 但x86架构仍将是主导",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573354.htm",
-      "summary": "<p>根据美国银行全球研究（BofA Global Research）、Mercury Research以及IDC等机构的最新数据表明，受人工智能（尤其是高度依赖CPU的智能体工作流）需求激增的推动，服务器CPU的总潜在市场（TAM）将在未来几年内显著扩张，预计到2030年将突破2000亿美元大关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T12:51:07+00:00",
-      "published_ts": 1786798267.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.988
-    },
-    {
       "id": "cnbeta:79e59c52c0a9",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,51 +125,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.963
-    },
-    {
-      "id": "tmtpost:a1d269e9febe",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
-      "url": "https://www.tmtpost.com/8104597.html",
-      "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书",
-      "published_at": "2026-08-15T12:04:21+00:00",
-      "published_ts": 1786795461.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.944
-    },
-    {
-      "id": "tmtpost:00dbb11b0ab4",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-      "url": "https://www.tmtpost.com/8104508.html",
-      "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
-      "published_at": "2026-08-15T12:04:24+00:00",
-      "published_ts": 1786795464.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.944
-    },
-    {
-      "id": "tmtpost:d4a80a951167",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "DeepSeek故意做了一个难用的Agent？",
-      "url": "https://www.tmtpost.com/8104384.html",
-      "summary": "DeepSeek Harness可能压根没把普通用户当第一批用户。",
-      "published_at": "2026-08-15T07:24:00+00:00",
-      "published_ts": 1786778640.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.698
     },
     {
       "id": "techcrunch:b82d175a4f3a",
