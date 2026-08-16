@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T18:52:06.589021+00:00",
-    "generated_ts": 1786819926.5890214,
+    "generated_at": "2026-08-16T02:00:29.853602+00:00",
+    "generated_ts": 1786845629.853602,
     "window_hours": 24.0,
-    "total": 17
+    "total": 10
   },
   "items": [
-    {
-      "id": "cnbeta:9d773ccf264b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
-      "summary": "<p>SpaceX已完成对人工智能编程初创公司Cursor的收购，这笔交易是埃隆·马斯克追赶Anthropic、OpenAI等竞争对手的重要一步。根据监管文件，这笔交易于8月14日正式生效。Cursor也在官网宣布正式被SpaceX收购，收购流程始于今年4月，当时两家公司宣布建立合作，以加速模型训练。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:32:29+00:00",
-      "published_ts": 1786757549.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.97
-    },
     {
       "id": "cnbeta:d564284594a6",
       "source": "cnbeta",
@@ -37,36 +22,6 @@
       "importance": 2.968
     },
     {
-      "id": "cnbeta:6d522c729c14",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek补上一块短板 正面对抗Anthropic？",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573296.htm",
-      "summary": "<p>8月13日，DeepSeek上线两项重大更新。在模型层面，DeepSeek V4 Pro正式版全量上线，而在智能体框架层面，DeepSeek Harness v0.1以MIT协议开放源码。此前主要通过模型、应用和API进入开发者工作流的DeepSeek，由此拥有了自己维护的通用Agent。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573296.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:29:51+00:00",
-      "published_ts": 1786757391.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.966
-    },
-    {
-      "id": "venturebeat:2a5c3276e850",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "summary": "<p>Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, <a href=\"https://z.ai/blog/glm-5.3\">today released GLM-5.3</a> with substantial gains in long-horizon coding and a more consequential — and potentially sensitive — jump in cybersecurity capabilities.</p><p>Already, GLM-5.3&#x27;s cyber capabilities have found a &quot;potentially serious vulnerability in Cursor,&quot; the AI coding startup recently <a href=\"https://cursor.com/blog/joining-spacex\">acquired by SpaceX</a>, according to z.ai developer advocate Lou, <a href=\"https://x.com/louszbd/status/2088284853943009425\">posting on X</a>. VentureBeat also tagged Cursor for confirmation on X and is awaiting response.</p><p>GLM-5.3 is available initially <i>only</i> through the company&#x27;s GLM Coding Plan and ZCode coding environment, while API access and open weights are coming later, &quot;once safety evaluation and hardening are complete,&quot; according to the company. </p><p>Z.ai says it plans to release weights approximately two weeks after launch.</p><p>For enterprise developers, the notable part of the release is not simply another round of benchmark improvements. Z.ai says GLM-5.3 uses the same base model as GLM-5.2, with the improvements coming entirely from scaling post-training across more environments, more diverse tasks and additional reinforcement-learning compute.</p><p>That makes GLM-5.3 something of a test of how far a frontier-scale base model can be pushed without another expensive pretraining cycle.</p><p>“Scaling post-training is all we did for GLM-5.3,” Z.ai wrote in its <a href=\"https://z.ai/blog/glm-5.3\">technical announcement.</a></p><p>The results suggest considerable headroom. But they have also produced an unusual problem for an open-model developer: according to Z.ai, cybersecurity capabilities improved faster than anticipated as training scaled, particularly as tasks progressed from vulnerability identification toward constructing complete exploitation chains.</p><p>Reuters reported Friday that Z.ai is also introducing controls around some of the model&#x27;s more advanced capabilities, including a “trusted access” approach for sensitive functionality.</p><h2>A large jump in coding without another base model</h2><p>GLM-5.3 builds on the 743-billion-parameter-scale base model behind GLM-5.2 rather than replacing it. Z.ai instead expanded the post-training system it had already assembled around long-horizon reinforcement learning.</p><p>Those environments increasingly resemble complete engineering jobs rather than isolated programming exercises.</p><p>Z.ai describes scenarios in which an agent receives access to codebases, documentation, compute clusters, storage systems and experimental results, then has to diagnose problems, modify systems, run experiments and demonstrate a measurable improvement while preserving correctness. Some tasks are designed to approximate several days of work for an experienced engineer.</p><p>The approach produced sizable generation-over-generation improvements on Z.ai&#x27;s reported evaluations.</p><p>GLM-5.3 jumps from 4.6 to 28.3 on Terminal-Bench 3.0, from 46.2 to 66.9 on DeepSWE v1.1, and from 26.2 to 48.2 on AutomationBench. On Agents&#x27; Last Exam CLI, it improves from 23.8 to 28.5.</p><p>The model does not dominate every frontier competitor. Z.ai&#x27;s own benchmark table shows GPT-5.6 Sol at 34.6 and Claude Fable 5 at 33.7 on Terminal-Bench 3.0, compared with GLM-5.3&#x27;s 28.3. On DeepSWE v1.1, GLM-5.3 scores 66.9, compared with 72.7 for GPT-5.6 Sol and 69.7 for Fable 5.</p><p>But Z.ai is also emphasizing efficiency rather than benchmark position alone.</p><p>On its private Z.ai Code Bench, GLM-5.3 reaches a 34.5% result at its Max reasoning setting while consuming roughly 75,000 output tokens per task. GLM-5.2 reaches 23.4% while consuming approximately 96,000. At High effort, GLM-5.3 reaches 31.4% at roughly 50,000 output tokens, compared with Z.ai&#x27;s reported 29.5% for Claude Opus 4.8 using 120,000.</p><p>Because Code Bench is Z.ai&#x27;s own private evaluation, those comparisons should be treated as company-reported results rather than independent measurements. Still, reducing token consumption while improving task completion is operationally important for enterprises deploying coding agents, where long-running loops can make inference cost and latency compound quickly.</p><h2>Cyber capabilities developed faster than Z.ai expected</h2><p>The more unusual development is cybersecurity.</p><p>Z.ai introduced vulnerability-discovery environments into GLM-5.3&#x27;s post-training mix expecting the model to improve at finding software flaws. Instead, the company says capability began progressing further along the exploitation chain.</p><p>“As we scaled post-training, cyber capability developed faster than we expected,” Z.ai wrote.</p><p>On CyberGym, which tests vulnerability discovery and validation against source code, GLM-5.3 scores 84.5%, compared with 77.2% for GLM-5.2. That also edges Z.ai&#x27;s reported scores for GPT-5.6 Sol at 83.6% and Mythos 5 at 83.8%.</p><p>The advantage does not extend across the entire exploitation stack. GLM-5.3 scores 54.4% on ExploitBench, more than twice GLM-5.2&#x27;s 24.4%, but remains well behind the 76.5% Z.ai reports for GPT-5.6 Sol and 78% for Mythos 5.</p><p>Similarly, on ExploitGym, GLM-5.3 completes 105 tasks under a normalized two-hour budget and 130 under six hours, up from 29 and 39 for GLM-5.2. Fable 5 reaches 181 and 247, while GPT-5.6 Sol reaches 216 and 293.</p><p>The direction of travel may matter more than the leaderboard position.</p><p>Z.ai says work with security teams in China has resulted in 2,436 vulnerability findings across 269 projects after expert review, screening and deduplication. Its disclosure ledger lists 1,097 as critical or high severity, with 53 publicly disclosed and 2,383 still under embargo at the time of the release.</p><p>That creates a tension increasingly facing frontier model providers: the same long-horizon agent capabilities that make models more useful for software engineering can also make them more capable security researchers — and potentially more capable offensive operators.</p><h2>GLM-5.3 also requires developers to change how they call the model</h2><p>Developers migrating existing GLM applications should pay attention to a breaking API behavior.</p><p>GLM-5.3 supports three reasoning-effort levels — <code>low</code>, <code>high</code> and <code>max</code> — with <code>max</code> the default and Z.ai&#x27;s recommended setting for coding. But unlike previous releases, thinking cannot be disabled.</p><p>Applications currently sending <code>thinking.type: &quot;disabled&quot;</code> must change the value to <code>enabled</code> and specify a reasoning effort before switching the model identifier to GLM-5.3. Otherwise, Z.ai says the request will fail.</p><p>That makes GLM-5.3 an actual migration rather than simply a model-name substitution for some production applications.</p><h2>From GLM-4.5 to GLM-5.3: Z.ai&#x27;s rapid push into agentic engineering</h2><p>GLM-5.3 is the latest step in a rapid shift by Z.ai — formerly known as Zhipu AI — toward coding agents and long-running autonomous engineering workloads.</p><p>GLM-4.5, released in July 2025, established much of that direction. The 355-billion-parameter mixture-of-experts model was designed to combine reasoning, coding and agent capabilities, while the smaller GLM-4.5-Air offered 106 billion total parameters. Z.ai released the models with open weights and emphasized integration with agent frameworks.</p><p>GLM-4.6 followed in September, expanding context from 128,000 to 200,000 tokens and targeting coding, tool use and agent workflows in environments including Claude Code, Cline, Roo Code and Kilo Code. Z.ai also began placing greater emphasis on token efficiency in real-world coding evaluations rather than benchmark performance alone.</p><p>The larger architectural jump came with GLM-5 in February 2026. Z.ai scaled the model from GLM-4.5&#x27;s 355 billion parameters to 744 billion, with 40 billion active parameters, and increased pretraining data to 28.5 trillion tokens. It also introduced its “slime” asynchronous reinforcement-learning infrastructure and explicitly repositioned the GLM family around “agentic engineering” and long-horizon tasks.</p><p>By June, GLM-5.2 had turned that strategy into a more direct enterprise proposition. The 753-billion-parameter model arrived with a stable 1-million-token context window, open weights under an MIT license and support across more than 20 coding environments. It also introduced IndexShare, which reuses an indexer across sparse-attention layers to reduce the computational burden of very long contexts.</p><p>GLM-5.2 was priced at $1.40 per million API input tokens and $4.40 per million output tokens, with cached input priced substantially lower, positioning Z.ai as both a technical and pricing competitor to proprietary frontier labs.</p><p>Z.ai&#x27;s ambitions have been expanding outside model development as well. Reuters reported last month that Zhipu AI raised roughly HK$31.4 billion, or about $4 billion, through a Hong Kong share sale, with proceeds intended for areas including research and development, computing infrastructure, talent and business expansion.</p><p>Taken together, the releases show a consistent progression: GLM-4.5 unified reasoning, coding and agents; GLM-5 substantially scaled the foundation model; GLM-5.2 attacked long-context and long-horizon engineering; and GLM-5.3 is now attempting to extract substantially more capability from that same foundation through post-training.</p><h2>Pricing, ZCode and availability</h2><p>GLM-5.3 is available now through Z.ai&#x27;s GLM Coding Plan and ZCode.</p><p>ZCode is the company&#x27;s own coding-agent environment and supports long-running “Goal” tasks that plan, implement, test and verify work. It also offers remote control of running tasks and is available on macOS, Windows and Linux.</p><p>Individual GLM Coding Plans currently start at a listed promotional price of $12.60 per month for Lite with 10,000 credits per week. Pro is listed at $56 per month with six times Lite usage, while Max costs $117.60 per month with 14 times Lite usage. Team Standard and Premium seats are listed at $88 and $188 per user per month, respectively.</p><p>Z.ai has also moved the Coding Plan to a points-based quota system that separately accounts for input, cached-input and output tokens. Calls outside the company&#x27;s weekday peak period consume 50% of the normal points.</p><p>The company has not yet provided general GLM-5.3 API pricing in the supplied launch materials, making total production API cost difficult to compare directly with GLM-5.2 or competing frontier models until staged API access arrives.</p><p>That staged release may ultimately be the most important part of GLM-5.3.</p><p>Z.ai spent the past year pushing an open-model strategy centered on permissive weights, low-cost inference and compatibility with existing coding-agent ecosystems. GLM-5.3 demonstrates what happens when that strategy succeeds perhaps too well in one sensitive domain: better autonomous engineering also means better autonomous security research.</p><p>The result is a model that advances Z.ai&#x27;s coding ambitions while forcing the company to confront the same capability-versus-access tradeoff facing the largest closed frontier labs.</p><p>For enterprise developers, GLM-5.3 is therefore worth watching for two reasons. Its coding results provide another indication that increasingly capable agents can emerge from better post-training and environments without continuously rebuilding the underlying foundation model. Its cybersecurity results show why deciding how those agents are distributed may become just as important as deciding how they are trained.</p>",
-      "published_at": "2026-08-14T22:56:16+00:00",
-      "published_ts": 1786748176.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.754
-    },
-    {
       "id": "qbitai:192fbe1cef3e",
       "source": "qbitai",
       "source_label": "量子位",
@@ -80,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.453
+    },
+    {
+      "id": "venturebeat:0ffb4b5fb007",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "summary": "<p>There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent, not topically relevant — correct in the sense of accurately identifying the right answer to the specific problem the tool was built to solve.</p><p>The gap between &quot;this output sounds right to me&quot; and &quot;this output is verifiably correct&quot; is where most LLM-assisted enterprise tools fail quietly. They pass internal review because the output sounds right. They fail in production because those people weren&#x27;t reviewing against ground truth — they were reviewing against their intuition about what a good answer looks like.</p><p>This distinction matters more as LLM-assisted tools move from productivity accessories to components that influence real business decisions. If your AI-assisted tool is shaping how an analyst investigates a data quality issue, how a compliance reviewer decides whether to escalate a flagged record, or how an operations team triages a validation failure — the accuracy of its output has real consequences. &quot;Seems reasonable&quot; is not an adequate evaluation standard for that.</p><h2><b>What qualitative evaluation actually catches</b></h2><p>The standard evaluation approach for LLM output in enterprise tooling is qualitative: A sample of outputs is reviewed by someone with domain knowledge, judged against a mental model of what a good answer looks like, and the prompt is adjusted if too many outputs seem off.</p><p>This catches a specific class of problems: Outputs that are obviously wrong, poorly formatted, or off-topic. These are real issues worth catching. They&#x27;re also the easy ones.</p><p>What qualitative evaluation consistently misses is the class of outputs that are wrong in ways that are difficult to see without checking against something external. An explanation that confidently identifies the wrong root cause, in language that sounds authoritative, based on reasoning that sounds plausible — this passes qualitative review. It fails the moment someone with the right context checks it against what actually happened.</p><p>In a system whose value proposition depends on accuracy, &quot;sounds plausible&quot; is not the same as &quot;correct.&quot; The two can diverge significantly, and qualitative review won&#x27;t tell you when they have.</p><h2><b>What an actual eval harness looks like</b></h2><p>The alternative is building an evaluation harness that scores model output against labeled ground truth — a set of cases where the correct answer is known, against which you can measure accuracy rather than coherence.</p><p>I built this while developing a root-cause explainer for data migration drift: A tool that takes a detected drift event and generates a ranked explanation of what most likely caused it. The first prototype produced fluent, specific-sounding explanations that passed qualitative review. When I tested it against cases where I already knew the root cause, the explanation was wrong often enough to matter.</p><p>The eval harness I built works in three parts.</p><p>First, a synthetic ground truth dataset: Cases where the correct answer is known by construction. This meant introducing specific, controlled causes into a test pipeline — schema changes, transformation logic bugs, source system behavioral shifts — recording exactly what I introduced, and running the model against the resulting drift events. The correct answer for each case was the cause I had deliberately introduced.</p><p>Getting the synthetic scenarios realistic enough to be useful required more care than I expected. Early versions were too clean — the drift signal was obvious in ways that real production drift events aren&#x27;t. Adding realistic noise, overlapping signals, and cases where multiple plausible causes were present simultaneously was what made the synthetic set actually predictive of real-world performance.</p><p>Second, a scoring function that evaluates ranked output. Binary correct/incorrect isn&#x27;t sufficient when the model produces a ranked list of likely causes rather than a single answer. An explanation that correctly identifies the root cause as the third most likely candidate is meaningfully different from one that identifies it as the most likely. The scoring function evaluated two dimensions: Presence — did the correct answer appear in the output at all — and rank — how prominently was it featured relative to incorrect candidates. These were combined into a weighted score that rewarded both finding the right answer and ranking it appropriately.</p><p>Third, systematic evaluation across the full synthetic dataset rather than spot-checking. Running the harness across the complete set reveals patterns that spot-checking misses: Which categories of problem the model handles reliably, which it consistently gets wrong, and which combinations of signals produce the highest rate of confident incorrect explanations.</p><h2><b>What the evaluation revealed</b></h2><p>The results were more informative than any qualitative review could have been.</p><p>Schema change scenarios scored well — the model was reliable at identifying upstream schema changes when the evidence was present and distinctive. Transformation logic bugs were harder — the model consistently identified the right general category but misattributed the specific change that caused the problem, particularly when multiple changes had been made close together. Overlapping-signal scenarios were the hardest — cases where two different causes occurred close in time produced the highest rate of confidently wrong explanations.</p><p>That last finding is the one that qualitative review would never have surfaced. The model&#x27;s expressed confidence didn&#x27;t correlate with its accuracy — it was most confident in the cases where it was most wrong. Without the eval harness measuring against ground truth, that pattern would have been invisible.</p><h2><b>The practical implication for enterprise AI deployment</b></h2><p>For teams deploying LLM-assisted tools in enterprise contexts — particularly tools that influence how people investigate problems, triage alerts, or make routing decisions — the eval harness question to answer before production deployment is: Have we measured accuracy against cases where we know the right answer, or have we only reviewed whether the outputs seem reasonable?</p><p>If the answer is the latter, the tool has been tested for fluency and coherence but not for correctness. Those are different properties. For tools that shape business decisions, correctness is the one that matters.</p><p>Building the synthetic ground truth dataset is the hard part and the part most worth investing in. It forces you to define precisely what &quot;correct&quot; means for your specific use case — which turns out to be a useful exercise independent of the evaluation itself. The scoring function and the harness infrastructure are relatively straightforward once you have that definition. Without it, you&#x27;re measuring something other than what you&#x27;re trying to guarantee.</p><p><i>Arun Mishra is an enterprise architect. </i></p>",
+      "published_at": "2026-08-15T19:00:00+00:00",
+      "published_ts": 1786820400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.45
     },
     {
       "id": "cnbeta:ea03c0cd5e91",
@@ -127,66 +97,6 @@
       "importance": 1.979
     },
     {
-      "id": "cnbeta:a9f17452c82f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "阿里开源Qwen3.8-27B 270亿参数模型编程能力超越Qwen3.7-Plus",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573298.htm",
-      "summary": "<p>8月15日，阿里巴巴旗下千问大模型团队于8月14日晚间正式开源Qwen3.8系列模型中的Qwen3.8-27B。该模型采用Apache 2.0协议面向所有开发者、科研机构及企业开放权重，支持免费下载、部署及商用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:30:34+00:00",
-      "published_ts": 1786757434.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.978
-    },
-    {
-      "id": "cnbeta:c41b4773986a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573282.htm",
-      "summary": "<p>据业内人士看到的文件显示，Anthropic PBC在向潜在投资者推介时透露，公司第二季度的营业收入较去年同期实现了约14倍的巨幅增长。文件显示，这家Claude聊天机器人开发商在最新结束的季度中报告的初步营收超过115亿美元。作为对比，其在2025年同期的营收仅为7.87亿美元，而今年第一季度则为47.3 亿美元。此外，文件还显示，Anthropic在2026年第二季度的调整后营业利润为正。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573282.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:08:25+00:00",
-      "published_ts": 1786756105.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.957
-    },
-    {
-      "id": "cnbeta:facd75ddf0ef",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI首席财务官透露：企业级业务营收现已超越消费者业务",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573276.htm",
-      "summary": "<p>经过高管层的一周动荡后，OpenAI首席财务官莎拉·弗莱尔（Sarah Friar）于周五与投资者举行了会议。她在会上着重介绍了公司在企业级市场的增长，并表示该业务目前创造的营收已经超过了以ChatGPT为主导的消费者业务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573276.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:06:25+00:00",
-      "published_ts": 1786755985.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.955
-    },
-    {
-      "id": "cnbeta:04bec7060a95",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic评估AI风险上升 暂不公开更强“Model 2”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573274.htm",
-      "summary": "<p>根据 Anthropic 最新发布的风险报告，该公司目前不打算对外发布一款被称为“模型 2”的内部大模型。尽管该模型在能力上似乎已经超越了其现有的顶尖模型“Mythos”，但 Anthropic 的整体研发步伐并未因此放缓。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573274.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T01:05:15+00:00",
-      "published_ts": 1786755915.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.954
-    },
-    {
       "id": "tmtpost:a1d269e9febe",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -217,36 +127,6 @@
       "importance": 1.944
     },
     {
-      "id": "cnbeta:ce48527952b7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "企业级SSD消耗全球48%的NAND闪存供应",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573268.htm",
-      "summary": "<p>人工智能数据中心和超大规模运算设施正在大举吞噬全球的NAND闪存芯片产能。随着芯片制造业将大部分生产能力向科技巨头和AI初创公司倾斜，整个存储市场正在经历一场深刻的变革。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573268.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-15T00:53:10+00:00",
-      "published_ts": 1786755190.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.943
-    },
-    {
-      "id": "tmtpost:13ebb2223125",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "DeepSeek Harness，“杀死”Agent黑箱",
-      "url": "https://www.tmtpost.com/8104305.html",
-      "summary": "Model+Harness=Agent",
-      "published_at": "2026-08-15T00:25:00+00:00",
-      "published_ts": 1786753500.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.916
-    },
-    {
       "id": "tmtpost:d4a80a951167",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -260,6 +140,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.698
+    },
+    {
+      "id": "techcrunch:b82d175a4f3a",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "published_at": "2026-08-15T18:58:39+00:00",
+      "published_ts": 1786820319.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.632
     }
   ]
 }

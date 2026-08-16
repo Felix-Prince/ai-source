@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T18:52:06.589021+00:00",
+    "generated_at": "2026-08-16T02:00:29.853602+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4521,6 +4521,42 @@
         "venturebeat": 7
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-16T02:00:29.853602+00:00",
+      "generated_ts": 1786845629.853602,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:0ffb4b5fb007",
+          "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.45,
+          "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+          "published_at": "2026-08-15T19:00:00+00:00",
+          "summary": "<p>There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent, "
+        },
+        {
+          "id": "techcrunch:b82d175a4f3a",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.632,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "published_at": "2026-08-15T18:58:39+00:00",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+        }
+      ]
     }
   ]
 }
