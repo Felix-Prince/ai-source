@@ -77,6 +77,16 @@ GitHub Actions (每 6h 定时, 0/6/12/18 点 UTC)
 
 信源阶梯：官方 RSS 为主干 → 别人仓库 Actions feed → newsletter 归档 → 静态页 → 密钥 API（梯级 6，未启用）→ 私人邮箱/cookies（**不碰**）。当前启用 **9 个**源（国内 4：36氪/量子位/钛媒体/cnBeta；国际 5：OpenAI/The Verge/TechCrunch/Ars/VentureBeat，见 [config/sources.yaml](config/sources.yaml)）。
 
+### 内容过滤（2026-08-15）
+
+采集只收 **AI 技术/模型/产品资讯**，排除**人物驱动的新闻**：
+
+- **人物排除**：命中公众人物名单（如 马斯克/黄仁勋/Altman/Hinton 等）+ 人物动作词（称/宣布/回应/离职/says/announces…）→ 判为人物内容，剔除，不进 `archive`/`latest-24h`/`batches`
+- **技术豁免**：人物内容若同时命中 ≥2 个 AI 技术词（如"OpenAI CEO 宣布发布 GPT-5"），视为技术新闻，**保留**
+- **AI 相关性**：`ai_score` 关键词表覆盖模型（gpt/claude/deepseek/大模型/多模态…）与基础设施（gpu/算力/芯片…），低于 1.5 不进产物
+
+> 规则集中在 `scripts/score.py`（`is_figure_content` + `AI_KEYWORDS`），纯规则、零模型。
+
 ---
 
 ## 三、本地开发

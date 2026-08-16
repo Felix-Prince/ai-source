@@ -67,6 +67,32 @@ class TestScore(TestCase):
         self.assertGreater(high, low)
 
 
+class TestFigureContent(TestCase):
+    """人物驱动内容排除：命中公众人物+动作词 → 排除；纯 AI 技术新闻保留。"""
+
+    def test_pure_figure_excluded(self):
+        # 人物 + 动作，无 AI 技术词 → 排除
+        self.assertTrue(score.is_figure_content("马斯克回应特斯拉剥离中国业务"))
+        self.assertTrue(score.is_figure_content("黄仁勋称GPU需求将爆发式增长"))
+        self.assertTrue(score.is_figure_content("Sam Altman talks about AI regulation"))
+
+    def test_tech_news_with_figure_kept(self):
+        # 人物 + 动作但命中 ≥2 个 AI 技术词 → 视为技术新闻，保留
+        self.assertFalse(score.is_figure_content(
+            "OpenAI CEO 宣布发布 GPT-5 模型", "large language model 多模态"))
+        self.assertFalse(score.is_figure_content(
+            "黄仁勋谈下一代 GPU 架构与推理优化"))
+
+    def test_pure_tech_kept(self):
+        # 无人物 → 永远保留
+        self.assertFalse(score.is_figure_content("OpenAI 发布 GPT-5 大幅提升推理能力"))
+        self.assertFalse(score.is_figure_content("大模型训练成本下降 多模态推理提速"))
+
+    def test_figure_without_action_kept(self):
+        # 命中人物但无动作词（如公司名含人名）→ 保留，避免误伤
+        self.assertFalse(score.is_figure_content("OpenAI 发布新模型"))
+
+
 class TestDedupe(TestCase):
     def _entry(self, title, importance=1.0, eid=None):
         return {"id": eid or ("x:" + title), "title": title, "importance": importance}

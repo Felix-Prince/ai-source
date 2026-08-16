@@ -108,6 +108,13 @@ def main():
             entries.append(entry)
         health.update(source_status, cfg, "ok", item_count=len(items))
 
+    # 人物内容过滤（2026-08-15）：人物驱动的新闻（公众人物+动作）剔除，
+    # 不进 archive/latest/batches。纯 AI 技术/模型资讯保留。
+    n_before = len(entries)
+    entries = [e for e in entries
+               if not score.is_figure_content(e.get("title", ""), e.get("summary", ""))]
+    n_figure_excluded = n_before - len(entries)
+
     # 去重（含与 archive 的精确+近似去重）
     archive_items = load_archive(archive_path)
     dedup_input = archive_items + entries
@@ -190,8 +197,8 @@ def main():
         sum(1 for s in source_status.values() if s["status"] == "ok"),
         sum(1 for s in source_status.values() if s["status"] == "failed"),
     ))
-    print("fetched=%d  new=%d  latest24h=%d  batch_new=%d  (window %.0fh, ai_score>=%.1f)" % (
-        len(entries), len(deduped_new), len(latest_items), len(fresh),
+    print("fetched=%d  new=%d  latest24h=%d  batch_new=%d  figure_excluded=%d  (window %.0fh, ai_score>=%.1f)" % (
+        len(entries), len(deduped_new), len(latest_items), len(fresh), n_figure_excluded,
         args.window_hours, AI_SCORE_THRESHOLD,
     ))
 
