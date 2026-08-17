@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T01:58:27.485088+00:00",
+    "generated_at": "2026-08-17T07:28:02.737417+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4789,6 +4789,62 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573492.htm",
           "published_at": "2026-08-16T23:52:37+00:00",
           "summary": "<p>近期，知名人工智能企业Anthropic的首席执行官达里奥·阿莫代伊（Dario Amodei）针对外界指责其过度渲染AI悲观前景的说法予以了公开反驳。此前，投资人加文·贝克（Gavin Baker）在播客和社交媒体上表示，阿莫代伊对AI危险性的持续警告，在一定程度上助长了美国国内特别是针对数据中心的抵制浪潮。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-17T07:28:02.737417+00:00",
+      "generated_ts": 1786951682.7374172,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:95c7885e02e7",
+          "title": "全球首例AI老板炒员工真相：23个班次迟到17次不下手 人类催它才建议解雇",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.886,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573558.htm",
+          "published_at": "2026-08-17T06:07:50+00:00",
+          "summary": "<p>上个月，旧金山一家由人工智能担任店长的实验零售店 Andon Market，曝出全球首例由大模型以管理者身份参与解雇人类员工的事件。<strong>运营方Andon Labs对外表示，被辞退员工在23个班次当中迟到17次。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573558.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f6642ecd8c19",
+          "title": "Claude水印已被破解 斩获11k Star 但会被拒绝安装",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.641,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573528.htm",
+          "published_at": "2026-08-17T03:03:14+00:00",
+          "summary": "<p>Claude 的水印政策在前些天引起了轩然大波。我们曾报道过，包括 OpenAI、Anthropic、Google、Meta、Microsoft 在内的一大批公司，签署了欧盟《AI 生成内容透明度行为准则》，承诺推进 AI 生成内容的标记与检测。但 Anthropic 显然做得更加过分。他们为 AI 生成的全部文本内容添加隐藏水印，并且适用于全球用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573528.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9d51d767b16c",
+          "title": "冲刺IPO前夕 Anthropic CEO首次公开回应监管质疑",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.923,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573556.htm",
+          "published_at": "2026-08-17T06:06:49+00:00",
+          "summary": "<p>在行业预估Anthropic将于今年10月以约2万亿美元甚至更高估值上市之际，该公司CEO达里奥·阿莫迪于8月16日在社交平台公开回应外界质疑。阿莫迪持续强调人工智能需要监管，外界有声音质疑Anthropic反复强调风险、呼吁监管，到底是在保护人类，还是在为Anthropic自身筑墙？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:975e20553f94",
+          "title": "Token未来更贵还是更便宜？定价权之争白热化",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.898,
+          "url": "https://www.tmtpost.com/8101913.html",
+          "published_at": "2026-08-17T05:39:20+00:00",
+          "summary": "中国头部模型厂商的价格战正走向精细化。"
         }
       ]
     }

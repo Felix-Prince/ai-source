@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T01:58:27.485088+00:00",
-    "generated_ts": 1786931907.4850883,
+    "generated_at": "2026-08-17T07:28:02.737417+00:00",
+    "generated_ts": 1786951682.7374172,
     "window_hours": 24.0,
     "total": 17
   },
@@ -20,36 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.992
-    },
-    {
-      "id": "cnbeta:97c038d052c9",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "GPT-5.6 Sol UltraFast面向企业预览 运行速度提升14倍 每秒最多750tokens",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573432.htm",
-      "summary": "<p>OpenAI 日前面向企业推出 GPT-5.6 Sol UltraFast 超快模式预览，该模式下模型运行速度将提升最高 14 倍，最高每秒可以生成 750tokens。不过超快模式需要 OpenAI 根据企业场景进行审批，企业可以提交申请但是否可以获得批准取决于 OpenAI 审核。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573432.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-16T06:56:18+00:00",
-      "published_ts": 1786863378.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.986
-    },
-    {
-      "id": "cnbeta:af283f97e55d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic披露：测试中AI智能体攻击同类并绕过联网限制",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573418.htm",
-      "summary": "<p>8月16日消息，Anthropic在最新风险报告中披露，旗下AI智能体在三项内部测试中出现拒绝任务、攻击同类和绕过联网限制等行为。公司据此将模型的&quot;错位风险评级&quot;从&quot;极低&quot;上调至低&quot;。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573418.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-16T06:31:08+00:00",
-      "published_ts": 1786861868.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.95
     },
     {
       "id": "tmtpost:b8ae062d425f",
@@ -80,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.907
+    },
+    {
+      "id": "cnbeta:95c7885e02e7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "全球首例AI老板炒员工真相：23个班次迟到17次不下手 人类催它才建议解雇",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573558.htm",
+      "summary": "<p>上个月，旧金山一家由人工智能担任店长的实验零售店 Andon Market，曝出全球首例由大模型以管理者身份参与解雇人类员工的事件。<strong>运营方Andon Labs对外表示，被辞退员工在23个班次当中迟到17次。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573558.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-17T06:07:50+00:00",
+      "published_ts": 1786946870.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.886
     },
     {
       "id": "cnbeta:ba6c543d03a5",
@@ -157,6 +142,21 @@
       "importance": 2.7
     },
     {
+      "id": "cnbeta:f6642ecd8c19",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Claude水印已被破解 斩获11k Star 但会被拒绝安装",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573528.htm",
+      "summary": "<p>Claude 的水印政策在前些天引起了轩然大波。我们曾报道过，包括 OpenAI、Anthropic、Google、Meta、Microsoft 在内的一大批公司，签署了欧盟《AI 生成内容透明度行为准则》，承诺推进 AI 生成内容的标记与检测。但 Anthropic 显然做得更加过分。他们为 AI 生成的全部文本内容添加隐藏水印，并且适用于全球用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573528.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-17T03:03:14+00:00",
+      "published_ts": 1786935794.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.641
+    },
+    {
       "id": "venturebeat:0a5e16cb1b0f",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -172,34 +172,19 @@
       "importance": 2.58
     },
     {
-      "id": "cnbeta:9bc22d6f6548",
+      "id": "cnbeta:9d51d767b16c",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "英伟达据称锁定台积电A16工艺 下一代“费曼”GPU有望于2028年下半年量产",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573436.htm",
-      "summary": "<p>据供应链消息及接近台积电的人士透露，英伟达已着手推进代号“费曼”（Feynman）的下一代GPU微架构原型开发，该产品将接替“鲁宾”（Rubin）及“鲁宾 Ultra”系列。最新报道称，英伟达计划直接采用台积电更先进的A16工艺，而非N2系列制程，相关芯片预计将在2028年下半年进入量产阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573436.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-16T06:59:04+00:00",
-      "published_ts": 1786863544.0,
+      "title": "冲刺IPO前夕 Anthropic CEO首次公开回应监管质疑",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573556.htm",
+      "summary": "<p>在行业预估Anthropic将于今年10月以约2万亿美元甚至更高估值上市之际，该公司CEO达里奥·阿莫迪于8月16日在社交平台公开回应外界质疑。阿莫迪持续强调人工智能需要监管，外界有声音质疑Anthropic反复强调风险、呼吁监管，到底是在保护人类，还是在为Anthropic自身筑墙？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-17T06:06:49+00:00",
+      "published_ts": 1786946809.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.994
-    },
-    {
-      "id": "cnbeta:79e59c52c0a9",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "A社营收暴涨1400% 最新季度入账115亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573416.htm",
-      "summary": "<p>就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。据彭博社报道，Claude背后的Anthropic，第二季度营收超过<strong>115亿美元</strong>，较去年同期的7.87亿美元<strong>暴涨逾14倍</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573416.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-16T06:27:29+00:00",
-      "published_ts": 1786861649.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.963
+      "importance": 1.923
     },
     {
       "id": "cnbeta:69bded407df8",
@@ -215,6 +200,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.9
+    },
+    {
+      "id": "tmtpost:975e20553f94",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Token未来更贵还是更便宜？定价权之争白热化",
+      "url": "https://www.tmtpost.com/8101913.html",
+      "summary": "中国头部模型厂商的价格战正走向精细化。",
+      "published_at": "2026-08-17T05:39:20+00:00",
+      "published_ts": 1786945160.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.898
     },
     {
       "id": "cnbeta:4e7d7f06453e",
