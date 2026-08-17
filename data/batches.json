@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T07:28:02.737417+00:00",
+    "generated_at": "2026-08-17T13:11:49.378600+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4845,6 +4845,82 @@
           "url": "https://www.tmtpost.com/8101913.html",
           "published_at": "2026-08-17T05:39:20+00:00",
           "summary": "中国头部模型厂商的价格战正走向精细化。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-17T13:11:49.378600+00:00",
+      "generated_ts": 1786972309.3786001,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:8237b173087b",
+          "title": "美国原告在诉讼文件中暗藏LLM提示词 法官警告AI滥用风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.571,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573576.htm",
+          "published_at": "2026-08-17T07:51:23+00:00",
+          "summary": "<p>美国康涅狄格州一名法官近日披露，一名自行出庭的原告疑似在提交给法院的文件中隐藏了仅供人工智能系统读取的文字指令，试图借此影响案件处理结果。这被认为可能是美国法院体系首次出现当事人通过“提示注入”方式干预AI审阅流程的案例。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:8e683bd6ee0e",
+          "title": "The Defender’s Window",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.402,
+          "url": "https://openai.com/index/the-defenders-window",
+          "published_at": "2026-08-17T05:30:00+00:00",
+          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+        },
+        {
+          "id": "cnbeta:1faa5f3687ac",
+          "title": "索尼专利显示PSN将引入AI\"伪账户\" 专钓骗子与骚扰者",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.913,
+          "url": "https://www.cnbeta.com.tw/articles/game/1573598.htm",
+          "published_at": "2026-08-17T11:39:30+00:00",
+          "summary": "<p>索尼互动娱乐(SIE)近日提交了一项编号为18/314775的新专利申请，计划在PlayStation Network(PSN)中部署由大语言模型(LLM)驱动的AI“伪账户”，以主动识别并标记潜在的诈骗者、骚扰者及不法分子。与传统的被动举报机制不同，这套名为“大语言模型驱动的社交诚信系统”的系统采用了一种主动诱捕的策略。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573598.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:16853fbbf196",
+          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.875,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "published_at": "2026-08-17T10:57:13+00:00",
+          "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technolo"
+        },
+        {
+          "id": "tmtpost:46da9c05215c",
+          "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.808,
+          "url": "https://www.tmtpost.com/8105860.html",
+          "published_at": "2026-08-17T09:42:29+00:00",
+          "summary": "芯片算力的增长速度，已经远远超过了数据在芯片之间搬运的速度。"
+        },
+        {
+          "id": "cnbeta:d64ca750c0dd",
+          "title": "Linux 7.2正式发布：初步支持苹果M3芯片 多项驱动与调度能力升级",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.713,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573574.htm",
+          "published_at": "2026-08-17T07:49:34+00:00",
+          "summary": "<p>Linux 7.2内核正式版已如期发布，无需额外延长一周测试周期。尽管开发末期的测试工作较为紧张，新版本仍按计划推出，并带来了对苹果M3芯片的初步支持、Cache Aware Scheduling缓存感知调度、USB4STREAM协议以及AMD GPU HDMI 2.1等功能与硬件支持更新。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573574.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
