@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T13:11:49.378600+00:00",
+    "generated_at": "2026-08-17T19:03:44.877742+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4921,6 +4921,102 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1573574.htm",
           "published_at": "2026-08-17T07:49:34+00:00",
           "summary": "<p>Linux 7.2内核正式版已如期发布，无需额外延长一周测试周期。尽管开发末期的测试工作较为紧张，新版本仍按计划推出，并带来了对苹果M3芯片的初步支持、Cache Aware Scheduling缓存感知调度、USB4STREAM协议以及AMD GPU HDMI 2.1等功能与硬件支持更新。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573574.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-17T19:03:44.877742+00:00",
+      "generated_ts": 1786993424.8777418,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 14,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:4077e4bbe3e5",
+          "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.847,
+          "url": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+          "published_at": "2026-08-17T17:14:46+00:00",
+          "summary": "<p>A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a shortcut: instead of relying on retrieved evidence, it starts answering from its own internal memory "
+        },
+        {
+          "id": "venturebeat:4ab10734f536",
+          "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.762,
+          "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+          "published_at": "2026-08-17T16:11:44+00:00",
+          "summary": "<p>A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening — not less.</p><p>In the past six months, 68% of enterprises have traced a confiden"
+        },
+        {
+          "id": "cnbeta:9299d24c4120",
+          "title": "佛罗里达州男子向ChatGPT吐露杀害前女友计划 OpenAI向FBI报案",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.668,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573620.htm",
+          "published_at": "2026-08-17T14:59:46+00:00",
+          "summary": "<p>近日，ChatGPT的母公司OpenAI向美国联邦调查局（FBI）举报了一名25岁的佛罗里达州男子，原因是该男子在与人工智能聊天机器人的对话中，详细描述了强奸并杀害其前女友的计划。法庭文件披露了这名名为达伦·周（Darren Zhou）的男子的聊天记录，他曾向聊天机器人宣称计划在本月底前杀死前女友，并表示如果自己得不到她，其他人也休想得到。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573620.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:a23696da87bf",
+          "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.639,
+          "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+          "published_at": "2026-08-17T14:37:08+00:00",
+          "summary": "<p>Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.</p><p>Gartner estimates that the average global Fortune 500 company will have more than<a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-04-28-g"
+        },
+        {
+          "id": "venturebeat:5b5e85cb9fe3",
+          "title": "How Heidi built production-ready AI for healthcare at global scale",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.63,
+          "url": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+          "published_at": "2026-08-17T14:30:00+00:00",
+          "summary": "<p><i>Presented by MongoDB</i></p><hr /><p>Building AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services, and transportation. The challenge of delivering AI-driven products is compound"
+        },
+        {
+          "id": "techcrunch:2b46e739493d",
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.865,
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "published_at": "2026-08-17T16:38:44+00:00",
+          "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+        },
+        {
+          "id": "cnbeta:26877b421fc8",
+          "title": "OpenAI总裁回应高管流失潮：并非十分反常",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.794,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573626.htm",
+          "published_at": "2026-08-17T15:18:03+00:00",
+          "summary": "<p>OpenAI总裁格雷格・布罗克曼于周一回应，淡化市场对这家人工智能公司高管流失的担忧，他认为这一轮离职潮“实际上并非十分反常”。布罗克曼表示：“我其实觉得，OpenAI和其他机构的区别在于我们处在极高的聚光灯下，每一次人员离职都会受到格外审视，而普通企业的人员变动不会遭遇这样的待遇。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:470e841f7376",
+          "title": "OpenAI CEO萨姆·奥特曼：四年制大学耗时过长 AI正重塑传统职业路径",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.691,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573614.htm",
+          "published_at": "2026-08-17T13:15:27+00:00",
+          "summary": "<p>近期，OpenAI首席执行官萨姆·奥特曼（Sam Altman）公开表示，四年制的大学本科学位对于当今世界的需求而言耗时过长。他认为，对于他个人以及许多其他人来说，两年的大学时光才是“恰到好处”的长度。这一观点引发了人们对于传统高等教育在人工智能时代价值的重新审视。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
