@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T18:51:17.694106+00:00",
+    "generated_at": "2026-08-17T01:58:27.485088+00:00",
     "max_days": 30
   },
   "batches": [
@@ -4703,6 +4703,92 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
           "published_at": "2026-08-16T14:56:40+00:00",
           "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you ma"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-17T01:58:27.485088+00:00",
+      "generated_ts": 1786931907.4850883,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:ba6c543d03a5",
+          "title": "7nm+96TOPS 芯擎AI加速芯片“天工100”量产交付",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.853,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573516.htm",
+          "published_at": "2026-08-17T00:14:01+00:00",
+          "summary": "<p><strong>芯擎科技日前宣布，其自研车规级7纳米AI加速芯片“天工100” 已全面量产，并同步向整车厂及一级供应商等生态伙伴批量供货。</strong>该芯片无需更换主控芯片或改动原有软硬件，仅以插卡式硬件形态即可为汽车提供独立的大模型算力，被认为是国产端侧AI算力扩容的一次重要突破。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573516.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:73abcf8b93cc",
+          "title": "DeepSeek-V4系列新价格政策今日起生效：峰谷定价 高峰期贵一倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.852,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573514.htm",
+          "published_at": "2026-08-17T00:13:04+00:00",
+          "summary": "<p><strong>根据深度求索DeepSeek官方公告，DeepSeek-V4系列API全新定价自今日0时正式生效，同时V4-Pro结束测试阶段，全面转为正式版商用服务。</strong>本次调价取消统一计费模式，采用行业少见的算力错峰分级计价，高峰时段收费标准较空闲时段直接翻倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4cb71566cb50",
+          "title": "冲刺IPO之际再现架构震荡 OpenAI据悉已解散其安全预备团队",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.842,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573500.htm",
+          "published_at": "2026-08-17T00:06:11+00:00",
+          "summary": "<p>据《金融时报》报道，人工智能巨头OpenAI已于上月底正式解散了其安全预备团队（preparedness team）。该团队此前的主要职责是全面评估人工智能模型是否构成严重安全隐患，例如模型失控并对其他企业发起黑客攻击的可能性，并负责研发针对这些潜在风险的缓解方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:47436844942f",
+          "title": "【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.78,
+          "url": "https://www.tmtpost.com/8105146.html",
+          "published_at": "2026-08-16T23:20:00+00:00",
+          "summary": "国泰海通：中国股市将逐步迎来“金秋行情”；贵州茅台上半年净利润同比下降1.95%，商汤预计上半年转盈约5亿元至7亿元；智谱发布GLM-5.3、阿里开源Qwen3.8；中国2026暑期档票房超100亿；英伟达二季度新增持有SpaceX；Anthropic第二财季营收同比飙升至少13倍；广东首个词元经济“Token贷”发布。"
+        },
+        {
+          "id": "venturebeat:0a5e16cb1b0f",
+          "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.58,
+          "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+          "published_at": "2026-08-16T20:45:00+00:00",
+          "summary": "<p>Most teams building <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">retrieval augmented generation</a> (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous "
+        },
+        {
+          "id": "cnbeta:69bded407df8",
+          "title": "Anthropic老板娘往事曝光 做过色情项目，曾求爱泼斯坦投资",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.9,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573510.htm",
+          "published_at": "2026-08-17T00:11:33+00:00",
+          "summary": "<p>据外电报道，卡米・克拉克是一名创业者，同时也是人工智能公司 Anthropic 首席执行官达里奥·阿莫迪的妻子。爱泼斯坦档案中的邮件显示<strong>她曾试图向已定罪的儿童性犯罪者杰弗里・爱泼斯坦寻求投资</strong>，此事让她再度受到舆论审视。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573510.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4e7d7f06453e",
+          "title": "Anthropic CEO回应AI反噬浪潮：从根本上说是一场“信任危机”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.882,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573492.htm",
+          "published_at": "2026-08-16T23:52:37+00:00",
+          "summary": "<p>近期，知名人工智能企业Anthropic的首席执行官达里奥·阿莫代伊（Dario Amodei）针对外界指责其过度渲染AI悲观前景的说法予以了公开反驳。此前，投资人加文·贝克（Gavin Baker）在播客和社交媒体上表示，阿莫代伊对AI危险性的持续警告，在一定程度上助长了美国国内特别是针对数据中心的抵制浪潮。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
