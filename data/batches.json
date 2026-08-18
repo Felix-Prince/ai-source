@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T07:10:43.446018+00:00",
+    "generated_at": "2026-08-18T13:14:30.832650+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5209,6 +5209,82 @@
           "url": "https://www.qbitai.com/2026/08/474611.html",
           "published_at": "2026-08-18T03:31:33+00:00",
           "summary": "ALL IN国产算力生态"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-18T13:14:30.832650+00:00",
+      "generated_ts": 1787058870.8326502,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:ab988c69afc2",
+          "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.979,
+          "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+          "published_at": "2026-08-18T13:00:00+00:00",
+          "summary": "<p>Enterprise teams running AI agents at scale are finding that a single model handles every task poorly — either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which picks the right model for each task automatically, is becoming the fix.</p><p>Sn"
+        },
+        {
+          "id": "cnbeta:029568f502de",
+          "title": "OpenAI推出ChatGPT青少年模式：强化安全防护与家长监管",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.902,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573804.htm",
+          "published_at": "2026-08-18T12:05:21+00:00",
+          "summary": "<p>OpenAI宣布为ChatGPT推出面向青少年的专属使用模式，将既有的未成年人保护机制与一批新增功能整合至同一体验中。此举正值公众日益关注人工智能工具对年轻用户影响之际，多家科技平台也在陆续上线年龄核验和青少年保护措施。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4e7b61389fc2",
+          "title": "英伟达在芯片使用寿命问题上表态前后矛盾",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.623,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573784.htm",
+          "published_at": "2026-08-18T08:35:42+00:00",
+          "summary": "<p>周一，英伟达、OpenAI与SB Energy签署协议，OpenAI新建的8吉瓦算力空间将全部采用英伟达下一代芯片。英伟达首席执行官黄仁勋称，每一代新硬件有望为英伟达带来1500‑2000亿美元的营收。每一代芯片性能都远超前代，但售价也大幅抬升，推动英伟达利润暴涨，维持高额利润率。如今英伟达向市场传递一个观点：其图形处理器属于一类可投资资产，能够长期保有资产价值。这两种立场，多少有些自相矛盾。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573784.htm\" target=\"_blank\"><strong>阅读全文</st"
+        },
+        {
+          "id": "tmtpost:bbef730a0565",
+          "title": "AI收入连续两个季度过半，百度换了一张估值表",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.987,
+          "url": "https://www.tmtpost.com/8107731.html",
+          "published_at": "2026-08-18T13:01:19+00:00",
+          "summary": "百度不需要向市场证明某一款产品能否成功，它正在证明的是，一套从芯片、云、模型到应用的能力，如何转化成不同形态的AI生意。"
+        },
+        {
+          "id": "the_verge:b2538709a6ca",
+          "title": "Google&#8217;s Pet Memory forgot who my cats are",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.931,
+          "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+          "published_at": "2026-08-18T12:01:29+00:00",
+          "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for"
+        },
+        {
+          "id": "the_verge:4934bc102567",
+          "title": "ChatGPT is getting a dedicated mode for teens",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.875,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+          "published_at": "2026-08-18T11:00:00+00:00",
+          "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protect"
         }
       ]
     }
