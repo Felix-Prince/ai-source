@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T19:03:44.877742+00:00",
-    "generated_ts": 1786993424.8777418,
+    "generated_at": "2026-08-18T01:55:02.186513+00:00",
+    "generated_ts": 1787018102.186513,
     "window_hours": 24.0,
-    "total": 25
+    "total": 29
   },
   "items": [
+    {
+      "id": "tmtpost:7c5372fb32af",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AI Model Pricing Moves Beyond Flat Discounts Toward Differentiated Token Economics",
+      "url": "https://www.tmtpost.com/8106514.html",
+      "summary": "Providers are shifting from simple low list prices to peak rates, cache discounts and tiered models. DeepSeek’s August adjustment is one clear example of a broader recalibration as inference costs and agent workloads change how the market prices intelligence.",
+      "published_at": "2026-08-18T01:21:00+00:00",
+      "published_ts": 1787016060.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.951
+    },
     {
       "id": "cnbeta:95c7885e02e7",
       "source": "cnbeta",
@@ -22,14 +37,29 @@
       "importance": 2.886
     },
     {
-      "id": "cnbeta:ba6c543d03a5",
+      "id": "cnbeta:7c29b77d26f4",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "7nm+96TOPS 芯擎AI加速芯片“天工100”量产交付",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573516.htm",
-      "summary": "<p><strong>芯擎科技日前宣布，其自研车规级7纳米AI加速芯片“天工100” 已全面量产，并同步向整车厂及一级供应商等生态伙伴批量供货。</strong>该芯片无需更换主控芯片或改动原有软硬件，仅以插卡式硬件形态即可为汽车提供独立的大模型算力，被认为是国产端侧AI算力扩容的一次重要突破。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573516.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T00:14:01+00:00",
-      "published_ts": 1786925641.0,
+      "title": "零售商专属信用卡发行商携手OpenAI推进AI内购 ChatGPT将变“购物车”？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573698.htm",
+      "summary": "<p>消费金融公司Synchrony最新宣布，已与OpenAI达成企业合作，将让消费者可以直接在聊天机器人ChatGPT内使用其“零售商专属信用卡”（Store cards）购买商品。Synchrony是亚马逊、沃尔玛、劳氏等品牌的专属信用卡发行商。新闻稿写道，新的合作将助力Synchrony将借款、奖励和忠诚度计划融入人工智能（AI）原生购物和结账体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573698.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T00:16:53+00:00",
+      "published_ts": 1787012213.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.862
+    },
+    {
+      "id": "cnbeta:8a5223566d2f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic年化营收飙升至650亿美元 增长速度远超OpenAI",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573688.htm",
+      "summary": "<p>人工智能模型初创公司Anthropic的营收不仅在以历史性的速度增长，而且呈现出加速态势。据彭博社周一报道，截至今年7月底，该公司的年化营收运行率（即根据近期较短时间的营收推算的年度总营收）已突破650亿美元。这一数字相较于今年5月的470亿美元有了显著提升，而去年年底时这一数字仅为90亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573688.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T00:10:19+00:00",
+      "published_ts": 1787011819.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -37,19 +67,19 @@
       "importance": 2.853
     },
     {
-      "id": "cnbeta:73abcf8b93cc",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek-V4系列新价格政策今日起生效：峰谷定价 高峰期贵一倍",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573514.htm",
-      "summary": "<p><strong>根据深度求索DeepSeek官方公告，DeepSeek-V4系列API全新定价自今日0时正式生效，同时V4-Pro结束测试阶段，全面转为正式版商用服务。</strong>本次调价取消统一计费模式，采用行业少见的算力错峰分级计价，高峰时段收费标准较空闲时段直接翻倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T00:13:04+00:00",
-      "published_ts": 1786925584.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "venturebeat:ccb286971df8",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+      "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+      "summary": "<p>The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn&#x27;t a frontier cloud model from OpenAI, Anthropic or Google.</p><p>It was a 27-billion-parameter model from Alibaba: <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen3.8-27B landed on Hugging Face</a> on Friday under an enterprise-friendly, open source Apache 2.0 license, giving developers downloadable weights for a dense multimodal model.</p><p>But Qwen3.8-27B isn&#x27;t a garden variety small local model: it includes native image and video understanding, a 262,144-token context window, configurable reasoning and support for coding and agentic workflows — a “compact, deployment-friendly” version of the capabilities developed for its Qwen3.8 generation.</p><p>That unusually small hardware footprint is a major part of Qwen3.8-27B’s appeal. Running the model at full 16-bit precision requires roughly 56GB of GPU memory, while an FP8 version needs about 28GB. But 4-bit quantization cuts the model itself to roughly 17GB, putting it within reach of high-end consumer machines such as a powerful gaming desktop or well-equipped laptop. </p><h2><b>Hitting the sweet spot between capability and size</b></h2><p>The outsized reaction among developers has been due to the dynamic combination of its capability and size.</p><p><a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Alibaba&#x27;s own launch benchmarks </a>immediately supplied the first jolt. The company reported 61.7 on SWE-bench Pro, 90.3 on LiveCodeBench v6, 70.7 on its CoWorkBench office-work benchmark and 84.3 on OSWorld-Verified. </p><p>In Alibaba&#x27;s published comparison table, the 27B model even beats the listed Claude Opus 4.6 Max result on SWE-bench Pro and LiveCodeBench, although Opus remains ahead on Terminal-Bench, GPQA Diamond and Humanity’s Last Exam. </p><p>Some of Alibaba&#x27;s evaluations are internal, and benchmark harnesses are not identical across every comparison, making the numbers poor grounds for declaring a universal winner.</p><h2><b>Third-party results show a powerful, local model with performance equivalent to proprietary models from months ago</b></h2><p>The conversation changed Monday when third-party results began arriving.</p><p>Third-party AI benchmarking outfit Artificial Analysis gave Qwen3.8-27B a score of <a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\"><b>52 on its Intelligence Index</b></a>, a composite of nine evaluations spanning coding, science, reasoning and professional tasks. That happens to be the same score Artificial Analysis currently assigns OpenAI&#x27;s mid-tier model GPT-5.6 Luna at its maximum reasoning setting — a proprietary offering only available over the cloud.  </p><p>As open source coding agent <a href=\"https://x.com/cline/status/2089425906569977896?s=20\">Cline put it on X</a>: &quot;This is the first time a local model has scored frontier model capability. We weren’t expecting this pace of local progress anywhere near this soon.&quot;</p><div></div><p>On Artificial Analysis&#x27; Agentic Index measuring model performance on agentic tasks, meanwhile, <a href=\"https://x.com/ggerganov/status/2089409881858089102/photo/1\">Qwen3.8-27B scored 51</a>, beating Claude Opus 4.8 on maximum reasoning effort — a frontier model<a href=\"https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment\"> Anthropic released less than three months ago.  </a></p><div></div><p>That doesn&#x27;t mean these models are equivalent, but it helps explain why developers and AI power users stood up and took notice. As developer and AI podcaster/YouTuber Sero (@0xSero on X, real name Sharif Cherf) <a href=\"https://x.com/0xSero/status/2089421053852258334?s=20\">wrote on X</a>: &quot;A model that runs on 3k USD of hardware is beating everything from 4 months ago. Including Opus. Permanent underclass is cancelled.&quot; </p><div></div><p>Developer Joshua “Xenova” Lochner, known for bringing machine-learning models into web browsers, highlighted the <a href=\"https://x.com/xenovacom/status/2089435071384076306\">result Monday on X</a> alongside an experiment running Qwen3.8-27B with custom WebGPU kernels. His reaction — “What a time to be alive!” — captures much of the mood: a model scoring in the vicinity of proprietary frontier systems can be downloaded, modified and executed locally rather than accessed only through a vendor API.</p><p>The appeal becomes clearer when the model is compressed. Developer and AI writer <a href=\"https://simonwillison.net/2026/Aug/16/qwen-38-27b/\">Simon Willison</a> tested a roughly <b>17GB Q4_K_M quantization</b> on an M5 Max MacBook Pro and Nvidia DGX Spark. </p><p>He found that it could write code, interpret images and operate a coding-agent loop through the Pi agent framework. In one experiment, the model navigated a codebase to explain how authentication worked; in another, it wrote and tested a Python utility Willison needed to convert an agent transcript from JSONL to Markdown.</p><p>“The fact that a 17GB file can do all of this stuff on my home machines is a miracle,” Willison wrote. His broader point is the one resonating with power users: capabilities that recently felt inseparable from expensive hosted models are moving into files small enough to keep on a workstation.</p><p>The reaction is showing up in usage as well<a href=\"https://cybernews.com/tech/qwen-38-27b-ai-model-debuts-with-million-downloads/\">. Cybernews reported Monday</a> that Qwen3.8-27B passed <b>3 million Hugging Face downloads in its first three days</b>, while quantized versions rapidly appeared for local inference tools. </p><p>The <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/\">LocalLLaMA community on Reddit</a> created a dedicated release megathread simply to consolidate the flood of benchmarks, quantizations, configuration advice and comparisons. One user showing a locally generated game described the model as “a different beast.”</p><h2><b>Overthinking is an issue</b></h2><p>That frenzy comes with an important caveat: Qwen3.8-27B appears to buy some of its quality by thinking a lot.</p><p>Artificial Analysis says the model generated <b>160 million output tokens</b> across its Intelligence Index testing, versus a 43 million median for comparable open-weight models. </p><p>Willison encountered an extreme version of the same behavior because Qwen defaults to its <code>xhigh</code> reasoning setting. A request to generate an SVG of a pelican riding a bicycle took 21 minutes and consumed more than 22,000 reasoning tokens before producing the answer. He recommends starting with low or no reasoning for ordinary local use.</p><p>Investor and developer <a href=\"https://x.com/ttunguz/status/2089188309348258251\">Tomasz Tunguz </a>found a similar trade-off in a small nine-task test against DeepSeek V4 Flash: with reasoning enabled, Qwen edged ahead on quality in his agent stack, but he reported that it was roughly <b>30 times slower and 4.5 times more expensive</b>. He explicitly cautioned that nine tasks were not enough for a verdict.</p><p>Inference software may narrow that gap. Qwen3.8-27B includes Multi-Token Prediction, and Willison reported about a <b>72% performance improvement</b> on his DGX Spark after enabling MTP through llama.cpp compared with his default LM Studio configuration. </p><p>Even then, his normal LM Studio runs were producing only around 15 to 30 tokens per second — far below the responsiveness of many hosted models.</p><p>That tension is precisely why Qwen3.8-27B matters more than another leaderboard position.</p><h2><b>What enterprises should take away from Qwen3.8-27B</b></h2><p>For enterprises, the relevant comparison is not simply whether a 27B model “beats” Claude or GPT on a benchmark. It is whether a model small enough to run inside an organization’s own infrastructure can now perform enough coding, document analysis, vision and agent work to replace API calls for meaningful classes of tasks.</p><p>That proposition changes privacy, deployment and cost calculations. Apache 2.0 weights can be inspected, modified and hosted behind a company’s own controls, while Alibaba already documents compatibility with serving frameworks including vLLM, SGLang and TokenSpeed. Alibaba says a managed Qwen Cloud version with a 1-million-token default context and built-in tools is coming later.</p><p>The small size and accessible hardware requirements mean that enterprises, indie developers, and even curious consumers can easily deploy the model locally without worrying about their data leaving their machine — ensuring greater privacy, information security, governance and control.</p><p>There is a broader reason power users are paying attention.<a href=\"https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8\"> Hugging Face data reported by <i>Business Insider</i> this week</a> shows that actual model usage skews dramatically toward smaller models even as enormous frontier releases dominate headlines; models above 70 billion parameters accounted for only a small share of 2026 downloads. </p><p>Alibaba’s strategy of publishing Qwen models across multiple practical size classes has helped make the family a recurring part of developers’ local deployment workflows.</p><p>Qwen3.8-27B pushes that logic further. Its benchmark scores still need more independent validation, its default reasoning behavior can be painfully inefficient, and no single leaderboard establishes frontier-model parity.</p><p>But three days after release, developers are no longer reacting primarily to Alibaba’s benchmark table. They are reacting to the experience of putting a comparatively small file on hardware they control and watching it perform tasks that, not long ago, seemed to belong exclusively to the largest proprietary systems.</p><p>For certain developers, AI power users—and yes, even enterprise deployments—that is the benchmark that matters most.</p>",
+      "published_at": "2026-08-18T00:06:53+00:00",
+      "published_ts": 1787011613.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.852
+      "importance": 2.848
     },
     {
       "id": "venturebeat:4077e4bbe3e5",
@@ -67,34 +97,19 @@
       "importance": 2.847
     },
     {
-      "id": "cnbeta:4cb71566cb50",
+      "id": "cnbeta:fb2a1ad66717",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "冲刺IPO之际再现架构震荡 OpenAI据悉已解散其安全预备团队",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573500.htm",
-      "summary": "<p>据《金融时报》报道，人工智能巨头OpenAI已于上月底正式解散了其安全预备团队（preparedness team）。该团队此前的主要职责是全面评估人工智能模型是否构成严重安全隐患，例如模型失控并对其他企业发起黑客攻击的可能性，并负责研发针对这些潜在风险的缓解方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T00:06:11+00:00",
-      "published_ts": 1786925171.0,
+      "title": "亚马逊等科技巨头被指参与批量毁书 珍稀藏书沦为AI训练“饲料”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573636.htm",
+      "summary": "<p>有调查披露，亚马逊等科技公司正将大量珍稀藏书送往隐秘仓库进行集中销毁，其唯一目的是为大型语言模型（LLM）提供未经污染的全新训练数据。在人工智能生成内容泛滥的当下，这一极端行为正引发外界对文化遗产流失的深切担忧。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-17T23:26:21+00:00",
+      "published_ts": 1787009181.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.842
-    },
-    {
-      "id": "tmtpost:47436844942f",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市",
-      "url": "https://www.tmtpost.com/8105146.html",
-      "summary": "国泰海通：中国股市将逐步迎来“金秋行情”；贵州茅台上半年净利润同比下降1.95%，商汤预计上半年转盈约5亿元至7亿元；智谱发布GLM-5.3、阿里开源Qwen3.8；中国2026暑期档票房超100亿；英伟达二季度新增持有SpaceX；Anthropic第二财季营收同比飙升至少13倍；广东首个词元经济“Token贷”发布。",
-      "published_at": "2026-08-16T23:20:00+00:00",
-      "published_ts": 1786922400.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.78
+      "importance": 2.793
     },
     {
       "id": "venturebeat:4ab10734f536",
@@ -110,6 +125,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.762
+    },
+    {
+      "id": "venturebeat:7cf5a40ffaa3",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "summary": "<p><a href=\"https://cursor.com/\">Cursor</a> began rolling out <a href=\"https://cursor.com/changelog/origin-code-hosting\">Origin</a>, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub&#x27;s status page lit up with what became a six-hour-and-forty-two-minute global degradation — error rates near 20% across pull requests, issues and the API, and near 50% on archive and raw file downloads, according to<a href=\"https://www.githubstatus.com/\"> GitHub&#x27;s incident log</a>. Enterprise single sign-on went down with it: SAML, OIDC, SCIM provisioning and Team Sync all failed. So did Copilot.</p><p>The developer internet did what the developer internet does.</p><p>&quot;You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel,&quot; Vercel chief executive <a href=\"https://x.com/rauchg/status/2089409162270965858\">Guillermo Rauch posted on X</a>. &quot;And unlike GitHub, it&#x27;s online 😁&quot; Asked why he was smiling, Rauch replied: &quot;trying to make light of the situation. We ourselves are stuck because of github rn!&quot;</p><p><a href=\"https://x.com/mattyp/status/2089400829933666599\">Matt Palmer</a>, who works at Cursor, quote-tweeted his own company&#x27;s launch with the day&#x27;s best line: &quot;We were going to ship this earlier, but GitHub was down.&quot; A GitHub outage, in other words, delayed the launch of a GitHub competitor.</p><p>Product launches get locked weeks in advance, and no evidence suggests Cursor timed this one. But the coincidence did the company an enormous favor, because it dramatized the argument Origin exists to make. For eighteen years, choosing where to host your team&#x27;s source code has been the least interesting decision an engineering organization makes. Cursor is betting that AI agents have made it interesting again — and for technical decision makers, that is the real news here. Not a new product, but a new procurement question with a governance problem attached.</p><div></div><h2><b>Inside Origin: what Cursor&#x27;s code hosting platform actually does</b></h2><p><a href=\"https://cursor.com/changelog/origin-code-hosting\">Origin</a> lives in a new <a href=\"https://cursor.com/learn/understanding-your-codebase\">Codebase tab</a> inside Cursor. Teams name a codebase, which becomes part of its URL, then push to it over the command line. From there they get the machinery you would expect from a forge — the service layer that wraps Git and handles storage, permissions, checks and merges. Every repository comes with pull requests: timelines, commits, checks and files changed. Reviewers read the diff, leave comments and merge, without ever opening a browser tab.</p><p>What Cursor built around that machinery is the part worth studying. Agents now operate in the same surface as the code and the pull requests they are modifying. &quot;Your code, PRs, and agents are now in the same place,&quot; the<a href=\"https://cursor.com/changelog/origin-code-hosting\"> changelog</a> reads. A developer can ask questions about the file on screen, hand an agent a review comment and have it revise the pull request in place, or tell it to push a branch — all inside the editor where the code was written.</p><p>Three integrations shipped on day one, and the choice of partners is telling. Vercel spins up a preview deployment for every pull request and ships to production on merge, available in public beta for Pro and Enterprise customers,<a href=\"https://x.com/vercel_dev\"> its developer account said</a>. Depot and Buildkite run continuous integration, and critically, both execute existing GitHub Actions workflows unchanged. Buildkite adds native pipelines on top.</p><p>That compatibility layer is the whole strategy in miniature. Cursor is not asking teams to rewrite their build system, retrain their engineers or rip out their deployment pipeline. It is asking them to try a second window onto code they already have — which is a far easier request to approve.</p><p>More partners are coming, the company said, and the ones it landed first are the ones that matter to a platform team evaluating whether Origin can carry real work. A forge without deployments and CI is a code viewer. A forge that runs your existing Actions workflows and ships previews to the CDN you already pay for is a candidate.</p><h2><b>Why letting GitHub stay the source of truth is Origin&#x27;s smartest design choice</b></h2><p>Here is the decision enterprise buyers should study most closely, because it determines whether Origin survives a security review at all.</p><p>Cursor does not ask you to leave GitHub. Connect a GitHub organization, pick repositories, and they appear alongside Origin-native ones. &quot;Pushes keep going to GitHub, which stays the source of truth for anything started there,&quot; the changelog says. Access permissions mirror GitHub&#x27;s existing read and write settings rather than establishing a parallel system. Pull request conversations sync in both directions — comment in Cursor and it posts to GitHub; reply or react on GitHub and it surfaces in Cursor &quot;within seconds.&quot;</p><p>This is a classic wedge, and a well-executed one. Rip-and-replace migration of source control ranks among the highest-risk projects an engineering organization can undertake. It touches continuous integration, compliance evidence, audit trails, branch protection rules, every integration in the toolchain and the muscle memory of every engineer on staff. Almost no chief technology officer approves that for a product in early beta.</p><p>A read-mostly mirror that leaves GitHub authoritative approves itself. It costs nothing to try, breaks nothing if abandoned, and quietly relocates the place developers spend their working hours. If Cursor&#x27;s review experience proves better — and Cursor spent real money to make sure it would — the source of truth eventually follows the attention.</p><p>That money went to<a href=\"https://cursor.com/blog/graphite\"> Graphite</a>, the code review startup Cursor bought in December 2025 for what Axios reported was well above its <a href=\"https://www.axios.com/pro/enterprise-software-deals/2025/12/19/cursor-buys-code-review-platform-graphite\">$290 million Series B valuation</a>. Graphite built stacked pull requests, the workflow that lets developers keep shipping dependent changes without waiting on approvals. Announcing the deal, Cursor <a href=\"https://cursor.com/blog/graphite\">wrote</a> that &quot;the boundary between where you write code and where you collaborate on it feels increasingly arbitrary,&quot; and promised &quot;some more radical ideas we can&#x27;t share just yet.&quot; Origin is the radical idea. Graphite co-founder Tomas Reimers unveiled it on stage at Cursor&#x27;s inaugural Compile conference in June and leads its development.</p><h2><b>How AI agents turned code review into software&#x27;s new bottleneck</b></h2><p>The case for an agent-native forge rests on a claim that is easy to state and, unusually for this market, well supported by evidence: writing code stopped being the constraint. Reviewing and integrating it became one.</p><p>Google&#x27;s<a href=\"https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report\"> 2025 DORA report</a>, drawn from nearly 5,000 technology professionals, found that 90% of developers now use AI at work, spending a median of two hours a day with it, and more than 80% say it made them more productive. But AI adoption showed a positive relationship with software delivery throughput and a negative one with delivery stability. More output, more breakage. The report&#x27;s authors describe AI as &quot;an amplifier&quot; that &quot;magnifies the strengths of high-performing organizations and the dysfunctions of struggling ones.&quot;</p><p>Trust has not kept pace with volume. Stack Overflow&#x27;s<a href=\"https://survey.stackoverflow.co/2025/ai\"> 2025 developer survey</a> of 49,009 respondents across 177 countries found 84% using or planning to use AI tools, while trust in their accuracy fell to 33% from 43% a year earlier and distrust climbed to 46% from 31%. Two-thirds named &quot;AI solutions that are almost right, but not quite&quot; as their leading frustration. GitLab&#x27;s ninth annual<a href=\"https://about.gitlab.com/press/releases/2025-11-10-gitlab-survey-reveals-the-ai-paradox/\"> DevSecOps survey</a>, of 3,266 practitioners polled by Harris, put numbers on the operational drag: 73% had hit problems with vibe-coded output, 70% said AI made compliance management harder, and only 37% would let AI handle daily tasks without human review.</p><p>The volume climbs regardless. GitHub&#x27;s<a href=\"https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/\"> Octoverse 2025</a> counted 180 million developers, 630 million repositories and 43.2 million pull requests merged per month, up 23% year over year. And<a href=\"https://runtimewire.com/article/cursor-builds-origin-to-host-code-from-fleets-of-ai-agents-launching-today\"> RuntimeWire reported</a> the internal figure that best explains Origin&#x27;s existence: 35% of pull requests merged inside Cursor were opened by agents running autonomously in cloud virtual machines.</p><p>A forge built for humans assumes a pull request represents human intent, opened by someone you can ask what they meant. Once a third of merged changes come from software, the queue stops being a conversation and becomes a scheduling problem. That is a real architectural argument, and it is the strongest thing Cursor has going for it.</p><h2><b>GitHub&#x27;s reliability crisis handed Cursor an opening it did not have to earn</b></h2><p>The supply-side case for an alternative is simpler: GitHub has been unreliable, and its own executives have said so.</p><p>An analysis by<a href=\"https://leaddev.com/software-quality/whats-gone-wrong-at-github\"> LeadDev</a> counted 257 incidents between May 2025 and April 2026, 48 of them major — roughly one significant disruption per week. February was the worst month on record with 37. GitHub Actions alone accounted for 57 outages in twelve months. Chief technology officer Vlad Fedorov has said the platform &quot;wasn&#x27;t built for the scale it&#x27;s now being asked to handle&quot; and must design for 30 times today&#x27;s load. In an April engineering post covered by<a href=\"https://www.infoq.com/news/2026/04/github-outages-scaling/\"> InfoQ</a>, the company acknowledged it &quot;failed to meet its own reliability standards,&quot; citing rapid growth, tight architectural coupling and inadequate load shedding. Monday&#x27;s outage was the seventh incident on GitHub&#x27;s status page in fifteen days.</p><p>The fatigue is audible. &quot;GitHub really doesn&#x27;t feel built for the agent era,&quot; one developer wrote on X as Origin went live. &quot;It goes down way too often, but until now there haven&#x27;t been many real alternatives.&quot;</p><p>The defections started before Origin existed. The Zig programming language<a href=\"https://ziglang.org/news/migrating-from-github-to-codeberg/\"> moved to Codeberg</a> in November 2025, citing Actions failures among its reasons. In April, Mitchell Hashimoto announced that Ghostty — a terminal emulator with more than 52,000 stars —<a href=\"https://mitchellh.spicytakes.org/post/2026-04-28-ghostty-leaving-github\"> would leave too</a>, pointing to near-daily outages that blocked reviews and CI for hours. And The Information reported in March that OpenAI, a company Microsoft holds a large stake in, began building its own GitHub alternative partly because outages left its engineers unable to commit for hours at a time,<a href=\"https://www.tomshardware.com/tech-industry/openai-building-github-alternative-after-outages-disrupted-engineers\"> as Tom&#x27;s Hardware relayed</a>.</p><p>Microsoft&#x27;s structure has not helped. Thomas Dohmke<a href=\"https://github.blog/news-insights/company-news/goodbye-github/\"> resigned</a> as GitHub chief executive in August 2025 and was never replaced; the unit&#x27;s leadership was absorbed into Microsoft&#x27;s CoreAI organization under executive vice president Jay Parikh. In a May report, The Information wrote that <a href=\"https://www.theinformation.com/newsletters/ai-agenda/cursor-sees-opening-github-flounders\">Parikh had warned deputies</a> that coding tools from Cursor and Anthropic could eventually make GitHub obsolete. GitHub&#x27;s own answer to the agent era,<a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/\"> Agent HQ</a>, lets customers orchestrate third-party agents from Anthropic, OpenAI, Google, Cognition and xAI inside GitHub — a coherent strategy that concedes the agent layer and keeps the substrate underneath. Origin attacks precisely that substrate.</p><h2><b>Now that SpaceX owns Cursor, who actually holds your source code?</b></h2><p>Cursor&#x27;s rise has been extraordinary even by the standards of this cycle. Founded in 2022 by four MIT students, Anysphere raised $8 million from the OpenAI Startup Fund in October 2023,<a href=\"https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/\"> per TechCrunch</a>, then $100 million at $2.5 billion, $900 million at $9.9 billion, and $2.3 billion at $29.3 billion last November. In May, Bloomberg reported annualized revenue of $3 billion and more than 3,000 customers paying at least $100,000 a year.</p><p>Then, three days before Origin shipped, Bloomberg reported that SpaceX completed its $60 billion all-stock acquisition of Cursor — an agreement TechCrunch<a href=\"https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/\"> covered</a> in June, days after SpaceX&#x27;s record IPO and six months after it absorbed xAI. Cursor now operates inside a division called SpaceXAI. The vendor asking to hold your proprietary source code became, last Friday, a unit of a rocket company with its own frontier-model division and a founder not known for institutional caution.</p><p>Jason Andersen of Moor Insights &amp; Strategy raised the model-routing question to<a href=\"https://www.techtimes.com/articles/319031/20260624/cursors-github-rival-origin-new-spacex-model-raise-code-custody-stakes.htm\"> Tech Times</a> in June, before the deal closed: &quot;xAI&#x27;s models and treatment of guardrails are very different than what Cursor has stood for.&quot; That piece framed the question a chief information security officer now has to answer. When one company controls the editor where agents write code, the host where that code lives and the model those agents run on, what governs what it does with the code?</p><p>Cursor has not published an answer. RuntimeWire noted before launch that Origin&#x27;s pricing, security architecture, data-handling terms and migration tooling were all unpublished, and Monday&#x27;s changelog adds none of them. It says only that Origin reaches &quot;all paid plan users starting today, except enterprise orgs whose admins opt out.&quot; Opt-out, not opt-in — a sentence administrators should read twice.</p><p>There is also a track record to weigh. In July, researchers at Mindgard disclosed that Cursor would execute a malicious git.exe planted in a Windows project&#x27;s root the moment a user opened it, with no prompt — a repository-poisoning flaw they first reported in December 2025.<a href=\"https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html\"> The Hacker News</a> reported that Cursor declined to patch it, calling the issue out of scope under a shared-responsibility model while conceding it had not &quot;closed the loop with the researcher in a timely manner.&quot; No CVE was issued. The same flaw class turned up unpatched in GitHub Copilot CLI, Google&#x27;s Gemini CLI and OpenAI&#x27;s Codex — but a vulnerability the vendor declined to fix makes an awkward footnote for a product whose pitch is basically “let us hold your repositories.”</p><h2><b>What engineering leaders should settle before they let Origin into the toolchain</b></h2><p><a href=\"https://cursor.com/changelog/origin-code-hosting\">Origin</a> is a beta, not a migration, and treated as one it is worth evaluating. The sync mode gives platform teams a low-risk way to measure whether an agent-native review surface shortens cycle time, without touching a single branch protection rule. But three things deserve resolution before anything authoritative moves.</p><p>The first is the default. Origin switches on for paid users unless an enterprise administrator opts out, which means an organization that has not made an affirmative decision about whether proprietary code may be mirrored to a new host has effectively had that decision made for it. Confirming your posture is a Monday-morning task, not a next-quarter one.</p><p>The second is the paperwork. Retention, residency, training use, subprocessors and what changes now that Cursor reports into SpaceX are all unpublished, and a product page is not a contract. Until those terms exist in writing, the defensible position is to treat Origin as a convenience layer over GitHub rather than a system of record — which is, conveniently, exactly what its architecture already is.</p><p>The third is the exit. Origin&#x27;s Actions compatibility and its GitHub-as-source-of-truth design are the properties that make it safe to adopt. They are also the ones most likely to erode as Cursor&#x27;s incentives shift toward owning the substrate rather than borrowing it. Ask what egress looks like now, while the mirror is still a mirror.</p><p>None of which makes Cursor&#x27;s argument wrong. GitHub earned its incumbency by being boring, dependable infrastructure, and it has spent eighteen months being neither while a third of the code arriving at its front door stopped being written by people. Origin is a serious answer to a real problem, built by a team that bought the right company to build it.</p><p>But GitHub&#x27;s failure and Cursor&#x27;s are different in kind, and enterprises should not confuse them. <a href=\"https://www.githubstatus.com/\">Monday&#x27;s outage resolved at 20:22 UTC</a>. Availability is an engineering problem, and engineering problems close. The question of who holds your source code, what they may do with it and who they ultimately answer to carries no such timestamp — and on that one, the company that spent Monday selling trust has yet to publish its terms.</p>",
+      "published_at": "2026-08-17T22:00:00+00:00",
+      "published_ts": 1787004000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.679
     },
     {
       "id": "cnbeta:9299d24c4120",
@@ -172,21 +202,6 @@
       "importance": 2.63
     },
     {
-      "id": "venturebeat:0a5e16cb1b0f",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-      "summary": "<p>Most teams building <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">retrieval augmented generation</a> (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the moment the system has to survive an audit, a regulator, or a compliance officer asking why a specific decision was made six months ago.</p><p>I have spent the last year building RAG based classification systems in regulated enterprise settings, where the cost of a wrong answer is not a bad chatbot reply. A decision has to hold up to scrutiny long after the model produced it. This environment forces a different design philosophy than most AI engineering content assumes. </p><p>Here is what changes when you cannot afford to be probabilistic about everything, and how a cascade architecture solves it.</p><h2>The invisible cost of an all LLM pipeline</h2><p>\nThe appeal of routing everything through a <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">large language model</a> (LLM) is obvious: Fewer moving parts, faster iteration, the model handles unanticipated edge cases. The problem shows up later, in three places.</p><p>First, auditability. &quot;The model decided based on retrieved context&quot; is not an acceptable answer. You need a decision path a human can reconstruct without rerunning inference and hoping for the same output.</p><p>Second, cost at scale. If your system processes tens of thousands of cases a day and every one hits an LLM call with several retrieved documents in context, your inference bill and latency both scale with volume in a way that rule based logic does not.</p><p>Third, and least discussed, model drift on the easy cases. LLMs are excellent at nuanced judgment calls. They are inconsistent, in ways that are hard to detect, on cases that should have a deterministic answer. A clear structured match against known criteria should never depend on a language model&#x27;s mood.</p><h2>The cascade approach</h2><p>\nThe fix: Stop treating the LLM as the front line and start treating it as the escalation path. In practice this means a three stage pipeline.</p><p>Stage one is deterministic. Exact matches, structured field comparisons, and anything with a clear rule get resolved here with no model call at all. This stage should clear the majority of volume, often more than half depending on your data quality, and every decision is fully explainable because it is a lookup, not an inference.</p><p>Stage two is where retrieval earns its keep. For cases that survive stage one — and I mean survive as in they were not clearly resolved — you build a retrieval layer that pulls the specific evidence relevant to the ambiguity: Prior reviewer decisions on similar cases, contextual documents that explain an apparent conflict, or historical precedent that clarifies an edge case. The retrieval step matters more than the generation step here. If you retrieve the wrong context, even the best language model in the world will produce a confident, well reasoned, wrong answer.</p><p>Stage three is the <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data\">LLM call</a>, and it should only see the residue that stages one and two could not resolve. This is the part people skip when they design their first version, and it is the single biggest lever for both cost and quality. In one system I worked on, routing only the genuinely ambiguous 10 to 15% of cases to the LLM cut inference cost by roughly 6X compared to an all LLM baseline, while improving consistency on the deterministic majority to effectively perfect.</p><h2>Designing the prompt for asymmetric risk</h2><p>Once a case reaches the LLM stage, most teams default to a neutral prompt: &quot;Assess whether this case should be approved or flagged.&quot; That framing is wrong for high stakes classification because the cost of the two error types is not symmetric. Missing something that genuinely needed attention can mean real harm downstream. Incorrectly flagging something that was fine costs a reviewer&#x27;s time and a delay. Those two outcomes are rarely equally bad, yet a neutral prompt asks the model to treat them as if they were.</p><p>An asymmetric risk prompt makes that tradeoff explicit to the model rather than letting it guess at your risk tolerance. Concretely, this means instructing the model to treat uncertainty as a reason to escalate rather than clear, providing calibrated examples of both error types with their consequences spelled out, and asking for a confidence score alongside the classification rather than a binary answer. The confidence score becomes your second cascade point: Anything below a certain threshold goes to a human reviewer instead of being auto resolved, no matter what the model&#x27;s classification says.</p><p>This sounds like a small prompt engineering detail. In practice it is the difference between a system that reduces reviewer workload and one that quietly increases risk while looking like it is working.</p><h2>Evaluating a system like this properly</h2><p>Standard RAG evaluation metrics were not built with this use case in mind, and using them without adaptation will give you a false sense of confidence. A few adjustments that matter.</p><p>Retrieval quality needs to be measured separately from final classification accuracy. A system can have excellent retrieval ranking scores and still make bad final decisions if the generation step misweights the evidence. Track them independently.</p><p>Your evaluation set needs deliberate oversampling of the cases that reach stage three, since that is where your system&#x27;s judgment actually gets tested. If your eval set mirrors your production distribution, it will be dominated by the deterministic cases your cascade already handles well, and you will be blind to exactly the failures that matter most.</p><p>LLM as judge evaluation works for this domain but only if the judge prompt encodes the same asymmetric risk framing as your production prompt. A judge that treats both error types equally will systematically favor the wrong tradeoff when you are tuning your system.</p><p>Finally, build a feedback loop from confirmed outcomes back into your retrieval corpus. When a human reviewer overturns a model decision, that case and its correct resolution should become retrievable context for future similar cases. Without this, your system&#x27;s handling of ambiguous cases never improves, it just keeps making the same category of mistake at the same rate.</p><h2>The broader lesson</h2><p>The instinct to reach for the most capable model for every decision is understandable, but in domains where wrong answers have real consequences, the more valuable engineering work is deciding what should never touch the model at all. Cascade architecture is not a workaround for LLM limitations. It is what a mature RAG system looks like once you have actually had to defend its decisions to someone whose job is to find the flaw in your logic.</p><p>If you are building AI systems for any regulated or high stakes domain, the question worth asking before you write a single prompt is not &quot;How do I get the model to handle this well.&quot; It is &quot;Which parts of this decision should never have been the model&#x27;s job in the first place.&quot;</p><p><i>Vineet Vijay is a Lead AI and machine learning engineer.</i></p>",
-      "published_at": "2026-08-16T20:45:00+00:00",
-      "published_ts": 1786913100.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.58
-    },
-    {
       "id": "cnbeta:8237b173087b",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -215,6 +230,21 @@
       "tier": 0,
       "ai_score": 2.0,
       "importance": 2.402
+    },
+    {
+      "id": "cnbeta:5f8643d12097",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GLM-5.3瞄准Mythos 中国模型开始学会利用漏洞",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573728.htm",
+      "summary": "<p><strong>智谱发布GLM-5.3，中国模型的网络安全能力又往前追了一步：不仅能复现漏洞，也开始具备进一步利用漏洞的能力。但这部分高风险能力被单独管了起来，暂不向普通用户开放。</strong>目前，GLM-5.3已经进入GLMCoding Plan、ZCode和AutoClaw。不过，漏洞利用、攻击验证、渗透测试和真实入侵等任务，现阶段只交给受控伙伴测试，后续再通过&quot;网络安全受信访问&quot;计划向验证用户开放；完整权重也要等安全评估完成后再发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573728.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T01:19:11+00:00",
+      "published_ts": 1787015951.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.966
     },
     {
       "id": "cnbeta:9d51d767b16c",
@@ -247,19 +277,49 @@
       "importance": 1.913
     },
     {
-      "id": "cnbeta:69bded407df8",
+      "id": "cnbeta:455699e18605",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic老板娘往事曝光 做过色情项目，曾求爱泼斯坦投资",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573510.htm",
-      "summary": "<p>据外电报道，卡米・克拉克是一名创业者，同时也是人工智能公司 Anthropic 首席执行官达里奥·阿莫迪的妻子。爱泼斯坦档案中的邮件显示<strong>她曾试图向已定罪的儿童性犯罪者杰弗里・爱泼斯坦寻求投资</strong>，此事让她再度受到舆论审视。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573510.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T00:11:33+00:00",
-      "published_ts": 1786925493.0,
+      "title": "好莱坞与字节跳动“休战” 签下首份AI版权协议",
+      "url": "https://www.cnbeta.com.tw/articles/movie/1573708.htm",
+      "summary": "<p><strong>美国电影协会（MPA）与字节跳动就生成式人工智能知识产权保护达成合作</strong>，涉及字节跳动旗下Seedance、Seedream等视频及图像生成模型。双方签署谅解备忘录，建立相关知识产权保护合作框架。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1573708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T00:22:06+00:00",
+      "published_ts": 1787012526.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.9
+      "importance": 1.913
+    },
+    {
+      "id": "cnbeta:ea3cd18cb74d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI前二号人物：AI将治愈所有疾病 但仅靠模型不行",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573706.htm",
+      "summary": "<p>8月18日，据《商业内幕》报道，OpenAI前高管、生物医学创业公司ChronicleBio联合创始人菲吉·西莫(Fidji Simo)表示，<strong>她相信AI最终能够治愈所有疾病，但仅靠更智能的模型并不能实现这一目标。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573706.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T00:21:46+00:00",
+      "published_ts": 1787012506.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.912
+    },
+    {
+      "id": "cnbeta:66f8f821856b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI敲定俄亥俄州超大型数据中心租约 英伟达将为项目提供支持",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573700.htm",
+      "summary": "<p>OpenAI周一已与软银旗下SB Energy签署一项规模达10吉瓦的数据中心租赁协议，并获得英伟达的部分支持。该项目位于美国俄亥俄州，有望成为迄今规模最大的人工智能(AI)数据中心园区之一。知情人士透露，英伟达将通过一项承诺为该项目提供支持，帮助SB Energy筹集债务融资，同时避免自身承担过大的风险敞口。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T00:17:37+00:00",
+      "published_ts": 1787012257.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.908
     },
     {
       "id": "tmtpost:975e20553f94",
@@ -275,21 +335,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.898
-    },
-    {
-      "id": "cnbeta:4e7d7f06453e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic CEO回应AI反噬浪潮：从根本上说是一场“信任危机”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573492.htm",
-      "summary": "<p>近期，知名人工智能企业Anthropic的首席执行官达里奥·阿莫代伊（Dario Amodei）针对外界指责其过度渲染AI悲观前景的说法予以了公开反驳。此前，投资人加文·贝克（Gavin Baker）在播客和社交媒体上表示，阿莫代伊对AI危险性的持续警告，在一定程度上助长了美国国内特别是针对数据中心的抵制浪潮。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-16T23:52:37+00:00",
-      "published_ts": 1786924357.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.882
     },
     {
       "id": "the_verge:16853fbbf196",
@@ -320,6 +365,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.865
+    },
+    {
+      "id": "tmtpost:0ef886103672",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】事关石油天然气发展，两部门最新部署；OpenAI与英伟达扩大计算机会，到2030年计算规模或达6000亿美元；宇树科技：将于8月19日科创板上市",
+      "url": "https://www.tmtpost.com/8106254.html",
+      "summary": "大疆诉美国防部案赢得关键程序性胜利；吉利汽车宣布管理层调整，以现代企业治理体系做强“一个吉利”；360调整市场组织架构：陈朝华任公关一号位，卜思南管市场部；阿里出售灵犀互娱，已与信宸资本达成交易协议；刘强东创立的独立游艇品牌Sea Expandary收购OceanWalker；阿斯利康宣布泰适卓正式在华上市；中国汽车芯片五项认证认可行业标准发布；央行新增8家数字人民币业务运营机构；寒武纪56.1万股股权激励股份将于8月20日上市流通，124名员工人均股票价值557.15万元；2026世界机器人大会主论坛议程公布；1-7月国民经济运行情况一览：社零总额同比增长1.2%，规上工业增加值增长5.3%",
+      "published_at": "2026-08-17T23:20:00+00:00",
+      "published_ts": 1787008800.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.856
     },
     {
       "id": "tmtpost:46da9c05215c",
