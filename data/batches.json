@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T01:55:02.186513+00:00",
+    "generated_at": "2026-08-18T07:10:43.446018+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5143,6 +5143,72 @@
           "url": "https://www.tmtpost.com/8106254.html",
           "published_at": "2026-08-17T23:20:00+00:00",
           "summary": "大疆诉美国防部案赢得关键程序性胜利；吉利汽车宣布管理层调整，以现代企业治理体系做强“一个吉利”；360调整市场组织架构：陈朝华任公关一号位，卜思南管市场部；阿里出售灵犀互娱，已与信宸资本达成交易协议；刘强东创立的独立游艇品牌Sea Expandary收购OceanWalker；阿斯利康宣布泰适卓正式在华上市；中国汽车芯片五项认证认可行业标准发布；央行新增8家数字人民币业务运营机构；寒武纪56.1万股股权激励股份将于8月20日上市流通，124名员工人均股票价值557.15万元；2026世界机器人大会主论坛议程公布；1-7月国民经济运行情况一览：社零总额同比增长1.2%，规上工业增加值增长5.3%"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-18T07:10:43.446018+00:00",
+      "generated_ts": 1787037043.4460177,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:8244364d44db",
+          "title": "豆包工作任务再升级：可通过虚拟桌面“接管”Windows电脑",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.942,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573778.htm",
+          "published_at": "2026-08-18T06:09:32+00:00",
+          "summary": "<p>8月18日，豆包发布产品更新，<strong>“工作任务”模式新增“豆包虚拟桌面”，支持通过虚拟桌面直接操作Windows电脑。</strong>据介绍，豆包虚拟桌面基于更通用的GUI（图形用户界面）能力，无需MCP、API、插件或CLI等接口，模型即可理解电脑界面并执行操作。用户可以让豆包操作应用、浏览网页，并完成跨软件的复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573778.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:351bec123f2b",
+          "title": "英特尔或推廉价掌机芯片 但内存价格成最大变数",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.941,
+          "url": "https://www.cnbeta.com.tw/articles/game/1573772.htm",
+          "published_at": "2026-08-18T06:08:34+00:00",
+          "summary": "<p>据知名硬件爆料人Jaykihn近日在社交平台透露，英特尔可能正在研发一款面向掌机市场的平价Panther Lake芯片。该芯片将配备4个性能核(P核)、0个能效核(E核)、4个低功耗能效核(LPE核)，以及最为关键的——仅4个Xe GPU核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9330c51ad7ef",
+          "title": "实测DeepSeek：涨价多少，谁更敏感？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.9,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573754.htm",
+          "published_at": "2026-08-18T05:24:15+00:00",
+          "summary": "<p>8月17日零时，DeepSeek新版API（应用接口）定价正式生效。这次调整包含两件事：全面上调价格，引入高峰、空闲分时计价。高峰时段为北京时间9:00-12:00、14:00-18:00，共7小时；其余17小时为空闲时段，价格比高峰时段更低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:6d55ad832d8b",
+          "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.86,
+          "url": "https://www.qbitai.com/2026/08/474647.html",
+          "published_at": "2026-08-18T04:40:03+00:00",
+          "summary": "MyContext补上Agent的数据加工层"
+        },
+        {
+          "id": "qbitai:675fcf5bfe7a",
+          "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.8,
+          "url": "https://www.qbitai.com/2026/08/474611.html",
+          "published_at": "2026-08-18T03:31:33+00:00",
+          "summary": "ALL IN国产算力生态"
         }
       ]
     }

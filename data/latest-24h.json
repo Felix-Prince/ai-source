@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T01:55:02.186513+00:00",
-    "generated_ts": 1787018102.186513,
+    "generated_at": "2026-08-18T07:10:43.446018+00:00",
+    "generated_ts": 1787037043.4460177,
     "window_hours": 24.0,
     "total": 29
   },
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.951
-    },
-    {
-      "id": "cnbeta:95c7885e02e7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "全球首例AI老板炒员工真相：23个班次迟到17次不下手 人类催它才建议解雇",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573558.htm",
-      "summary": "<p>上个月，旧金山一家由人工智能担任店长的实验零售店 Andon Market，曝出全球首例由大模型以管理者身份参与解雇人类员工的事件。<strong>运营方Andon Labs对外表示，被辞退员工在23个班次当中迟到17次。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573558.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T06:07:50+00:00",
-      "published_ts": 1786946870.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.886
     },
     {
       "id": "cnbeta:7c29b77d26f4",
@@ -157,21 +142,6 @@
       "importance": 2.668
     },
     {
-      "id": "cnbeta:f6642ecd8c19",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Claude水印已被破解 斩获11k Star 但会被拒绝安装",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573528.htm",
-      "summary": "<p>Claude 的水印政策在前些天引起了轩然大波。我们曾报道过，包括 OpenAI、Anthropic、Google、Meta、Microsoft 在内的一大批公司，签署了欧盟《AI 生成内容透明度行为准则》，承诺推进 AI 生成内容的标记与检测。但 Anthropic 显然做得更加过分。他们为 AI 生成的全部文本内容添加隐藏水印，并且适用于全球用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573528.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T03:03:14+00:00",
-      "published_ts": 1786935794.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.641
-    },
-    {
       "id": "venturebeat:a23696da87bf",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -217,21 +187,6 @@
       "importance": 2.571
     },
     {
-      "id": "openai_blog:8e683bd6ee0e",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "published_at": "2026-08-17T05:30:00+00:00",
-      "published_ts": 1786944600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.402
-    },
-    {
       "id": "cnbeta:5f8643d12097",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -247,19 +202,34 @@
       "importance": 1.966
     },
     {
-      "id": "cnbeta:9d51d767b16c",
+      "id": "cnbeta:8244364d44db",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "冲刺IPO前夕 Anthropic CEO首次公开回应监管质疑",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573556.htm",
-      "summary": "<p>在行业预估Anthropic将于今年10月以约2万亿美元甚至更高估值上市之际，该公司CEO达里奥·阿莫迪于8月16日在社交平台公开回应外界质疑。阿莫迪持续强调人工智能需要监管，外界有声音质疑Anthropic反复强调风险、呼吁监管，到底是在保护人类，还是在为Anthropic自身筑墙？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-17T06:06:49+00:00",
-      "published_ts": 1786946809.0,
+      "title": "豆包工作任务再升级：可通过虚拟桌面“接管”Windows电脑",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573778.htm",
+      "summary": "<p>8月18日，豆包发布产品更新，<strong>“工作任务”模式新增“豆包虚拟桌面”，支持通过虚拟桌面直接操作Windows电脑。</strong>据介绍，豆包虚拟桌面基于更通用的GUI（图形用户界面）能力，无需MCP、API、插件或CLI等接口，模型即可理解电脑界面并执行操作。用户可以让豆包操作应用、浏览网页，并完成跨软件的复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573778.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T06:09:32+00:00",
+      "published_ts": 1787033372.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.923
+      "importance": 1.942
+    },
+    {
+      "id": "cnbeta:351bec123f2b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英特尔或推廉价掌机芯片 但内存价格成最大变数",
+      "url": "https://www.cnbeta.com.tw/articles/game/1573772.htm",
+      "summary": "<p>据知名硬件爆料人Jaykihn近日在社交平台透露，英特尔可能正在研发一款面向掌机市场的平价Panther Lake芯片。该芯片将配备4个性能核(P核)、0个能效核(E核)、4个低功耗能效核(LPE核)，以及最为关键的——仅4个Xe GPU核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T06:08:34+00:00",
+      "published_ts": 1787033314.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.941
     },
     {
       "id": "cnbeta:1faa5f3687ac",
@@ -322,19 +292,19 @@
       "importance": 1.908
     },
     {
-      "id": "tmtpost:975e20553f94",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Token未来更贵还是更便宜？定价权之争白热化",
-      "url": "https://www.tmtpost.com/8101913.html",
-      "summary": "中国头部模型厂商的价格战正走向精细化。",
-      "published_at": "2026-08-17T05:39:20+00:00",
-      "published_ts": 1786945160.0,
+      "id": "cnbeta:9330c51ad7ef",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "实测DeepSeek：涨价多少，谁更敏感？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573754.htm",
+      "summary": "<p>8月17日零时，DeepSeek新版API（应用接口）定价正式生效。这次调整包含两件事：全面上调价格，引入高峰、空闲分时计价。高峰时段为北京时间9:00-12:00、14:00-18:00，共7小时；其余17小时为空闲时段，价格比高峰时段更低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-18T05:24:15+00:00",
+      "published_ts": 1787030655.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.898
+      "importance": 1.9
     },
     {
       "id": "the_verge:16853fbbf196",
@@ -367,6 +337,21 @@
       "importance": 1.865
     },
     {
+      "id": "qbitai:6d55ad832d8b",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+      "url": "https://www.qbitai.com/2026/08/474647.html",
+      "summary": "MyContext补上Agent的数据加工层",
+      "published_at": "2026-08-18T04:40:03+00:00",
+      "published_ts": 1787028003.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.86
+    },
+    {
       "id": "tmtpost:0ef886103672",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -395,6 +380,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.808
+    },
+    {
+      "id": "qbitai:675fcf5bfe7a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+      "url": "https://www.qbitai.com/2026/08/474611.html",
+      "summary": "ALL IN国产算力生态",
+      "published_at": "2026-08-18T03:31:33+00:00",
+      "published_ts": 1787023893.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.8
     },
     {
       "id": "cnbeta:26877b421fc8",
