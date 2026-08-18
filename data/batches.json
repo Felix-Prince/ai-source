@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T13:14:30.832650+00:00",
+    "generated_at": "2026-08-18T19:03:14.190144+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5285,6 +5285,62 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
           "published_at": "2026-08-18T11:00:00+00:00",
           "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protect"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-18T19:03:14.190144+00:00",
+      "generated_ts": 1787079794.1901438,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:4f123ee9d782",
+          "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.714,
+          "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+          "published_at": "2026-08-18T15:35:16+00:00",
+          "summary": "<p>Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower — even as trust in automated evaluation is rising across the board, <a href=\"https://venturebeat.com/resources/agentic"
+        },
+        {
+          "id": "venturebeat:6de2efa19f4b",
+          "title": "Commerce AI is fragmenting. Here is why that matters.",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.63,
+          "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
+          "published_at": "2026-08-18T14:30:00+00:00",
+          "summary": "<p>Presented by Rezolve Ai</p><hr /><p>Enterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technolog"
+        },
+        {
+          "id": "techcrunch:b0fa1ad12bfd",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.94,
+          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "published_at": "2026-08-18T18:00:00+00:00",
+          "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+        },
+        {
+          "id": "techcrunch:1f90b3f48def",
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.72,
+          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+          "published_at": "2026-08-18T13:50:30+00:00",
+          "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
         }
       ]
     }
