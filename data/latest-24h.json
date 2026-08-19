@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T07:11:28.582633+00:00",
-    "generated_ts": 1787123488.5826335,
+    "generated_at": "2026-08-19T13:16:24.090549+00:00",
+    "generated_ts": 1787145384.0905488,
     "window_hours": 24.0,
-    "total": 21
+    "total": 22
   },
   "items": [
-    {
-      "id": "venturebeat:ab988c69afc2",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
-      "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
-      "summary": "<p>Enterprise teams running AI agents at scale are finding that a single model handles every task poorly — either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which picks the right model for each task automatically, is becoming the fix.</p><p>Snowflake’s Cortex AI Gateway now offers dynamic model routing to address that: enterprises can select “auto” instead of a fixed model, and the system routes each task to whichever model offers the best combination of quality and cost. Snowflake said the capability can cut token costs by as much as 3x on some workloads — a figure from the company’s own internal testing — after finding that simple questions were often handled by its most capable model, making responses more expensive and slower than necessary.</p><p>The move lands amid a broader industry shift toward automated model routing. Databricks, AWS, Google Cloud and Nvidia have all announced some form of model routing technology. Snowflake argues that model routing is more complex than just price and performance, it&#x27;s also about governance and context.</p><p>&quot;For high quality, enterprise grade agents to be built, it&#x27;s crucial to get the context and the governance right,&quot; Baris Gultekin, vice president of AI at Snowflake, told VentureBeat. “Context, trust and model choice all go hand in hand.&quot;</p><h2>Two mechanisms decide where a task goes</h2><p>The capability builds on Cortex AI Gateway, which Snowflake launched in July 2026 as a governance layer for agent and model traffic. Before dynamic routing, model selection ran off a static list per task rather than a true fallback system, Gultekin said.</p><p>Dynamic routing itself runs on two mechanisms, according to Gultekin.</p><p><b>A small model tries first.</b> Under what Snowflake calls an advisor pattern, a smaller model attempts a task first. If it cannot finish the job, it calls a larger model as a tool and continues from there.</p><p><b>A classifier sorts by task history.</b> A separate classifier, trained on past queries, automatically routes straightforward questions to simpler models.</p><p><b>Customers can still pin a model.</b> Auto routing is optional. Customers can restrict routing to one model or a defined set of models, and the system routes only within that boundary.</p><p><b>There is no separate fee.</b> Snowflake prices AI purely on token usage. Routing to a cheaper model produces a cheaper bill, with no additional charge for the routing decision itself.</p><h2>Access controls follow the task, not just the data</h2><p>Snowflake ties routing to the same access controls it already uses for data governance.</p><p>Governance starts at the data level with role-based access controls. It extends to models next, where customer roles map to buckets of approved models. It extends again to agents, where an agent can be restricted to narrower privileges than the user invoking it.</p><p>Open models can run from a customer&#x27;s own region to satisfy data residency requirements. Gultekin said all inference, open and proprietary alike, stays inside Snowflake&#x27;s security boundary rather than routing out to an external provider. That regional and perimeter setup matters specifically for open models with non-U.S. origins, including DeepSeek-V4-Flash and GLM-5.3, both developed in China.</p><p>Snowflake&#x27;s<a href=\"https://www.snowflake.com/en/news/press-releases/snowflake-announces-intent-to-acquire-natoma-providing-secure-connectivity-for-the-agentic-enterprise/\"> recent acquisition</a> of Natoma adds another layer. The deal brings more than 100 MCP connectors with scoped, governed access. An agent could get read-only access to a connected tool like email, for example, rather than broader permissions.</p><h2>Context lets a cheaper model do the work</h2><p>Snowflake recently announced its <a href=\"https://venturebeat.com/data/ai-agents-keep-giving-confident-wrong-answers-the-context-layer-is-enterprise-ais-next-production-problem\">Horizon Context and Cortex Sense</a> tools that provide context capabilities.</p><p>Without good context, a model has to do the exploratory work itself, writing and testing SQL, searching through data and retrying when something does not work. Gultekin explained that the process is expensive, and getting it right typically requires a more capable model. Packaging the context in advance removes that exploratory step, which means a simpler, cheaper model can often handle the same task.</p><p>Snowflake also builds agent memory into that context. As an agent is used repeatedly, its memory updates and gets folded back into future queries. The system does not re-solve the same problem from scratch each time. Memory becomes part of the context passed to the model.</p><h2>OpenRouter, Databricks and Nvidia are chasing the same problem</h2><p>There is no shortage of technologies in the model routing space. OpenRouter is one of the most widely known options, providing a platform that enables organizations to route based on cost and performance. Nvidia on August 11 announced <a href=\"https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests\">Switchyard as a technology layer to help route AI model choice</a>. Databricks has an offering as well with Smart Routing for its Unity AI Gateway.\n\n &quot;The interesting part is what it says about where differentiation has moved,&quot; Sanjeev Mohan, Principal and Founder, SanjMo, told VentureBeat. &quot;Snowflake isn&#x27;t really selling routing, it&#x27;s selling routing that never leaves the governed data boundary, with access controls, tagging, and cost attribution already attached.&quot;</p><p>Mohan added that for a company whose data and compliance already center on Snowflake, routing that keeps data in place and attributes spend by team is a real lever on that problem. For a company without that center of gravity, a neutral gateway may route across more models with less friction.</p><p>Mohan frames the market as three distinct camps rather than one competitive field. Databricks approaches governance from data engineering and ML lineage. Its Unity Catalog governs data, models and pipelines for teams building and training models. Snowflake approaches governance from analytics and access control, governing who can touch which data and attributing usage across business units. A third camp includes neutral gateways such as OpenRouter, LiteLLM, Portkey and hyperscaler routers like Azure AI Foundry. These compete on model breadth and avoiding lock-in rather than deep governance.</p><h2>Choosing a router means choosing a governance model</h2><p>Model routing is now table stakes for enterprises. The decision that matters is which governance model already fits how their data and teams are organized, not which vendor’s router is fastest or cheapest.</p><p><b>Manual model selection is becoming a cost liability at agent scale.</b> What worked when a team ran a handful of agents breaks down at scale. Hundreds of agents making routine model calls with no automated cost check in place adds up fast.</p><p><b>Evaluate the governance model, not the router&#x27;s feature list.</b> The real question, per Mohan, is which governance model matches the data estate already in place, and which one gives the cost visibility needed to avoid an unpleasant surprise.</p><p><b>The right starting point depends on where an enterprise&#x27;s data already lives.</b> A Snowflake shop gets more value from in-platform routing that respects its existing access model and bills back to cost centers than from raw model breadth, according to Mohan. A Databricks-centric team worried about lineage across training and deployment is better served by a gateway built around that same lineage. A multi-platform or model-first team that wants maximum choice with minimal lock-in fits better with a neutral gateway, the same pitch behind OpenRouter&#x27;s valuation.</p><p>&quot;For a practitioner, don&#x27;t start with the router, start with where your governed data and platform commitment already live, and with how exposed your margins are to inference cost,&quot; Mohan said.</p>",
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "published_ts": 1787058000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.979
-    },
-    {
-      "id": "cnbeta:029568f502de",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI推出ChatGPT青少年模式：强化安全防护与家长监管",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573804.htm",
-      "summary": "<p>OpenAI宣布为ChatGPT推出面向青少年的专属使用模式，将既有的未成年人保护机制与一批新增功能整合至同一体验中。此举正值公众日益关注人工智能工具对年轻用户影响之际，多家科技平台也在陆续上线年龄核验和青少年保护措施。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-18T12:05:21+00:00",
-      "published_ts": 1787054721.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.902
-    },
     {
       "id": "cnbeta:06b20e3358db",
       "source": "cnbeta",
@@ -112,6 +82,21 @@
       "importance": 2.714
     },
     {
+      "id": "cnbeta:91139049d087",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "北京中关村AI酒吧走红 进店能白嫖DeepSeek算力",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573954.htm",
+      "summary": "<p>在北京中关村创业大街，一家名为AGI Bar的AI主题酒吧正成为当地AI开发者、投资人和学生的聚集地。创始人宋德将AI与酒精的共性概括为“幻觉、气泡和蒸馏”，酒吧取名自“通用人工智能”概念，紧邻清华北大及DeepSeek、微软等科技企业，已成为不同实验室和高校研究者交流行业趋势的线下沙龙。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T09:26:34+00:00",
+      "published_ts": 1787131594.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.686
+    },
+    {
       "id": "venturebeat:6de2efa19f4b",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -125,21 +110,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.63
-    },
-    {
-      "id": "cnbeta:4e7b61389fc2",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达在芯片使用寿命问题上表态前后矛盾",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573784.htm",
-      "summary": "<p>周一，英伟达、OpenAI与SB Energy签署协议，OpenAI新建的8吉瓦算力空间将全部采用英伟达下一代芯片。英伟达首席执行官黄仁勋称，每一代新硬件有望为英伟达带来1500‑2000亿美元的营收。每一代芯片性能都远超前代，但售价也大幅抬升，推动英伟达利润暴涨，维持高额利润率。如今英伟达向市场传递一个观点：其图形处理器属于一类可投资资产，能够长期保有资产价值。这两种立场，多少有些自相矛盾。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573784.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-18T08:35:42+00:00",
-      "published_ts": 1787042142.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.623
     },
     {
       "id": "cnbeta:a5b2161b4fbb",
@@ -187,21 +157,6 @@
       "importance": 2.455
     },
     {
-      "id": "tmtpost:bbef730a0565",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AI收入连续两个季度过半，百度换了一张估值表",
-      "url": "https://www.tmtpost.com/8107731.html",
-      "summary": "百度不需要向市场证明某一款产品能否成功，它正在证明的是，一套从芯片、云、模型到应用的能力，如何转化成不同形态的AI生意。",
-      "published_at": "2026-08-18T13:01:19+00:00",
-      "published_ts": 1787058079.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.987
-    },
-    {
       "id": "cnbeta:3a7c10c00f93",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -247,34 +202,19 @@
       "importance": 1.94
     },
     {
-      "id": "the_verge:b2538709a6ca",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google&#8217;s Pet Memory forgot who my cats are",
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
-      "published_at": "2026-08-18T12:01:29+00:00",
-      "published_ts": 1787054489.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:f6217db805cd",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "三星先进制程代工涨价最高15% AI芯片需求推动产能趋紧",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573966.htm",
+      "summary": "<p>随着人工智能芯片需求持续升温，三星电子的晶圆代工业务迎来显著回暖。最新消息显示，由于先进制程晶圆订单需求强劲，三星已针对部分新订单上调报价，涨幅最高可达15%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573966.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T11:37:19+00:00",
+      "published_ts": 1787139439.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.931
-    },
-    {
-      "id": "the_verge:4934bc102567",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "published_ts": 1787050800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.875
+      "importance": 1.907
     },
     {
       "id": "tmtpost:18759fee17d7",
@@ -292,6 +232,21 @@
       "importance": 1.855
     },
     {
+      "id": "tmtpost:e0e37a3f6dcb",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "告别“堆卡”：2026，中国算力开启“Token价值产出”大考",
+      "url": "https://www.tmtpost.com/8108840.html",
+      "summary": "一场Token低成本生产保卫战",
+      "published_at": "2026-08-19T09:54:11+00:00",
+      "published_ts": 1787133251.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.814
+    },
+    {
       "id": "tmtpost:c52dddcb382c",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -305,6 +260,66 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.803
+    },
+    {
+      "id": "cnbeta:7fb86ddfecf8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI二季度营收增长乏力 表现不及Anthropic",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573940.htm",
+      "summary": "<p>OpenAI向投资者透露，公司第二季度营收较第一季度增长18%，但亏损进一步扩大。部分股东对此结果感到失望，他们原本期待这家初创企业能在追赶竞争对手Anthropic方面取得更大进展。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T09:17:05+00:00",
+      "published_ts": 1787131025.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.782
+    },
+    {
+      "id": "qbitai:345c6300e128",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "url": "https://www.qbitai.com/2026/08/475901.html",
+      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "published_at": "2026-08-19T08:34:36+00:00",
+      "published_ts": 1787128476.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.746
+    },
+    {
+      "id": "tmtpost:94a5c83fa870",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Anthropic冲刺史上最大IPO",
+      "url": "https://www.tmtpost.com/8108083.html",
+      "summary": "Anthropic这家公司，是AI行业里最绕不开的存在。过去一年，它让市场看到，重投入的AI公司也能跑通盈利模型。",
+      "published_at": "2026-08-19T08:30:15+00:00",
+      "published_ts": 1787128215.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.743
+    },
+    {
+      "id": "tmtpost:e273013edb80",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "DeepSeek涨价，“价格屠夫”梁文锋“收刀”",
+      "url": "https://www.tmtpost.com/8108024.html",
+      "summary": "此次DeepSeek一反常态涨价，或与当前算力资源的日益紧张有关。",
+      "published_at": "2026-08-19T08:28:14+00:00",
+      "published_ts": 1787128094.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.741
     },
     {
       "id": "techcrunch:1f90b3f48def",
