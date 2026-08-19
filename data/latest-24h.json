@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T01:56:34.336654+00:00",
-    "generated_ts": 1787104594.3366537,
+    "generated_at": "2026-08-19T07:11:28.582633+00:00",
+    "generated_ts": 1787123488.5826335,
     "window_hours": 24.0,
     "total": 21
   },
@@ -50,6 +50,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.866
+    },
+    {
+      "id": "tmtpost:c3ffad709da2",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "当开源大模型开始谈分成",
+      "url": "https://www.tmtpost.com/8107377.html",
+      "summary": "Kimi K3与Qwen3.8-Max接连引入收入分成条款，开源正从无偿使用走向免费增值。",
+      "published_at": "2026-08-19T05:19:58+00:00",
+      "published_ts": 1787116798.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.843
+    },
+    {
+      "id": "tmtpost:a74e7cddd9aa",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Municipal Capital Tries to Turn AI Tokens into a Metered Utility",
+      "url": "https://www.tmtpost.com/8108581.html",
+      "summary": "In Guangzhou, district-backed platforms are selling model inference by the token while banks experiment with loans sized to that consumption. The efforts show local state firms searching for recurring revenue from AI infrastructure as traditional development models slow.",
+      "published_at": "2026-08-19T05:03:02+00:00",
+      "published_ts": 1787115782.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.82
     },
     {
       "id": "venturebeat:16e10919b821",
@@ -112,6 +142,36 @@
       "importance": 2.623
     },
     {
+      "id": "cnbeta:a5b2161b4fbb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GLM-5.3上线：60分跻身全球前沿 与Kimi K3并列开源模型第一",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573890.htm",
+      "summary": "<p>智谱今日凌晨上线新一代基座模型GLM-5.3 API。该模型擅长复杂编码、防御性网络安全与长程任务，在Artificial Analysis Intelligence Index中取得60分，进入全球前沿模型能力区间，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰处于同一水平，并与Kimi K3并列开源模型第一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573890.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T02:03:52+00:00",
+      "published_ts": 1787105032.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.587
+    },
+    {
+      "id": "venturebeat:50cb2cf106cc",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "summary": "<p>After a <a href=\"https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor\">stunning debut last week</a> with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has <a href=\"https://x.com/Zai_org/status/2089816129011098048?s=20\">now hit the application programming interface (API)</a> — allowing developers the ability to build atop it and plug it into their agents and applications. </p><p>Developers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible protocol. Z.ai said it plans to make the model&#x27;s weights openly available, but a precise date and licensing remain to be seen. </p><p>On the API, the price is unchanged from <b>GLM-5.2: $1.40 per million input tokens and $4.40 per million output tokens</b>. Cached input costs $0.26 per million tokens, while Z.ai currently lists cached-input storage as free for a limited time. </p><p>That means developers can move to the new generation without taking a higher posted per-token rate from Z.ai, even as the company claims substantially stronger coding and long-horizon agent performance.\nAt those rates, GLM-5.3 sits well below several of the highest-end frontier APIs. </p><table><tbody><tr><td><p><b>Model</b></p></td><td><p><b>Input ($/1M)</b></p></td><td><p><b>Output ($/1M)</b></p></td><td><p><b>Total ($/1M)</b></p></td><td><p><b>Source</b></p></td></tr><tr><td><p>Muse Spark 1.2 Contributor</p></td><td><p>$0.10</p></td><td><p>$0.20</p></td><td><p>$0.30</p></td><td><p><a href=\"https://dev.meta.ai/docs/pricing-rate-limits\">Meta</a></p></td></tr><tr><td><p>MiMo-V2.5 Flash</p></td><td><p>$0.10</p></td><td><p>$0.30</p></td><td><p>$0.40</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>DeepSeek-V4-Flash — off-peak</p></td><td><p>$0.22</p></td><td><p>$0.66</p></td><td><p>$0.88</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>GPT-5.6 Luna</p></td><td><p>$0.20</p></td><td><p>$1.20</p></td><td><p>$1.40</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>MiniMax-M3</p></td><td><p>$0.30</p></td><td><p>$1.20</p></td><td><p>$1.50</p></td><td><p><a href=\"https://platform.minimax.io/subscribe/token-plan?tab=api-enterprise\">MiniMax</a></p></td></tr><tr><td><p>LongCat-2.0 — limited-time promo</p></td><td><p>$0.30</p></td><td><p>$1.20</p></td><td><p>$1.50</p></td><td><p><a href=\"https://longcat.chat/platform/docs/APIPayAsYouGo.html\">LongCat</a></p></td></tr><tr><td><p>DeepSeek-V4-Flash — peak hours</p></td><td><p>$0.44</p></td><td><p>$1.32</p></td><td><p>$1.76</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>MiMo-V2.5</p></td><td><p>$0.40</p></td><td><p>$2.00</p></td><td><p>$2.40</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>DeepSeek-V4-Pro — off-peak</p></td><td><p>$0.66</p></td><td><p>$1.98</p></td><td><p>$2.64</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>LongCat-2.0 — standard</p></td><td><p>$0.75</p></td><td><p>$2.95</p></td><td><p>$3.70</p></td><td><p><a href=\"https://longcat.chat/platform/docs/APIPayAsYouGo.html\">LongCat</a></p></td></tr><tr><td><p>MiMo-V2.5 Pro (≤256K)</p></td><td><p>$1.00</p></td><td><p>$3.00</p></td><td><p>$4.00</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>Gemini 3.6 Flash — through Dec. 31, 2026</p></td><td><p>$0.75</p></td><td><p>$3.75</p></td><td><p>$4.50</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>Gemini 3.7 Flash — through Dec. 31, 2026</p></td><td><p>$0.75</p></td><td><p>$3.75</p></td><td><p>$4.50</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>DeepSeek-V4-Pro — peak hours</p></td><td><p>$1.32</p></td><td><p>$3.96</p></td><td><p>$5.28</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>Muse Spark 1.1 / 1.2</p></td><td><p>$1.25</p></td><td><p>$4.25</p></td><td><p>$5.50</p></td><td><p><a href=\"https://dev.meta.ai/docs/pricing-rate-limits\">Meta</a></p></td></tr><tr><td><p><b>GLM-5.3</b></p></td><td><p><b>$1.40</b></p></td><td><p><b>$4.40</b></p></td><td><p><b>$5.80</b></p></td><td><p><b></b><a href=\"https://docs.z.ai/guides/overview/pricing\"><b>Z.AI</b></a></p></td></tr><tr><td><p>Grok 4.6 — &lt;200K prompt tokens</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://docs.x.ai/developers/models/grok-4.6\">xAI</a></p></td></tr><tr><td><p>MiMo-V2.5 Pro (&gt;256K)</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>Qwen3.8-Max</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://www.qwencloud.com/models/qwen3.8-max\">QwenCloud</a></p></td></tr><tr><td><p>Gemini 3.6 Flash — starting Jan. 1, 2027</p></td><td><p>$1.50</p></td><td><p>$7.50</p></td><td><p>$9.00</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>Gemini 3.7 Flash — starting Jan. 1, 2027</p></td><td><p>$1.50</p></td><td><p>$7.50</p></td><td><p>$9.00</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>GPT-5.6 Terra</p></td><td><p>$2.00</p></td><td><p>$12.00</p></td><td><p>$14.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>Grok 4.6 — ≥200K prompt tokens</p></td><td><p>$4.00</p></td><td><p>$12.00</p></td><td><p>$16.00</p></td><td><p><a href=\"https://docs.x.ai/developers/models/grok-4.6\">xAI</a></p></td></tr><tr><td><p>GPT-5.4</p></td><td><p>$2.50</p></td><td><p>$15.00</p></td><td><p>$17.50</p></td><td><p><a href=\"https://openai.com/api/pricing/\">OpenAI</a></p></td></tr><tr><td><p>Kimi K3</p></td><td><p>$3.00</p></td><td><p>$15.00</p></td><td><p>$18.00</p></td><td><p><a href=\"https://platform.kimi.ai/docs/pricing/chat-k3\">Moonshot AI</a></p></td></tr><tr><td><p>Claude Opus 5</p></td><td><p>$5.00</p></td><td><p>$25.00</p></td><td><p>$30.00</p></td><td><p><a href=\"https://platform.claude.com/docs/en/about-claude/pricing\">Anthropic</a></p></td></tr><tr><td><p>Sakana Fugu Ultra (≤272K)</p></td><td><p>$5.00</p></td><td><p>$30.00</p></td><td><p>$35.00</p></td><td><p><a href=\"https://console.sakana.ai/pricing#subscription-plan\">Sakana AI</a></p></td></tr><tr><td><p>GPT-5.6 Sol — Standard mode</p></td><td><p>$5.00</p></td><td><p>$30.00</p></td><td><p>$35.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>Claude Fable 5 / Claude Mythos 5</p></td><td><p>$10.00</p></td><td><p>$50.00</p></td><td><p>$60.00</p></td><td><p><a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Anthropic</a></p></td></tr><tr><td><p>GPT-5.6 Sol — Fast mode</p></td><td><p>$10.00</p></td><td><p>$60.00</p></td><td><p>$70.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr></tbody></table><p>Using the simple VentureBeat comparison of one million input tokens plus one million output tokens, GLM-5.3 comes to $5.80, versus $8 for <a href=\"https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis\">Grok 4.6 </a>at its lower context rate, $18 for<a href=\"https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know\"> Kimi K3,</a> $30 for <a href=\"https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows\">Claude Opus 5</a> and $35 for <a href=\"https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov\">GPT-5.6 Sol</a>. </p><p>That is not a workload-cost estimate — real bills depend heavily on the input/output mix, caching and token consumption — but it makes the relative API price tier easy to see.</p><p>GLM-5.3 is not the cheapest capable model available. Google’s current introductory price for Gemini 3.7 Flash is $0.75 per million input tokens and $3.75 per million output tokens through Dec. 31, 2026, while OpenAI’s GPT-5.6 Luna is priced at $0.20 input and $1.20 output. </p><p>Still, Z.ai’s price puts GLM-5.3 into a notably lower cost band than the premium frontier models it is increasingly benchmarked against.</p><p>That comparison has become more relevant following the latest independent results. <a href=\"https://x.com/ArtificialAnlys/status/2089830890709135426/photo/1\">Artificial Analysis gives GLM-5.3 a score of 60 on its Intelligence Index</a>, tying Kimi K3 as the top performing open weights model in the world, and scoring seven points higher than GLM-5.2. I</p><p>ts analysis also estimates GLM-5.3 at about $0.68 per Intelligence Index task, versus roughly $0.44 for GLM-5.2, despite the identical API token prices.</p><p>The difference underscores an important caveat in headline API pricing: Artificial Analysis found GLM-5.3 more verbose than its predecessor, so flat per-token rates do not necessarily mean flat costs for a completed workload.</p><p>For developers, though, the immediate change is straightforward: GLM-5.3 is now callable through Z.ai’s API at the same $1.40/$4.40 per-million-token rate as GLM-5.2, giving teams another relatively low-cost option for testing frontier-class coding and agent workloads.</p>",
+      "published_at": "2026-08-19T02:00:00+00:00",
+      "published_ts": 1787104800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.582
+    },
+    {
       "id": "openai_blog:87f043a7640b",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -172,36 +232,6 @@
       "importance": 1.98
     },
     {
-      "id": "cnbeta:8244364d44db",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "豆包工作任务再升级：可通过虚拟桌面“接管”Windows电脑",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573778.htm",
-      "summary": "<p>8月18日，豆包发布产品更新，<strong>“工作任务”模式新增“豆包虚拟桌面”，支持通过虚拟桌面直接操作Windows电脑。</strong>据介绍，豆包虚拟桌面基于更通用的GUI（图形用户界面）能力，无需MCP、API、插件或CLI等接口，模型即可理解电脑界面并执行操作。用户可以让豆包操作应用、浏览网页，并完成跨软件的复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573778.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-18T06:09:32+00:00",
-      "published_ts": 1787033372.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.942
-    },
-    {
-      "id": "cnbeta:351bec123f2b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英特尔或推廉价掌机芯片 但内存价格成最大变数",
-      "url": "https://www.cnbeta.com.tw/articles/game/1573772.htm",
-      "summary": "<p>据知名硬件爆料人Jaykihn近日在社交平台透露，英特尔可能正在研发一款面向掌机市场的平价Panther Lake芯片。该芯片将配备4个性能核(P核)、0个能效核(E核)、4个低功耗能效核(LPE核)，以及最为关键的——仅4个Xe GPU核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-18T06:08:34+00:00",
-      "published_ts": 1787033314.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.941
-    },
-    {
       "id": "techcrunch:b0fa1ad12bfd",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -232,21 +262,6 @@
       "importance": 1.931
     },
     {
-      "id": "cnbeta:9330c51ad7ef",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "实测DeepSeek：涨价多少，谁更敏感？",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573754.htm",
-      "summary": "<p>8月17日零时，DeepSeek新版API（应用接口）定价正式生效。这次调整包含两件事：全面上调价格，引入高峰、空闲分时计价。高峰时段为北京时间9:00-12:00、14:00-18:00，共7小时；其余17小时为空闲时段，价格比高峰时段更低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-18T05:24:15+00:00",
-      "published_ts": 1787030655.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.9
-    },
-    {
       "id": "the_verge:4934bc102567",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -260,21 +275,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.875
-    },
-    {
-      "id": "qbitai:6d55ad832d8b",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-      "url": "https://www.qbitai.com/2026/08/474647.html",
-      "summary": "MyContext补上Agent的数据加工层",
-      "published_at": "2026-08-18T04:40:03+00:00",
-      "published_ts": 1787028003.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.86
     },
     {
       "id": "tmtpost:18759fee17d7",
@@ -292,19 +292,19 @@
       "importance": 1.855
     },
     {
-      "id": "qbitai:675fcf5bfe7a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
-      "url": "https://www.qbitai.com/2026/08/474611.html",
-      "summary": "ALL IN国产算力生态",
-      "published_at": "2026-08-18T03:31:33+00:00",
-      "published_ts": 1787023893.0,
+      "id": "tmtpost:c52dddcb382c",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
+      "url": "https://www.tmtpost.com/8108451.html",
+      "summary": "从“生成内容”转向“理解上下文并在世界中行动”。",
+      "published_at": "2026-08-19T03:36:16+00:00",
+      "published_ts": 1787110576.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.8
+      "importance": 1.803
     },
     {
       "id": "techcrunch:1f90b3f48def",
