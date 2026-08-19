@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T13:16:24.090549+00:00",
+    "generated_at": "2026-08-19T18:58:23.026468+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5569,6 +5569,82 @@
           "url": "https://www.tmtpost.com/8108024.html",
           "published_at": "2026-08-19T08:28:14+00:00",
           "summary": "此次DeepSeek一反常态涨价，或与当前算力资源的日益紧张有关。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-19T18:58:23.026468+00:00",
+      "generated_ts": 1787165903.0264678,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "openai_blog:abfabcbdc7e9",
+          "title": "Offering Zero Data Retention for frontier models",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.0,
+          "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "published_at": "2026-08-19T19:00:00+00:00",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+        },
+        {
+          "id": "venturebeat:5d28d83889a8",
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.621,
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "published_at": "2026-08-19T14:18:12+00:00",
+          "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built "
+        },
+        {
+          "id": "openai_blog:d9d665e847c7",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.123,
+          "url": "https://openai.com/index/replit",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+        },
+        {
+          "id": "the_verge:0f987e66e565",
+          "title": "OpenAI hit the brakes. Now what?",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.898,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "published_at": "2026-08-19T17:10:09+00:00",
+          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguard"
+        },
+        {
+          "id": "techcrunch:a733b8f25867",
+          "title": "Rivian spinout Also raises another $150M",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.818,
+          "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+          "published_at": "2026-08-19T15:39:47+00:00",
+          "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles."
+        },
+        {
+          "id": "cnbeta:2981b4b95963",
+          "title": "OpenAI加速广告业务扩张 ChatGPT广告正式登陆31个欧洲市场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.747,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1573984.htm",
+          "published_at": "2026-08-19T14:17:02+00:00",
+          "summary": "<p><strong>OpenAI正显著扩大其广告业务版图，宣布将在31个欧洲市场面向使用Free和Go套餐的用户推出ChatGPT广告服务。早在今年1月，OpenAI便首次公布了在美国市场为ChatGPT用户引入广告的计划。</strong>该广告试点项目于2月正式启动，随后陆续扩展至加拿大、澳大利亚和新西兰等市场。如今，在开启首次美国广告测试仅六个月后，OpenAI正大幅加速其商业化步伐。随着此次进军欧洲，ChatGPT的广告服务现已覆盖全球35个国家。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573984.htm\" ta"
         }
       ]
     }

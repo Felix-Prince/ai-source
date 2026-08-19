@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T13:16:24.090549+00:00",
-    "generated_ts": 1787145384.0905488,
+    "generated_at": "2026-08-19T18:58:23.026468+00:00",
+    "generated_ts": 1787165903.0264678,
     "window_hours": 24.0,
-    "total": 22
+    "total": 24
   },
   "items": [
+    {
+      "id": "openai_blog:abfabcbdc7e9",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "published_ts": 1787166000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 3.0
+    },
     {
       "id": "cnbeta:06b20e3358db",
       "source": "cnbeta",
@@ -67,21 +82,6 @@
       "importance": 2.787
     },
     {
-      "id": "venturebeat:4f123ee9d782",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
-      "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
-      "summary": "<p>Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower — even as trust in automated evaluation is rising across the board, <a href=\"https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least\">new VB Pulse research shows</a>.</p><p>In July,<b> 13% of 108 enterprises surveyed said they trust automated evaluation, </b><a href=\"https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway\">up from just 5% the month prior</a>. Meanwhile, survey respondents citing<b> poor alignment </b>between tests and real-world results as their<b> biggest concern fell 10 points, from 29% to 19%,</b> month over month. </p><p>Yet, <b>49% of survey respondents said that an AI agent or LLM-powered feature that had cleared company testing subsequently created a problem visible to customers</b>, essentially unchanged from 50% in June. And nearly a quarter, 24%, said this troubling outcome had occurred <i>more</i> than once.</p><p>The latest findings from <a href=\"https://venturebeat.com/resources\">VentureBeat Intelligence</a> uncovered a more troubling phase of the enterprise agent rollout: the gap is no longer only between how much autonomy companies give agents and how well they can verify them. It is increasingly a gap between confidence in the evaluation layer and evidence that the layer is getting better at preventing failures.</p><p>The most revealing split appears inside the July data. </p><p>Of the enterprises that experienced an AI feature clear testing only to go on to disappoint a customer, 4% placed complete faith in automated checks. Of those that had detected no comparable incident, 24% expressed full confidence — a sixfold difference.</p><p>It makes sense: those who experienced test-passing agents failing in live production are, unsurprisingly, more likely to doubt the automated checking process. </p><p>Perhaps it makes sense then, that companies geared toward tackling this problem — like automated agent error monitoring and mitigation platform <a href=\"https://www.raindrop.ai/\">Raindrop.ai</a> — are seeing the market transform wildly from just a few months ago.</p><p>&quot;We are seeing the great-decline of evals as we know them,&quot; Raindrop CTO Ben Hylak told VentureBeat in a direct message. &quot;The Fortune 100 are increasingly reducing eval sets and deprioritizing maintenance. As systems grow more complex (MCPs, subagents, etc.) it becomes impossible to fully enumerate the failure cases. Instead, they’re leaning on anomaly and issue detection solutions, both before and after production.&quot; </p><h2>A directional finding, not a market census</h2><p>VentureBeat fielded the July wave among 108 people representing companies with workforces of at least 100. This is down from 157 respondents in June. </p><p>Of the 108, 69% described themselves as final AI-buying authorities or people who recommend and influence those purchases. The sample skewed toward midsize organizations: 63% worked at companies with 100 to 2,499 employees.</p><p>The findings should be read directionally. The survey is self-selected rather than a probability sample, and the burned-vs.-unburned splits cited throughout this piece rest on groups of 41 to 53 respondents, and other cross-tabs in the report range from 40 to 68. </p><p>The industry mix also changed: technology and software participation declined nine points, ending at 14%, while the retail and consumer share added four points and ended at 19%.</p><p>The report nevertheless identifies four month-to-month changes worth noticing: more respondents professing complete confidence, fewer naming poor real-world alignment, <b>more choosing integration ease</b> as the decisive buying factor, and Braintrust gaining primary-platform share.</p><h2>Confidence in automated evals improved, but outcomes stayed flat</h2><p>VentureBeat&#x27;s <a href=\"https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them\">June research identified an enterprise evaluation gap</a>: companies were granting agents more authority faster than they were developing reliable ways to test them.</p><p>July preserves the key number from that first wave. Across 265 enterprise responses over the two months, the proportion reporting at least one test-approved system that disappointed customers stayed within a single percentage point<b>: 50% in June and 49% in July.</b></p><p>This figure does not mean that 49% of all agent runs fail, or that any particular evaluation product has a 49% failure rate. The survey asks whether an organization experienced at least one customer-facing incident in the previous year after an AI feature passed its internal tests. Companies that deploy far more agents have more opportunities to encounter such an incident.</p><p>But that limitation does not make the result less important. An internal evaluation serves as a release gate. If roughly half of surveyed organizations have seen that gate approve a system that later fails in front of customers, a passing score cannot be treated as proof of production reliability.</p><p>The cross-tab reinforces the point. Ten of the 41 enterprises with no identified testing miss placed complete faith in automation. </p><p>Only two of the 53 previously burned enterprises said the same. Confidence is strongest among respondents with the least evidence that the release gate can fail.</p><h2>The enterprises that got burned are moving faster toward zero-human deployment</h2><p>The counterintuitive finding is what companies do after an evaluation miss.</p><p>Overall, <b>67% either let an agent push code or change a system without a person&#x27;s approval in certain low-risk cases, or are modifying their pipelines to support that practice during the coming year</b>. That is unchanged from June. In July, 37% already permitted it in limited cases and another 30% were building toward it.</p><p>Among enterprises where a test-approved system had disappointed a customer, however, <b>85% were pursuing that no-approval model</b>, compared with 61% in the group reporting no comparable incident. Only 11% of burned respondents rejected end-to-end deployment automation for the years ahead, versus 24% of unburned respondents.</p><p>It would be easy to read that as recklessness, but the data supports another plausible explanation: deployment maturity. Organizations running more agents, at higher volume and across more consequential workflows, are more likely both to encounter failures and to have the engineering infrastructure needed for automated deployment.</p><p>The survey cannot establish which explanation dominates. It does establish that a customer-visible incident does not appear to stop the move toward autonomy. Respondents with firsthand proof that testing can miss defects are also moving most aggressively to let those tests authorize production changes.</p><p>If their per-deployment failure rate remains constant while deployment volume rises, the total incident count could grow even without the percentage of affected companies increasing. The July data does not measure incident volume, so that remains a risk implied by the pattern rather than a measured outcome.</p><h2>The release gate is automated, but production quality monitoring still lags</h2><p>Pre-deployment evaluation and production monitoring answer different questions. An evaluation asks whether an agent appears ready to ship. Production monitoring asks what the agent is doing after release and whether its live outputs remain correct.</p><p>Most companies in the July sample still emphasize whether the system functions, not whether the answer is correct. </p><p>Among the 106 valid responses to this question, <b>26% used inline quality assertions</b> — automated judges or guardrails checking live traffic for output-quality problems. Another 26% focused on transaction traces such as infrastructure spans, token usage and raw inputs and outputs, while 24% mainly tracked gateway metrics such as latency, errors and cost.</p><p>Trace and gateway data can reveal outages, slowdowns and broken requests. They may not flag a fluent, fast and confidently wrong answer. Grouped by the report according to what each architecture actually watches, half of respondents monitored whether an agent was functioning, while just over a quarter automatically monitored whether its production output was correct.</p><p>The gap is sharpest among the 40 respondents already permitting no-approval deployment in limited cases. Only <b>28% of that group automatically checked the meaning and correctness of live answers</b>. In other words, most enterprises that have eliminated a person from at least some release decisions have not installed automated semantic-quality monitoring as the production backstop.</p><p>This is the clearest operational lesson in the data. A pre-deployment test suite and infrastructure observability are necessary, but they do not cover the same failure mode. Enterprises need a way to detect bad outputs after the agent begins interacting with real users, data and tools — especially when nobody reviews the deployment decision first.</p><h2>An independent agent-evaluation market begins to take shape</h2><p>The vendor data offers a more encouraging sign: enterprises are adding dedicated evaluation tools, and specialist platforms are gaining ground.</p><p>OpenAI&#x27;s native evals and traces narrowly led as <b>the primary platform at 18%, </b>followed by <b>Confident AI&#x27;s DeepEval at 17% and Braintrust at 15%</b>. </p><p><b>Anthropic&#x27;s Claude Console and Workbench held 12%, </b>tied with organizations reporting no dedicated evaluation platform. Three options each held 6%: internally built tools, Promptfoo and LangSmith.</p><p>Braintrust&#x27;s primary share increased from 8% in June to 15% in July, the biggest gain by one vendor and the one the report flags as statistically significant. DeepEval rose from 12% to 17%. Use of no purpose-built platform declined five points to 12%, although that smaller change does not by itself confirm a trend.</p><p>Because many companies use more than one tool, the broader footprints are larger. OpenAI native evaluation appeared somewhere in 31% of stacks, DeepEval in 27%, Braintrust in 22% and Anthropic&#x27;s native tooling in 20%. Custom internal tooling reached 14%, while Weights &amp; Biases Weave and open-source Langfuse each reached 11%.</p><p>These are adoption figures, not product-performance scores. The survey does not establish that one vendor produces more reliable agents than another. Still, the results point toward evaluation becoming a distinct enterprise software layer rather than a loose collection of internal scripts or a feature used only inside a model provider&#x27;s platform.</p><p>Purchasing priorities are changing with that market. <b>The proportion choosing integration ease as the decisive factor climbed 12 points to 39%</b>, displacing cost, which fell from 28% to 23%. Evaluation accuracy ranked second at 28%. The combined average for satisfaction, implementation simplicity and economic value was 3.9 out of five.</p><p>The move from price toward integration suggests enterprises increasingly want a tool they can install into existing development and monitoring pipelines now. Yet their leading success metric remains evaluation consistency at 38%, followed by fewer failures and regressions at 20%. Buyers are selecting for fit while still judging results on repeatability.</p><p>Switching intent also cooled: 56% still expected to add or replace a platform during the coming year, down from 64% in June.</p><p>The proportion staying put increased eight points, reaching 44%. Together with specialist adoption, they suggest some buyers are moving from evaluation to implementation.</p><h2>Human review is becoming the hedge against automated misses</h2><p>The budget data reveals how enterprises are managing the contradiction between greater autonomy and unreliable evaluation.</p><p><b>People-centered review workflows edged narrowly ahead</b> of production observability as the most frequently cited area for increased investment, 31% to 30%.</p><p>Automated evaluation pipelines ranked third at 19%, followed by testing for safety and policy compliance at 16%. Only 6% said their reliability and evaluation budget was not increasing.</p><p>Among enterprises that had experienced a testing miss, 38% said people-centered review would receive the fastest investment growth, compared with 24% of organizations that had not been burned.</p><p>That produces an apparent paradox: the burned group is most likely to remove people from the release checkpoint and most likely to increase spending on people elsewhere in the process. The strategy appears to be automation with a human backstop — allow agents to move faster, then use reviewers to catch what automated evaluation misses.</p><p>The open question is whether that model scales. Agent deployments and automated checks can grow with software volume. Reviewer hours do not fall at the same rate. Enterprises may therefore be replacing a human approval step with a larger downstream review function rather than eliminating human oversight.</p><h2>The narrow but consequential read</h2><p>July&#x27;s data does not show that enterprise agent evaluation is failing everywhere, nor does it prove automated judges are getting worse. It shows something more precise: <b>confidence rose before the measured failure incidence improved</b>.</p><p>At the same time, the infrastructure around evaluation is maturing. More enterprises are adopting specialist tools, integration has become the leading purchase criterion and companies that have already experienced failures are increasing investment in human review. The market recognizes the problem and is spending against it.</p><p>But the central reliability result remains stubborn. Nearly half of surveyed enterprises still report that an AI feature cleared internal checks before disappointing a customer. Respondents with that experience place less faith in automation — and move faster toward deployments with no human approval.</p><p>The report frames this as an incomplete verification model: a passing pre-deployment score marks the start of monitoring, not the end of it. For most enterprises, the production quality checks and evaluation testing that would close that gap still aren&#x27;t in place.</p>",
-      "published_at": "2026-08-18T15:35:16+00:00",
-      "published_ts": 1787067316.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.714
-    },
-    {
       "id": "cnbeta:91139049d087",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -97,19 +97,19 @@
       "importance": 2.686
     },
     {
-      "id": "venturebeat:6de2efa19f4b",
+      "id": "venturebeat:5d28d83889a8",
       "source": "venturebeat",
       "source_label": "VentureBeat",
-      "title": "Commerce AI is fragmenting. Here is why that matters.",
-      "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-      "summary": "<p>Presented by Rezolve Ai</p><hr /><p>Enterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technology shift in retail: the industry adds new capabilities faster than it integrates them.</p><p>That pattern is now playing out in commerce AI.</p><h2>The point solution pattern</h2><p>The dominant approach to commerce AI over the past three years has been an additive one. Brands have layered AI-powered search on top of existing catalog infrastructure. They have added conversational interfaces on top of existing checkout flows. They have deployed recommendation engines alongside personalization tools that were themselves deployed alongside earlier recommendation engines. Each addition was justified by a discrete metric improvement, and none were designed to work as a cohesive system.</p><p>This is the point solution pattern, and commerce has lived inside it for two decades. It produced genuine progress in isolated capabilities: faster search, better recommendations, lower friction at specific points in the journey. What it did not produce is coherence across the journey. Consumers experience that incoherence as inconsistency, context loss, and the feeling that each part of the shopping experience doesn&#x27;t know what the others are doing.</p><p>AI amplifies the cost of that incoherence. When a general-purpose AI tool makes a recommendation based on incomplete or inconsistent data, it doesn&#x27;t surface a suboptimal product. It confidently surfaces the wrong one, and often excludes the incomplete one altogether. The hallucination problem in commerce AI is largely a data coherence problem in disguise. Tools that don&#x27;t share a common understanding of inventory, pricing, policy, and product truth will produce outputs that contradict each other and mislead consumers.</p><h2>Where the metrics lie</h2><p>The fragmented approach to commerce AI creates a specific kind of reporting problem: individual tools perform well in isolation while the system underperforms in aggregate.</p><p>A conversational AI tool can show strong engagement metrics. The search layer can show improved relevance scores. The checkout system can show reduced abandonment within its own funnel. None of these metrics captures what happens at the handoffs between them, where context breaks, sessions drop, and purchase intent that was successfully generated in one layer fails to convert in the next.</p><p>This is why brands investing aggressively in commerce AI are sometimes reporting strong tool-level performance alongside flat or declining overall conversion. The tools are working. The system isn&#x27;t. And the standard analytics stack, built to measure individual touchpoints rather than journey coherence, will not surface that distinction.</p><p><a href=\"https://www.bain.com/about/media-center/press-releases/20252/consumer-reliance-on-ai-search-results-signals-new-era-of-marketing--bain--company-about-80-of-search-users-rely-on-ai-summaries-at-least-40-of-the-time-on-traditional-search-engines-about-60-of-searches-now-end-without-the-user-progressing-to-a/\">Bain research shows that organic web traffic to retail sites has declined 15 to 25%</a> as AI-driven zero-click search has grown. Brands are losing top-of-funnel visibility to AI disintermediation at the same time their internal AI tools are generating positive performance reports. That combination <!-- -->— <!-- -->external pressure compressing the funnel while internal fragmentation leaks it <!-- -->—<!-- --> represents a structural problem that point-level optimization cannot solve.</p><h2>What separates the companies closing the gap</h2><p>The brands that are generating consistent, measurable outcomes from commerce AI share a common architectural characteristic: they have built or adopted a unifying execution layer that sits across their AI investments rather than beneath them.</p><p>This isn&#x27;t a new technology category. It is a different design philosophy. Instead of asking what AI capability to add next, these brands have asked what the connecting tissue between AI capabilities needs to look like in order for those capabilities to produce a coherent consumer experience and a reliable transaction outcome.</p><p>The answer, in practice, involves three things: a shared data layer that gives every AI tool in the stack access to the same real-time product, pricing, and inventory truth; a policy and governance framework that ensures AI-generated recommendations operate within the brand&#x27;s established rules; and a transaction layer that can receive intent from any AI surface and convert it into a completed order without breaking context or requiring the consumer to restart.</p><p>Brands that have those three things in place are not just getting better results from individual tools. They are compounding improvements across tools, because each capability in the stack is operating on consistent inputs and contributing to a coherent output.</p><h2>The architectural question commerce can&#x27;t defer</h2><p>The window for treating commerce AI fragmentation as a temporary problem is closing. As agentic commerce matures and AI systems begin to initiate and complete transactions on behalf of consumers, the stakes of incoherence rise significantly. An AI agent acting on behalf of a consumer doesn&#x27;t have the patience to navigate a broken handoff between a recommendation layer and a checkout system. It will fail, and it will not return.</p><p>The brands that establish architectural coherence now, before agentic transactions become the norm, will enter that era with a compounding advantage. Those that continue to add point solutions will find that each new tool adds a new potential point of failure.</p><p>Commerce AI isn&#x27;t fragmenting because the tools are bad. It is fragmenting because the connective infrastructure was never built. The brands that recognize that distinction <!-- -->—<!-- --> and act on it <!-- -->—<!-- --> are the ones that will define what commerce looks like in the next decade.</p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p>",
-      "published_at": "2026-08-18T14:30:00+00:00",
-      "published_ts": 1787063400.0,
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.</p><p>The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.</p><h2>An analyst who has sat on every side of the table</h2><p>Strechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.</p><p>Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.</p><h2>Already at work: GPU utilization and the VB Pulse surveys</h2><p>Strechay has already been contributing to <a href=\"https://venturebeat.com/category/resources\"><u>VentureBeat&#x27;s research</u></a>. In May he published an <a href=\"https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring\"><u>analysis of enterprise GPU utilization</u></a>, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.</p><p>His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). <a href=\"https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand\"><u>Our June report on agentic orchestration</u></a>, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider — a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.</p><h2>VB In Conversation: The first vehicle</h2><p>A core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems — an unvarnished look at which tools perform under production-grade pressure.</p><p>&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;</p><p>The expanded VB In Conversation series will appear on <a href=\"http://venturebeat.com\"><u>VentureBeat</u></a> and on VentureBeat&#x27;s <a href=\"https://www.youtube.com/playlist?list=PLMQoSwszBxm7QyNw8D7eHWN0tORhB8ewm\"><u>YouTube channel</u></a>, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team <a href=\"mailto:VBIntelligence@VentureBeat.com\">here</a>.</p>",
+      "published_at": "2026-08-19T14:18:12+00:00",
+      "published_ts": 1787149092.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.63
+      "importance": 2.621
     },
     {
       "id": "cnbeta:a5b2161b4fbb",
@@ -157,6 +157,21 @@
       "importance": 2.455
     },
     {
+      "id": "openai_blog:d9d665e847c7",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "published_ts": 1787122800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.123
+    },
+    {
       "id": "cnbeta:3a7c10c00f93",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -187,21 +202,6 @@
       "importance": 1.98
     },
     {
-      "id": "techcrunch:b0fa1ad12bfd",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "published_at": "2026-08-18T18:00:00+00:00",
-      "published_ts": 1787076000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.94
-    },
-    {
       "id": "cnbeta:f6217db805cd",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -217,6 +217,21 @@
       "importance": 1.907
     },
     {
+      "id": "the_verge:0f987e66e565",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI hit the brakes. Now what?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+      "published_at": "2026-08-19T17:10:09+00:00",
+      "published_ts": 1787159409.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.898
+    },
+    {
       "id": "tmtpost:18759fee17d7",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -230,6 +245,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.855
+    },
+    {
+      "id": "techcrunch:a733b8f25867",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Rivian spinout Also raises another $150M",
+      "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+      "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+      "published_at": "2026-08-19T15:39:47+00:00",
+      "published_ts": 1787153987.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.818
     },
     {
       "id": "tmtpost:e0e37a3f6dcb",
@@ -277,6 +307,21 @@
       "importance": 1.782
     },
     {
+      "id": "cnbeta:2981b4b95963",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI加速广告业务扩张 ChatGPT广告正式登陆31个欧洲市场",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1573984.htm",
+      "summary": "<p><strong>OpenAI正显著扩大其广告业务版图，宣布将在31个欧洲市场面向使用Free和Go套餐的用户推出ChatGPT广告服务。早在今年1月，OpenAI便首次公布了在美国市场为ChatGPT用户引入广告的计划。</strong>该广告试点项目于2月正式启动，随后陆续扩展至加拿大、澳大利亚和新西兰等市场。如今，在开启首次美国广告测试仅六个月后，OpenAI正大幅加速其商业化步伐。随着此次进军欧洲，ChatGPT的广告服务现已覆盖全球35个国家。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T14:17:02+00:00",
+      "published_ts": 1787149022.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.747
+    },
+    {
       "id": "qbitai:345c6300e128",
       "source": "qbitai",
       "source_label": "量子位",
@@ -320,21 +365,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.741
-    },
-    {
-      "id": "techcrunch:1f90b3f48def",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "published_at": "2026-08-18T13:50:30+00:00",
-      "published_ts": 1787061030.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.72
     }
   ]
 }
