@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T13:21:50.460916+00:00",
+    "generated_at": "2026-08-20T19:06:33.123301+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5933,6 +5933,72 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1574134.htm",
           "published_at": "2026-08-20T07:46:33+00:00",
           "summary": "<p>Google正进一步扩展其Gemini人工智能生态系统，宣布将该AI助手直接整合至Waymo最新部署的Ojai无人驾驶出租车中。此前，Gemini已广泛应用于智能手机、个人电脑、无线耳机、智能家居设备以及Android Auto等多个领域，而此次整合标志着该技术正式迈入自动驾驶出行的生态版图。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-20T19:06:33.123301+00:00",
+      "generated_ts": 1787252793.1233008,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:2bda0a67e75a",
+          "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.858,
+          "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+          "published_at": "2026-08-20T17:25:44+00:00",
+          "summary": "<p>Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.</p><p>Now <a href=\"https://nanoco.ai/\">NanoCo</a>., the company behind the hit open source, enterpr"
+        },
+        {
+          "id": "venturebeat:12e8c3159c57",
+          "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.641,
+          "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+          "published_at": "2026-08-20T14:42:07+00:00",
+          "summary": "<p>Serval is making <a href=\"https://www.serval.com/serval-news/catalyst-general-availability\">Catalyst</a>, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and th"
+        },
+        {
+          "id": "cnbeta:7e36933767ed",
+          "title": "阿里发布Qwen-UI-Agent 移动端基准超越GPT 5.6与Claude Opus 4.8",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.546,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574170.htm",
+          "published_at": "2026-08-20T13:25:57+00:00",
+          "summary": "<p>8月20日，<strong>阿里巴巴正式推出Qwen-UI-Agent</strong>，一个以真实世界为中心的GUI智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:cd4af8140bf4",
+          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.515,
+          "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "published_at": "2026-08-20T13:00:35+00:00",
+          "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+        },
+        {
+          "id": "techcrunch:732c625869cf",
+          "title": "Ramp launches its own AI model router, called Router",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.869,
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "published_at": "2026-08-20T16:46:00+00:00",
+          "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
         }
       ]
     }
