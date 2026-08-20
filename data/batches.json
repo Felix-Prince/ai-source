@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T07:12:43.435008+00:00",
+    "generated_at": "2026-08-20T13:21:50.460916+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5857,6 +5857,82 @@
           "url": "https://www.qbitai.com/2026/08/476078.html",
           "published_at": "2026-08-20T01:37:34+00:00",
           "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-20T13:21:50.460916+00:00",
+      "generated_ts": 1787232110.4609158,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "techcrunch:1a3191c42916",
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.683,
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "published_at": "2026-08-20T09:30:00+00:00",
+          "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
+        },
+        {
+          "id": "the_verge:46119592967b",
+          "title": "Slack is launching collaborative vibe-coding channels",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.923,
+          "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+          "published_at": "2026-08-20T12:00:00+00:00",
+          "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and pre"
+        },
+        {
+          "id": "tmtpost:4d410aeffa99",
+          "title": "阿里AI进入分化期：云业务加速兑现，应用业务等待商业模式｜ 看财报",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.854,
+          "url": "https://www.tmtpost.com/8110834.html",
+          "published_at": "2026-08-20T10:43:52+00:00",
+          "summary": "阿里开始按照AI产业链重新组织资源，把算力、模型和应用放进更清晰的业务框架中。"
+        },
+        {
+          "id": "qbitai:947046a28d05",
+          "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.803,
+          "url": "https://www.qbitai.com/2026/08/476199.html",
+          "published_at": "2026-08-20T09:46:23+00:00",
+          "summary": "经典RSI剧本开始动摇"
+        },
+        {
+          "id": "tmtpost:7c6b3655e502",
+          "title": "拆解Anthropic：押注 coding 的公司很多，为什么它先吃到复利？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.768,
+          "url": "https://www.tmtpost.com/8110602.html",
+          "published_at": "2026-08-20T09:05:58+00:00",
+          "summary": "模型与产品，如何协同演进？"
+        },
+        {
+          "id": "cnbeta:0b3edeb3ef8f",
+          "title": "Google宣布将Gemini AI助手整合至Waymo Ojai无人驾驶出租车",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.702,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574134.htm",
+          "published_at": "2026-08-20T07:46:33+00:00",
+          "summary": "<p>Google正进一步扩展其Gemini人工智能生态系统，宣布将该AI助手直接整合至Waymo最新部署的Ojai无人驾驶出租车中。此前，Gemini已广泛应用于智能手机、个人电脑、无线耳机、智能家居设备以及Android Auto等多个领域，而此次整合标志着该技术正式迈入自动驾驶出行的生态版图。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
