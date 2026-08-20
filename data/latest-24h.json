@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T01:55:55.424123+00:00",
-    "generated_ts": 1787190955.4241228,
+    "generated_at": "2026-08-20T07:12:43.435008+00:00",
+    "generated_ts": 1787209963.4350078,
     "window_hours": 24.0,
     "total": 30
   },
@@ -22,6 +22,21 @@
       "importance": 3.0
     },
     {
+      "id": "tmtpost:bd526ed8eb1d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "MiniMax Design用Agent串联多模型，争夺专业内容生产入口",
+      "url": "https://www.tmtpost.com/8110191.html",
+      "summary": "AI视频赛道的竞争走向了产品化落地与商业价值的深度较量。",
+      "published_at": "2026-08-20T05:43:07+00:00",
+      "published_ts": 1787204587.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.873
+    },
+    {
       "id": "cnbeta:e47c77681f57",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -35,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.844
-    },
-    {
-      "id": "tmtpost:c3ffad709da2",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "当开源大模型开始谈分成",
-      "url": "https://www.tmtpost.com/8107377.html",
-      "summary": "Kimi K3与Qwen3.8-Max接连引入收入分成条款，开源正从无偿使用走向免费增值。",
-      "published_at": "2026-08-19T05:19:58+00:00",
-      "published_ts": 1787116798.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.843
     },
     {
       "id": "venturebeat:e183b92a3db3",
@@ -67,21 +67,6 @@
       "importance": 2.824
     },
     {
-      "id": "tmtpost:a74e7cddd9aa",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Municipal Capital Tries to Turn AI Tokens into a Metered Utility",
-      "url": "https://www.tmtpost.com/8108581.html",
-      "summary": "In Guangzhou, district-backed platforms are selling model inference by the token while banks experiment with loans sized to that consumption. The efforts show local state firms searching for recurring revenue from AI infrastructure as traditional development models slow.",
-      "published_at": "2026-08-19T05:03:02+00:00",
-      "published_ts": 1787115782.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.82
-    },
-    {
       "id": "cnbeta:6b4bfcb0186c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,6 +80,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.812
+    },
+    {
+      "id": "cnbeta:be86e7019066",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Cerebras发布CS-4加速器：4万亿晶体管+90万核心 30倍速度碾压英伟达GPU",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574112.htm",
+      "summary": "<p><strong>AI芯片公司Cerebras Systems当地时间8月18日正式推出新一代机架级AI系统CS-4，宣称其为“业界最快的AI加速器”，推理速度最高可达GPU方案的30倍。</strong>该加速器由三颗全新的WSE-3 Turbo晶圆级处理器驱动，<strong>每颗集成4万亿晶体管和90万个AI优化核心，</strong>覆盖46225平方毫米硅面积。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-20T04:39:35+00:00",
+      "published_ts": 1787200775.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.787
+    },
+    {
+      "id": "cnbeta:9400b6320719",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI对抗Anthropic的最新举措：承诺不留存客户数据",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574104.htm",
+      "summary": "<p>OpenAI承诺不会留存使用其人工智能模型的企业客户数据，同时提升产品安全能力，意在从竞争对手Anthropic手中抢夺客户。不少企业对Claude的开发方保存自身业务数据的做法感到不满。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574104.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-20T04:37:11+00:00",
+      "published_ts": 1787200631.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.784
     },
     {
       "id": "tmtpost:8964e99ef713",
@@ -142,49 +157,19 @@
       "importance": 2.621
     },
     {
-      "id": "cnbeta:a5b2161b4fbb",
+      "id": "cnbeta:972631893d2c",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "GLM-5.3上线：60分跻身全球前沿 与Kimi K3并列开源模型第一",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1573890.htm",
-      "summary": "<p>智谱今日凌晨上线新一代基座模型GLM-5.3 API。该模型擅长复杂编码、防御性网络安全与长程任务，在Artificial Analysis Intelligence Index中取得60分，进入全球前沿模型能力区间，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰处于同一水平，并与Kimi K3并列开源模型第一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573890.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-19T02:03:52+00:00",
-      "published_ts": 1787105032.0,
+      "title": "胡伟武：龙芯自研显卡9A1000已交付流片 旗下芯片已追上7nm工艺X86性能",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574082.htm",
+      "summary": "<p><strong>龙芯中科董事长胡伟武在最新的公开分享中正式确认，龙芯旗下首款通用GPU芯片9A1000已经完成全部研发流程，正式交付流片。</strong>据公开披露的产品定位，9A1000瞄准消费级入门级独立显卡赛道，图形渲染的整体性能大致对标海外厂商AMD多年前发布的RX 550成熟产品，完全可以覆盖日常办公影音、主流轻量级网络游戏、基础图形设计等各类使用场景，芯片的AI算力也达到了数十TOPS的水准，完全能满足日常轻量化AI运算需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574082.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-20T02:11:01+00:00",
+      "published_ts": 1787191861.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.587
-    },
-    {
-      "id": "venturebeat:50cb2cf106cc",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-      "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-      "summary": "<p>After a <a href=\"https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor\">stunning debut last week</a> with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has <a href=\"https://x.com/Zai_org/status/2089816129011098048?s=20\">now hit the application programming interface (API)</a> — allowing developers the ability to build atop it and plug it into their agents and applications. </p><p>Developers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible protocol. Z.ai said it plans to make the model&#x27;s weights openly available, but a precise date and licensing remain to be seen. </p><p>On the API, the price is unchanged from <b>GLM-5.2: $1.40 per million input tokens and $4.40 per million output tokens</b>. Cached input costs $0.26 per million tokens, while Z.ai currently lists cached-input storage as free for a limited time. </p><p>That means developers can move to the new generation without taking a higher posted per-token rate from Z.ai, even as the company claims substantially stronger coding and long-horizon agent performance.\nAt those rates, GLM-5.3 sits well below several of the highest-end frontier APIs. </p><table><tbody><tr><td><p><b>Model</b></p></td><td><p><b>Input ($/1M)</b></p></td><td><p><b>Output ($/1M)</b></p></td><td><p><b>Total ($/1M)</b></p></td><td><p><b>Source</b></p></td></tr><tr><td><p>Muse Spark 1.2 Contributor</p></td><td><p>$0.10</p></td><td><p>$0.20</p></td><td><p>$0.30</p></td><td><p><a href=\"https://dev.meta.ai/docs/pricing-rate-limits\">Meta</a></p></td></tr><tr><td><p>MiMo-V2.5 Flash</p></td><td><p>$0.10</p></td><td><p>$0.30</p></td><td><p>$0.40</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>DeepSeek-V4-Flash — off-peak</p></td><td><p>$0.22</p></td><td><p>$0.66</p></td><td><p>$0.88</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>GPT-5.6 Luna</p></td><td><p>$0.20</p></td><td><p>$1.20</p></td><td><p>$1.40</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>MiniMax-M3</p></td><td><p>$0.30</p></td><td><p>$1.20</p></td><td><p>$1.50</p></td><td><p><a href=\"https://platform.minimax.io/subscribe/token-plan?tab=api-enterprise\">MiniMax</a></p></td></tr><tr><td><p>LongCat-2.0 — limited-time promo</p></td><td><p>$0.30</p></td><td><p>$1.20</p></td><td><p>$1.50</p></td><td><p><a href=\"https://longcat.chat/platform/docs/APIPayAsYouGo.html\">LongCat</a></p></td></tr><tr><td><p>DeepSeek-V4-Flash — peak hours</p></td><td><p>$0.44</p></td><td><p>$1.32</p></td><td><p>$1.76</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>MiMo-V2.5</p></td><td><p>$0.40</p></td><td><p>$2.00</p></td><td><p>$2.40</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>DeepSeek-V4-Pro — off-peak</p></td><td><p>$0.66</p></td><td><p>$1.98</p></td><td><p>$2.64</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>LongCat-2.0 — standard</p></td><td><p>$0.75</p></td><td><p>$2.95</p></td><td><p>$3.70</p></td><td><p><a href=\"https://longcat.chat/platform/docs/APIPayAsYouGo.html\">LongCat</a></p></td></tr><tr><td><p>MiMo-V2.5 Pro (≤256K)</p></td><td><p>$1.00</p></td><td><p>$3.00</p></td><td><p>$4.00</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>Gemini 3.6 Flash — through Dec. 31, 2026</p></td><td><p>$0.75</p></td><td><p>$3.75</p></td><td><p>$4.50</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>Gemini 3.7 Flash — through Dec. 31, 2026</p></td><td><p>$0.75</p></td><td><p>$3.75</p></td><td><p>$4.50</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>DeepSeek-V4-Pro — peak hours</p></td><td><p>$1.32</p></td><td><p>$3.96</p></td><td><p>$5.28</p></td><td><p><a href=\"https://x.com/deepseek_ai/status/2087864589895798968\">DeepSeek</a></p></td></tr><tr><td><p>Muse Spark 1.1 / 1.2</p></td><td><p>$1.25</p></td><td><p>$4.25</p></td><td><p>$5.50</p></td><td><p><a href=\"https://dev.meta.ai/docs/pricing-rate-limits\">Meta</a></p></td></tr><tr><td><p><b>GLM-5.3</b></p></td><td><p><b>$1.40</b></p></td><td><p><b>$4.40</b></p></td><td><p><b>$5.80</b></p></td><td><p><b></b><a href=\"https://docs.z.ai/guides/overview/pricing\"><b>Z.AI</b></a></p></td></tr><tr><td><p>Grok 4.6 — &lt;200K prompt tokens</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://docs.x.ai/developers/models/grok-4.6\">xAI</a></p></td></tr><tr><td><p>MiMo-V2.5 Pro (&gt;256K)</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://platform.xiaomimimo.com/docs/en-US/pricing\">Xiaomi</a></p></td></tr><tr><td><p>Qwen3.8-Max</p></td><td><p>$2.00</p></td><td><p>$6.00</p></td><td><p>$8.00</p></td><td><p><a href=\"https://www.qwencloud.com/models/qwen3.8-max\">QwenCloud</a></p></td></tr><tr><td><p>Gemini 3.6 Flash — starting Jan. 1, 2027</p></td><td><p>$1.50</p></td><td><p>$7.50</p></td><td><p>$9.00</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>Gemini 3.7 Flash — starting Jan. 1, 2027</p></td><td><p>$1.50</p></td><td><p>$7.50</p></td><td><p>$9.00</p></td><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing\">Google</a></p></td></tr><tr><td><p>GPT-5.6 Terra</p></td><td><p>$2.00</p></td><td><p>$12.00</p></td><td><p>$14.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>Grok 4.6 — ≥200K prompt tokens</p></td><td><p>$4.00</p></td><td><p>$12.00</p></td><td><p>$16.00</p></td><td><p><a href=\"https://docs.x.ai/developers/models/grok-4.6\">xAI</a></p></td></tr><tr><td><p>GPT-5.4</p></td><td><p>$2.50</p></td><td><p>$15.00</p></td><td><p>$17.50</p></td><td><p><a href=\"https://openai.com/api/pricing/\">OpenAI</a></p></td></tr><tr><td><p>Kimi K3</p></td><td><p>$3.00</p></td><td><p>$15.00</p></td><td><p>$18.00</p></td><td><p><a href=\"https://platform.kimi.ai/docs/pricing/chat-k3\">Moonshot AI</a></p></td></tr><tr><td><p>Claude Opus 5</p></td><td><p>$5.00</p></td><td><p>$25.00</p></td><td><p>$30.00</p></td><td><p><a href=\"https://platform.claude.com/docs/en/about-claude/pricing\">Anthropic</a></p></td></tr><tr><td><p>Sakana Fugu Ultra (≤272K)</p></td><td><p>$5.00</p></td><td><p>$30.00</p></td><td><p>$35.00</p></td><td><p><a href=\"https://console.sakana.ai/pricing#subscription-plan\">Sakana AI</a></p></td></tr><tr><td><p>GPT-5.6 Sol — Standard mode</p></td><td><p>$5.00</p></td><td><p>$30.00</p></td><td><p>$35.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr><tr><td><p>Claude Fable 5 / Claude Mythos 5</p></td><td><p>$10.00</p></td><td><p>$50.00</p></td><td><p>$60.00</p></td><td><p><a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Anthropic</a></p></td></tr><tr><td><p>GPT-5.6 Sol — Fast mode</p></td><td><p>$10.00</p></td><td><p>$60.00</p></td><td><p>$70.00</p></td><td><p><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">OpenAI</a></p></td></tr></tbody></table><p>Using the simple VentureBeat comparison of one million input tokens plus one million output tokens, GLM-5.3 comes to $5.80, versus $8 for <a href=\"https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis\">Grok 4.6 </a>at its lower context rate, $18 for<a href=\"https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know\"> Kimi K3,</a> $30 for <a href=\"https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows\">Claude Opus 5</a> and $35 for <a href=\"https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov\">GPT-5.6 Sol</a>. </p><p>That is not a workload-cost estimate — real bills depend heavily on the input/output mix, caching and token consumption — but it makes the relative API price tier easy to see.</p><p>GLM-5.3 is not the cheapest capable model available. Google’s current introductory price for Gemini 3.7 Flash is $0.75 per million input tokens and $3.75 per million output tokens through Dec. 31, 2026, while OpenAI’s GPT-5.6 Luna is priced at $0.20 input and $1.20 output. </p><p>Still, Z.ai’s price puts GLM-5.3 into a notably lower cost band than the premium frontier models it is increasingly benchmarked against.</p><p>That comparison has become more relevant following the latest independent results. <a href=\"https://x.com/ArtificialAnlys/status/2089830890709135426/photo/1\">Artificial Analysis gives GLM-5.3 a score of 60 on its Intelligence Index</a>, tying Kimi K3 as the top performing open weights model in the world, and scoring seven points higher than GLM-5.2. I</p><p>ts analysis also estimates GLM-5.3 at about $0.68 per Intelligence Index task, versus roughly $0.44 for GLM-5.2, despite the identical API token prices.</p><p>The difference underscores an important caveat in headline API pricing: Artificial Analysis found GLM-5.3 more verbose than its predecessor, so flat per-token rates do not necessarily mean flat costs for a completed workload.</p><p>For developers, though, the immediate change is straightforward: GLM-5.3 is now callable through Z.ai’s API at the same $1.40/$4.40 per-million-token rate as GLM-5.2, giving teams another relatively low-cost option for testing frontier-class coding and agent workloads.</p>",
-      "published_at": "2026-08-19T02:00:00+00:00",
-      "published_ts": 1787104800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.582
-    },
-    {
-      "id": "openai_blog:d9d665e847c7",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "published_at": "2026-08-19T07:00:00+00:00",
-      "published_ts": 1787122800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.123
+      "importance": 2.594
     },
     {
       "id": "cnbeta:f6217db805cd",
@@ -217,21 +202,6 @@
       "importance": 1.898
     },
     {
-      "id": "cnbeta:d2f31df1a6b0",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI首席财务官向员工透露：公司最迟将于2027年上市",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574032.htm",
-      "summary": "<p>OpenAI首席财务官莎拉·弗莱尔（Sarah Friar）在周三的全体员工大会上表示，这家人工智能实验室“将在2027年成为一家上市公司”，如果“我们的业务持续迎来拐点”，甚至可能会更早登陆公开市场。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-19T23:55:36+00:00",
-      "published_ts": 1787183736.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.887
-    },
-    {
       "id": "cnbeta:0997c803e200",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -240,6 +210,21 @@
       "summary": "<p>支付巨头Stripe公司已同意收购人工智能初创公司OpenRouter，将这家增长最快的AI模型网关平台之一纳入麾下。此举标志着Stripe正进一步深入支撑人工智能热潮的底层基础设施领域。目前，该交易的具体财务条款尚未正式对外公布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574030.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-08-19T23:54:59+00:00",
       "published_ts": 1787183699.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.887
+    },
+    {
+      "id": "cnbeta:d2f31df1a6b0",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI首席财务官向员工透露：公司最迟将于2027年上市",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574032.htm",
+      "summary": "<p>OpenAI首席财务官莎拉·弗莱尔（Sarah Friar）在周三的全体员工大会上表示，这家人工智能实验室“将在2027年成为一家上市公司”，如果“我们的业务持续迎来拐点”，甚至可能会更早登陆公开市场。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-19T23:55:36+00:00",
+      "published_ts": 1787183736.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -292,6 +277,21 @@
       "importance": 1.858
     },
     {
+      "id": "cnbeta:f9720f855ade",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "“光进来，词元直接出去” 中国团队领衔成功研制新型智能视觉传感器芯片",
+      "url": "https://www.cnbeta.com.tw/articles/science/1574110.htm",
+      "summary": "<p>如何高效、低功耗地完成视觉信息的同步获取与词元化，是当前物理人工智能（AI）硬件领域亟须解决的关键难题。国际学术期刊《自然·传感》19日发表了南京大学教授缪峰、梁世军团队联合新加坡国立大学团队的最新成果：研制出能够直接将光转换为词元的超低功耗新型智能视觉传感器芯片“光语芯”。该芯片生成的词元可直接输入编码器，实现图像识别。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1574110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-20T04:39:12+00:00",
+      "published_ts": 1787200752.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.858
+    },
+    {
       "id": "techcrunch:a733b8f25867",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -320,21 +320,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.814
-    },
-    {
-      "id": "tmtpost:c52dddcb382c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
-      "url": "https://www.tmtpost.com/8108451.html",
-      "summary": "从“生成内容”转向“理解上下文并在世界中行动”。",
-      "published_at": "2026-08-19T03:36:16+00:00",
-      "published_ts": 1787110576.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.803
     },
     {
       "id": "techcrunch:7ccdd69e11d9",
@@ -440,6 +425,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.741
+    },
+    {
+      "id": "qbitai:49f17d25b08e",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+      "url": "https://www.qbitai.com/2026/08/476078.html",
+      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+      "published_at": "2026-08-20T01:37:34+00:00",
+      "published_ts": 1787189854.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.702
     },
     {
       "id": "techcrunch:e3d0ef4638dd",

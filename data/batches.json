@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T01:55:55.424123+00:00",
+    "generated_at": "2026-08-20T07:12:43.435008+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5781,6 +5781,82 @@
           "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
           "published_at": "2026-08-19T19:00:00+00:00",
           "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-20T07:12:43.435008+00:00",
+      "generated_ts": 1787209963.4350078,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "tmtpost:bd526ed8eb1d",
+          "title": "MiniMax Design用Agent串联多模型，争夺专业内容生产入口",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.873,
+          "url": "https://www.tmtpost.com/8110191.html",
+          "published_at": "2026-08-20T05:43:07+00:00",
+          "summary": "AI视频赛道的竞争走向了产品化落地与商业价值的深度较量。"
+        },
+        {
+          "id": "cnbeta:be86e7019066",
+          "title": "Cerebras发布CS-4加速器：4万亿晶体管+90万核心 30倍速度碾压英伟达GPU",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.787,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574112.htm",
+          "published_at": "2026-08-20T04:39:35+00:00",
+          "summary": "<p><strong>AI芯片公司Cerebras Systems当地时间8月18日正式推出新一代机架级AI系统CS-4，宣称其为“业界最快的AI加速器”，推理速度最高可达GPU方案的30倍。</strong>该加速器由三颗全新的WSE-3 Turbo晶圆级处理器驱动，<strong>每颗集成4万亿晶体管和90万个AI优化核心，</strong>覆盖46225平方毫米硅面积。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9400b6320719",
+          "title": "OpenAI对抗Anthropic的最新举措：承诺不留存客户数据",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.784,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574104.htm",
+          "published_at": "2026-08-20T04:37:11+00:00",
+          "summary": "<p>OpenAI承诺不会留存使用其人工智能模型的企业客户数据，同时提升产品安全能力，意在从竞争对手Anthropic手中抢夺客户。不少企业对Claude的开发方保存自身业务数据的做法感到不满。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574104.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:972631893d2c",
+          "title": "胡伟武：龙芯自研显卡9A1000已交付流片 旗下芯片已追上7nm工艺X86性能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.594,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574082.htm",
+          "published_at": "2026-08-20T02:11:01+00:00",
+          "summary": "<p><strong>龙芯中科董事长胡伟武在最新的公开分享中正式确认，龙芯旗下首款通用GPU芯片9A1000已经完成全部研发流程，正式交付流片。</strong>据公开披露的产品定位，9A1000瞄准消费级入门级独立显卡赛道，图形渲染的整体性能大致对标海外厂商AMD多年前发布的RX 550成熟产品，完全可以覆盖日常办公影音、主流轻量级网络游戏、基础图形设计等各类使用场景，芯片的AI算力也达到了数十TOPS的水准，完全能满足日常轻量化AI运算需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574082.htm\" target=\""
+        },
+        {
+          "id": "cnbeta:f9720f855ade",
+          "title": "“光进来，词元直接出去” 中国团队领衔成功研制新型智能视觉传感器芯片",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.858,
+          "url": "https://www.cnbeta.com.tw/articles/science/1574110.htm",
+          "published_at": "2026-08-20T04:39:12+00:00",
+          "summary": "<p>如何高效、低功耗地完成视觉信息的同步获取与词元化，是当前物理人工智能（AI）硬件领域亟须解决的关键难题。国际学术期刊《自然·传感》19日发表了南京大学教授缪峰、梁世军团队联合新加坡国立大学团队的最新成果：研制出能够直接将光转换为词元的超低功耗新型智能视觉传感器芯片“光语芯”。该芯片生成的词元可直接输入编码器，实现图像识别。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1574110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:49f17d25b08e",
+          "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.702,
+          "url": "https://www.qbitai.com/2026/08/476078.html",
+          "published_at": "2026-08-20T01:37:34+00:00",
+          "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
         }
       ]
     }
