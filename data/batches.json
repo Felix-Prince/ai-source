@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T07:13:50.601862+00:00",
+    "generated_at": "2026-08-21T13:17:55.707653+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6201,6 +6201,42 @@
           "url": "https://www.tmtpost.com/8108120.html",
           "published_at": "2026-08-21T06:53:43+00:00",
           "summary": "一条错误的想法，能不能像病毒一样，在一群AI智能体之间靠“聊天”疯狂传播？Anthropic最新论文给出的答案是：能。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-21T13:17:55.707653+00:00",
+      "generated_ts": 1787318275.7076533,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:4b22d5196340",
+          "title": "DeepSeek-V4-Flash-Vision-Exp上线DeepSeek API平台",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.777,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574368.htm",
+          "published_at": "2026-08-21T10:37:43+00:00",
+          "summary": "<p>8月21日消息，多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp已上线DeepSeek API平台，支持Chat Completions、Messages、Responses三种格式调用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5f528256377b",
+          "title": "美国机器人大会火了 中国机器人却成主角",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.912,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
+          "published_at": "2026-08-21T11:44:36+00:00",
+          "summary": "<p><strong>据《商业内幕》报道，旧金山机器人大会Actuate吸引了约1500名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。</strong>在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
