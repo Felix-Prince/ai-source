@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T19:06:33.123301+00:00",
+    "generated_at": "2026-08-21T02:01:29.333458+00:00",
     "max_days": 30
   },
   "batches": [
@@ -5999,6 +5999,152 @@
           "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
           "published_at": "2026-08-20T16:46:00+00:00",
           "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-21T02:01:29.333458+00:00",
+      "generated_ts": 1787277689.3334582,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:c04424fd8b9f",
+          "title": "移动版RTX 5090与苹果M5 Max AI对决：性能占优，但受制于显存瓶颈",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.85,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574256.htm",
+          "published_at": "2026-08-21T00:14:40+00:00",
+          "summary": "<p>近日，在针对大语言模型（LLM）的一系列AI基准测试中，英伟达移动端RTX 5090显卡展现出强劲实力，在提示词处理与词元（Token）生成速度上大幅超越苹果最新的M5 Max芯片，最高领先幅度达133%。然而测试也同时表明，当面对更大规模的AI模型或更长的上下文时，苹果的统一内存架构优势便开始接管比赛。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574256.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:0e81abb1245f",
+          "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.83,
+          "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+          "published_at": "2026-08-21T00:00:00+00:00",
+          "summary": "<p><a href=\"https://slack.com/\">Slack</a> wants to drag AI coding out of the terminal and into the group chat.</p><p>The Salesforce-owned messaging platform today announced <a href=\"https://slack.com/features/code-channels\">Slack Code</a>, a new product that embeds AI coding agents — including Anthr"
+        },
+        {
+          "id": "cnbeta:a309c26276e5",
+          "title": "数据显示OpenAI在企业用户市场正加速追赶Anthropic",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.826,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574224.htm",
+          "published_at": "2026-08-20T23:57:29+00:00",
+          "summary": "<p>在OpenAI和Anthropic这两家人工智能巨头距离计划中的首次公开募股（IPO）并公布财务数据还有一段时间之际，外界只能通过第三方渠道窥探其商业版图的发展状况。近日，企业信用卡与支出管理服务商Ramp发布了一组出人意料的最新数据，揭示了OpenAI在美国企业用户市场中正逐步缩小与Anthropic的差距。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574224.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:de75ab291288",
+          "title": "【钛晨报】事关外卖骑手等劳动权益保障，工会工作“十五五”规划发布；宇树发布仿生7轴灵巧机械臂，售价9900元起；台积电1.6nm级A16工艺完成开发验证，目标Q4量产",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.776,
+          "url": "https://www.tmtpost.com/8111046.html",
+          "published_at": "2026-08-20T23:20:00+00:00",
+          "summary": "阿里巴巴：2027财年第一季度营收2,689.5亿元，同比增长9%；网易Q2净收入301亿元，营业利润121亿元；台积电1.6nm级A16工艺完成开发验证，目标Q4量产；奇瑞汽车：上半年实现收入1432.80亿元，同比增长1.2%；谷歌旗下Waymo为其无人出租车自研定制芯片；三星晶圆代工技术蓝图调整，1.4纳米延后至2029年量产；《2026年人形机器人产业发展报告》8月20日发布；国家药监局批准2款创新药上市；三星据悉将公布超100万亿韩元股东回报计划；中基协：7月新备案私募证券投资基金1763只，新备案规模728.09亿元；许家印被判处无期徒刑，恒大集团、恒大地产等案一审宣判；免部署一键"
+        },
+        {
+          "id": "venturebeat:2606623f1f54",
+          "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.517,
+          "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+          "published_at": "2026-08-20T19:57:01+00:00",
+          "summary": "<p>Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, <a href=\"https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organi"
+        },
+        {
+          "id": "cnbeta:194982adc9a5",
+          "title": "字幕组这次可能要彻底死透了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.99,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574294.htm",
+          "published_at": "2026-08-21T01:51:18+00:00",
+          "summary": "<p>因版权收紧和网盘整治而日渐凋零的字幕组，又迎来了致命一击。字幕组曾被誉为“文化摆渡人”。在翻译还是稀缺能力的年代，他们打破语言壁垒，在国内外影视爱好者间架起交流桥。<strong>AI出现后，墙开始坍塌。</strong>平台纷纷将大模型嵌入播放器，观众打开AI字幕就能啃完剧情。一部剧的字幕初稿，也从原先的几天压缩到几分钟，个人译者用AI跑一遍就直接上传。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f3a21534d628",
+          "title": "OpenAI全面开源Codex Harness",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.983,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574280.htm",
+          "published_at": "2026-08-21T01:44:12+00:00",
+          "summary": "<p>就在昨天，OpenAI又完成一次升级。这不是什么全新的模型发布，但它对开发者的影响力，甚至超过了模型本身的迭代。OpenAI正式宣布：将大名鼎鼎的Codex底层核心框架（Harness），作为平台全面开源！</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574280.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:159abf41ff3d",
+          "title": "Anthropic首次公开募股规模料追平甚至赶超SpaceX创下的纪录",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.97,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574272.htm",
+          "published_at": "2026-08-21T01:30:34+00:00",
+          "summary": "<p>知情人士称，Anthropic PBC预计其IPO规模将至少达到SpaceX创下的纪录水平，甚至可能更高。消息人士透露，这家Claude开发商正在测算相关数据，准备最快于本月底公开提交潜在大型IPO的文件。近期由首席财务官Krishna Rao牵头的投资者说明会并未正面谈及估值问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a32ca00cead5",
+          "title": "内存性能为什么在现代计算中变得越来越重要？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.901,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574258.htm",
+          "published_at": "2026-08-21T00:15:54+00:00",
+          "summary": "<p>在过去的几十年里，衡量计算机性能的标准往往非常直观：中央处理器（CPU）看重时钟频率和核心数量，图形处理器（GPU）比拼浮点运算能力，而内存和存储设备则主要看重频率和连续传输速率。然而，随着现代处理器在算力上取得突飞猛进的发展，一个更为严峻的挑战正日益凸显——如何将数据在需要的时间准确送达需要的地方。<strong>由于算力的提升速度远超数据传输技术的发展，移动数据在延迟、带宽和能耗上的成本正变得极其高昂，内存性能已然成为现代计算领域的真正瓶颈。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574258.h"
+        },
+        {
+          "id": "techcrunch:43ebb463184b",
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.899,
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "published_at": "2026-08-21T00:13:44+00:00",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+        },
+        {
+          "id": "cnbeta:2cedf67e4e4e",
+          "title": "ChatGPT发布以来 超三分之一的新网页呈现AI创作痕迹",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.886,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574234.htm",
+          "published_at": "2026-08-20T23:59:55+00:00",
+          "summary": "<p>皮尤研究中心于本周四发布的一项最新研究显示，自ChatGPT问世以来发布的网页中，有超过三分之一呈现出由人工智能撰写或大幅编辑的痕迹。这一发现与其他指出互联网新兴内容已被AI深度渗透的研究结果相呼应。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574234.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:915711bf467e",
+          "title": "借助AI工具 少年开发者成功为惠普打印机逆向开发macOS原生驱动",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.877,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574214.htm",
+          "published_at": "2026-08-20T23:49:54+00:00",
+          "summary": "<p>一名叫作 Kuber Mehta 的年轻开发者在其官方社交账号上分享了一项令人瞩目的技术成果。由于发现自己的惠普打印机缺乏完善的苹果系统支持，他利用人工智能代码助手 Claude Code，成功为这款原本几乎“仅限 Windows 系统”的设备打造了可正常工作的 macOS 原生驱动程序。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574214.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:691786878197",
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.812,
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "published_at": "2026-08-20T22:36:37+00:00",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
         }
       ]
     }
