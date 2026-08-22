@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T01:54:56.498620+00:00",
-    "generated_ts": 1787363696.4986196,
+    "generated_at": "2026-08-22T07:05:50.737904+00:00",
+    "generated_ts": 1787382350.7379038,
     "window_hours": 24.0,
-    "total": 16
+    "total": 12
   },
   "items": [
     {
@@ -97,51 +97,6 @@
       "importance": 2.777
     },
     {
-      "id": "tmtpost:7140b38a055e",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "「算力」成为新一代「房产」",
-      "url": "https://www.tmtpost.com/8111576.html",
-      "summary": "银行按Token消耗放贷，华尔街把GPU装进SPV吸纳养老金。",
-      "published_at": "2026-08-21T04:23:35+00:00",
-      "published_ts": 1787286215.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.764
-    },
-    {
-      "id": "tmtpost:46a2e38e4127",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Ag",
-      "url": "https://www.tmtpost.com/8111019.html",
-      "summary": "模型可替换，工作流难迁移",
-      "published_at": "2026-08-21T02:41:46+00:00",
-      "published_ts": 1787280106.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.632
-    },
-    {
-      "id": "qbitai:eedc4d56e2fc",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "url": "https://www.qbitai.com/2026/08/476406.html",
-      "summary": "",
-      "published_at": "2026-08-21T02:26:49+00:00",
-      "published_ts": 1787279209.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.613
-    },
-    {
       "id": "cnbeta:e66ddac2a65f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -155,21 +110,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.548
-    },
-    {
-      "id": "tmtpost:028efbb66ec0",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”",
-      "url": "https://www.tmtpost.com/8108120.html",
-      "summary": "一条错误的想法，能不能像病毒一样，在一群AI智能体之间靠“聊天”疯狂传播？Anthropic最新论文给出的答案是：能。",
-      "published_at": "2026-08-21T06:53:43+00:00",
-      "published_ts": 1787295223.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.981
     },
     {
       "id": "tmtpost:182814d2f3c6",

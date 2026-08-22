@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T01:54:56.498620+00:00",
+    "generated_at": "2026-08-22T07:05:50.737904+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6371,6 +6371,21 @@
           "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-22T07:05:50.737904+00:00",
+      "generated_ts": 1787382350.7379038,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }
