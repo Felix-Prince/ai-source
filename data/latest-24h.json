@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T07:05:50.737904+00:00",
-    "generated_ts": 1787382350.7379038,
+    "generated_at": "2026-08-22T13:05:59.001565+00:00",
+    "generated_ts": 1787403959.0015652,
     "window_hours": 24.0,
-    "total": 12
+    "total": 14
   },
   "items": [
     {
@@ -82,21 +82,6 @@
       "importance": 2.793
     },
     {
-      "id": "cnbeta:4b22d5196340",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek-V4-Flash-Vision-Exp上线DeepSeek API平台",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574368.htm",
-      "summary": "<p>8月21日消息，多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp已上线DeepSeek API平台，支持Chat Completions、Messages、Responses三种格式调用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-21T10:37:43+00:00",
-      "published_ts": 1787308663.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.777
-    },
-    {
       "id": "cnbeta:e66ddac2a65f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -142,21 +127,6 @@
       "importance": 1.915
     },
     {
-      "id": "cnbeta:5f528256377b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国机器人大会火了 中国机器人却成主角",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
-      "summary": "<p><strong>据《商业内幕》报道，旧金山机器人大会Actuate吸引了约1500名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。</strong>在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-21T11:44:36+00:00",
-      "published_ts": 1787312676.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.912
-    },
-    {
       "id": "cnbeta:b6a2d77be7c8",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -172,6 +142,21 @@
       "importance": 1.888
     },
     {
+      "id": "tmtpost:bffa0c41728d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "王坚的“遗产”，为阿里留出后路",
+      "url": "https://www.tmtpost.com/8112848.html",
+      "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
+      "published_at": "2026-08-22T10:27:40+00:00",
+      "published_ts": 1787394460.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.853
+    },
+    {
       "id": "techcrunch:ca49835f5d16",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -185,6 +170,51 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.845
+    },
+    {
+      "id": "tmtpost:5393b0533cda",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "更强的GLM-5.3，为什么没有刷屏？",
+      "url": "https://www.tmtpost.com/8112832.html",
+      "summary": "模型更强了，能带来变现吗？",
+      "published_at": "2026-08-22T10:14:44+00:00",
+      "published_ts": 1787393684.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.842
+    },
+    {
+      "id": "cnbeta:6714317affeb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "观众排队与机器人打乒乓球 感慨“玩了十年输给机器”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574450.htm",
+      "summary": "<p>2026世界机器人大会（WRC 2026）期间，全栈具身智能大模型公司超维动力现场搭建标准乒乓球交互体验区，展示了基于自主研发的新一代SMASH 2.0系统——从视觉感知、轨迹预测、动作规划到全身控制的闭环串联能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-22T09:09:29+00:00",
+      "published_ts": 1787389769.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.785
+    },
+    {
+      "id": "tmtpost:cf8f6185e907",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……",
+      "url": "https://www.tmtpost.com/8112858.html",
+      "summary": "（8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片",
+      "published_at": "2026-08-22T08:22:33+00:00",
+      "published_ts": 1787386953.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.745
     }
   ]
 }
