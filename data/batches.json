@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T13:05:59.001565+00:00",
+    "generated_at": "2026-08-22T18:53:09.330798+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6442,6 +6442,21 @@
           "summary": "（8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-22T18:53:09.330798+00:00",
+      "generated_ts": 1787424789.3307981,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }
