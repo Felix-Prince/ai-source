@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T13:07:08.276293+00:00",
+    "generated_at": "2026-08-23T18:52:34.326491+00:00",
     "max_days": 30
   },
   "items": [
@@ -39228,6 +39228,111 @@
       "tier": 1,
       "ai_score": 0.0,
       "importance": 0.0
+    },
+    {
+      "id": "qbitai:fc1b5d1798bd",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "summary": "玩的就是真实",
+      "published_at": "2026-08-23T13:20:00+00:00",
+      "published_ts": 1787491200.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "ars_technica:914c55fb83a1",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "published_at": "2026-08-23T14:30:16+00:00",
+      "published_ts": 1787495416.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "the_verge:0584d2f31015",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We [&#8230;]",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "published_ts": 1787497200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:8497ae177e28",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "published_ts": 1787497200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:e8d3a7ca59bf",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "published_at": "2026-08-23T15:30:00+00:00",
+      "published_ts": 1787499000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "techcrunch:d0b0665e240b",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published_at": "2026-08-23T16:03:00+00:00",
+      "published_ts": 1787500980.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 0.0,
+      "importance": 0.0
+    },
+    {
+      "id": "cnbeta:fce6277e8e85",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果M6 iMac预计将于2026年底前发布 或迎超短生命周期",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574566.htm",
+      "summary": "<p>据彭博社知名记者马克·古尔曼（Mark Gurman）在最新一期的“Power On”时事通讯中透露，苹果公司距离推出搭载M6芯片的全新iMac已非常接近，消费者有望在2026年年底前购买到这款新设备。不过，该报道指出，新款iMac在外观上预计不会迎来重大革新。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574566.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-23T17:17:16+00:00",
+      "published_ts": 1787505436.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 1.0,
+      "importance": 0.955
     }
   ]
 }

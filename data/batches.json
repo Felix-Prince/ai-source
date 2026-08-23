@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T13:07:08.276293+00:00",
+    "generated_at": "2026-08-23T18:52:34.326491+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6585,6 +6585,21 @@
           "summary": "<p>昨晚，DeepSeek 突然向其 API 用户发布了一则通知：自北京时间 8 月 23 日 00:00 起，调整峰谷计费规则，周末（周六、周日）全天不再区分峰谷时段，统一按低谷时段价格收费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574564.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-23T18:52:34.326491+00:00",
+      "generated_ts": 1787511154.3264914,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }
