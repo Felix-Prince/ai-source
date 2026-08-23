@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:07:46.883674+00:00",
-    "generated_ts": 1787468866.883674,
+    "generated_at": "2026-08-23T13:07:08.276293+00:00",
+    "generated_ts": 1787490428.2762933,
     "window_hours": 24.0,
-    "total": 10
+    "total": 8
   },
   "items": [
     {
@@ -35,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.908
+    },
+    {
+      "id": "qbitai:da3bb6f172b6",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍",
+      "published_at": "2026-08-23T09:56:12+00:00",
+      "published_ts": 1787478972.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.737
     },
     {
       "id": "venturebeat:6cd6c20ef615",
@@ -82,49 +97,19 @@
       "importance": 1.952
     },
     {
-      "id": "tmtpost:bffa0c41728d",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "王坚的“遗产”，为阿里留出后路",
-      "url": "https://www.tmtpost.com/8112848.html",
-      "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
-      "published_at": "2026-08-22T10:27:40+00:00",
-      "published_ts": 1787394460.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.853
-    },
-    {
-      "id": "tmtpost:5393b0533cda",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "更强的GLM-5.3，为什么没有刷屏？",
-      "url": "https://www.tmtpost.com/8112832.html",
-      "summary": "模型更强了，能带来变现吗？",
-      "published_at": "2026-08-22T10:14:44+00:00",
-      "published_ts": 1787393684.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.842
-    },
-    {
-      "id": "cnbeta:6714317affeb",
+      "id": "cnbeta:3a1a84de448f",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "观众排队与机器人打乒乓球 感慨“玩了十年输给机器”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574450.htm",
-      "summary": "<p>2026世界机器人大会（WRC 2026）期间，全栈具身智能大模型公司超维动力现场搭建标准乒乓球交互体验区，展示了基于自主研发的新一代SMASH 2.0系统——从视觉感知、轨迹预测、动作规划到全身控制的闭环串联能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-22T09:09:29+00:00",
-      "published_ts": 1787389769.0,
+      "title": "DeepSeek宣布周末全天谷价 以后周末上班更划算？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574564.htm",
+      "summary": "<p>昨晚，DeepSeek 突然向其 API 用户发布了一则通知：自北京时间 8 月 23 日 00:00 起，调整峰谷计费规则，周末（周六、周日）全天不再区分峰谷时段，统一按低谷时段价格收费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574564.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-23T12:03:22+00:00",
+      "published_ts": 1787486602.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.785
+      "importance": 1.94
     },
     {
       "id": "cnbeta:d365ffd9b8df",
@@ -140,21 +125,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.76
-    },
-    {
-      "id": "tmtpost:cf8f6185e907",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……",
-      "url": "https://www.tmtpost.com/8112858.html",
-      "summary": "（8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片",
-      "published_at": "2026-08-22T08:22:33+00:00",
-      "published_ts": 1787386953.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.745
     }
   ]
 }

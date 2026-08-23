@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:07:46.883674+00:00",
+    "generated_at": "2026-08-23T13:07:08.276293+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6547,6 +6547,42 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1574508.htm",
           "published_at": "2026-08-23T02:41:52+00:00",
           "summary": "<p>据彭博社当地时间8月22日报道，由于存储芯片成本飙升，英伟达（Nvidia）的一些大客户已被告知，搭载其人工智能（AI）芯片的服务器价格将普遍上涨超过15%。知情人士透露，此次涨价将适用于明年年初发货的系统，其中包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-23T13:07:08.276293+00:00",
+      "generated_ts": 1787490428.2762933,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "qbitai:da3bb6f172b6",
+          "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.737,
+          "url": "https://www.qbitai.com/2026/08/478191.html",
+          "published_at": "2026-08-23T09:56:12+00:00",
+          "summary": "Tokenizer、视频编码、API报错全扒一遍"
+        },
+        {
+          "id": "cnbeta:3a1a84de448f",
+          "title": "DeepSeek宣布周末全天谷价 以后周末上班更划算？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.94,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574564.htm",
+          "published_at": "2026-08-23T12:03:22+00:00",
+          "summary": "<p>昨晚，DeepSeek 突然向其 API 用户发布了一则通知：自北京时间 8 月 23 日 00:00 起，调整峰谷计费规则，周末（周六、周日）全天不再区分峰谷时段，统一按低谷时段价格收费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574564.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
