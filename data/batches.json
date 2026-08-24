@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T13:26:36.239367+00:00",
+    "generated_at": "2026-08-24T19:06:51.695632+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6786,6 +6786,42 @@
           "url": "https://www.tmtpost.com/8113528.html",
           "published_at": "2026-08-24T10:19:45+00:00",
           "summary": "专注泛机器人\"大小脑\"融合一体类脑芯片的研发"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-24T19:06:51.695632+00:00",
+      "generated_ts": 1787598411.6956315,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 14,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "techcrunch:08758c973ea4",
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.797,
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "published_at": "2026-08-24T15:24:18+00:00",
+          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
+        },
+        {
+          "id": "techcrunch:c1308037c07e",
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.776,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "published_at": "2026-08-24T15:00:00+00:00",
+          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
         }
       ]
     }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T13:26:36.239367+00:00",
-    "generated_ts": 1787577996.2393668,
+    "generated_at": "2026-08-24T19:06:51.695632+00:00",
+    "generated_ts": 1787598411.6956315,
     "window_hours": 24.0,
-    "total": 14
+    "total": 16
   },
   "items": [
     {
@@ -215,6 +215,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.818
+    },
+    {
+      "id": "techcrunch:08758c973ea4",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "published_at": "2026-08-24T15:24:18+00:00",
+      "published_ts": 1787585058.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.797
+    },
+    {
+      "id": "techcrunch:c1308037c07e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "published_at": "2026-08-24T15:00:00+00:00",
+      "published_ts": 1787583600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.776
     }
   ]
 }
