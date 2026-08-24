@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:33:24.114870+00:00",
+    "generated_at": "2026-08-24T13:26:36.239367+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6730,6 +6730,62 @@
           "url": "https://www.qbitai.com/2026/08/478427.html",
           "published_at": "2026-08-24T05:09:27+00:00",
           "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-24T13:26:36.239367+00:00",
+      "generated_ts": 1787577996.2393668,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:fb94a501384e",
+          "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.962,
+          "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+          "published_at": "2026-08-24T13:00:00+00:00",
+          "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence — it&#x27;s the fact that most people still use AI alone.</p><p>In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head o"
+        },
+        {
+          "id": "venturebeat:55a5a139014a",
+          "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.796,
+          "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
+          "published_at": "2026-08-24T11:00:00+00:00",
+          "summary": "<p><a href=\"https://www.ibm.com/us-en\">IBM</a> is announcing today at the annual <a href=\"https://hotchips.org/\">Hot Chips conference</a> what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM&#x27;s own instruction set a"
+        },
+        {
+          "id": "tmtpost:a802d2b795b2",
+          "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.935,
+          "url": "https://www.tmtpost.com/8114555.html",
+          "published_at": "2026-08-24T12:17:47+00:00",
+          "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。"
+        },
+        {
+          "id": "tmtpost:916c35bd73a9",
+          "title": "维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.828,
+          "url": "https://www.tmtpost.com/8113528.html",
+          "published_at": "2026-08-24T10:19:45+00:00",
+          "summary": "专注泛机器人\"大小脑\"融合一体类脑芯片的研发"
         }
       ]
     }
