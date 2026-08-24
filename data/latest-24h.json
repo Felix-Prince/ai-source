@@ -1,40 +1,40 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T02:01:35.936079+00:00",
-    "generated_ts": 1787536895.9360785,
+    "generated_at": "2026-08-24T07:33:24.114870+00:00",
+    "generated_ts": 1787556804.1148703,
     "window_hours": 24.0,
-    "total": 13
+    "total": 12
   },
   "items": [
     {
-      "id": "cnbeta:e696e93f4635",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574534.htm",
-      "summary": "<p>NVIDIA不仅是全球最赚钱的AI硬件公司，现在也把重点放在大模型开发上了，为此不惜砸了70亿美元招人，要开发全球最强的开源大模型。美国媒体报道，NVIDIA要跟AI初创公司Poolside达成一项合作协议，<strong>会以120亿美元的估值向公司投资10亿美元，同时花费60亿美元购买该公司的技术产权及部分研发人员。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T06:06:26+00:00",
-      "published_ts": 1787465186.0,
+      "id": "qbitai:507a242f6a4b",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "url": "https://www.qbitai.com/2026/08/478469.html",
+      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+      "published_at": "2026-08-24T07:04:36+00:00",
+      "published_ts": 1787555076.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.913
+      "importance": 2.959
     },
     {
-      "id": "cnbeta:6d61da212256",
+      "id": "cnbeta:c7cbaea5ad61",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic把员工入职第一课给公开了",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574526.htm",
-      "summary": "<p><strong>Anthropic把自家员工入职培训的那套课程，原样搬到了网上。免费。</strong>就在昨天，Claude Academy正式上线。289个资源：课程、教程、真实用例全在里面，从“AI到底是什么东西”一路到Claude Code、API、MCP、agents和生产级部署。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574526.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T06:02:59+00:00",
-      "published_ts": 1787464979.0,
+      "title": "月之暗面Kimi K2.5本月底退役 2.8万亿参数K3已全面接棒",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574702.htm",
+      "summary": "<p>8月24日，<strong>月之暗面Kimi官方微博今日宣布，其第一代万亿参数多模态模型Kimi K2.5将于本月底正式结束服役</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574702.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-24T05:42:34+00:00",
+      "published_ts": 1787550154.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.908
+      "importance": 2.844
     },
     {
       "id": "tmtpost:0ac222e1ba8e",
@@ -112,21 +112,6 @@
       "importance": 2.719
     },
     {
-      "id": "cnbeta:c23cf7bface8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "深度求索宣布即日起DeepSeek API在周六/周日全为谷时 按照更便宜的价格计价",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574548.htm",
-      "summary": "<p>日前深度求索变更 DeepSeek API 页面宣布从 2026 年 8 月 23 日 0 时起变更峰谷时间段，此次变更主要是将周六和周日都划为空闲时间段按照更便宜的价格计费，而周一到周五则是按照峰时和闲时进行区别定价，其中峰时价格更高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T06:17:47+00:00",
-      "published_ts": 1787465867.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.952
-    },
-    {
       "id": "cnbeta:3a1a84de448f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -157,6 +142,21 @@
       "importance": 1.939
     },
     {
+      "id": "qbitai:3bd6259561c7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+      "published_at": "2026-08-24T05:09:27+00:00",
+      "published_ts": 1787548167.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.866
+    },
+    {
       "id": "cnbeta:4aa60d14abb8",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -185,21 +185,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.818
-    },
-    {
-      "id": "cnbeta:d365ffd9b8df",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达被曝已通知客户 AI芯片价格将普遍上涨超过15%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574508.htm",
-      "summary": "<p>据彭博社当地时间8月22日报道，由于存储芯片成本飙升，英伟达（Nvidia）的一些大客户已被告知，搭载其人工智能（AI）芯片的服务器价格将普遍上涨超过15%。知情人士透露，此次涨价将适用于明年年初发货的系统，其中包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T02:41:52+00:00",
-      "published_ts": 1787452912.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.76
     }
   ]
 }
