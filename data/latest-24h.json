@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T01:56:30.735200+00:00",
-    "generated_ts": 1787622990.7352002,
+    "generated_at": "2026-08-25T07:13:57.123764+00:00",
+    "generated_ts": 1787642037.1237636,
     "window_hours": 24.0,
-    "total": 11
+    "total": 19
   },
   "items": [
     {
@@ -22,34 +22,19 @@
       "importance": 2.962
     },
     {
-      "id": "qbitai:507a242f6a4b",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "url": "https://www.qbitai.com/2026/08/478469.html",
-      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
-      "published_at": "2026-08-24T07:04:36+00:00",
-      "published_ts": 1787555076.0,
+      "id": "tmtpost:d64de2743412",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "对话张朝阳：AI狂奔，为什么要做“反效率”内容",
+      "url": "https://www.tmtpost.com/8115155.html",
+      "summary": "在大模型算法追求极致效率的时代，保留一些“笨拙”的空间。",
+      "published_at": "2026-08-25T05:44:31+00:00",
+      "published_ts": 1787636671.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.959
-    },
-    {
-      "id": "cnbeta:c7cbaea5ad61",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "月之暗面Kimi K2.5本月底退役 2.8万亿参数K3已全面接棒",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574702.htm",
-      "summary": "<p>8月24日，<strong>月之暗面Kimi官方微博今日宣布，其第一代万亿参数多模态模型Kimi K2.5将于本月底正式结束服役</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574702.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-24T05:42:34+00:00",
-      "published_ts": 1787550154.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.844
+      "importance": 2.874
     },
     {
       "id": "venturebeat:55a5a139014a",
@@ -67,6 +52,51 @@
       "importance": 2.796
     },
     {
+      "id": "cnbeta:f00295f91564",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "中国AI为什么追得这么快？美媒找到一批关键人物",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574820.htm",
+      "summary": "<p>据《华尔街日报》报道，中国AI模型近年来快速缩小与美国头部模型的差距，其背后并非短期突然出现的技术突破，而是清华大学等高校长期形成的人才网络，以及开源技术、人才回流和更高算力效率等因素共同推动的结果。报道认为，以智谱AI联合创始人唐杰、月之暗面创始人杨植麟以及DeepSeek创始人梁文锋等人为代表的一批研究者，构成了中国这一轮AI追赶的重要力量。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574820.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:37:48+00:00",
+      "published_ts": 1787625468.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.627
+    },
+    {
+      "id": "cnbeta:2f0afb40d632",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英特尔披露Crescent Island加速卡：配备32个Xe3P核心 最高可选480GB LPDDR5X内存",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574814.htm",
+      "summary": "<p>英特尔在Hot Chips 2026大会上公布了代号“新月岛”（Crescent Island）的新一代加速卡更多细节。这款产品面向PC、工作站及数据中心边缘部署场景，主打高速人工智能推理，采用Xe3P GPU IP打造，整体为350W风冷PCIe扩展卡形态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574814.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:33:35+00:00",
+      "published_ts": 1787625215.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.621
+    },
+    {
+      "id": "cnbeta:cdd6a4127803",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "阿拉巴马州就OpenAI自主入侵Hugging Face事件展开调查",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574798.htm",
+      "summary": "<p>美国阿拉巴马州总检察长办公室日前宣布，已向OpenAI发出传票，就该公司一款网络安全模型入侵人工智能数据集平台Hugging Face的事件展开调查。阿拉巴马州总检察长史蒂夫·马歇尔表示，监管部门将重点审查OpenAI在该事件中是否存在“完全缺乏监督及充分安全防护措施”的问题，并评估其未能或不愿确保产品安全的行为，是否违反该州消费者保护法律。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:19:20+00:00",
+      "published_ts": 1787624360.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.603
+    },
+    {
       "id": "cnbeta:162a3c406653",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -80,6 +110,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.984
+    },
+    {
+      "id": "cnbeta:488fc84596cb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "高通第六代骁龙8超级至尊版主频突破5GHz",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574878.htm",
+      "summary": "<p><strong>有博主曝光了高通第六代骁龙8超级至尊版的关键参数。这颗芯片的型号为SM8975，采用全新的2+3+3 Oryon CPU架构，与上代2+6设计有所不同。</strong>其CPU由2颗5.01GHz超大核、3颗4.03GHz大核和3颗3.74GHz中核组成，并集成Adreno 850 GPU。对比上代第五代骁龙8至尊版4.6GHz的超大核主频，第六代骁龙8超级至尊版的主频进一步跃升，且已突破5GHz大关，成为目前行业内频率最高的手机芯片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574878.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T06:19:00+00:00",
+      "published_ts": 1787638740.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.948
     },
     {
       "id": "tmtpost:a802d2b795b2",
@@ -97,19 +142,19 @@
       "importance": 1.935
     },
     {
-      "id": "qbitai:3bd6259561c7",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "url": "https://www.qbitai.com/2026/08/478427.html",
-      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
-      "published_at": "2026-08-24T05:09:27+00:00",
-      "published_ts": 1787548167.0,
+      "id": "cnbeta:d5ad69b1b941",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "IBM研发双架构主机芯片 单一核心可并行原生运行Arm与Z指令集",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574862.htm",
+      "summary": "<p>IBM正在开发一款面向下一代大型主机的双架构处理器，计划让Arm软件能够与IBM Z及LinuxONE代码在同一套处理器核心上直接运行。此举有望帮助企业在保留关键交易处理业务的同时，更便捷地引入基于Linux的云原生应用和人工智能工作负载。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T06:02:18+00:00",
+      "published_ts": 1787637738.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.866
+      "importance": 1.932
     },
     {
       "id": "tmtpost:916c35bd73a9",
@@ -155,6 +200,81 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.776
+    },
+    {
+      "id": "cnbeta:1c835935b79d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "马斯克加速太空数据中心布局：首批AI卫星明年发射 搭载英伟达芯片",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574828.htm",
+      "summary": "<p>据彭博社报道，SpaceX CEO埃隆·马斯克(Elon Musk)周一表示，<strong>首批搭载英伟达芯片的AI卫星将于明年第四季度发射，并将在2028年达到“可观规模”。</strong>马斯克在X上发帖透露了上述略微调整后的时间表，并介绍了轨道数据中心的具体细节。该数据中心将以卫星的形式存在，相比传统数据中心机架，它要“简单得多、成本更低、密度更高，而且重量更轻”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:40:44+00:00",
+      "published_ts": 1787625644.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.754
+    },
+    {
+      "id": "cnbeta:7ac5c2e981c4",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "卢伟冰展示玄戒O100原型机：没有摄像头 内置Xiaomi MiMo端侧模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574824.htm",
+      "summary": "<p>8月25日，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰发文称，小米玄戒芯片技术沟通会还有两款原型机发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:38:49+00:00",
+      "published_ts": 1787625529.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.752
+    },
+    {
+      "id": "cnbeta:a4e1ae5f8e91",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI恢复ChatGPT Plus用户的Codex和Work五小时使用上限",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574812.htm",
+      "summary": "<p>OpenAI宣布，将从8月25日起恢复对ChatGPT Plus订阅用户在Codex和ChatGPT Work中的五小时使用时长限制。此前数周，这两项服务暂时取消了单个五小时周期的额度约束，仅保留按周计算的总使用上限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574812.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:30:52+00:00",
+      "published_ts": 1787625052.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.745
+    },
+    {
+      "id": "cnbeta:eeefea494c42",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软CEO纳德拉警示企业：过度依赖单一AI模型等于“把思考外包”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574806.htm",
+      "summary": "<p>随着人工智能加速渗透企业办公、研发和运营流程，越来越多公司正投入数百万乃至数十亿美元推动AI落地。然而，微软首席执行官萨提亚·纳德拉近日提出警告：如果一家企业将自身关键知识与能力绑定在单一AI模型上，最终可能会失去对自身命运的掌控，甚至“不再像一家真正的公司”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574806.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T02:24:32+00:00",
+      "published_ts": 1787624672.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.74
+    },
+    {
+      "id": "tmtpost:674a98dd098d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AI算力通胀时代：英伟达服务器涨价超15%，成本传导冲击云厂商利润率",
+      "url": "https://www.tmtpost.com/8115543.html",
+      "summary": "存储芯片成本飙升重塑AI产业定价链，从英伟达调价到云厂商自研芯片加速。",
+      "published_at": "2026-08-25T01:59:14+00:00",
+      "published_ts": 1787623154.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.719
     },
     {
       "id": "cnbeta:e00d05d77dbe",
