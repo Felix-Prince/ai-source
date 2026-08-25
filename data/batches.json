@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T13:23:43.051902+00:00",
+    "generated_at": "2026-08-25T19:05:18.934805+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7050,6 +7050,142 @@
           "url": "https://www.tmtpost.com/8116327.html",
           "published_at": "2026-08-25T10:54:51+00:00",
           "summary": "机器人公司交付的内容，已经越过硬件本体，延伸到技能的采集，训练和持续更新。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-25T19:05:18.934805+00:00",
+      "generated_ts": 1787684718.9348052,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 13,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "openai_blog:d4621d317a27",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.174,
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+        },
+        {
+          "id": "venturebeat:94b829fb89f3",
+          "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.858,
+          "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+          "published_at": "2026-08-25T17:24:22+00:00",
+          "summary": "<p>A CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for <a href=\"https://www.scworld.com/brief/prompt-injection-remains-top-llm-threat-owasp-report-finds\">three consec"
+        },
+        {
+          "id": "cnbeta:9165a0a3ddfe",
+          "title": "OpenAI\"Jalapeño\"芯片跑分公开 推理性能超越英伟达旗舰GPU",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.683,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574946.htm",
+          "published_at": "2026-08-25T15:13:33+00:00",
+          "summary": "<p>OpenAI于本周二发布博文称，其自研人工智能芯片&quot;Jalapeño&quot;（辣椒）在完成任务效率和响应速度方面均优于当前其他人工智能系统。在与媒体记者的通气会上，OpenAI硬件副总裁Richard Ho表示，Jalapeño实现了&quot;两者兼得&quot;，同时具备更低的延迟和更高的吞吐量，而以往的人工智能系统通常需要在这两项指标之间做出取舍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574946.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:00b3e0c3a7c6",
+          "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.656,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
+          "published_at": "2026-08-25T14:51:55+00:00",
+          "summary": "<p>OpenAI已封禁一批来自俄罗斯、被用于支持网络虚假信息传播活动的ChatGPT账号。该公司表示，这些账号参与了一项隐蔽的线上影响力行动，试图借助人工智能生成内容、塑造特定叙事并掩盖操作者的真实来源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:4784aeaa65a6",
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.618,
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "published_at": "2026-08-25T14:22:04+00:00",
+          "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+        },
+        {
+          "id": "cnbeta:eb42a3320200",
+          "title": "英伟达DLSS 4.5光线重建开放早期体验 全系RTX显卡可用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.95,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574954.htm",
+          "published_at": "2026-08-25T18:12:41+00:00",
+          "summary": "<p>在2026年科隆游戏展期间，英伟达继续扩展其DLSS技术栈，正式推出采用第二代Transformer模型的DLSS 4.5光线重建技术。该功能现已通过NVIDIA App以早期体验形式上线，覆盖GeForce RTX 20系列及之后发布的全部RTX显卡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:063278c33d66",
+          "title": "Claude Cowork finally remembers what you told the app in chat",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.929,
+          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+          "published_at": "2026-08-25T17:50:33+00:00",
+          "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
+        },
+        {
+          "id": "cnbeta:e130467ed782",
+          "title": "Google拓展Gemini企业版AI平台 深耕法律服务市场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.772,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574942.htm",
+          "published_at": "2026-08-25T14:54:04+00:00",
+          "summary": "<p>Google宣布扩展其Gemini Enterprise人工智能平台，专门为律师事务所和执业律师推出全新工具，这一举措进一步加剧了科技公司在满足法律行业AI需求方面的激烈竞争 。Google表示，新推出的Gemini Enterprise for Legal产品将帮助律师事务所借助人工智能处理日常及复杂事务，使律师能够将精力集中于更高价值的服务，同时确保数据的安全性与保密性 。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574942.htm\" target=\"_blank\"><strong>阅读全文</strong></a"
+        },
+        {
+          "id": "cnbeta:d16d700ff1f2",
+          "title": "奥特曼承认AI转型进度不及预期 人们对旧工具的依赖正在拖慢变革",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.769,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574938.htm",
+          "published_at": "2026-08-25T14:50:20+00:00",
+          "summary": "<p>OpenAI首席执行官萨姆·奥特曼近日表示，人工智能行业此前对技术普及与社会转型速度的预期过于乐观。尽管AI聊天机器人用户数量持续增长，但人们对熟悉工具、服务商和既有工作方式的依赖，正在让这场被寄予厚望的技术革命以更慢、更平稳的方式展开。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574938.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:07b673badfcc",
+          "title": "英伟达GeForce RTX 5060现身第三方AIB设计 罕见搭载GB205核心",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.764,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574932.htm",
+          "published_at": "2026-08-25T14:45:01+00:00",
+          "summary": "<p>英伟达GeForce RTX 5060官方定位为中端显卡，标准配置基于GB206 GPU核心，具备3840个CUDA核心、120个纹理单元（TMU）、48个光栅单元（ROP），并搭配总计8GB容量的GDDR7显存，采用128位总线设计。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574932.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:de946e9adcae",
+          "title": "苹果发布M6芯片 首款采用2纳米工艺的处理器",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.761,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574926.htm",
+          "published_at": "2026-08-25T14:40:52+00:00",
+          "summary": "<p>苹果公司今日正式发布M6芯片，这是该公司首款采用2纳米制程工艺打造的处理器，并搭载双16核神经网络引擎。苹果表示，2纳米工艺能够在更小的芯片面积内集成更高密度的晶体管，从而全面提升芯片的性能表现与能效水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574926.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:60130c4bb760",
+          "title": "苹果发布M5 Ultra芯片：首次采用四芯粒架构 AI算力最高提升4.3倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.756,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574924.htm",
+          "published_at": "2026-08-25T14:34:42+00:00",
+          "summary": "<p>苹果今日正式发布M5 Ultra芯片，并称其为迄今性能最强大的自研芯片。该芯片首次在M系列中引入四芯粒架构，通过新一代UltraFusion互连技术，将两颗双芯粒M5 Max整合为统一处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574924.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

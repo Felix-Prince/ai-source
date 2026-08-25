@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T13:23:43.051902+00:00",
-    "generated_ts": 1787664223.0519023,
+    "generated_at": "2026-08-25T19:05:18.934805+00:00",
+    "generated_ts": 1787684718.9348052,
     "window_hours": 24.0,
-    "total": 20
+    "total": 30
   },
   "items": [
+    {
+      "id": "openai_blog:d4621d317a27",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "published_ts": 1787641200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 3.174
+    },
     {
       "id": "venturebeat:9e3bbb1ec009",
       "source": "venturebeat",
@@ -37,6 +52,36 @@
       "importance": 2.874
     },
     {
+      "id": "venturebeat:94b829fb89f3",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
+      "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+      "summary": "<p>A CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for <a href=\"https://www.scworld.com/brief/prompt-injection-remains-top-llm-threat-owasp-report-finds\">three consecutive years</a>. When two leaders of that list checked it against 6,639 labeled real-world incidents, it came back at No. 12. The drop measures visibility rather than danger, because the attack operates where a vulnerability scanner cannot see it.</p><p>That finding belongs to Kyriakos “Rock” Lambros and Steve Wilson, <a href=\"https://genai.owasp.org/contributors/\">two leaders of the OWASP Top 10 for LLM Applications project</a>, who <a href=\"https://arxiv.org/html/2608.19266v1\">published it on arXiv on August 18</a> with the disclaimer attached. The analysis is exploratory, not peer reviewed, and not the official OWASP release, and the authors state it does not supersede the official list or its process.</p><p>The machinery behind it is real: 7,714 LLM security incidents from CVE, GitHub Security Advisories, OSV, and the AIAAIC AI-harm database, 6,639 of them labeled against a 20-entry taxonomy, and a Bayesian model that corrects each count for classifier error before setting the data-driven ranking beside the expert vote.</p><p>The comparison found no statistically detectable agreement between expert judgment and the public incident record. Cohen’s kappa comes in at 0.20 with a 90% interval running from negative 0.16 to 0.57. “The interval crosses zero, so we cannot rule out that the two rankings agree only by chance,” they write. “The honest bottom line: weak agreement, not confirmation.”</p><p>Lambros, co-lead of the OWASP GenAI Security Project Top 10 for LLM Applications and director of AI standards and governance at Zenity, put the finding in evidentiary terms in written answers to VentureBeat. “We had two ways of measuring the same risk, expert judgment and the public incident record, and they disagree with each other. Neither one is the truth,” Lambros said. “Two witnesses are contradicting each other, and we can’t tell you which one is lying.”</p><h2>The attack chain a scanner never logs </h2><p>The gap is structural. Prompt injection hides instructions inside the content a model reads, anything from a log entry to a support ticket to a document pulled back by retrieval. The agent then makes the tool call the attacker wanted, using credentials it legitimately holds. Nothing in that chain is a product defect, so the attack leaves no CVE behind for a scanner to find.</p><p>The defenses that catch it are adversarial tests against the deployed system and hard caps on what the agent can reach, so a fooled model cannot touch anything expensive. The same logic argues for funding agent memory and MCP tool boundaries now, on architecture, rather than waiting for advisory volume that will always arrive a cycle late.</p><h2>The first control Wilson would deploy </h2><p>Wilson, Chief AI and Product Officer at Exabeam and project co-lead for the OWASP Top 10 for LLM Applications, named the control he would deploy first against exactly that chain, an agent that reads an attacker’s payload in a log file, treats it as an instruction, and rewrites DNS with a valid credential, in written responses to VentureBeat.</p><p>“The first thing I’d do is put an authorization gate outside the model: the agent can propose the exact DNS change, but it cannot grant itself the authority to make it,” Wilson said. “Security rules written inside prompts may shape the model’s behavior, but they are still suggestions to the model, not enforceable security controls.”</p><p>The gate has a price, and Wilson states it plainly. “The tradeoff is that the agent loses the ability to improvise arbitrary, high-impact infrastructure changes on its own, while retaining autonomous investigation and routine, bounded remediation,” he said.</p><h2>Why the No. 1 risk looks small in the record </h2><p>“Prompt injection is the best-understood LLM attack, and deployed systems defend against it actively,” the authors write, and they compress the whole divergence into one sentence. “Experts rank it first because the attack surface stays enormous even when the defenses mostly hold; the data sees the successes that got through.”</p><p>Wilson has watched the gap from both sides of it. “Incident data is incredibly valuable, but it is inherently backward-looking and notoriously tricky to interpret,” he said. “It tells us what was observed, recognized, classified, and reported. It does not necessarily tell us what is most dangerous in the systems people are building right now.”</p><p>He compares prompt injection to “death and taxes” and, increasingly, to “a law of physics for LLM systems,” because one model is being asked to interpret trusted instructions and untrusted content at the same time.</p><p>Better defenses have not closed the case. “A control that works 99% of the time is not sufficient when the failure case gives an attacker meaningful access. And, frankly, I don’t think we are at 99%,” Wilson said. “The durable answer is not believing we can perfectly screen prompt injection out of existence. It is designing systems with the assumption that prompt injection will occur, understanding why it works, and limiting what an attacker can accomplish when it does.”</p><p>A low advisory count can mean the defenses are working. It can just as easily mean nobody has looked, and the public record cannot tell a security team which one it is.</p><p>The attempt volume is documented. CrowdStrike’s <a href=\"https://www.crowdstrike.com/en-us/press-releases/2026-crowdstrike-global-threat-report/\">2026 Global Threat Report</a> found adversaries injected malicious prompts into legitimate GenAI tools at more than 90 organizations in 2025, stealing credentials and cryptocurrency, under a section titled “Prompts are the New Malware.” The telemetry shows pressure on the attack surface without proving defenses produced the No. 12 placement, but it is the pattern the mechanism predicts.</p><h2>The gap runs the other way too, and further </h2><p>Prompt injection is the headline case, and misinformation is the bigger one.</p><p>The expert vote puts misinformation at No. 13, while the incident record places it at No. 2. The paper calls it “the widest disagreement between the two witnesses” and reports that its concordance flag “puts the probability that the two signals disagree at 99 percent.”</p><p>The authors do not treat their own data as the winner. On misinformation they note the corpus “carries a large volume of deepfake and AI-generated disinformation,” records that often “describe harm produced by an AI rather than a vulnerability inside an LLM.” The authors call it the entry the record most disputes, stopping short of concluding the experts got it wrong.</p><h2>Where “too new to measure” runs into the CVE record </h2><p>The two brand-new taxonomy entries sit at the sharpest end. Persistent memory poisoning lands at expert No. 4 and incident No. 16, MCP tool interface exploitation at expert No. 7 and incident No. 16, each with an incident interval of 6 to 20 that spans most of the taxonomy.</p><p>Public 2026 CVEs exist for both. On MCP tool interfaces, the Azure Data Explorer MCP Server carried KQL injection, and the CVE record describes it allowing “an attacker (or a prompt-injected AI agent) to execute arbitrary KQL queries against the Azure Data Explorer cluster,” <a href=\"https://www.tenable.com/cve/CVE-2026-33980\">scored 8.3 High</a>. <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2026-13341\">Kong’s Konnect MCP Server shipped an indirect prompt injection</a> that lets a remote attacker steer the server into executing unintended API requests, the exact failure the MCP entry names.</p><p>Agent memory has its own record. An agent harness, Ruflo, exposed unauthenticated MCP bridge endpoints that let a network attacker obtain a shell, read provider API keys, and poison the learning store, rated <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2026-59726\">10.0 Critical</a>.</p><p>The record is so thin and uncertain that the model cannot place either entry within 14 rank positions. A team waiting for advisory volume to justify a control on agent memory or an MCP tool boundary would still be waiting while the CVEs accumulate at Critical and High.</p><p>Lambros makes the budget case in operational terms. Poisoned memory “doesn’t announce itself,” he said. It looks like a procurement agent told once that invoices from a given supplier under $50,000 clear without a second signature, and because the agent remembers, every approval after that looks like the process working. “Nobody files an advisory for that, because nobody knows it happened. A count of zero is measuring your blindness, not your safety.” The argument he says a CFO will sign off on is timing, since memory and tool permissions get wired into these systems once, early, and everything else sits on top of them. “Build it in now and it’s a rounding error. Come back in two years and you’re re-architecting and re-training your systems.”</p><h2>The authors flag their own measurement problems first </h2><p>The expert side is thin. “The expert signal is a practitioner survey: about 29 respondents scored each candidate risk on importance,” the authors write. Twenty-nine votes set the ranking that carries three-quarters of the published list’s weight, the compression point for OWASP’s <a href=\"https://www.prnewswire.com/news-releases/owasp-genai-security-project-expands-ai-security-frameworks-ahead-of-rsa-2026-celebrates-continued-sponsor-support-302718289.html\">more than 25,000 community members</a>.</p><p>On the data side, the classifier is the weak joint. Precision “varies sharply across entries, from 93% (LLM01, LLM03) down to 13% (LLM08),” four entries fall below 50%, and the base classifier “never predicts ‘out of scope’ and files every incident into some category, including the roughly 38% of the gold set that belongs in none.”</p><p>The authors name the central limitation themselves. One reviewer adjudicated all 1,200 gold-set incidents and overrode the model consensus on 553 of them. “A single annotator cannot measure inter-rater reliability,” they write. “The single-author gold set remains the central limitation.”</p><p>Lambros lays the weak kappa at the feet of the taxonomy itself. “That number is telling you about our categories, not about our experts,” he said. When the people who wrote a taxonomy cannot reliably sort incidents into it, he argues, “a weak score on the ordering of those buckets is a fact about the buckets.”</p><p>A better classifier will not fix the disagreement. A pre-registered bake-off of four frontier models produced no winner. None beat the incidence floor’s balanced accuracy of 0.863, and a ground-truth check left the floor’s ordering in place at a Spearman correlation of 0.918. The authors published <a href=\"https://github.com/rocklambros/incident-rank-validation\">the engine and artifacts on GitHub</a> for anyone to rerun.</p><p>The robustness result tested only one side of the gap. Every check behind the abstract’s word “robust” runs on the incident side, showing the incident-derived ranking stays put when the labeling machinery changes, and none of it touches the 29-vote survey. A board that hears “robust” will assume validated, yet the record supports only stable.</p><h2>What the published list did with this </h2><p>OWASP shipped the <a href=\"https://genai.owasp.org/llm-top-10/\">GenAI LLM Top 10 2026 on August 4</a>, the first edition to fold incident data into the ranking, weighting the practitioner vote at 75% and the incident corpus at 25%. Prompt injection stayed at No. 1, misinformation moved up two places, excessive agency <a href=\"https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency\">climbed from No. 6 to No. 3</a> as the entry where the two signals agree most clearly, unbounded consumption <a href=\"https://hackerdna.com/blog/owasp-llm-top-10\">rose four spots to No. 6</a>, and improper output handling <a href=\"https://www.helpnetsecurity.com/2026/08/06/owasp-2026-llm-top-10-released/\">fell from No. 5 to No. 10</a>, the largest drop.</p><p>Wilson declines to defend the blend as arithmetic. “There is nothing magical about a 75/25 weighting,” he said, “or about reversing it to 25/75. The value of the data wasn’t that it gave us a mathematical answer; it changed the conversation.” The excessive agency entry is where that conversation landed hardest for him. “If I were a CISO evaluating a new agentic deployment today, Excessive Agency is where I would start,” Wilson said.</p><p>Lambros would go further next cycle, a view he flags as his own and separate from the working group. The blend hands the same 25% incident weight to every category, while the hand-checked classifier precision runs from roughly nine in 10 on prompt injection and supply chain down to roughly one in eight on vector and embedding weaknesses. A quarter of the weight on the first rides on something solid, he argues, and the same quarter on the second rides on noise. “The ratio should track how well we actually measure each category,” Lambros said.</p><h2>Why this lands now </h2><p>Ivanti’s <a href=\"https://www.ivanti.com/company/press-releases/2026/adopting-agentic-ai-is-a-priority-for-87-of-security-teams-according-to-ivanti-s-research\">2026 State of Cybersecurity research</a> found 87% of security teams call adopting agentic AI a priority and 77% report at least some comfort letting AI act without human review. Teams are signing off on agent autonomy while the expert ranking of what can go wrong with those agents shows no statistically detectable agreement with the incident record.</p><h2>What to do with this on Monday </h2><p>The behavioral change is narrow and it is the whole point.</p><ul><li><p><b>Use the OWASP LLM Top 10 as a coverage map, not a queue. </b>The rank positions carry 29 votes and a corpus whose own authors call the agreement weak, so build your own priority order from your own exposure: production reach, breach-notification data, and controls that have actually been tested. Lambros draws the funding line the same way. “I’d prioritize spend where the expert vote and the incident record point the same direction, because that’s two independent witnesses agreeing,” he said. “Where they split, stop letting the ranking allocate your money and go look at what your own systems are doing.”</p></li><li><p><b>Log what your AI systems are actually doing, field by field. </b>The prompt that went in, what came back out, the documents pulled to build the answer, the tools called and the arguments passed to them, and the model’s confidence score on every response. Confidence is the field Lambros would fight for, because most security leaders do not realize it is measurable, and it is where the attack surfaces. “A model running on a poisoned instruction doesn’t act broken. It acts certain,” he said. “Certainty is what your monitoring treats as a healthy system.” The cost is a sprint or two of engineering. The constraint is a person, because a SIEM does events and these are trends. “Somebody has to analyze those trends every week and say whether a drift means anything, and most security teams have nobody who can.”</p></li><li><p><b>Stop expecting scanner output to reproduce the Top 10’s order. </b>Scanner findings live on the incident side of the gap, counting what got disclosed rather than what a deployed system should fear, and the classifier bake-off shows a smarter model does not close that distance. The test that sees prompt injection is an adversarial one run against the live system, paired with Wilson’s authorization gate so the change an injected agent proposes is never the change it can execute.</p></li><li><p><b>Fund the thin-record categories on architecture, not incident volume. </b>Agent memory and MCP tool boundaries sit at expert No. 4 and No. 7 with incident intervals spanning most of the taxonomy, and the CVEs that do exist are landing at High and Critical. Kayne McGladrey, an IEEE senior member who advises enterprises on risk, put the funding logic bluntly in <a href=\"https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them\">an interview with VentureBeat</a>. “Anything that seems to have a cybersecurity flavor is generally put into the cybersecurity risk category, which is a complete fiction,” McGladrey said. “They should be focused on business risks, because if it doesn’t affect the business, like a financial loss, then nobody’s going to pay attention to it, and they will not budget it appropriately.” A rank number from a 29-person vote is a weaker budget argument than the business system the agent touches.</p></li><li><p><b>Steal McGladrey’s baseline test for the AI systems themselves. </b>“If you wouldn’t expose your database to the public internet without identity and access controls, why would you do that for your AI model?” he said in <a href=\"https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html\">CSO Online’s analysis of 2026 breach costs</a>.</p></li></ul><p>The board question for the next meeting is short. If our AI risk ranking came from a 29-person vote and a corpus that disagrees with it, what are we actually using to decide which controls get funded next year?</p>",
+      "published_at": "2026-08-25T17:24:22+00:00",
+      "published_ts": 1787678662.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.858
+    },
+    {
+      "id": "cnbeta:9165a0a3ddfe",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI\"Jalapeño\"芯片跑分公开 推理性能超越英伟达旗舰GPU",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574946.htm",
+      "summary": "<p>OpenAI于本周二发布博文称，其自研人工智能芯片&quot;Jalapeño&quot;（辣椒）在完成任务效率和响应速度方面均优于当前其他人工智能系统。在与媒体记者的通气会上，OpenAI硬件副总裁Richard Ho表示，Jalapeño实现了&quot;两者兼得&quot;，同时具备更低的延迟和更高的吞吐量，而以往的人工智能系统通常需要在这两项指标之间做出取舍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574946.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T15:13:33+00:00",
+      "published_ts": 1787670813.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.683
+    },
+    {
       "id": "the_verge:534264c4a11b",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -50,6 +95,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.662
+    },
+    {
+      "id": "cnbeta:00b3e0c3a7c6",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
+      "summary": "<p>OpenAI已封禁一批来自俄罗斯、被用于支持网络虚假信息传播活动的ChatGPT账号。该公司表示，这些账号参与了一项隐蔽的线上影响力行动，试图借助人工智能生成内容、塑造特定叙事并掩盖操作者的真实来源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:51:55+00:00",
+      "published_ts": 1787669515.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.656
     },
     {
       "id": "cnbeta:f00295f91564",
@@ -82,6 +142,21 @@
       "importance": 2.621
     },
     {
+      "id": "techcrunch:4784aeaa65a6",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "published_at": "2026-08-25T14:22:04+00:00",
+      "published_ts": 1787667724.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.618
+    },
+    {
       "id": "cnbeta:cdd6a4127803",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -112,6 +187,21 @@
       "importance": 1.984
     },
     {
+      "id": "cnbeta:eb42a3320200",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达DLSS 4.5光线重建开放早期体验 全系RTX显卡可用",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574954.htm",
+      "summary": "<p>在2026年科隆游戏展期间，英伟达继续扩展其DLSS技术栈，正式推出采用第二代Transformer模型的DLSS 4.5光线重建技术。该功能现已通过NVIDIA App以早期体验形式上线，覆盖GeForce RTX 20系列及之后发布的全部RTX显卡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T18:12:41+00:00",
+      "published_ts": 1787681561.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.95
+    },
+    {
       "id": "cnbeta:488fc84596cb",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -140,6 +230,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.932
+    },
+    {
+      "id": "techcrunch:063278c33d66",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "published_at": "2026-08-25T17:50:33+00:00",
+      "published_ts": 1787680233.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.929
     },
     {
       "id": "techcrunch:42192bc4f9e5",
@@ -187,34 +292,79 @@
       "importance": 1.862
     },
     {
-      "id": "techcrunch:08758c973ea4",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "published_at": "2026-08-24T15:24:18+00:00",
-      "published_ts": 1787585058.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:e130467ed782",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google拓展Gemini企业版AI平台 深耕法律服务市场",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574942.htm",
+      "summary": "<p>Google宣布扩展其Gemini Enterprise人工智能平台，专门为律师事务所和执业律师推出全新工具，这一举措进一步加剧了科技公司在满足法律行业AI需求方面的激烈竞争 。Google表示，新推出的Gemini Enterprise for Legal产品将帮助律师事务所借助人工智能处理日常及复杂事务，使律师能够将精力集中于更高价值的服务，同时确保数据的安全性与保密性 。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574942.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:54:04+00:00",
+      "published_ts": 1787669644.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.797
+      "importance": 1.772
     },
     {
-      "id": "techcrunch:c1308037c07e",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "published_at": "2026-08-24T15:00:00+00:00",
-      "published_ts": 1787583600.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:d16d700ff1f2",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "奥特曼承认AI转型进度不及预期 人们对旧工具的依赖正在拖慢变革",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574938.htm",
+      "summary": "<p>OpenAI首席执行官萨姆·奥特曼近日表示，人工智能行业此前对技术普及与社会转型速度的预期过于乐观。尽管AI聊天机器人用户数量持续增长，但人们对熟悉工具、服务商和既有工作方式的依赖，正在让这场被寄予厚望的技术革命以更慢、更平稳的方式展开。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574938.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:50:20+00:00",
+      "published_ts": 1787669420.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.776
+      "importance": 1.769
+    },
+    {
+      "id": "cnbeta:07b673badfcc",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达GeForce RTX 5060现身第三方AIB设计 罕见搭载GB205核心",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574932.htm",
+      "summary": "<p>英伟达GeForce RTX 5060官方定位为中端显卡，标准配置基于GB206 GPU核心，具备3840个CUDA核心、120个纹理单元（TMU）、48个光栅单元（ROP），并搭配总计8GB容量的GDDR7显存，采用128位总线设计。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574932.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:45:01+00:00",
+      "published_ts": 1787669101.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.764
+    },
+    {
+      "id": "cnbeta:de946e9adcae",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果发布M6芯片 首款采用2纳米工艺的处理器",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574926.htm",
+      "summary": "<p>苹果公司今日正式发布M6芯片，这是该公司首款采用2纳米制程工艺打造的处理器，并搭载双16核神经网络引擎。苹果表示，2纳米工艺能够在更小的芯片面积内集成更高密度的晶体管，从而全面提升芯片的性能表现与能效水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574926.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:40:52+00:00",
+      "published_ts": 1787668852.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.761
+    },
+    {
+      "id": "cnbeta:60130c4bb760",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果发布M5 Ultra芯片：首次采用四芯粒架构 AI算力最高提升4.3倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574924.htm",
+      "summary": "<p>苹果今日正式发布M5 Ultra芯片，并称其为迄今性能最强大的自研芯片。该芯片首次在M系列中引入四芯粒架构，通过新一代UltraFusion互连技术，将两颗双芯粒M5 Max整合为统一处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574924.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T14:34:42+00:00",
+      "published_ts": 1787668482.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.756
     },
     {
       "id": "cnbeta:1c835935b79d",
