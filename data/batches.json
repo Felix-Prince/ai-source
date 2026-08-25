@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T07:13:57.123764+00:00",
+    "generated_at": "2026-08-25T13:23:43.051902+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6984,6 +6984,72 @@
           "url": "https://www.tmtpost.com/8115543.html",
           "published_at": "2026-08-25T01:59:14+00:00",
           "summary": "存储芯片成本飙升重塑AI产业定价链，从英伟达调价到云厂商自研芯片加速。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-25T13:23:43.051902+00:00",
+      "generated_ts": 1787664223.0519023,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 14,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:9e3bbb1ec009",
+          "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.966,
+          "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+          "published_at": "2026-08-25T13:00:00+00:00",
+          "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> is launching <a href=\"https://www.perplexity.ai/hub/products/portable-computer\">Portable Computer</a> today, a version of its agentic <a href=\"https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-a"
+        },
+        {
+          "id": "the_verge:534264c4a11b",
+          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.662,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+          "published_at": "2026-08-25T09:15:03+00:00",
+          "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violat"
+        },
+        {
+          "id": "techcrunch:42192bc4f9e5",
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.921,
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "published_at": "2026-08-25T12:00:00+00:00",
+          "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+        },
+        {
+          "id": "tmtpost:47db03d100ae",
+          "title": "OpenAI 的 2027：资本周期下的上市平衡术",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.891,
+          "url": "https://www.tmtpost.com/8115750.html",
+          "published_at": "2026-08-25T11:27:08+00:00",
+          "summary": "市场普遍将 OpenAI 规划 2027 年 IPO 视为技术兑现与万亿估值冲刺的行业里程碑。本文以资本久期匹配 + 6000 亿表外算力负债双框架拆解：上市并非单纯的技术高光时刻，而是资本周期与产业投入节奏相互校准的结构性平衡。"
+        },
+        {
+          "id": "tmtpost:3c1826ab6c96",
+          "title": "启智加码机器人技能服务，HumanGPT向真实作业数据要能力",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.862,
+          "url": "https://www.tmtpost.com/8116327.html",
+          "published_at": "2026-08-25T10:54:51+00:00",
+          "summary": "机器人公司交付的内容，已经越过硬件本体，延伸到技能的采集，训练和持续更新。"
         }
       ]
     }
