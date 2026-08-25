@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T19:06:51.695632+00:00",
+    "generated_at": "2026-08-25T01:56:30.735200+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6822,6 +6822,42 @@
           "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
           "published_at": "2026-08-24T15:00:00+00:00",
           "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-25T01:56:30.735200+00:00",
+      "generated_ts": 1787622990.7352002,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:162a3c406653",
+          "title": "马斯克在对Cursor员工的讲话中承认Grok在人工智能竞赛中落后",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.984,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574768.htm",
+          "published_at": "2026-08-25T01:39:30+00:00",
+          "summary": "<p>据知情人士透露，本月早些时候，就在SpaceX宣布完成对Cursor公司600亿美元收购的当天，埃隆·马斯克召开了一次全体员工视频会议，与这家软件开发公司的员工进行了交流。据五位了解此次会议的人士透露，马斯克向与会者表示，SpaceX的人工智能部门已经落后于竞争对手，而他不习惯遭遇失败。与特斯拉或SpaceX在各自行业中占据主导地位不同，SpaceXAI旗下的Grok并非市场领导者，亟需追赶。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574768.htm\" target=\"_blank\"><strong>阅读全文</st"
+        },
+        {
+          "id": "cnbeta:e00d05d77dbe",
+          "title": "传三星Exynos 2700内部测试已跑赢骁龙8至尊版Gen6 Pro",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.676,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574756.htm",
+          "published_at": "2026-08-24T19:49:24+00:00",
+          "summary": "<p>三星猎户座2700（Exynos 2700）在内部测试中全面击败高通骁龙8至尊Gen6系列芯片，测试涵盖CPU、GPU、NPU及功耗效率等多个维度，结果令三星LSI内部颇为振奋。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574756.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

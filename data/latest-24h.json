@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T19:06:51.695632+00:00",
-    "generated_ts": 1787598411.6956315,
+    "generated_at": "2026-08-25T01:56:30.735200+00:00",
+    "generated_ts": 1787622990.7352002,
     "window_hours": 24.0,
-    "total": 16
+    "total": 11
   },
   "items": [
     {
@@ -67,79 +67,19 @@
       "importance": 2.796
     },
     {
-      "id": "tmtpost:0ac222e1ba8e",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
-      "url": "https://www.tmtpost.com/8113453.html",
-      "summary": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人、固态动力电池等纳入质量强链二期攻关方向；消息人士：博通债务交易规模预计最高可达700亿美元；2026年度电影总票房超270亿，暑期档成绩刷新两项纪录",
-      "published_at": "2026-08-23T23:20:00+00:00",
-      "published_ts": 1787527200.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.775
-    },
-    {
-      "id": "cnbeta:50d7181e4170",
+      "id": "cnbeta:162a3c406653",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI CEO萨姆·奥特曼：担忧AI被少数巨头垄断 但过度防范无异于“以自由换安全”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574624.htm",
-      "summary": "<p>OpenAI首席执行官萨姆·奥特曼近日对人工智能的未来发展表达了深切担忧。他警告称，AI技术最终可能会被少数几家公司、个别模型或极少数人所垄断，这将导致绝大多数消费者在AI如何重塑世界的进程中丧失发言权。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574624.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T23:16:47+00:00",
-      "published_ts": 1787527007.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.771
-    },
-    {
-      "id": "venturebeat:9f3f0ce4c9f6",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "summary": "<p>Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.</p><p>As organizations deploy more <a href=\"https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone\">AI applications and agents</a>, this model begins to break down. Different teams process the same documents, maintain separate embeddings and indexes, and create inconsistent representations of the same business knowledge. The challenge is no longer simply providing context to AI systems — it is managing enterprise knowledge itself.</p><h2><b>Why building context is not enough for enterprise AI</b></h2><p>The common approach to enterprise AI today is to build context for individual applications. Teams connect enterprise systems, process the required information, generate retrieval representations such as chunks and embeddings, and assemble the context an agent needs at runtime. While this works for a single application, it does not manage enterprise knowledge as a shared enterprise asset.</p><p>As organizations deploy more AI applications, this approach begins to break down for three reasons.</p><p>First, knowledge becomes inconsistent. Enterprise knowledge is distributed across many independent systems with different schemas, business definitions, and update cycles. The same product, customer, or business process may be described differently — or even contradict itself — across documents, Jira tickets, source code, CRM systems, and metadata. Extracting this information into context does not resolve these inconsistencies; it simply transfers them to the AI application, causing different agents to develop different understandings of the business.</p><p>Second, changes become difficult to propagate. Enterprise knowledge evolves continuously, but each application maintains its own context pipeline. As documents, code, and business definitions change, downstream chunks, embeddings, indexes, and agent context are updated independently, causing AI applications to operate on different versions of the same knowledge.</p><p>Finally, organizations repeatedly rebuild the same <a href=\"https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm\">knowledge pipelines</a>. Different teams process the same enterprise knowledge, generate similar embeddings, maintain separate indexes, and construct overlapping context for different applications, resulting in duplicated engineering effort, unnecessary infrastructure costs, and fragmented knowledge.</p><p>These are not fundamentally context engineering problems —they are knowledge management problems. Enterprise data platforms solved the same challenge for structured data by managing enterprise data once and sharing it across applications. Enterprise AI now requires the same architectural discipline: a shared enterprise knowledge platform that manages knowledge once and publishes reusable representations for every AI application.</p><h2><b>A layered data and knowledge management system</b></h2><p>An enterprise knowledge platform is the equivalent of an enterprise data platform for enterprise knowledge. Instead of treating documents, source code, Jira tickets, emails, APIs, and other enterprise systems as isolated inputs for individual AI applications, it manages them as a shared enterprise asset. It ingests, organizes, integrates, governs, and publishes enterprise knowledge through a common architecture so that every AI application consumes the same trusted knowledge foundation rather than maintaining its own context.</p><p>To achieve this, the platform separates knowledge management into four layers with distinct responsibilities. Knowledge is first preserved in its original form, then normalized into managed knowledge objects, connected into a common enterprise knowledge model, and finally published in representations optimized for different <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">AI applications</a>. This separation allows each stage to evolve independently while providing a consistent foundation for every downstream application.</p><p>The platform organizes enterprise knowledge into four layers:</p><p><b>Raw → Refined → Integrated → Serving</b></p><ul><li><p><b>Raw</b> preserves the original enterprise sources.</p></li><li><p><b>Refined</b> transforms heterogeneous sources into managed knowledge objects.</p></li><li><p><b>Integrated</b> connects knowledge across systems into a unified enterprise knowledge model.</p></li><li><p><b>Serving</b> publishes reusable and agent-specific representations for AI applications.</p></li></ul><h2><b>Raw layer – preserve the source</b></h2><p>The raw layer captures information from enterprise systems while preserving its original form and source identity. This may include database records and change events, PDFs and other documents, Confluence pages, Jira tickets, source code, API responses, emails, images, and event streams.</p><p>The purpose of this layer is not to make information ready for an agent. It is to maintain a reliable source from which the platform can rebuild downstream knowledge. If extraction logic changes, a model improves, or a downstream representation becomes corrupted, the information can be processed again without depending on an application-specific copy.</p><h2><b>Refined layer – normalize enterprise knowledge</b></h2><p>The refined layer transforms heterogeneous enterprise sources into managed knowledge objects. Each source is normalized into a consistent representation while preserving its identity, metadata, permissions, versions, lineage, and references to the original content. </p><p>For example, a product requirement document is transformed into a structured knowledge object containing metadata such as document ID, product ID, title, source system, author, version, permissions, tags, creation time, and last modification time, together with its associated content. This representation provides a consistent way to manage enterprise knowledge regardless of whether the source is a document, Jira ticket, source code repository, email, or API.</p><p>At this stage, the platform is not trying to connect different domains. Instead, it establishes a <a href=\"https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority\">reusable and governed representation</a> for every enterprise knowledge source. Once each source has been normalized into structured or semi-structured knowledge objects, the integrated layer can connect them through shared business entities and relationships.</p><h2><b>Integrated layer – build the enterprise knowledge model</b></h2><p>The integrated layer transforms independent knowledge objects into a unified enterprise knowledge model. It serves two purposes: Connecting knowledge across systems and business domains, and modeling the business relationships that AI needs for reasoning.</p><p><a href=\"https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag\">Knowledge</a> is connected using shared business identifiers (such as product or customer IDs), explicit cross-system references (such as Jira and Git links), or AI-based entity resolution when no direct relationship exists. For example, a product requirement document describing “Bulk Invoice Upload,” a Jira story titled “Implement Invoice Upload API,” and a release note announcing the same feature may all refer to the same business capability, even though no explicit relationship exists among them.</p><p>Once connected, the platform models business relationships based on business logic such as implemented<i>_by, contains, belongs_to, affects, and depends_on</i>, capturing how the business actually operates rather than simply how records are linked.</p><p>Unlike traditional primary and foreign key relationships, these relationships describe business workflows, dependencies, ownership, and business impact. They allow AI to trace knowledge across engineering, product, customer support, finance, and other domains using a shared understanding of the enterprise.</p><h2><b>Serving layer – publish knowledge for AI</b></h2><p>The serving layer is similar to the context layer used in many enterprise AI applications, but it is built on top of a managed enterprise knowledge foundation. It transforms the enterprise knowledge model into representations optimized for different AI workloads. These representations fall into two categories.</p><p>The first is shared enterprise representations, which provide a common knowledge foundation for all AI applications. Examples include SQL views, search indexes, chunks, embeddings, graph models, and APIs that are created once and reused across the organization.</p><p>The second is agent-specific representations. Instead of maintaining separate copies of enterprise knowledge, the platform dynamically assembles task-specific context from the integrated knowledge model based on the needs of each agent. A Product Agent, Revenue Agent, and Customer Support Agent may all consume the same enterprise knowledge foundation while receiving different context tailored to their responsibilities.</p><p>The diagram clearly defines the high-level model of the serving layer:</p><p>                          Enterprise Knowledge Model\n                                        │\n                ┌─────────────────────┴─────────────────────┐\n                │                                               │\n                ▼                                               ▼\n     Shared Enterprise Representations         Agent-specific Representations\n   ┌───────────────────────────────┐         ┌──────────────────────────────┐\n   │ SQL Views                        │         │ Product Context                 │\n   │ Search Index                     │         │ Revenue Context                 │\n   │ Chunks                           │         │ Customer Context                │\n   │ Embeddings                       │         │ Planning Context                │\n   │ Graph                            │         │ Coding Context                  │\n   │ APIs                             │         │ ...                             │\n   └───────────────────────────────┘         └──────────────────────────────┘\n                │                                                │\n                └──────────────────────┬─────────────────────┘\n                                         │\n         ┌────────────────────────────┼────────────────────────────┐\n         ▼                               ▼                               ▼\n  Product Agent                   Revenue Agent                 Customer Agent</p><h2><b>Managed knowledge platform: The data foundation for AI</b></h2><p>Most current enterprise <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data\">knowledge systems</a> were built for people, not AI. Confluence pages and documents help employees record and share knowledge. Jira enables teams to plan work and collaborate. Metadata systems help analysts understand data assets. These systems organize information so that humans can search, interpret, and connect it using their own experience, knowledge, and judgment.</p><p>Large language models have fundamentally changed how enterprise knowledge is consumed. Machines can now understand natural language, reason over documents, and interact with enterprise knowledge in ways that were previously only possible for people. This shift requires more than new AI applications — it requires a new data foundation that manages enterprise knowledge as infrastructure rather than treating it as a single embedding.</p><p>This managed enterprise knowledge platform provides the data foundation for AI agents. It transforms human-oriented knowledge systems into AI-ready infrastructure by organizing enterprise knowledge into a consistent, reusable, and governed data platform. </p><p>This foundation enables system capabilities that are difficult or impossible to achieve when every AI application builds and manages its own context.</p><table><tbody><tr><td><p><b>Platform capability</b></p></td><td><p><b>What it enables</b></p></td></tr><tr><td><p><b>Knowledge lifecycle management</b></p></td><td><p>Incremental loading, change propagation, version management, and historical reasoning without rebuilding every context pipeline.</p></td></tr><tr><td><p><b>Governance and trust</b></p></td><td><p>End-to-end lineage, traceability, permissions, ownership, quality controls, and explainable AI responses linked back to original enterprise sources.</p></td></tr><tr><td><p><b>Reusable knowledge services</b></p></td><td><p>Shared search indexes, embeddings, graph models, SQL views, APIs, and dynamic context assembly that can be reused across applications instead of rebuilt for every agent.</p></td></tr><tr><td><p><b>Continuous evolution</b></p></td><td><p>Independent evolution of storage, retrieval, embedding models, and AI applications, while allowing agent feedback to continuously improve enterprise knowledge.</p></td></tr></tbody></table><p>The platform also provides the foundation for human-in-the-loop and reinforcement learning workflows in agentic systems. Feedback generated by AI agents can be ingested back into the platform, validated, <a href=\"https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools\">governed</a>, and integrated into the enterprise knowledge model before being published to downstream AI applications. This creates a closed feedback loop that continuously improves enterprise knowledge and enables AI agents to evolve.</p><h2><b>The next competitive advantage is the enterprise data foundation</b></h2><p>Ever since ChatGPT 3 was released in late 2022, the industry has invested enormous effort in foundation models, RAG architectures, vector databases, embeddings, MCP, and multi-agent frameworks. These technologies have significantly improved how AI applications are built and deployed. Today, the AI application stack is rapidly maturing.</p><p>The next bottleneck is no longer the model or the agent framework. It is the enterprise data foundation behind them. AI agents are only as capable as the data and knowledge they consume. Better models cannot compensate for fragmented documents, inconsistent business definitions, disconnected systems, or poorly managed enterprise knowledge. Like every data-driven system before it, enterprise AI ultimately follows the same principle: Garbage in, garbage out.</p><p>The most important investment for enterprises is no longer building more AI agents, but building the enterprise knowledge platform that supports <i>every </i>agent. Organizations that treat enterprise knowledge as shared infrastructure rather than application-specific context will build more reliable AI, develop new applications faster, and scale AI across the enterprise without repeatedly rebuilding the same knowledge foundation. </p><p>The next competitive advantage in enterprise AI will not come from building more agents. It will come from building the data and knowledge foundation that every agent depends on.</p><p><b><i>Shuhua Xu is a Lead Data Engineer. </i></b></p>",
-      "published_at": "2026-08-23T23:00:00+00:00",
-      "published_ts": 1787526000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.749
-    },
-    {
-      "id": "cnbeta:2116e4af1d77",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美光警告算力增速超带宽3倍 AI持续发展亟需先进封装突破瓶颈",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574594.htm",
-      "summary": "<p>随着人工智能大语言模型的不断演进，内存技术正逐渐成为限制AI系统性能的核心瓶颈。在2026年Hot Chips大会上，美光科技（Micron）深入探讨了高带宽内存（HBM）的发展现状，指出当前AI行业正面临日益严峻的“内存墙”问题：计算能力的增速达到每两年三倍，而HBM带宽的增速却不足两倍。这种算力与内存带宽之间的发展失衡，正迫使业界寻求更先进的封装和工艺来应对随之而来的热管理挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574594.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T22:37:19+00:00",
-      "published_ts": 1787524639.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.719
-    },
-    {
-      "id": "cnbeta:f8084fd55d62",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "IPO前商业模式遭质疑：Anthropic最强模型遇冷 中国实惠模型受青睐",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574628.htm",
-      "summary": "<p>Anthropic的美国客户正转向价格更低的替代产品，放弃该公司性能最强的AI工具。在市场预期这家企业将迎来史上规模最大的首次公开募股（IPO）前夕，这一现象令外界对其高成本商业模式产生质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-24T00:56:50+00:00",
-      "published_ts": 1787533010.0,
+      "title": "马斯克在对Cursor员工的讲话中承认Grok在人工智能竞赛中落后",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574768.htm",
+      "summary": "<p>据知情人士透露，本月早些时候，就在SpaceX宣布完成对Cursor公司600亿美元收购的当天，埃隆·马斯克召开了一次全体员工视频会议，与这家软件开发公司的员工进行了交流。据五位了解此次会议的人士透露，马斯克向与会者表示，SpaceX的人工智能部门已经落后于竞争对手，而他不习惯遭遇失败。与特斯拉或SpaceX在各自行业中占据主导地位不同，SpaceXAI旗下的Grok并非市场领导者，亟需追赶。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574768.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-25T01:39:30+00:00",
+      "published_ts": 1787621970.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.939
+      "importance": 1.984
     },
     {
       "id": "tmtpost:a802d2b795b2",
@@ -187,36 +127,6 @@
       "importance": 1.828
     },
     {
-      "id": "cnbeta:4aa60d14abb8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "神秘“牛来”Ox Alpha掀翻硅谷 Google抢着认领被笑惨",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574604.htm",
-      "summary": "<p>就在这两天，AI圈因为一头来历不明的牛，又炸了！8月21日，一个叫Ox Alpha的模型悄没声地出现在OpenRouter和OpenCode上。免费开放一周，支持1M上下文，文本、图片和视频都能读。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574604.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T22:45:04+00:00",
-      "published_ts": 1787525104.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.819
-    },
-    {
-      "id": "cnbeta:07cefd8b448a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI失控模型的受害者 AI公司Hugging Face考虑出售估值130亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574602.htm",
-      "summary": "<p>据《商业内幕》报道，AI公司Hugging Face一直探索在出售公司的可能性，估值可能达到130亿美元或更高。知情人士透露，Hugging Face一直在与一家投行合作，评估潜在买家的兴趣，目前尚未达成任何交易。Hugging Face是一个平台，开发者可以在这里发布、分享和下载各种AI模型。这一谈判表明，随着AI行业日趋成熟，AI开发者平台的价值也越来越高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-23T22:43:56+00:00",
-      "published_ts": 1787525036.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.818
-    },
-    {
       "id": "techcrunch:08758c973ea4",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -245,6 +155,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.776
+    },
+    {
+      "id": "cnbeta:e00d05d77dbe",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "传三星Exynos 2700内部测试已跑赢骁龙8至尊版Gen6 Pro",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574756.htm",
+      "summary": "<p>三星猎户座2700（Exynos 2700）在内部测试中全面击败高通骁龙8至尊Gen6系列芯片，测试涵盖CPU、GPU、NPU及功耗效率等多个维度，结果令三星LSI内部颇为振奋。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574756.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-24T19:49:24+00:00",
+      "published_ts": 1787600964.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.676
     }
   ]
 }
