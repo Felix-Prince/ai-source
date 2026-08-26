@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T02:03:53.965667+00:00",
+    "generated_at": "2026-08-26T07:14:13.965317+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7203,6 +7203,92 @@
         "venturebeat": 7
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-26T07:14:13.965317+00:00",
+      "generated_ts": 1787728453.9653175,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:db71fc322286",
+          "title": "拒绝贝索斯重金邀约后 他们做出一款绕开Transformer的新AI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.774,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575000.htm",
+          "published_at": "2026-08-26T04:31:13+00:00",
+          "summary": "<p>8月26日，据路透社报道，曾被邀请加入贝索斯支持的AI公司Project Prometheus的两名研究人员，选择独立创业，并推出了一套不同于主流大语言模型的物理AI系统。其创办的Accelerated Understanding Inc称，该模型一次提示可处理5万亿个数据单元，规模约为Anthropic和Google旗舰模型通常可处理数据量的500万倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575000.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f69879c16fdb",
+          "title": "OpenAI首颗“辣椒”芯片压倒英伟达 GPT-6干崩CUDA",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.702,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574994.htm",
+          "published_at": "2026-08-26T03:36:39+00:00",
+          "summary": "<p>你敢信，OpenAI第一次做芯片，竟然把英伟达全系干趴下了？！就在刚刚，OpenAI首颗自研芯片Jalapeño，交出了首批实测成绩单——AI推理性能，全面反超英伟达GB200和GB300。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574994.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:56da15f56794",
+          "title": "《战争机器》之父称骂游戏DEI是生意 《地平线》女主很漂亮",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.858,
+          "url": "https://www.cnbeta.com.tw/articles/game/1575018.htm",
+          "published_at": "2026-08-26T04:40:44+00:00",
+          "summary": "<p>近日，《战争机器》系列创始人克利夫·布莱辛斯基（Cliff Bleszinski）就现代游戏中女性角色外貌引发的网络争议发表长篇评论。这位资深游戏设计师指出，网上绝大部分针对女性角色模型的攻击性言论，实为人为制造、利用社交媒体算法牟利的手段。网络批评者和博主们已构建起一条“愤怒产业链”——任何有争议的细节都会被无限放大，用以煽动情绪、博取点击量。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1575018.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:74c19ea65200",
+          "title": "OpenAI数据中心负责人离职 高管接连出走引发关注",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.852,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575008.htm",
+          "published_at": "2026-08-26T04:34:08+00:00",
+          "summary": "<p>OpenAI数据中心负责人Chris Malone近日已离开公司，成为这家顶尖AI公司近期接连出现的高管离职事件中的最新一例。据悉，Malone于2025年3月加入OpenAI，此前曾在Meta和Google负责数据中心基础设施工作，担任“杰出工程师”。他曾参与负责OpenAI雄心勃勃的基础设施建设计划，其中包括到2030年在算力方面投入约6000亿美元的目标。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7aa44eee4c5f",
+          "title": "前谷歌研究人员拟打造AI“裁判”系统 防范模型失控风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.799,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574988.htm",
+          "published_at": "2026-08-26T03:34:33+00:00",
+          "summary": "<p>处于人工智能发展的核心位置，以确保这项强大的技术保持安全，并降低其脱离创造者控制的风险。这在某种程度上是对当前科技行业常见做法的回应。在许多情况下，企业正利用人工智能来监管人工智能。自动化方式具有效率优势，而研究也表明，在发现模型漏洞方面，人工智能的表现可能优于人类。随着AI能力持续增强，这一差距可能进一步扩大。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574988.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:82820226b469",
+          "title": "OpenAI自研芯片取得关键突破：响应速度、能效表现击败英伟达GB300",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.798,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1574986.htm",
+          "published_at": "2026-08-26T03:32:31+00:00",
+          "summary": "<p>OpenAI声称其新款“Jalapeno”芯片在测试中的表现优于英伟达当前的产品阵容，凸显出该公司自主研发AI处理器取得的进展。OpenAI芯片业务负责人Richard Ho在接受采访时表示，该芯片与英伟达GB300进行了对比，该测试将GB300视为现有最领先的产品。在测试中，Jalapeno在两个指标上占据优势：单位功耗所能处理的AI工作量，以及响应的速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574986.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:462ff0700bca",
+          "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.791,
+          "url": "https://www.qbitai.com/2026/08/479631.html",
+          "published_at": "2026-08-26T03:25:00+00:00",
+          "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。"
+        }
+      ]
     }
   ]
 }

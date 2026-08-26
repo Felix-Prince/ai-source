@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T02:03:53.965667+00:00",
-    "generated_ts": 1787709833.965667,
+    "generated_at": "2026-08-26T07:14:13.965317+00:00",
+    "generated_ts": 1787728453.9653175,
     "window_hours": 24.0,
-    "total": 27
+    "total": 23
   },
   "items": [
-    {
-      "id": "openai_blog:d4621d317a27",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_ts": 1787641200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 3.174
-    },
     {
       "id": "venturebeat:9e3bbb1ec009",
       "source": "venturebeat",
@@ -37,21 +22,6 @@
       "importance": 2.966
     },
     {
-      "id": "tmtpost:d64de2743412",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "对话张朝阳：AI狂奔，为什么要做“反效率”内容",
-      "url": "https://www.tmtpost.com/8115155.html",
-      "summary": "在大模型算法追求极致效率的时代，保留一些“笨拙”的空间。",
-      "published_at": "2026-08-25T05:44:31+00:00",
-      "published_ts": 1787636671.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.874
-    },
-    {
       "id": "venturebeat:94b829fb89f3",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -65,6 +35,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.858
+    },
+    {
+      "id": "cnbeta:db71fc322286",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "拒绝贝索斯重金邀约后 他们做出一款绕开Transformer的新AI",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575000.htm",
+      "summary": "<p>8月26日，据路透社报道，曾被邀请加入贝索斯支持的AI公司Project Prometheus的两名研究人员，选择独立创业，并推出了一套不同于主流大语言模型的物理AI系统。其创办的Accelerated Understanding Inc称，该模型一次提示可处理5万亿个数据单元，规模约为Anthropic和Google旗舰模型通常可处理数据量的500万倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575000.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T04:31:13+00:00",
+      "published_ts": 1787718673.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.774
+    },
+    {
+      "id": "cnbeta:f69879c16fdb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI首颗“辣椒”芯片压倒英伟达 GPT-6干崩CUDA",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574994.htm",
+      "summary": "<p>你敢信，OpenAI第一次做芯片，竟然把英伟达全系干趴下了？！就在刚刚，OpenAI首颗自研芯片Jalapeño，交出了首批实测成绩单——AI推理性能，全面反超英伟达GB200和GB300。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574994.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T03:36:39+00:00",
+      "published_ts": 1787715399.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.702
     },
     {
       "id": "cnbeta:9165a0a3ddfe",
@@ -112,36 +112,6 @@
       "importance": 2.656
     },
     {
-      "id": "cnbeta:f00295f91564",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "中国AI为什么追得这么快？美媒找到一批关键人物",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574820.htm",
-      "summary": "<p>据《华尔街日报》报道，中国AI模型近年来快速缩小与美国头部模型的差距，其背后并非短期突然出现的技术突破，而是清华大学等高校长期形成的人才网络，以及开源技术、人才回流和更高算力效率等因素共同推动的结果。报道认为，以智谱AI联合创始人唐杰、月之暗面创始人杨植麟以及DeepSeek创始人梁文锋等人为代表的一批研究者，构成了中国这一轮AI追赶的重要力量。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574820.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:37:48+00:00",
-      "published_ts": 1787625468.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.627
-    },
-    {
-      "id": "cnbeta:2f0afb40d632",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英特尔披露Crescent Island加速卡：配备32个Xe3P核心 最高可选480GB LPDDR5X内存",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574814.htm",
-      "summary": "<p>英特尔在Hot Chips 2026大会上公布了代号“新月岛”（Crescent Island）的新一代加速卡更多细节。这款产品面向PC、工作站及数据中心边缘部署场景，主打高速人工智能推理，采用Xe3P GPU IP打造，整体为350W风冷PCIe扩展卡形态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574814.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:33:35+00:00",
-      "published_ts": 1787625215.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.621
-    },
-    {
       "id": "techcrunch:4784aeaa65a6",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -157,21 +127,6 @@
       "importance": 2.618
     },
     {
-      "id": "cnbeta:cdd6a4127803",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "阿拉巴马州就OpenAI自主入侵Hugging Face事件展开调查",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574798.htm",
-      "summary": "<p>美国阿拉巴马州总检察长办公室日前宣布，已向OpenAI发出传票，就该公司一款网络安全模型入侵人工智能数据集平台Hugging Face的事件展开调查。阿拉巴马州总检察长史蒂夫·马歇尔表示，监管部门将重点审查OpenAI在该事件中是否存在“完全缺乏监督及充分安全防护措施”的问题，并评估其未能或不愿确保产品安全的行为，是否违反该州消费者保护法律。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:19:20+00:00",
-      "published_ts": 1787624360.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.603
-    },
-    {
       "id": "cnbeta:eb42a3320200",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -185,36 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.95
-    },
-    {
-      "id": "cnbeta:488fc84596cb",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "高通第六代骁龙8超级至尊版主频突破5GHz",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574878.htm",
-      "summary": "<p><strong>有博主曝光了高通第六代骁龙8超级至尊版的关键参数。这颗芯片的型号为SM8975，采用全新的2+3+3 Oryon CPU架构，与上代2+6设计有所不同。</strong>其CPU由2颗5.01GHz超大核、3颗4.03GHz大核和3颗3.74GHz中核组成，并集成Adreno 850 GPU。对比上代第五代骁龙8至尊版4.6GHz的超大核主频，第六代骁龙8超级至尊版的主频进一步跃升，且已突破5GHz大关，成为目前行业内频率最高的手机芯片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574878.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T06:19:00+00:00",
-      "published_ts": 1787638740.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.948
-    },
-    {
-      "id": "cnbeta:d5ad69b1b941",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "IBM研发双架构主机芯片 单一核心可并行原生运行Arm与Z指令集",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574862.htm",
-      "summary": "<p>IBM正在开发一款面向下一代大型主机的双架构处理器，计划让Arm软件能够与IBM Z及LinuxONE代码在同一套处理器核心上直接运行。此举有望帮助企业在保留关键交易处理业务的同时，更便捷地引入基于Linux的云原生应用和人工智能工作负载。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T06:02:18+00:00",
-      "published_ts": 1787637738.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.932
     },
     {
       "id": "techcrunch:063278c33d66",
@@ -275,6 +200,81 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.862
+    },
+    {
+      "id": "cnbeta:56da15f56794",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "《战争机器》之父称骂游戏DEI是生意 《地平线》女主很漂亮",
+      "url": "https://www.cnbeta.com.tw/articles/game/1575018.htm",
+      "summary": "<p>近日，《战争机器》系列创始人克利夫·布莱辛斯基（Cliff Bleszinski）就现代游戏中女性角色外貌引发的网络争议发表长篇评论。这位资深游戏设计师指出，网上绝大部分针对女性角色模型的攻击性言论，实为人为制造、利用社交媒体算法牟利的手段。网络批评者和博主们已构建起一条“愤怒产业链”——任何有争议的细节都会被无限放大，用以煽动情绪、博取点击量。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1575018.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T04:40:44+00:00",
+      "published_ts": 1787719244.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.858
+    },
+    {
+      "id": "cnbeta:74c19ea65200",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI数据中心负责人离职 高管接连出走引发关注",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575008.htm",
+      "summary": "<p>OpenAI数据中心负责人Chris Malone近日已离开公司，成为这家顶尖AI公司近期接连出现的高管离职事件中的最新一例。据悉，Malone于2025年3月加入OpenAI，此前曾在Meta和Google负责数据中心基础设施工作，担任“杰出工程师”。他曾参与负责OpenAI雄心勃勃的基础设施建设计划，其中包括到2030年在算力方面投入约6000亿美元的目标。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T04:34:08+00:00",
+      "published_ts": 1787718848.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.852
+    },
+    {
+      "id": "cnbeta:7aa44eee4c5f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "前谷歌研究人员拟打造AI“裁判”系统 防范模型失控风险",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574988.htm",
+      "summary": "<p>处于人工智能发展的核心位置，以确保这项强大的技术保持安全，并降低其脱离创造者控制的风险。这在某种程度上是对当前科技行业常见做法的回应。在许多情况下，企业正利用人工智能来监管人工智能。自动化方式具有效率优势，而研究也表明，在发现模型漏洞方面，人工智能的表现可能优于人类。随着AI能力持续增强，这一差距可能进一步扩大。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574988.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T03:34:33+00:00",
+      "published_ts": 1787715273.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.799
+    },
+    {
+      "id": "cnbeta:82820226b469",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI自研芯片取得关键突破：响应速度、能效表现击败英伟达GB300",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1574986.htm",
+      "summary": "<p>OpenAI声称其新款“Jalapeno”芯片在测试中的表现优于英伟达当前的产品阵容，凸显出该公司自主研发AI处理器取得的进展。OpenAI芯片业务负责人Richard Ho在接受采访时表示，该芯片与英伟达GB300进行了对比，该测试将GB300视为现有最领先的产品。在测试中，Jalapeno在两个指标上占据优势：单位功耗所能处理的AI工作量，以及响应的速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574986.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T03:32:31+00:00",
+      "published_ts": 1787715151.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.798
+    },
+    {
+      "id": "qbitai:462ff0700bca",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+      "url": "https://www.qbitai.com/2026/08/479631.html",
+      "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+      "published_at": "2026-08-26T03:25:00+00:00",
+      "published_ts": 1787714700.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.791
     },
     {
       "id": "cnbeta:e130467ed782",
@@ -350,66 +350,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.756
-    },
-    {
-      "id": "cnbeta:1c835935b79d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "马斯克加速太空数据中心布局：首批AI卫星明年发射 搭载英伟达芯片",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574828.htm",
-      "summary": "<p>据彭博社报道，SpaceX CEO埃隆·马斯克(Elon Musk)周一表示，<strong>首批搭载英伟达芯片的AI卫星将于明年第四季度发射，并将在2028年达到“可观规模”。</strong>马斯克在X上发帖透露了上述略微调整后的时间表，并介绍了轨道数据中心的具体细节。该数据中心将以卫星的形式存在，相比传统数据中心机架，它要“简单得多、成本更低、密度更高，而且重量更轻”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:40:44+00:00",
-      "published_ts": 1787625644.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.754
-    },
-    {
-      "id": "cnbeta:7ac5c2e981c4",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "卢伟冰展示玄戒O100原型机：没有摄像头 内置Xiaomi MiMo端侧模型",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574824.htm",
-      "summary": "<p>8月25日，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰发文称，小米玄戒芯片技术沟通会还有两款原型机发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:38:49+00:00",
-      "published_ts": 1787625529.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.752
-    },
-    {
-      "id": "cnbeta:a4e1ae5f8e91",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI恢复ChatGPT Plus用户的Codex和Work五小时使用上限",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574812.htm",
-      "summary": "<p>OpenAI宣布，将从8月25日起恢复对ChatGPT Plus订阅用户在Codex和ChatGPT Work中的五小时使用时长限制。此前数周，这两项服务暂时取消了单个五小时周期的额度约束，仅保留按周计算的总使用上限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574812.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:30:52+00:00",
-      "published_ts": 1787625052.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.745
-    },
-    {
-      "id": "cnbeta:eeefea494c42",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "微软CEO纳德拉警示企业：过度依赖单一AI模型等于“把思考外包”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1574806.htm",
-      "summary": "<p>随着人工智能加速渗透企业办公、研发和运营流程，越来越多公司正投入数百万乃至数十亿美元推动AI落地。然而，微软首席执行官萨提亚·纳德拉近日提出警告：如果一家企业将自身关键知识与能力绑定在单一AI模型上，最终可能会失去对自身命运的掌控，甚至“不再像一家真正的公司”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574806.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-25T02:24:32+00:00",
-      "published_ts": 1787624672.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.74
     }
   ]
 }
