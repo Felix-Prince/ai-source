@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T07:14:13.965317+00:00",
-    "generated_ts": 1787728453.9653175,
+    "generated_at": "2026-08-26T13:29:18.936491+00:00",
+    "generated_ts": 1787750958.9364913,
     "window_hours": 24.0,
-    "total": 23
+    "total": 24
   },
   "items": [
-    {
-      "id": "venturebeat:9e3bbb1ec009",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> is launching <a href=\"https://www.perplexity.ai/hub/products/portable-computer\">Portable Computer</a> today, a version of its agentic <a href=\"https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at\">&quot;Computer&quot; platform</a> that runs entirely on hardware users already own — starting with Nvidia&#x27;s <a href=\"https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter\">DGX Spark</a> desktop supercomputer and Linux machines equipped with Nvidia <a href=\"https://www.nvidia.com/en-us/geforce/rtx/\">RTX GPUs</a>.</p><p>The launch, developed in close partnership with Nvidia, is one of the most aggressive attempts yet to move serious AI agent workloads off the cloud and onto local devices. The model, the user&#x27;s files, and the work itself can all stay on the machine. Work completed locally consumes no billing credits, and the company says every task starts on the device by default — with the system asking permission before sending any individual step to a more powerful frontier model in the cloud.</p><p>&quot;We&#x27;ve basically brought the exact same UI to a fully local app,&quot; said Nate, Perplexity&#x27;s vice president of engineering for infrastructure and enterprise, during a press briefing Monday. &quot;This incorporates the entirety of the agent harness and inference and everything needed to do work locally.&quot;</p><p>For Nvidia, which has spent the past two years selling the world on trillion-dollar AI data centers, the announcement signals something subtler but strategically important: the chipmaker believes local AI has crossed a threshold from hobbyist curiosity to practical tool — and it wants to sell the hardware that runs it.</p><p>&quot;Local AI reached an inflection point,&quot; said Nader, Nvidia&#x27;s director of developer technology, who focuses on developer tooling and open source. &quot;For the longest time, it was hobbyists and enthusiasts, and they were running these quantized models that were quantized down to be super tiny... And while that&#x27;s cool, it&#x27;s not super practical. But all that changed with a lot of these new open source models that have come out that are super useful.&quot;</p><h2><b>How Portable Computer packages a full local AI stack into a single app</b></h2><p><a href=\"https://www.perplexity.ai/products/computer\">Perplexity Computer</a>, the company&#x27;s agentic platform for knowledge work, orchestrates AI models, files, tools, and web access to complete multi-step tasks — reviewing folders of documents, analyzing data, producing reports, and pushing results into business systems. <a href=\"https://www.perplexity.ai/hub/products/portable-computer\">Portable Computer</a> replicates that experience locally: the local models, agent harness, inference engine, tools, app connectors, and a security sandbox come packaged together in a single system. That bundling is the point. With most local AI stacks today, users must assemble and operate those pieces separately — downloading model weights, standing up an inference server, wiring together tools, and tuning performance.</p><p>&quot;Historically it&#x27;s just been really painful to bring up the local AI stack,&quot; Nate said. &quot;With Portable Computer, we really focused on just making this a really straightforward experience where you can get up and running very quickly.&quot;</p><p>In one demo Monday, the system played the role of a retail investor reviewing a folder of 1099s and investment documents — the kind of sensitive financial material many users would hesitate to upload to a cloud service. Running a <a href=\"https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required\">27-billion-parameter Qwen model</a> at full GPU utilization on a <a href=\"https://www.nvidia.com/en-us/products/workstations/dgx-spark/\">DGX Spark</a>, the agent reviewed each document and flagged cases where the hypothetical investor was paying unnecessary fees. The interface element that normally displays a running tally of cloud credits &quot;is just parked at zero,&quot; Nate noted, &quot;because all of this is happening on the device.&quot;</p><p>A second demo showed the hybrid side of the product. Playing a startup founder, Nate asked the agent to analyze a CSV of user funnel data locally, then push the finished analysis to a Slack channel using Perplexity&#x27;s connector ecosystem — proof that local-first does not mean disconnected.</p><p>The system also connects to Google Drive, Gmail, and GitHub, and can escalate to a frontier cloud model when the local model hits its limits. At launch, users can set up Qwen 3.8 27B or PPLX 27B, a version Perplexity has post-trained on its own harness, with Nvidia&#x27;s Nemotron 3.5 Lightning coming soon.</p><p>Portable Computer arrives today for <a href=\"https://www.perplexity.ai/hub/pricing\">Pro, Max, Enterprise Pro, and Enterprise Max subscribers</a> on Linux, with Windows support following in September. Any RTX GPU with at least 24GB of VRAM — roughly a GeForce RTX 3090 or newer — clears the bar, a threshold Nate called &quot;sort of the floor where we really want to make sure that we can deliver a great experience, but balance that with making it broadly available.&quot;</p><h2><b>Why co-designing the model and agent harness beats general-purpose frameworks</b></h2><p>Alongside the launch, Perplexity published a <a href=\"https://perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work\">research paper</a> arguing that effective local agents require the model and the agent harness — the scaffolding of prompts, tools, and orchestration logic around the model — to be designed together. The core insight: general-purpose harnesses assume a frontier model that can absorb enormous contexts, navigate sprawling tool surfaces, and plan over long horizons. Small local models buckle under those demands.</p><p>Perplexity found empirically that although models like <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a> advertise 260,000-token context windows, they begin to struggle beyond 100,000 tokens. So the company built a deliberately minimal harness: a succinct system prompt, a small set of core tools, and capabilities that load and unload as on-demand &quot;skills&quot; rather than sitting permanently in context. It converted popular connectors like <a href=\"http://gmail.com\">Gmail</a> and <a href=\"https://github.com/\">GitHub</a> from token-hungry <a href=\"https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro\">MCP servers</a> into compact command-line tools, added self-verification hooks that monitor the health of a task, and enforced always-on OS-level sandboxing. If the sandbox is unavailable, the harness disables itself rather than running tools unprotected — a contrast with open-source harnesses that run commands with the user&#x27;s full permissions by default.</p><p>The benchmark results Perplexity reports are striking, though they come from the company&#x27;s own evaluations. On its internal <a href=\"https://perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work\">Local Knowledge Work Bench</a> — 53 tasks spanning deep research, financial analysis, and document creation, which Perplexity says it plans to open-source — Computer running Qwen 3.8 27B on a DGX Spark scored 82.6%, versus 77.6% for the open-source Pi harness and 74.0% for Hermes running the identical model. </p><p>Perplexity&#x27;s post-trained PPLX 27B pushed the score to 85.4%. The gaps widen dramatically on harder tasks: on BrowseComp, a web research benchmark, Computer hit 66.7% accuracy versus 50.2% for Pi and 43.9% for Hermes, while using 51% less wall time and 70% fewer tokens than Pi. On multimodal document understanding, Computer scored 65.1% against Hermes&#x27; 34.6% and Pi&#x27;s 13.9%.</p><h2><b>The token economics driving AI agents from the cloud to local hardware</b></h2><p>The strategic logic behind the launch becomes clear when you consider how AI workloads have changed. Chat was bursty — a question, an answer, done. Agents are different.</p><p>&quot;With agents, you want these agents always on if you can. You want the agents to really consume as many tokens as they can,&quot; Nader said. &quot;What we&#x27;re seeing is an insatiable demand for tokens, and that&#x27;s something that makes local AI so great. As you saw through all these demos, you were not metered by the token. You were not paying for the token. So it&#x27;s really killer for agents.&quot;</p><p>This reframes the value proposition of local hardware. An agent that runs for hours reviewing documents, verifying its own work, and iterating on analyses would rack up substantial API bills in the cloud. On a device the user already owns, the marginal cost of those tokens approaches zero. Perplexity&#x27;s paper makes the enterprise version of this argument explicitly: as agents scale across individual workflows and entire organizations, token expenditure and data movement &quot;become increasingly difficult to govern.&quot; Local-first execution addresses both at once — spend, because inference is free, and privacy, because sensitive tokens never leave the device boundary.</p><p>Perhaps the most commercially interesting result concerns the hybrid middle ground. On <a href=\"https://www.tbench.ai/leaderboard/terminal-bench/2.1\">Terminal Bench 2.1</a>, a challenging coding benchmark, the fully local Qwen model scored 59.6% at essentially zero marginal cost. Letting it escalate to a Claude Opus 5 &quot;advisor&quot; in the cloud raised the score to 73.0% at an estimated $0.415 per task. Running the frontier model alone scored 82.4% at $0.65 per task. Escalation, in other words, recovered roughly three-fifths of the gap to frontier performance at about two-thirds of the cost — and the user decides when that trade is worth making. Before any advisor call, the harness runs a PII classifier over the outgoing context and shows the user exactly what would leave the device. The remote model returns text guidance only; it never touches local files or tools.</p><h2><b>Where Portable Computer fits against Ollama and the DIY local AI stack</b></h2><p>Jason Hiner of <a href=\"https://www.thedeepview.com/\">The Deep View</a> pressed the companies on how <a href=\"https://www.perplexity.ai/products/computer\">Portable Computer</a> relates to existing local inference tools like Ollama. Nate&#x27;s answer drew a clear line: the tools solve different layers of the problem.</p><p>&quot;The majority of the effort here has been at the agent harness level,&quot; he said, noting that the system uses vLLM to host model inference underneath, with an advanced mode for users who want to plug in their own inference endpoint. &quot;We&#x27;ve heavily post-trained both the Qwen and Nemotron models that we&#x27;re working with in order to really get the best possible results... Our focus has been on really honing the whole stack, top to bottom, of the model inference and the harness together.&quot;</p><p>Nader put it more colorfully. &quot;Just getting inference running really quickly on a Spark — there&#x27;s a smooth path. You can use Ollama. You can get that set up. But then, as you start to do more complicated, more agentic things, then suddenly you need more perf. You start looking at different models. You start looking at different harnesses, and it&#x27;s kind of like the ocean. The deeper you go, the deeper it gets.&quot;</p><p>The appliance-like pitch appeared to land with at least one attendee. Ben, who described struggling to set up his own DGX Spark despite being an engineer — &quot;this experience sucks, we have to fix it&quot; — said the product feels like the unlock &quot;needed for people to really feel and understand what agentic means, and you need the right UX to make it happen.&quot; Nvidia also emphasized that the hardware scales: connecting two Sparks over shared memory runs frontier-class open models like DeepSeek&#x27;s latest, and four can run GLM 5.2 or Nemotron Ultra. &quot;I&#x27;ve even seen eight Sparks get connected,&quot; Nader said.</p><h2><b>What the deepening Nvidia-Perplexity alliance means for both companies</b></h2><p>The launch extends a partnership that has been building for more than a year. In June 2025, <a href=\"https://nvidianews.nvidia.com/news/nvidia-partners-with-europe-model-builders-and-cloud-providers-to-accelerate-regions-leap-into-ai\">Nvidia and Perplexity announced a collaboration</a> to bring sovereign AI models to European publishers and telecoms, part of CEO Jensen Huang&#x27;s continent-hopping campaign to convince governments that, as the Associated Press reported from VivaTech in Paris, &quot;<a href=\"https://apnews.com/article/nvidia-france-artificial-intelligence-1a6b50633db24c22b584597142a564ac\">every country needs a national intelligence infrastructure</a>.&quot; The sovereign AI pitch — that data &quot;belongs to your people, your country, your culture,&quot; in Huang&#x27;s words — is philosophically the same argument Portable Computer makes at the scale of a single desk: intelligence you control, running on hardware you own.</p><p>There is a self-interested logic for both companies. Perplexity, which has raised capital at steadily escalating valuations while facing legal pressure from publishers over its content practices — including <a href=\"https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html\">a lawsuit filed by The New York Times</a> in December 2025 and an earlier public <a href=\"https://www.axios.com/2024/06/18/forbes-perplexity-ai-legal-action-copyright\">dispute with Forbes</a> — gets a product whose economics don&#x27;t depend on metering every token, and a differentiated wedge into privacy-sensitive enterprises in law, healthcare, and finance. Nvidia gets a killer app for <a href=\"https://www.nvidia.com/en-us/products/workstations/dgx-spark/\">DGX Spark</a>, a device that, by the admission of attendees at Monday&#x27;s briefing, has been easier to buy than to use. When one reporter asked whether a Spark might ship with Portable Computer and a Nemotron model preinstalled, Nader demurred without ruling it out: &quot;That would be cool... the goal is just making sure that it&#x27;s a super smooth experience for every user.&quot;</p><p>Questions remain. Perplexity&#x27;s most impressive numbers come from its own internal benchmark, and the company acknowledges that compact models still trail the frontier meaningfully on hard reasoning tasks — advisor escalation &quot;narrows but does not fully close the gap.&quot; The launch is Linux-only for now, the 24GB VRAM floor excludes the vast majority of consumer PCs, and Apple silicon — home to some of the most enthusiastic local AI tinkerers — is conspicuously absent from the roadmap. &quot;We&#x27;re very focused right now on Nvidia hardware,&quot; Nate said when asked.</p><p>But the direction of travel is unmistakable. Perplexity&#x27;s researchers describe the launch as part of &quot;a broader shift in which increasingly capable agents move from remote infrastructure to individual and local devices,&quot; and both companies are betting that advances in chips and open models will keep expanding what a box on a desk can do. During Monday&#x27;s demos, the most telling detail wasn&#x27;t a benchmark score — it was that credit counter in the corner of the screen, sitting motionless at zero while the agent churned through a folder of tax documents. For two years, the AI industry has measured its ambitions in gigawatts and tokens per dollar. Portable Computer proposes a different meter, one that never runs.</p><p>\n</p>",
-      "published_at": "2026-08-25T13:00:00+00:00",
-      "published_ts": 1787662800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.966
-    },
     {
       "id": "venturebeat:94b829fb89f3",
       "source": "venturebeat",
@@ -52,6 +37,21 @@
       "importance": 2.774
     },
     {
+      "id": "qbitai:12d4058cdcb2",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+      "url": "https://www.qbitai.com/2026/08/479834.html",
+      "summary": "具身智能迈向GPT时刻",
+      "published_at": "2026-08-26T10:07:09+00:00",
+      "published_ts": 1787738829.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.722
+    },
+    {
       "id": "cnbeta:f69879c16fdb",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -80,21 +80,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.683
-    },
-    {
-      "id": "the_verge:534264c4a11b",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
-      "published_at": "2026-08-25T09:15:03+00:00",
-      "published_ts": 1787649303.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.662
     },
     {
       "id": "cnbeta:00b3e0c3a7c6",
@@ -157,49 +142,64 @@
       "importance": 1.929
     },
     {
-      "id": "techcrunch:42192bc4f9e5",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "published_at": "2026-08-25T12:00:00+00:00",
-      "published_ts": 1787659200.0,
+      "id": "cnbeta:ae886029be04",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "智谱确认神秘“牛来”模型为GLM系列新版本：将发布权重",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575056.htm",
+      "summary": "<p>据彭博社报道，<strong>一款凭借免费、高性能登顶在线使用排行榜的神秘新AI模型，现在确认是由中国智谱公司开发的</strong>。智谱周三在回应彭博社询问时证实，外界猜测的Ox Alpha模型是其GLM系列的新版本，并表示将于今晚发布其权重。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575056.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T11:45:06+00:00",
+      "published_ts": 1787744706.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.902
+    },
+    {
+      "id": "cnbeta:db3ab8aa2235",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "为何OpenAI的“墨西哥辣椒”芯片会重创英伟达",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575052.htm",
+      "summary": "<p>到底是 OpenAI 内部哪位人士，决定把公司首款自研芯片命名为<strong>Jalapeño（墨西哥辣椒）</strong>？几个月前，这个名字听上去或许是个不错的点子 ——OpenAI 本想用这个名字暗示，这是一款炙手可热的重磅产品。但放到当下就有些不合时宜：美国食品药品监督管理局正爆发沙门氏菌食品安全事件，受污染的正是墨西哥辣椒，官方要求<strong>不得食用、供应或销售含有该辣椒的食品</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575052.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T11:16:59+00:00",
+      "published_ts": 1787743019.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.877
+    },
+    {
+      "id": "ars_technica:1143098e159d",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "published_at": "2026-08-26T11:10:49+00:00",
+      "published_ts": 1787742649.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.921
+      "importance": 1.871
     },
     {
-      "id": "tmtpost:47db03d100ae",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "OpenAI 的 2027：资本周期下的上市平衡术",
-      "url": "https://www.tmtpost.com/8115750.html",
-      "summary": "市场普遍将 OpenAI 规划 2027 年 IPO 视为技术兑现与万亿估值冲刺的行业里程碑。本文以资本久期匹配 + 6000 亿表外算力负债双框架拆解：上市并非单纯的技术高光时刻，而是资本周期与产业投入节奏相互校准的结构性平衡。",
-      "published_at": "2026-08-25T11:27:08+00:00",
-      "published_ts": 1787657228.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "techcrunch:236c676a58af",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "published_at": "2026-08-26T11:00:00+00:00",
+      "published_ts": 1787742000.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.891
-    },
-    {
-      "id": "tmtpost:3c1826ab6c96",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "启智加码机器人技能服务，HumanGPT向真实作业数据要能力",
-      "url": "https://www.tmtpost.com/8116327.html",
-      "summary": "机器人公司交付的内容，已经越过硬件本体，延伸到技能的采集，训练和持续更新。",
-      "published_at": "2026-08-25T10:54:51+00:00",
-      "published_ts": 1787655291.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.862
+      "importance": 1.861
     },
     {
       "id": "cnbeta:56da15f56794",
@@ -350,6 +350,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.756
+    },
+    {
+      "id": "cnbeta:47b879dc6c67",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "ChatGPT Work新增网站登录能力 可代为完成预约、报销与账单处理等任务",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575032.htm",
+      "summary": "<p>OpenAI宣布，ChatGPT Work现已获得一项重要更新：AI代理能够登录需要身份验证的网站，并在用户完成登录后继续执行此前必须由人工接手的网页操作。此前，遇到用户名、密码或安全验证码等认证环节时，ChatGPT无法继续完成任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-26T07:30:29+00:00",
+      "published_ts": 1787729429.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.683
     }
   ]
 }
