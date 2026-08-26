@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T13:29:18.936491+00:00",
+    "generated_at": "2026-08-26T20:15:14.272896+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7363,6 +7363,102 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575032.htm",
           "published_at": "2026-08-26T07:30:29+00:00",
           "summary": "<p>OpenAI宣布，ChatGPT Work现已获得一项重要更新：AI代理能够登录需要身份验证的网站，并在用户完成登录后继续执行此前必须由人工接手的网页操作。此前，遇到用户名、密码或安全验证码等认证环节时，ChatGPT无法继续完成任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-26T20:15:14.272896+00:00",
+      "generated_ts": 1787775314.2728958,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:fe3f313a0ed2",
+          "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.978,
+          "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+          "published_at": "2026-08-26T20:00:00+00:00",
+          "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> and <a href=\"https://www.anthropic.com/\">Anthropic</a> announced Tuesday a sweeping expansion of their partnership, called <a href=\"https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/\">Claude"
+        },
+        {
+          "id": "qbitai:13c5693b67ac",
+          "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.715,
+          "url": "https://www.qbitai.com/2026/08/479919.html",
+          "published_at": "2026-08-26T16:48:12+00:00",
+          "summary": "GLM-5.3 Flash"
+        },
+        {
+          "id": "venturebeat:e7eefe3023b3",
+          "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.671,
+          "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+          "published_at": "2026-08-26T16:13:50+00:00",
+          "summary": "<p>A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.</p><p>That chain is <a href=\"https://tenetsecurity.ai/blog/ghostjack"
+        },
+        {
+          "id": "venturebeat:c21a9935455c",
+          "title": "Orchestration is the new challenge for CX in the age of AI agents",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.541,
+          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+          "published_at": "2026-08-26T14:30:00+00:00",
+          "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev"
+        },
+        {
+          "id": "openai_blog:2d741c06fad8",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.231,
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "published_at": "2026-08-26T10:00:00+00:00",
+          "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+        },
+        {
+          "id": "openai_blog:b1f807bfe578",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.231,
+          "url": "https://openai.com/index/learning-never-stops",
+          "published_at": "2026-08-26T10:00:00+00:00",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+        },
+        {
+          "id": "cnbeta:6281a99f4fc9",
+          "title": "Google推出Gemini 3.5 Transcribe 语音转文字准确度进一步提升",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.974,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575126.htm",
+          "published_at": "2026-08-26T19:47:56+00:00",
+          "summary": "<p>Google近日发布 Gemini 系列最新语音转文字模型 Gemini 3.5 Transcribe，并称其为目前该系列中准确度最高的语音识别模型。该模型面向开发者、企业及普通用户开放，重点提升了嘈杂环境、复杂专业术语以及自然口语表达下的转写能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575126.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:5bc2993b809d",
+          "title": "Radar makes podcasts searchable — and usable by AI agents",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.758,
+          "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+          "published_at": "2026-08-26T15:47:28+00:00",
+          "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
         }
       ]
     }
