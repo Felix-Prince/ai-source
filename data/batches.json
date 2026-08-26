@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T19:05:18.934805+00:00",
+    "generated_at": "2026-08-26T02:03:53.965667+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7188,6 +7188,21 @@
           "summary": "<p>苹果今日正式发布M5 Ultra芯片，并称其为迄今性能最强大的自研芯片。该芯片首次在M系列中引入四芯粒架构，通过新一代UltraFusion互连技术，将两颗双芯粒M5 Max整合为统一处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574924.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-26T02:03:53.965667+00:00",
+      "generated_ts": 1787709833.965667,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 14,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }
