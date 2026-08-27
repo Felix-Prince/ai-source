@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T10:00:33.716558+00:00",
+    "generated_at": "2026-08-27T22:26:03.063575+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7595,6 +7595,162 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
           "published_at": "2026-08-26T21:36:06+00:00",
           "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for Ope"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-27T22:26:03.063575+00:00",
+      "generated_ts": 1787869563.063575,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:5fa354a65931",
+          "title": "OpenAI、Google等逾百家企业联名呼吁协同应对失控AI网络威胁",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.713,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575288.htm",
+          "published_at": "2026-08-27T18:56:47+00:00",
+          "summary": "<p>OpenAI、Anthropic、Google和微软等超过100家科技企业近日签署公开信，呼吁企业界与政府部门加强合作，共同防范由人工智能驱动的新一代网络安全威胁。联署方还包括CrowdStrike、Okta、Fortinet等网络安全公司，以及多家金融机构和互联网基础设施企业。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575288.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:d858a769740d",
+          "title": "Here’s all the times AI has gone rogue and hacked other companies",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.353,
+          "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+          "published_at": "2026-08-27T14:01:42+00:00",
+          "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+        },
+        {
+          "id": "venturebeat:75b953e330c0",
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.353,
+          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+          "published_at": "2026-08-27T14:01:00+00:00",
+          "summary": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen"
+        },
+        {
+          "id": "ars_technica:cb1ed002bd0c",
+          "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.283,
+          "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+          "published_at": "2026-08-27T12:58:59+00:00",
+          "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
+        },
+        {
+          "id": "venturebeat:ebdb0a9bebd6",
+          "title": "Visa ships a security AI that patches production code before any human reviews it",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.252,
+          "url": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+          "published_at": "2026-08-27T12:30:00+00:00",
+          "summary": "<p>Visa&#x27;s open-source security harness now finds the vulnerability, writes the fix, and turns an adversarial panel on its own patch before any human reviews it. The whole loop ships on by default. A plain scan of the <a href=\"https://github.com/visa/visa-vulnerability-agentic-harness\">Visa Vuln"
+        },
+        {
+          "id": "qbitai:9ffdc4825df4",
+          "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.237,
+          "url": "https://www.qbitai.com/2026/08/480092.html",
+          "published_at": "2026-08-27T12:16:10+00:00",
+          "summary": "好能增长，好能商业化啊！"
+        },
+        {
+          "id": "venturebeat:74c807bb16a6",
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.221,
+          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "published_at": "2026-08-27T12:01:00+00:00",
+          "summary": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve"
+        },
+        {
+          "id": "openai_blog:b1b3d9954610",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.035,
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "published_at": "2026-08-27T09:00:00+00:00",
+          "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+        },
+        {
+          "id": "ars_technica:608cbb0c813a",
+          "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.99,
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "published_at": "2026-08-27T22:15:43+00:00",
+          "summary": "Standardized driver interface  aims to let devices talk to AI and each other."
+        },
+        {
+          "id": "ars_technica:2668b854106e",
+          "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.912,
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "published_at": "2026-08-27T20:52:31+00:00",
+          "summary": "xAI accused of training Grok on real and AI-generated child pornography."
+        },
+        {
+          "id": "the_verge:ddd09b0063f7",
+          "title": "Google’s AI note-taking app now allows you to interact with books",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.837,
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+          "published_at": "2026-08-27T19:30:00+00:00",
+          "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate pla"
+        },
+        {
+          "id": "techcrunch:8117bd72cf73",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.746,
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "published_at": "2026-08-27T17:43:24+00:00",
+          "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats."
+        },
+        {
+          "id": "cnbeta:b8d1238b9de6",
+          "title": "Hugging Face推出399美元开源鸭形机器人Microduck 可在家训练新技能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.621,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575264.htm",
+          "published_at": "2026-08-27T15:09:45+00:00",
+          "summary": "<p>人工智能开源平台Hugging Face日前发布了一款名为Microduck的小型开源鸭形机器人，售价399美元，预计将在圣诞节前发货。该产品面向开发者，主打低门槛的机器人训练与部署能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:62cae3f0680b",
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.463,
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "published_at": "2026-08-27T11:35:59+00:00",
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
         }
       ]
     }
