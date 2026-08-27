@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T20:15:14.272896+00:00",
+    "generated_at": "2026-08-27T10:00:33.716558+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7459,6 +7459,142 @@
           "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
           "published_at": "2026-08-26T15:47:28+00:00",
           "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-27T10:00:33.716558+00:00",
+      "generated_ts": 1787824833.7165575,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:bec6c21b55f8",
+          "title": "阿里发布全新Qoder 支持自然语言驱动编程任务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.743,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575222.htm",
+          "published_at": "2026-08-27T06:54:39+00:00",
+          "summary": "<p>8月27日，阿里巴巴正式发布全新Qoder，定位为“面向所有人的智能体工作台”。该产品以Coding为核心能力，用户无需编写代码，仅用自然语言描述目标即可完成开发、原型制作、数据处理等任务。Qoder内置Qwen3.8-Max等多款前沿模型，并提供Auto智能调度能力，可根据任务特点在效果、速度与成本间匹配合适模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575222.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3316d3c578a0",
+          "title": "英伟达与亚马逊宣布扩容：AWS将于2027–2028年再部署200万颗GPU",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.732,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575212.htm",
+          "published_at": "2026-08-27T06:46:21+00:00",
+          "summary": "<p>西雅图与加州圣克拉拉当地时间8月26日，亚马逊云科技（AWS）与英伟达同步发布战略合作扩容声明：AWS计划在2027年至2028年，在其全球基础设施上再部署200万颗英伟达图形处理器，芯片型号包括Blackwell Ultra、Rubin和Rubin Ultra。双方未公布合同金额。同一天，英伟达在财报电话会上称，亚马逊将采用其完整实体人工智能技术栈，用于仓储机器人。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575212.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:e1af61189c01",
+          "title": "DeepSeek调价之后，谁走出了斩杀线？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.492,
+          "url": "https://www.tmtpost.com/8118102.html",
+          "published_at": "2026-08-27T03:34:59+00:00",
+          "summary": "一次调价，重新划定了大模型的竞争边界"
+        },
+        {
+          "id": "qbitai:5fce2e0f4e38",
+          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.434,
+          "url": "https://www.qbitai.com/2026/08/480005.html",
+          "published_at": "2026-08-27T02:46:35+00:00",
+          "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
+        },
+        {
+          "id": "cnbeta:e39769f531b2",
+          "title": "黄仁勋回应OpenAI自研芯片：英伟达做的完全不同",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.42,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575164.htm",
+          "published_at": "2026-08-27T02:33:52+00:00",
+          "summary": "<p>面对OpenAI自研推理芯片Jalapeño带来的潜在竞争，英伟达CEO黄仁勋(Jensen Huang)在公司2027财年第二季度财报电话会上作出回应。他表示，英伟达正在打造的东西与OpenAI的自研芯片“截然不同”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575164.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3b3fe7817fb7",
+          "title": "OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.418,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575162.htm",
+          "published_at": "2026-08-27T02:32:52+00:00",
+          "summary": "<p>OpenAI周三发布了一份技术报告，详细说明了其人工智能模型上个月如何成功入侵Hugging Face，这一事件曾震惊了科技行业的研究人员和高管。这份37页的报告详述了OpenAI模型在入侵前及入侵期间的一系列评估中所采取的行动，OpenAI将此次事件定性为“前所未有的网络安全事件”。该公司还解释了为防止类似事件再次发生所采取的步骤，主要包括改进其安全与隔离、监控、模型行为及事件响应能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575162.htm\" target=\"_blank\"><strong>阅读全文</stro"
+        },
+        {
+          "id": "qbitai:37e22fa90b53",
+          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.363,
+          "url": "https://www.qbitai.com/2026/08/480001.html",
+          "published_at": "2026-08-27T01:45:08+00:00",
+          "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。"
+        },
+        {
+          "id": "venturebeat:0f247346040b",
+          "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.293,
+          "url": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
+          "published_at": "2026-08-27T00:42:20+00:00",
+          "summary": "<p>A week ago, a mystery model called <a href=\"https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8\">Ox Alpha showed up on OpenRouter</a> — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand out wasn&#x27;t just the free price t"
+        },
+        {
+          "id": "cnbeta:5a36f020fe77",
+          "title": "媒体称英伟达已同意以129亿美元收购Hugging Face",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.924,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575238.htm",
+          "published_at": "2026-08-27T08:39:38+00:00",
+          "summary": "<p>据知情人士向媒体介绍，英伟达已同意以129亿美元收购开源模型平台Hugging Face。报道于8月26日傍晚发出。这笔交易若完成，将把全球主要的开源模型仓库交到英伟达手里。英伟达与总部位于纽约的Hugging Face均未公开确认，对价是现金、股票还是混合支付，以及交割条件和开源承诺，报道中均未写明。另一家媒体稍早称，双方近几周在谈估值逾130亿美元的收购，协议尚未达成，谈判仍可能破裂。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575238.htm\" target=\"_blank\"><strong>阅读全文</stro"
+        },
+        {
+          "id": "cnbeta:315361af3ca2",
+          "title": "Anthropic为Claude Cowork内置浏览器 桌面端AI代理能力再升级",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.776,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575202.htm",
+          "published_at": "2026-08-27T05:53:30+00:00",
+          "summary": "<p>Anthropic近日宣布，正式为Claude的Cowork桌面应用加入内置浏览器。该功能基于Chromium构建，可在macOS、Windows和Linux平台运行，使用户无需再依赖Chrome扩展，即可直接让Claude在工作环境中访问网页并执行相关任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575202.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:daeae1622a0e",
+          "title": "失控AI智能体入侵了OpenAI自家系统",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.613,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575166.htm",
+          "published_at": "2026-08-27T02:34:26+00:00",
+          "summary": "<p>据路透社报道，OpenAI在周三发布的一份报告中表示，<strong>由其自身创建的AI智能体在内部测试期间入侵公司自己的系统，并且在某些情况下试图隐藏其行为。</strong>这些发现可能会进一步加剧外界对AI系统能力日益增强的担忧。<strong>OpenAI表示，部分智能体逃离了受限的测试环境，与其他智能体协作并篡改了公司系统，还有一些智能体在与网络安全无关的任务中采取了作弊行为。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575166.htm\" target=\"_blank\"><strong>阅读"
+        },
+        {
+          "id": "the_verge:cb4af98434ec",
+          "title": "OpenAI’s rogue AI model incident was worse than we thought",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.398,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "published_at": "2026-08-26T21:36:06+00:00",
+          "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for Ope"
         }
       ]
     }
