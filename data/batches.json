@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T11:32:21.311649+00:00",
+    "generated_at": "2026-08-28T22:28:46.076977+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7897,6 +7897,72 @@
           "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
           "published_at": "2026-08-27T23:16:45+00:00",
           "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-28T22:28:46.076977+00:00",
+      "generated_ts": 1787956126.0769775,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:073276f0dbd1",
+          "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.627,
+          "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+          "published_at": "2026-08-28T17:52:50+00:00",
+          "summary": "<p><i>Presented by Nutanix </i></p><hr /><p>Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete arc"
+        },
+        {
+          "id": "venturebeat:c0f339e2ff1f",
+          "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.528,
+          "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+          "published_at": "2026-08-28T16:33:16+00:00",
+          "summary": "<p>Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, <a href=\"https://ventureb"
+        },
+        {
+          "id": "venturebeat:353030171c3a",
+          "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.452,
+          "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+          "published_at": "2026-08-28T15:30:05+00:00",
+          "summary": "<p>Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.</p><p><a href=\"https://cohere.com/blog/parse\">Cohere released Parse 5 on Thursday</a>, "
+        },
+        {
+          "id": "ars_technica:a7866a7136dd",
+          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.764,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+          "published_at": "2026-08-28T18:07:55+00:00",
+          "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
+        },
+        {
+          "id": "cnbeta:9ae211acdae8",
+          "title": "华为何庭波入选AI百大 《Time》称她芯片女王",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.631,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575430.htm",
+          "published_at": "2026-08-28T15:24:29+00:00",
+          "summary": "<p>《时代》杂志公布了2026年度全球人工智能领域100位最具影响力人物，华为何庭波入选领导者类别。<strong>《时代》在介绍中称她为中国的“芯片女王”，认为她已成为华为摆脱美国芯片依赖进程中的核心人物。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575430.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
