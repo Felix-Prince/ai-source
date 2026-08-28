@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T22:26:03.063575+00:00",
+    "generated_at": "2026-08-28T11:32:21.311649+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7751,6 +7751,152 @@
           "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
           "published_at": "2026-08-27T11:35:59+00:00",
           "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-28T11:32:21.311649+00:00",
+      "generated_ts": 1787916741.311649,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "tmtpost:c38cebd86f22",
+          "title": "Cheaper AI Inference Drives Record Infrastructure Spending",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.767,
+          "url": "https://www.tmtpost.com/8120746.html",
+          "published_at": "2026-08-28T08:44:03+00:00",
+          "summary": "The cost of running equivalent AI models has fallen sharply since 2022, yet major technology firms continue to increase capital spending on data centers, memory, packaging, and power. Efficiency gains are expanding total demand through multi-step agent systems, shifting physical bottlenecks and conc"
+        },
+        {
+          "id": "cnbeta:8f7e92784907",
+          "title": "大模型“吃”了全网的语料 “合理使用”与侵权的边界如何划清？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.545,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575380.htm",
+          "published_at": "2026-08-28T05:50:46+00:00",
+          "summary": "<p>当大模型厂商竞相为千亿算力基建烧钱时，一颗更为隐秘的“版权暗雷”正在逼近。8月中旬，苹果拟付数亿美元采购新闻语料的消息传出，一时激起内容行业千层浪。近两年，围绕AI训练语料的版权诉讼已在全球蔓延。新闻界，《纽约时报》起诉OpenAI和微软公司，指控两家企业未经授权使用数以百万计文章训练ChatGPT等大模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575380.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1c7ef23390be",
+          "title": "OpenAI、微软、Anthropic等逾百家企业呼吁紧急强化网络防御",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.539,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575370.htm",
+          "published_at": "2026-08-28T05:45:28+00:00",
+          "summary": "<p>随着人工智能模型在网络安全任务上的能力迅速提升，科技行业领袖警告称，网络防御人员为应对下一代网络威胁所剩的准备时间已十分有限。OpenAI近期推出的GPT-5.6-Cyber，在漏洞利用链、身份验证绕过和权限提升等高级网络安全请求中完成率达到95%。该公司此前还透露，即将推出的Astra模型将具备更强的网络安全能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575370.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:cdd26e8b55e6",
+          "title": "AI竞赛迅速推进 Google新模型刚上线 员工已开测下一版",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.363,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575344.htm",
+          "published_at": "2026-08-28T03:16:10+00:00",
+          "summary": "<p>据《商业内幕》报道，<strong>Google公司本月刚刚发布了一款新的AI模型，但其员工已经开始测试下一款模型了。一些Google员工已经开始使用Gemini 3.8 Flash的预览版本，这凸显出AI竞赛正在以惊人的速度推进。</strong>为了追赶OpenAI和Anthropic，Google不断推出新模型，有时前后仅相隔几周。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575344.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:57def6a570aa",
+          "title": "AI开始自己“找活干”？OpenAI测试持久在线智能体",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.358,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575338.htm",
+          "published_at": "2026-08-28T03:12:29+00:00",
+          "summary": "<p>《连线》杂志获悉，OpenAI正在为其旗舰AI智能体Codex开发一个具有主动性且高度持久性的版本。根据《连线》查看的产品代码库变更，OpenAI近日已开始在其命令行版Codex中添加新的“持久模式”设置代码。Codex命令行工具的代码改动默认公开，而新功能通常会先在这里出现，然后再推广至OpenAI的其他智能体产品，例如Codex桌面应用和ChatGPT Work。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575338.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:fc1f50f5b2de",
+          "title": "美国法官阻止五角大楼将Anthropic列入黑名单",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.346,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575324.htm",
+          "published_at": "2026-08-28T03:01:07+00:00",
+          "summary": "<p>美国一名联邦法官周四阻止五角大楼将人工智能公司Anthropic列入黑名单。这是这家Claude模型开发商与美国军方围绕战场人工智能安全问题展开高风险争执的最新进展。Anthropic在加州联邦法院提起诉讼，指控美国国防部长皮特·赫格塞思越权将该公司认定为“国家安全供应链风险”。根据相关规定，政府可对可能使军事系统面临敌对方渗透或破坏风险的企业作出这一认定。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ba591c79526e",
+          "title": "Anthropic曾洽购芯片初创公司MatX 拟加速自研AI芯片进程",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.342,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575320.htm",
+          "published_at": "2026-08-28T02:57:50+00:00",
+          "summary": "<p>据知情人士透露，人工智能公司Anthropic曾就收购AI芯片初创企业MatX展开谈判，交易估值约为70亿美元。Anthropic希望借此加快为其快速扩张的AI业务开发定制硬件的进程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:660ed81fb1e6",
+          "title": "特朗普政府设立新型 AI监管机构的行政令陷入停滞",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.908,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575402.htm",
+          "published_at": "2026-08-28T09:54:52+00:00",
+          "summary": "<p>据两名看过草案的知情人士透露，特朗普政府近几周在内部传阅一份行政令草案，提议为顶尖大模型 AI 企业设立一家行业自律监管组织。起草这份行政令，是朝着落地该监管机构迈出的重要一步，但项目仍面临重大阻碍。这份行政令想要定稿，还需要包括总统在内的一众高级官员的认可；另外三名知情人士表示，近期相关推进工作已经陷入停滞。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575402.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:41146b81960d",
+          "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.9,
+          "url": "https://www.qbitai.com/2026/08/480600.html",
+          "published_at": "2026-08-28T09:45:19+00:00",
+          "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头"
+        },
+        {
+          "id": "tmtpost:3a8ec6e0a54c",
+          "title": "不等超级应用了，MiniMax改卖Token",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.818,
+          "url": "https://www.tmtpost.com/8119451.html",
+          "published_at": "2026-08-28T08:13:53+00:00",
+          "summary": "营收增长283.1%，MiniMax换引擎。"
+        },
+        {
+          "id": "qbitai:95f1334aae00",
+          "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.614,
+          "url": "https://www.qbitai.com/2026/08/480223.html",
+          "published_at": "2026-08-28T04:06:16+00:00",
+          "summary": "国产异构助力前沿智能进入普惠时代"
+        },
+        {
+          "id": "cnbeta:7f163eb6202f",
+          "title": "越年长越看好AI？机构称AI并未淘汰老员工，经验丰富能更好驾驭大模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.578,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575350.htm",
+          "published_at": "2026-08-28T03:19:42+00:00",
+          "summary": "<p>社会普遍认为年轻人更擅长使用AI，与AI更加“亲近”；然而美国最新的职场调研却显示，年长员工相对年轻人对AI带来的机遇更乐观。据媒体当地时间周四报道，美国职场调研机构Glassdoor的最新研究显示，<strong>四十岁至六十多岁的员工对AI带来的机遇最为乐观，部分原因在于AI正在为资深员工创造更多机会。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575350.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:eea054f669ff",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.404,
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-08-27T23:16:45+00:00",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
         }
       ]
     }
