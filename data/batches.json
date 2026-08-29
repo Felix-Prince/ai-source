@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T22:28:46.076977+00:00",
+    "generated_at": "2026-08-29T07:11:34.796623+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7963,6 +7963,62 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575430.htm",
           "published_at": "2026-08-28T15:24:29+00:00",
           "summary": "<p>《时代》杂志公布了2026年度全球人工智能领域100位最具影响力人物，华为何庭波入选领导者类别。<strong>《时代》在介绍中称她为中国的“芯片女王”，认为她已成为华为摆脱美国芯片依赖进程中的核心人物。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575430.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-29T07:11:34.796623+00:00",
+      "generated_ts": 1787987494.7966235,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:92fe93a4b382",
+          "title": "智谱宣布GLM-5.3模型开源 支持免费部署和商用 但大型企业必须先提交审查",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.876,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575452.htm",
+          "published_at": "2026-08-29T05:43:43+00:00",
+          "summary": "<p>智谱日前宣布 GLM-5.3 模型正式开源，该模型已经在 8 月中旬上线 API 服务供开发者们使用，但由于模型网络安全能力增长超出预期，所以模型权重开放被推迟以进行额外的审查，现在完成审查后智谱开始提供模型权重。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7c2d5689d28c",
+          "title": "OpenAI宣布切断Cursor的模型访问 从11月12日起不再向Cursor提供API服务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.875,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575450.htm",
+          "published_at": "2026-08-29T05:43:09+00:00",
+          "summary": "<p>OpenAI 日前宣布将切断与人工智能编程工具 Cursor 的模型供应合作，也就是未来 Cursor 将无法再向开发者提供 GPT 系列模型，具体来说停止模型供应时间为 2026 年 11 月 12 日，之后 Cursor 用户只能选择其他模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:95d9c79928a8",
+          "title": "AI会冲垮软件业？Anthropic CEO：无意摧毁任何人",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.943,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575480.htm",
+          "published_at": "2026-08-29T06:11:39+00:00",
+          "summary": "<p>8月29日，据《商业内幕》报道，Anthropic CEO达里奥·阿莫代伊(Dario Amodei)表示，该公司的AI助手Claude是来“和平共处”的，而不是摧毁其他行业。“我们无意摧毁任何人，”阿莫代伊本周早些时候对CNBC表示，“我们认为，这是一件互利共赢的事情，对吧？”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575480.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5041f3da597c",
+          "title": "Debian投票通过“负责任使用生成式人工智能”政策",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.924,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575456.htm",
+          "published_at": "2026-08-29T05:50:40+00:00",
+          "summary": "<p>Debian围绕项目人工智能政策展开的广受关注的“Debian总决议”投票现已结束，结果已经揭晓。Debian开发者此前曾就项目是否应禁止大语言模型贡献、允许部分人工智能辅助贡献，或采取更加谨慎的限制措施展开投票。最终，开发者选择了“负责任使用生成式人工智能”方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575456.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
