@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T07:11:34.796623+00:00",
+    "generated_at": "2026-08-29T16:47:48.248358+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8019,6 +8019,52 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575456.htm",
           "published_at": "2026-08-29T05:50:40+00:00",
           "summary": "<p>Debian围绕项目人工智能政策展开的广受关注的“Debian总决议”投票现已结束，结果已经揭晓。Debian开发者此前曾就项目是否应禁止大语言模型贡献、允许部分人工智能辅助贡献，或采取更加谨慎的限制措施展开投票。最终，开发者选择了“负责任使用生成式人工智能”方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575456.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-29T16:47:48.248358+00:00",
+      "generated_ts": 1788022068.2483578,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "qbitai:22927a428f81",
+          "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.802,
+          "url": "https://www.qbitai.com/2026/08/481372.html",
+          "published_at": "2026-08-29T13:11:08+00:00",
+          "summary": "推理软件栈的微小差异，就能改变输出token"
+        },
+        {
+          "id": "qbitai:70efd58f8dd5",
+          "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.784,
+          "url": "https://www.qbitai.com/2026/08/481223.html",
+          "published_at": "2026-08-29T12:50:31+00:00",
+          "summary": "AI「自进化」，越来越近了"
+        },
+        {
+          "id": "cnbeta:7a872cb3bff2",
+          "title": "马斯克回应OpenAI断供Cursor：我根本不在乎 奥特曼是骗子",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.724,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575500.htm",
+          "published_at": "2026-08-29T11:39:23+00:00",
+          "summary": "<p>据路透社报道，对于OpenAI停止向SpaceX旗下编程公司Cursor提供AI模型一事，埃隆·马斯克(Elon Musk)周六表示，他根本不在乎。OpenAI周五宣布，计划在11月12日停止向Cursor提供其AI模型。“我们做出这一决定，是因为鉴于我们曾经历过马斯克旗下公司违反合同，我们无法确信SpaceX会按照我们的服务条款使用我们的技术。”OpenAI在一篇博客文章中表示。SpaceX在今年6月以600亿美元收购了Cursor。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575500.htm\" target=\"_b"
         }
       ]
     }

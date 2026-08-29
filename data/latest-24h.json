@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T07:11:34.796623+00:00",
-    "generated_ts": 1787987494.7966235,
+    "generated_at": "2026-08-29T16:47:48.248358+00:00",
+    "generated_ts": 1788022068.2483578,
     "window_hours": 24.0,
-    "total": 13
+    "total": 9
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.875
     },
     {
-      "id": "tmtpost:c38cebd86f22",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Cheaper AI Inference Drives Record Infrastructure Spending",
-      "url": "https://www.tmtpost.com/8120746.html",
-      "summary": "The cost of running equivalent AI models has fallen sharply since 2022, yet major technology firms continue to increase capital spending on data centers, memory, packaging, and power. Efficiency gains are expanding total demand through multi-step agent systems, shifting physical bottlenecks and concentrating value in slower-to-scale assets.",
-      "published_at": "2026-08-28T08:44:03+00:00",
-      "published_ts": 1787906643.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.767
-    },
-    {
       "id": "venturebeat:073276f0dbd1",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -65,36 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.627
-    },
-    {
-      "id": "venturebeat:c0f339e2ff1f",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-      "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-      "summary": "<p>Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, <a href=\"https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices\">aka the harness</a>.</p><p>This harness provides execution feedback, like server logs, to help the agent maintain an accurate understanding of dynamic API connections. It also provides state trackers and control-flow mechanisms to manage completed and pending subgoals, ensuring the agent doesn&#x27;t skip or duplicate data batches. When unexpected errors occur, such as a database rejecting a batch due to strict API rate limits, the harness provides tools and instructions to help the agent recover.</p><p>The main way to tell an agent how and when to use its tools is to have a human developer write a set of rules and instructions telling it what to do step-by-step. For example, a developer might instruct the agent to always search the company wiki before writing an email. Because the agent is just following a rigid script, it lacks true autonomy. It hasn&#x27;t been trained to independently weigh the costs and benefits of its actions.</p><p>To solve this, researchers at Meta AI and University of Illinois Urbana–Champaign <a href=\"https://arxiv.org/html/2608.05446v1\">introduce EvoHarness-RL</a>, a framework that adds a layer of abstraction to the agent&#x27;s harness and teaches the underlying model when to read, update, or consolidate the information it obtains from its environment.</p><p>In long-horizon tasks, how AI agents read and process the information they obtain from their environment is pivotal to their success. The agent must update its understanding of its environment, track completed and pending subgoals, recover from failed actions, and reuse procedures from previous experience. This execution depends on the harness.</p><p>A series of self-evolving agentic frameworks like <a href=\"https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information\">Harness-1</a> solve part of the problem by accumulating past trajectories and distilling them into structured procedural memory, like reusable skills, workflows, or code libraries for future tasks. However, they generally separate this long-term skill curation from real-time, within-episode state tracking. They aren&#x27;t actively training the agent on how to manage its immediate environmental reality or track its active task steps while working.</p><p>Xuying Ning, co-author of the EvoHarness-RL paper, told VentureBeat that manual logic and rigid memory structures are primary culprits draining engineering resources.</p><p>&quot;The optimal harness often changes with the model,&quot; Ning explained. &quot;Different models may need different prompts, memory designs, permissions, or sandbox configurations. If all of this logic is manually coded, every model upgrade can lead to another long cycle of tuning and debugging.&quot;</p><p>Furthermore, existing memory systems that simply accumulate experience can actively degrade an agent&#x27;s reasoning. &quot;Append-only memory assumes that more context is always helpful, which is not necessarily true,&quot; Ning said. &quot;Over a long task, the memory may contain outdated conclusions, failed attempts, or information that is no longer relevant.&quot; As a result, long-horizon agents need a dynamic memory capable of updating, compressing, and replacing information to avoid repeating past mistakes.</p><h2>EvoHarness-RL: A unified belief, progress, and experience workspace</h2><p>To overcome the limitations of rigid, manual prompts, the researchers introduce EvoHarness-RL, a training technique that teaches the agent to make optimal use of its harness. Instead of blindly following hardcoded instructions, the agent learns how to construct a structured workspace from messy execution data and decide when and how to consult that external state during complex workflows.</p><p>To simplify the management of different components of the harness, EvoHarness-RL consolidates the agent’s support systems into a single, unified interface. This interface, known as the Belief, Progress, and Experience (BPE), categorizes the agent&#x27;s external needs into three functional areas:</p><ul><li><p><b>Belief: </b>Maintain an accurate read on the current environment.</p></li><li><p><b>Progress:</b> Manage completed and pending subgoals.</p></li><li><p><b>Experience:</b> Reuse historical knowledge across tasks.</p></li></ul><p>Instead of using complex, domain-specific APIs, the AI interacts with this clean dashboard using four compact meta-actions: track, commit, recall, and note. It issues commands to track the live environment, commit to workflow updates, recall past strategies before acting, and write notes to save newly discovered insights for future runs.</p><p>These states map directly to high-value enterprise verticals. &quot;In software engineering, Belief can represent the agent’s current understanding of the repository,&quot; Ning said, detailing how the agent monitors component interactions and workspace changes. &quot;Progress tracks what has already been completed, what still needs to be done, and which steps depend on others.&quot; Meanwhile, Experience captures lessons, like user feedback on a mistake, to guide future actions.</p><p>The same idea applies to finance, Ning said. During a compliance audit, Belief might describe the applicable rules and available evidence. Progress tracks which checks have been completed and which exceptions remain open. Experience helps the agent recognize recurring discrepancies or know when an issue should be escalated.</p><p>&quot;Together, these states help prevent the agent from losing track of its work or repeating the same failed approach,&quot; Ning said.</p><p>To teach the agent both the mechanics and the strategy of managing its external workspace, the researchers designed a two-stage training recipe. In the first stage, supervised harness fine-tuning, the base model learns how to extract and structure useful facts from messy interaction logs into the BPE framework.</p><p>However, querying memory or updating trackers consumes time and compute tokens, meaning the agent cannot afford to blindly check its tools at every step. To solve this, the second stage uses “cost-aware” reinforcement learning to teach the agent efficiency. This phase trains the agent to calculate when accessing its external state is worth the budget cost. This two-step process transforms tool-use from a rigid, hardcoded prompt into a learned runtime behavior.</p><h2>EvoHarness-RL in action</h2><p>To validate EvoHarness-RL, the researchers evaluated the system using the <a href=\"http://alfworld.github.io/\">ALFWorld </a>benchmark, a text-based environment featuring multi-step tasks that test sequential logic and state tracking.</p><p>They used Qwen3-8B as the base model to train. The team pitted the trained 8B model against three large frontier models (Claude Opus 4.5, GPT-4.1, and GPT-5), frozen agent frameworks with static tools (such as ReAct, ExpeL, and <a href=\"https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds\">ReasoningBank</a>), and advanced trainable methods (e.g., standard GRPO, SkillOS, and SkillRL).</p><p>The results show a significant jump in performance for smaller, cost-effective models. With EvoHarness-RL, the Qwen3-8B model achieved a 96.9% average success rate, a 49.0 percentage point improvement over its baseline ReAct counterpart.</p><p>Furthermore, the trained model outperformed advanced trainable frameworks like SkillRL (89.9%) and SkillOS (80.2%). Most impressively for enterprise developers looking to optimize compute costs, the 8B model effectively matched the performance ceiling of expensive closed models like Claude Opus 4.5, which scored 96.4% out-of-the-box.</p><p>Beyond empowering smaller models, the experiments show that the BPE framework has universal benefits across all model scales, even without the extensive reinforcement learning phase. When researchers equipped frozen, out-of-the-box frontier models with the BPE prompt-time harness, their execution improved significantly. GPT-4.1&#x27;s success rate improved by 22.1 points and GPT-5 by 25.7 points.</p><p>Aside from the results, the researchers recorded effects during the experiments that demonstrate the dynamic behavior the LLMs acquire as they go through the EvoHarness-RL training. During the reinforcement learning phase, they observed a behavioral shift as the agent internalized knowledge over time, which they called &quot;harness annealing&quot;. </p><p>Early in training, the AI relied heavily on querying its Experience and Progress trackers for almost every step. However, as it mastered routine actions, it actively reduced its reliance on external tools, embedding the successful patterns directly into its parameters. In a real-world enterprise setting, this translates directly to lower latency and reduced compute costs. By annealing its tool usage, the AI stops wasting tokens and time querying databases for standard workflows it has already mastered.</p><p>Simultaneously, the agent demonstrated &quot;harness evolution,&quot; where it dynamically adapted its strategy based on the complexity of the situation at hand. While it bypassed its tools for simple, familiar tasks, it actively chose to scale up its use of the Belief and Experience modules the moment it encountered novel environments or unexpected roadblocks. For example, if an AI agent is migrating standard database records, it moves fast. When it encounters a strange legacy API endpoint or a complex validation error, it slows down, pulls up the live server logs, and queries its historical tickets to safely resolve the edge case rather than hallucinating a guess.</p><h2>Bringing EvoHarness-RL into existing systems</h2><p>Despite these massive gains, adopting a new framework often introduces friction for enterprise engineering teams. However, EvoHarness-RL utilizes an environment adapter that allows internal implementations to remain domain-specific to an organization&#x27;s existing tools while sharing the trainable layer.</p><p>&quot;I think there is significant potential to integrate BPE into existing orchestration systems,&quot; Ning said. &quot;It does not necessarily require teams to replace their current tools or agent frameworks. BPE can work as an additional state-management layer that continuously organizes what the agent currently believes, how far it has progressed, and what it has learned.&quot;</p><p>For enterprise builders worried about inference costs, the framework addresses the hidden engineering cost of consolidation. Because consolidation requires strong reasoning, teams can adopt a hybrid, asynchronous architecture to optimize budgets.</p><p>&quot;One possible compromise is to use a frontier model to generate high-quality consolidation data, then fine-tune a capable open-weight model to handle routine state management,&quot; Ning said. Furthermore, &quot;because consolidation can happen asynchronously, it does not always need to slow down the agent’s main execution loop.&quot;</p><p>Teams must also carefully evaluate when a trainable BPE harness is necessary versus when it is overkill.</p><p>&quot;For a short and stable task, ReAct or standard RAG may already be sufficient,&quot; Ning said. &quot;BPE becomes much more valuable when an agent works for many hours, days, or even weeks.&quot; In those complex scenarios, an agent needs a compressed understanding of its decisions to avoid getting lost, relying on Experience to iteratively improve from previous failures and human feedback.</p><p>Ultimately, this approach signals a shift for AI orchestration engineers. &quot;It is not a complete replacement of workflow engineering,&quot; Ning said, &quot;but a transition from directly scripting agent behavior to creating systems in which better behavior can be learned.&quot;</p>",
-      "published_at": "2026-08-28T16:33:16+00:00",
-      "published_ts": 1787934796.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.528
-    },
-    {
-      "id": "venturebeat:353030171c3a",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
-      "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
-      "summary": "<p>Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.</p><p><a href=\"https://cohere.com/blog/parse\">Cohere released Parse 5 on Thursday</a>, positioning it on price-to-performance, not raw accuracy — the right cost-capability mix for enterprise scale.<!-- --> Parse 5 is a 2.3-billion-parameter vision language model built to convert PDFs, slides and images into structured Markdown at enterprise scale. </p><p>Cohere&#x27;s own published benchmark comparison puts Parse 5 behind three larger, general-purpose frontier models on accuracy. GPT-5.5, Opus 4.8 and Gemini 3.5 Flash all score higher than Parse on the three ParseBench dimensions Cohere reports. Cohere is not claiming the top score. It is claiming the best price for a score close to the top.The company priced the model at $1.50 per 1,000 pages through its API, with Model Vault, Cohere&#x27;s secure, single-tenant platform for managed inference, available for higher-volume deployment.</p><p>&quot;Document parsing isn&#x27;t solved because the hard part isn&#x27;t reading text, it&#x27;s preserving structure and meaning,&quot; Nils Reimers, VP of AI Search at Cohere, told VentureBeat. &quot;Enterprise documents mix tables, diagrams, charts, and formatting that change the interpretation of the data. Most tools still drop structure or hallucinate content, and even frontier models break on layout‑heavy pages.&quot;</p><h2>Inside the single-pass architecture</h2><p>Parse 5 takes a page as an image, runs it through a single vision-language model pass and returns structured Markdown, collapsing the OCR-plus-model pipeline most tools run as separate steps.</p><p><b>Architecture.</b> It is a 2.3-billion-parameter vision language model built on Cohere Labs&#x27; North-Micro-Vision-Instruct architecture, with an 8,192-token context window and roughly a 4.6-gigabyte footprint. It accepts a PDF, PowerPoint or JPEG page as a base64-encoded image and returns Markdown in reading order, with tables rendered as HTML, image descriptions and bounding box coordinates for tables and images.</p><p><b>Language coverage.</b> Arabic, English, French, German, Italian, Japanese, Korean, Portuguese and Spanish get stable accuracy, with lower-accuracy zero-shot support elsewhere.</p><p><b>Output modes.</b> The default output returns a Markdown string per page. A blocks mode returns typed elements, where each table carries its own HTML, bounding box and description, the format Cohere positions as what makes citation-level traceability possible for agents.</p><p><b>Availability.</b> Parse 5 is generally available now through the<a href=\"https://cohere.com/blog/parse\"> Cohere API</a>, Model Vault, Microsoft Foundry and AWS SageMaker.</p><h2>The benchmark shows a trade-off, not a win</h2><p>ParseBench is a benchmark that scores document-parsing tools against human-verified enterprise pages. Cohere reports Parse 5 scoring 79.2 across three dimensions: tables, content faithfulness and semantic formatting. That puts Parse 5 behind GPT-5.5 (84.4), Opus 4.8 (84.3) and Gemini 3.5 Flash (81.8), and ahead of LlamaParse&#x27;s Cost Effective tier (78.3), Mistral OCR 4 (74.5), Databricks AI Parse (72.4) and Azure Document Intelligence (69.3).</p><p>Cohere&#x27;s table notes two excluded dimensions, Layout and Chart, and attributes both to product scope rather than a performance gap. Parse 5 returns reading-order Markdown instead of per-element bounding boxes for text, and describes charts rather than extracting their underlying data, with chart-data extraction planned for a future version.</p><p>Reimers said that design choice reflects where agentic workflows actually break.</p><p>&quot;For charts, for example, we provide a general description of the chart together with an indicator, how Agentic AI can visually inspect the chart,&quot; Reimers explained. &quot;Other solutions try to extract the data from the chart, but then miss out critical information (for example, the color or the pattern of a line) that leads to hallucinations in Chat and Agentic AI applications.&quot;</p><p>Cost is where Cohere makes its real case. Reimers pointed to a workflow the company modeled for a large financial services firm.</p><p>&quot;We ran the numbers for a large financial services workflow that processes 750 million documents a year and showed that choosing Parse 5 over a large general‑purpose model like GPT‑5.5 would reduce costs by more than 98 percent.&quot;</p><p>That figure is Cohere&#x27;s own estimate for a single modeled workflow, not an audited deployment.</p><h2>Where Parse 5 sits against the field</h2><p>There is no shortage of options for enterprises looking at parsing solutions.</p><p>General-purpose frontier models, GPT-5.5, Opus 4.8 and Gemini 3.5 Flash, top the accuracy comparison but carry the cost and latency of a large model on every page. </p><p>Then there are specialized parsers, including<a href=\"\"> Mistral OCR 4</a>,<a href=\"\"> LlamaParse</a> and open-weight options like Chandra OCR 2 and RedNote&#x27;s dots.mocr.</p><p>Hyperscaler document intelligence services, AWS Textract, Google Document AI, Azure Document Intelligence and<a href=\"https://venturebeat.com/data/databricks-pdf-parsing-for-agentic-ai-is-still-unsolved-new-tool-replaces\"> Databricks AI Parse</a>, compete more on ecosystem convenience than on raw parsing quality, and score lowest in Cohere&#x27;s own comparison.</p><p>Kevin Petrie, VP of Research at BARC US, said document parsing sits at the center of enterprise AI adoption right now.</p><p>&quot;We&#x27;re completing a survey now that shows document analysis is by far the #1 use case for AI, with 62% adoption rates among organizations we polled,&quot; Petrie told <i>VentureBeat</i>. &quot;Documents and other unstructured objects, including images and so on, hold the proprietary context that organizations need to differentiate their agentic AI initiatives.&quot;</p><p>Petrie added that only time will tell how Cohere&#x27;s cost-performance stacks up against frontier models, but strategically his view is that Cohere has the right focus. </p><p>Stephanie Walter, Practice Leader for AI Stack at HyperFRAME Research, sees Cohere Parse 5 as sitting in a good spot between legacy OCR and using an expensive frontier model on every page. </p><p>&quot;Its potential advantage is delivering structure, spatial provenance and private deployment at a price suitable for high-volume ingestion,&quot; Walter told <i>VentureBeat</i>. &quot;It does not need to win every benchmark. It needs to make reliable enterprise-scale parsing economical.&quot;</p><h2>The real test is downstream, not on the benchmark</h2><p>&quot;Parsing is the first quality gate in the enterprise AI stack,&quot; Walter said. &quot;If tables, headings, images, or reading order are lost during ingestion, better embeddings and larger models cannot recover that missing structure.&quot;</p><p>A benchmark score isn&#x27;t the only input that matters here. <!-- -->&quot;Enterprises should test parsers against their own most difficult documents and measure downstream retrieval and task accuracy, not how clean the extracted text looks,&quot; Walter said. &quot;The right question is not &#x27;Did it read the PDF?&#x27; but &#x27;Can the agent now use the information correctly?&#x27;&quot;\n</p>",
-      "published_at": "2026-08-28T15:30:05+00:00",
-      "published_ts": 1787931005.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.452
     },
     {
       "id": "cnbeta:95d9c79928a8",
@@ -127,49 +82,34 @@
       "importance": 1.924
     },
     {
-      "id": "cnbeta:660ed81fb1e6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "特朗普政府设立新型 AI监管机构的行政令陷入停滞",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575402.htm",
-      "summary": "<p>据两名看过草案的知情人士透露，特朗普政府近几周在内部传阅一份行政令草案，提议为顶尖大模型 AI 企业设立一家行业自律监管组织。起草这份行政令，是朝着落地该监管机构迈出的重要一步，但项目仍面临重大阻碍。这份行政令想要定稿，还需要包括总统在内的一众高级官员的认可；另外三名知情人士表示，近期相关推进工作已经陷入停滞。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575402.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-28T09:54:52+00:00",
-      "published_ts": 1787910892.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.908
-    },
-    {
-      "id": "qbitai:41146b81960d",
+      "id": "qbitai:22927a428f81",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
-      "published_at": "2026-08-28T09:45:19+00:00",
-      "published_ts": 1787910319.0,
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "summary": "推理软件栈的微小差异，就能改变输出token",
+      "published_at": "2026-08-29T13:11:08+00:00",
+      "published_ts": 1788009068.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.9
+      "importance": 1.802
     },
     {
-      "id": "tmtpost:3a8ec6e0a54c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "不等超级应用了，MiniMax改卖Token",
-      "url": "https://www.tmtpost.com/8119451.html",
-      "summary": "营收增长283.1%，MiniMax换引擎。",
-      "published_at": "2026-08-28T08:13:53+00:00",
-      "published_ts": 1787904833.0,
+      "id": "qbitai:70efd58f8dd5",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "summary": "AI「自进化」，越来越近了",
+      "published_at": "2026-08-29T12:50:31+00:00",
+      "published_ts": 1788007831.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.818
+      "importance": 1.784
     },
     {
       "id": "ars_technica:a7866a7136dd",
@@ -187,19 +127,19 @@
       "importance": 1.764
     },
     {
-      "id": "cnbeta:9ae211acdae8",
+      "id": "cnbeta:7a872cb3bff2",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "华为何庭波入选AI百大 《Time》称她芯片女王",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575430.htm",
-      "summary": "<p>《时代》杂志公布了2026年度全球人工智能领域100位最具影响力人物，华为何庭波入选领导者类别。<strong>《时代》在介绍中称她为中国的“芯片女王”，认为她已成为华为摆脱美国芯片依赖进程中的核心人物。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575430.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-28T15:24:29+00:00",
-      "published_ts": 1787930669.0,
+      "title": "马斯克回应OpenAI断供Cursor：我根本不在乎 奥特曼是骗子",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575500.htm",
+      "summary": "<p>据路透社报道，对于OpenAI停止向SpaceX旗下编程公司Cursor提供AI模型一事，埃隆·马斯克(Elon Musk)周六表示，他根本不在乎。OpenAI周五宣布，计划在11月12日停止向Cursor提供其AI模型。“我们做出这一决定，是因为鉴于我们曾经历过马斯克旗下公司违反合同，我们无法确信SpaceX会按照我们的服务条款使用我们的技术。”OpenAI在一篇博客文章中表示。SpaceX在今年6月以600亿美元收购了Cursor。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-29T11:39:23+00:00",
+      "published_ts": 1788003563.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.631
+      "importance": 1.724
     }
   ]
 }
