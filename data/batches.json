@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T21:00:25.068421+00:00",
+    "generated_at": "2026-08-30T05:33:18.296253+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8101,6 +8101,32 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575514.htm",
           "published_at": "2026-08-29T16:48:19+00:00",
           "summary": "<p>随着人工智能热潮推动存储芯片需求激增，DRAM和NAND闪存制造商的利润大幅攀升。在SK海力士和三星已向员工发放丰厚奖金后，美光科技的工会成员开始质疑：公司何时才能让员工分享这波红利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-30T05:33:18.296253+00:00",
+      "generated_ts": 1788067998.2962534,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "tmtpost:12690420eab7",
+          "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.68,
+          "url": "https://www.tmtpost.com/8121886.html",
+          "published_at": "2026-08-30T01:39:20+00:00",
+          "summary": "（8月24日-29日）比尔·盖茨称向AI时代过渡将是人类史上最动荡时期之一，批科技行业淡化风险、呼吁对Token和机器人征税；亚马逊、苹果、微软、戴尔集体涨价，机构预测：全球内存紧缺或持续至2027年；小米发布大模型专用AI加速芯片玄戒O100"
         }
       ]
     }

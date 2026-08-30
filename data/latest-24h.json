@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T21:00:25.068421+00:00",
-    "generated_ts": 1788037225.0684214,
+    "generated_at": "2026-08-30T05:33:18.296253+00:00",
+    "generated_ts": 1788067998.2962534,
     "window_hours": 24.0,
-    "total": 9
+    "total": 10
   },
   "items": [
     {
@@ -50,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.821
+    },
+    {
+      "id": "tmtpost:12690420eab7",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
+      "url": "https://www.tmtpost.com/8121886.html",
+      "summary": "（8月24日-29日）比尔·盖茨称向AI时代过渡将是人类史上最动荡时期之一，批科技行业淡化风险、呼吁对Token和机器人征税；亚马逊、苹果、微软、戴尔集体涨价，机构预测：全球内存紧缺或持续至2027年；小米发布大模型专用AI加速芯片玄戒O100",
+      "published_at": "2026-08-30T01:39:20+00:00",
+      "published_ts": 1788053960.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.68
     },
     {
       "id": "cnbeta:95d9c79928a8",
