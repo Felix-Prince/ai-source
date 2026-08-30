@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T16:48:53.630537+00:00",
+    "generated_at": "2026-08-30T21:15:23.472267+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8180,6 +8180,32 @@
         "venturebeat": 7
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-08-30T21:15:23.472267+00:00",
+      "generated_ts": 1788124523.472267,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:cff33d1a44c7",
+          "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.914,
+          "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+          "published_at": "2026-08-30T20:15:00+00:00",
+          "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetic"
+        }
+      ]
     }
   ]
 }
