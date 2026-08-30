@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T12:02:03.623401+00:00",
-    "generated_ts": 1788091323.6234007,
+    "generated_at": "2026-08-30T16:48:53.630537+00:00",
+    "generated_ts": 1788108533.6305366,
     "window_hours": 24.0,
-    "total": 7
+    "total": 4
   },
   "items": [
     {
@@ -35,51 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.68
-    },
-    {
-      "id": "qbitai:22927a428f81",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "summary": "推理软件栈的微小差异，就能改变输出token",
-      "published_at": "2026-08-29T13:11:08+00:00",
-      "published_ts": 1788009068.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.802
-    },
-    {
-      "id": "qbitai:70efd58f8dd5",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "summary": "AI「自进化」，越来越近了",
-      "published_at": "2026-08-29T12:50:31+00:00",
-      "published_ts": 1788007831.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.784
-    },
-    {
-      "id": "cnbeta:c3f18ba68821",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美光员工以罢工相威胁 要求分享AI热潮红利",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575514.htm",
-      "summary": "<p>随着人工智能热潮推动存储芯片需求激增，DRAM和NAND闪存制造商的利润大幅攀升。在SK海力士和三星已向员工发放丰厚奖金后，美光科技的工会成员开始质疑：公司何时才能让员工分享这波红利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T16:48:19+00:00",
-      "published_ts": 1788022099.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.771
     },
     {
       "id": "cnbeta:854512560f79",

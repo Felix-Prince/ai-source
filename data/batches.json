@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T12:02:03.623401+00:00",
+    "generated_at": "2026-08-30T16:48:53.630537+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8165,6 +8165,21 @@
           "summary": "<p>智能戒指如今已不再局限于记录语音、连接人工智能或辅助运动训练。市场上已有产品能够监测睡眠质量、接入各种健康应用，甚至通过智能耳环帮助用户了解血流状况。美国加州大学圣迭戈分校的工程师近日开发出一款新型智能戒指。该设备利用渗透作用，能够持续测量酒精、葡萄糖、酮体、乳酸、维生素C（抗坏血酸）和尿酸等多种生物标志物，并将数据传输至智能手机应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1575534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-08-30T16:48:53.630537+00:00",
+      "generated_ts": 1788108533.6305366,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": []
     }
   ]
 }
