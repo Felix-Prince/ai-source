@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T05:33:18.296253+00:00",
+    "generated_at": "2026-08-30T12:02:03.623401+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8127,6 +8127,42 @@
           "url": "https://www.tmtpost.com/8121886.html",
           "published_at": "2026-08-30T01:39:20+00:00",
           "summary": "（8月24日-29日）比尔·盖茨称向AI时代过渡将是人类史上最动荡时期之一，批科技行业淡化风险、呼吁对Token和机器人征税；亚马逊、苹果、微软、戴尔集体涨价，机构预测：全球内存紧缺或持续至2027年；小米发布大模型专用AI加速芯片玄戒O100"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-30T12:02:03.623401+00:00",
+      "generated_ts": 1788091323.6234007,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:854512560f79",
+          "title": "9亿人免费用 GPT私人秘书来了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.693,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575554.htm",
+          "published_at": "2026-08-30T06:16:21+00:00",
+          "summary": "<p>ChatGPT 有 9 亿周活用户，付费的不到 5000 万，转化率只有 5% 到 6%。8 月 26 日，OpenAI 把定时任务功能（侧栏的“已安排”）向所有免费用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:268724a67ae0",
+          "title": "智能戒指可通过汗液持续监测血糖、酮体等多项生物标志物",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.672,
+          "url": "https://www.cnbeta.com.tw/articles/science/1575534.htm",
+          "published_at": "2026-08-30T05:50:26+00:00",
+          "summary": "<p>智能戒指如今已不再局限于记录语音、连接人工智能或辅助运动训练。市场上已有产品能够监测睡眠质量、接入各种健康应用，甚至通过智能耳环帮助用户了解血流状况。美国加州大学圣迭戈分校的工程师近日开发出一款新型智能戒指。该设备利用渗透作用，能够持续测量酒精、葡萄糖、酮体、乳酸、维生素C（抗坏血酸）和尿酸等多种生物标志物，并将数据传输至智能手机应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1575534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

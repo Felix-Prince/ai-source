@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T05:33:18.296253+00:00",
-    "generated_ts": 1788067998.2962534,
+    "generated_at": "2026-08-30T12:02:03.623401+00:00",
+    "generated_ts": 1788091323.6234007,
     "window_hours": 24.0,
-    "total": 10
+    "total": 7
   },
   "items": [
-    {
-      "id": "cnbeta:92fe93a4b382",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "智谱宣布GLM-5.3模型开源 支持免费部署和商用 但大型企业必须先提交审查",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575452.htm",
-      "summary": "<p>智谱日前宣布 GLM-5.3 模型正式开源，该模型已经在 8 月中旬上线 API 服务供开发者们使用，但由于模型网络安全能力增长超出预期，所以模型权重开放被推迟以进行额外的审查，现在完成审查后智谱开始提供模型权重。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T05:43:43+00:00",
-      "published_ts": 1787982223.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.876
-    },
-    {
-      "id": "cnbeta:7c2d5689d28c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI宣布切断Cursor的模型访问 从11月12日起不再向Cursor提供API服务",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575450.htm",
-      "summary": "<p>OpenAI 日前宣布将切断与人工智能编程工具 Cursor 的模型供应合作，也就是未来 Cursor 将无法再向开发者提供 GPT 系列模型，具体来说停止模型供应时间为 2026 年 11 月 12 日，之后 Cursor 用户只能选择其他模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T05:43:09+00:00",
-      "published_ts": 1787982189.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.875
-    },
     {
       "id": "cnbeta:34cded5673d1",
       "source": "cnbeta",
@@ -65,36 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.68
-    },
-    {
-      "id": "cnbeta:95d9c79928a8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI会冲垮软件业？Anthropic CEO：无意摧毁任何人",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575480.htm",
-      "summary": "<p>8月29日，据《商业内幕》报道，Anthropic CEO达里奥·阿莫代伊(Dario Amodei)表示，该公司的AI助手Claude是来“和平共处”的，而不是摧毁其他行业。“我们无意摧毁任何人，”阿莫代伊本周早些时候对CNBC表示，“我们认为，这是一件互利共赢的事情，对吧？”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575480.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T06:11:39+00:00",
-      "published_ts": 1787983899.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.943
-    },
-    {
-      "id": "cnbeta:5041f3da597c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Debian投票通过“负责任使用生成式人工智能”政策",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575456.htm",
-      "summary": "<p>Debian围绕项目人工智能政策展开的广受关注的“Debian总决议”投票现已结束，结果已经揭晓。Debian开发者此前曾就项目是否应禁止大语言模型贡献、允许部分人工智能辅助贡献，或采取更加谨慎的限制措施展开投票。最终，开发者选择了“负责任使用生成式人工智能”方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575456.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T05:50:40+00:00",
-      "published_ts": 1787982640.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.924
     },
     {
       "id": "qbitai:22927a428f81",
@@ -142,19 +82,34 @@
       "importance": 1.771
     },
     {
-      "id": "cnbeta:7a872cb3bff2",
+      "id": "cnbeta:854512560f79",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "马斯克回应OpenAI断供Cursor：我根本不在乎 奥特曼是骗子",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575500.htm",
-      "summary": "<p>据路透社报道，对于OpenAI停止向SpaceX旗下编程公司Cursor提供AI模型一事，埃隆·马斯克(Elon Musk)周六表示，他根本不在乎。OpenAI周五宣布，计划在11月12日停止向Cursor提供其AI模型。“我们做出这一决定，是因为鉴于我们曾经历过马斯克旗下公司违反合同，我们无法确信SpaceX会按照我们的服务条款使用我们的技术。”OpenAI在一篇博客文章中表示。SpaceX在今年6月以600亿美元收购了Cursor。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-29T11:39:23+00:00",
-      "published_ts": 1788003563.0,
+      "title": "9亿人免费用 GPT私人秘书来了",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575554.htm",
+      "summary": "<p>ChatGPT 有 9 亿周活用户，付费的不到 5000 万，转化率只有 5% 到 6%。8 月 26 日，OpenAI 把定时任务功能（侧栏的“已安排”）向所有免费用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-30T06:16:21+00:00",
+      "published_ts": 1788070581.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.724
+      "importance": 1.693
+    },
+    {
+      "id": "cnbeta:268724a67ae0",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "智能戒指可通过汗液持续监测血糖、酮体等多项生物标志物",
+      "url": "https://www.cnbeta.com.tw/articles/science/1575534.htm",
+      "summary": "<p>智能戒指如今已不再局限于记录语音、连接人工智能或辅助运动训练。市场上已有产品能够监测睡眠质量、接入各种健康应用，甚至通过智能耳环帮助用户了解血流状况。美国加州大学圣迭戈分校的工程师近日开发出一款新型智能戒指。该设备利用渗透作用，能够持续测量酒精、葡萄糖、酮体、乳酸、维生素C（抗坏血酸）和尿酸等多种生物标志物，并将数据传输至智能手机应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1575534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-30T05:50:26+00:00",
+      "published_ts": 1788069026.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.672
     }
   ]
 }
