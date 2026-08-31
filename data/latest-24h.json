@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T05:48:04.997865+00:00",
-    "generated_ts": 1788155284.9978647,
+    "generated_at": "2026-08-31T14:08:53.969991+00:00",
+    "generated_ts": 1788185333.969991,
     "window_hours": 24.0,
-    "total": 12
+    "total": 16
   },
   "items": [
+    {
+      "id": "venturebeat:f53e0b00b297",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+      "url": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+      "summary": "<p><i>Presented by Box</i></p><hr /><p>Identity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autonomous agent can turn legitimate access of enterprise data into unintended action in seconds. That gap is pushing enterprise AI security from just governing access toward a layered approach that includes governing execution, says Heather Ceylan, chief information security officer at Box.</p><p>&quot;Access controls and permissions are the foundation, but the challenge is they were designed for humans,&quot; Ceylan says. &quot;Permissions are still the foundation, but you have to think about how the agents get their permissions scoped as well.&quot;</p><p>Access controls were built for a slower, more forgiving world, where a human employee with lingering permissions to a decade-old folder will rarely go looking for any data inside it, or even remember they have access at all. But an agent will explore all of its permissions, operating at a scale no person can match and surfacing forgotten misconfigurations and stale permissions far faster than a human ever could. Identity and scoped permissions remain the first layer of any credible defense, however, because agents raise the stakes, clean access hygiene is more valuable than ever.</p><p>A steady drip of incidents in recent months underlines the potential for major damage, <a href=\"https://blog.box.com/we-tested-models-not-room?utm_source=newsletter&amp;utm_medium=paidinfluencer&amp;utm_theme=icm&amp;utm_campaign=FY27_Q3_VB_AgentBehavior\">where models have slipped the sandboxes they were supposed to stay contained within</a>, reached systems they weren&#x27;t scoped to touch, or read content they were not permitted to access. While the specifics vary, the overarching threat remains the same: an agent found a path through the data that it could reach, and took it.</p><h2>Access controls alone can&#x27;t secure autonomous AI agents</h2><p>Complications crop up when agents are handed broad standing permissions to match broad workflows. An agent might legitimately need to call fifty tools across twenty different actions over the life of a task, reading and writing folders that span every department in the company. But granting all of that access at once inflates the blast radius of possible damage to data and content if a single step goes wrong. A stronger permissions model provides access only in the moments that it&#x27;s needed, Ceylan says. </p><p>&quot;You need permissions that change based on what the agent has been asked to do, when it needs to take that action,&quot; she explains. &quot;If it&#x27;s taking one step and only needs two tools, it should be scoped to only those two. When you narrow permissions to the task in front of the agent, the number of ways any given step can misfire shrinks with it.&quot;</p><h2>From governing access to governing execution</h2><p>Tight security is also no longer tied to whether an agent has access to specific data, but whether it should take a specific action on a specific step, which is the difference between a standing access grant and a bounded one. In other words, an agent may hold legitimate rights to a finance folder but still have no business writing four thousand of those files to a new location, even if it&#x27;s told to do so. </p><p>&quot;An employee with access to payroll data they were never meant to keep could be instructed to pull the payroll records and write them to a public shared folder, publishing the entire company&#x27;s compensation in a single move,&quot; she says. &quot;Every access check passed, but the behavior still has catastrophic consequences.&quot;</p><p>Prompts alone can’t reliably govern agent behavior because instructions can change, agents can absorb injected instructions, or they can be steered by files they read along the way. Durable controls need to live one level down, with the tool calls themselves, as well as the content those calls act on. Deciding in advance what an agent is permitted to execute, regardless of how its prompt is manipulated, keeps behavior inside fixed bounds that no clever input can talk it out of.</p><h2>Legacy content platforms weren&#x27;t built for AI agents</h2><p>Most of what an agent touches inside a company is unstructured content, including contract, policies, customer records — the accumulated files that make up the overwhelming majority of corporate data. Much of it still sits in systems that were designed for human filing habits: network drives, aging ECM platforms, and many SaaS tools. Those systems were built to ask the question, does this person have permission? and they answer it with folder-level access that hasn&#x27;t been audited for years. </p><p>The legacy platforms don&#x27;t have metadata for an agent to reason over or classification for an enforcement layer to act on, and their logs aren&#x27;t detailed enough to show what an agent read. Bolting an AI connector onto that stack doesn&#x27;t fix any of it, it just hands agents the same blind spots, only at machine speeds, Ceylan says. </p><p>&quot;Every agent action eventually resolves to content,&quot; Ceylan says. &quot;If the content layer can&#x27;t tell you what it&#x27;s holding, who it belongs to, and what should never leave it, there&#x27;s nothing underneath your controls.&quot;</p><h2>How to decide which AI actions need human approval</h2><p>Two years ago, everyone assumed security would always mean including humans in the loop. Building and living with agents has changed that assumption, Ceylan says, and Box now sorts actions into three tiers: fully autonomous actions, monitored actions and high-risk actions that require human approval.</p><ul><li><p><b>Fully autonomous</b>, reserved for actions that are reversible, bounded, logged, and free of untrusted input, and where a mistake doesn&#x27;t cost too much. </p></li><li><p><b>Monitored actions</b>, once a team has built enough confidence in an agent and paired it with alerting and rollback that can catch and undo a problem in flight. </p></li><li><p><b>Irreversible, high-risk actions</b> that are always routed through a person — for instance, when an agent that wants to delete a large number of files or wipe the primary folder in a structure. </p></li></ul><p>Each team must calibrate the lines between these layers to match its own risk tolerance. </p><p>Box’s approach is to put controls in the platform rather than the workflow, enforcing protections such as data classification, labeling and expiration without requiring a human checkpoint for every action.</p><p>&quot;The right configuration should be enforced at the outset, instead of blocking an action at the end,&quot; Ceylan says.</p><h2>Building trust in AI agents through behavior over time</h2><p>An organization can make an access decision once, but trusting an agent&#x27;s behavior should only happen over time, observing how the agent runs, collaborates, and builds on the outputs of other agents. Published frameworks tend to lag the technology, or are too abstract to implement; instead Box works from a smaller set of principles: tightly scoped agent identities and actions, clear expectations about what can be rolled back, three approval tiers, and a way for teams to test and iterate quickly. </p><p>&quot;The sanctioned path has to be the fast path, because when teams aren&#x27;t given a safe way to experiment, they tend to route around the controls entirely,&quot; Ceylan says. &quot;A security leader&#x27;s job is to offer a way to move quickly without stepping outside the guardrails.&quot;</p><p>Sustaining trust in an agent depends on being able to see how it actually behaves. But traditional monitoring tools weren’t built for the job; the behavioral baselines that underpin user and entity behavior analytics were calibrated to human activity, and suspicious agent behavior doesn’t necessarily look like human activity.</p><p>And while establishing a useful agent baseline begins with logging, many agents start out as experiments, so their actions never make it into logging infrastructure. Plus, important signals are rarely individual easily flagged actions, but chains of activities across systems, as one agent&#x27;s output becomes another&#x27;s input, while the detections for that pattern are still being designed. </p><p><a href=\"https://blog.box.com/introducing-box-agent-security-and-governance?utm_source=newsletter&amp;utm_medium=paidinfluencer&amp;utm_theme=icm&amp;utm_campaign=FY27_Q3_VB_AgentBehavior1\">Governing agents</a>, then, requires visibility not just into what they can access, but what they actually do, and that visibility has to live where the content does.</p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p>",
+      "published_at": "2026-08-31T14:00:00+00:00",
+      "published_ts": 1788184800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.987
+    },
     {
       "id": "venturebeat:cff33d1a44c7",
       "source": "venturebeat",
@@ -82,6 +97,21 @@
       "importance": 2.465
     },
     {
+      "id": "the_verge:9a10f096dc5b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+      "published_at": "2026-08-31T13:27:36+00:00",
+      "published_ts": 1788182856.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.961
+    },
+    {
       "id": "cnbeta:220d266b3ac2",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -105,6 +135,21 @@
       "summary": "<p>中国存储芯片厂商江波龙拟香港上市，融资不超过62.8亿港元（8.01亿美元），加入人工智能硬件供应链企业赴港融资潮。根据江波龙周一发布的上市文件，公司计划发行约2600万股股份，发售价不超过每股240.6港元，较其上周五在深圳上市的A股收盘价折让约45%。江波龙预计9月8日在香港挂牌上市。该公司A股今年以来已上涨约50%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-08-31T04:40:26+00:00",
       "published_ts": 1788151226.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.936
+    },
+    {
+      "id": "cnbeta:1beb3ee218bc",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英国央行行长向G20集团发出警告：AI可能引发全球经济衰退",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575744.htm",
+      "summary": "<p>英国央行行长安德鲁·贝利加入了警告最先进人工智能技术可能给全球带来风险的行列。贝利目前担任国际金融稳定委员会主席。他在一封发给国际财长和央行行长的两页信函中表示，“前沿”人工智能模型正表现出“越来越复杂的自主性和解决问题的能力，以及发动威胁的能力”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575744.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-31T13:01:27+00:00",
+      "published_ts": 1788181287.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -157,34 +202,49 @@
       "importance": 1.846
     },
     {
-      "id": "cnbeta:854512560f79",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "9亿人免费用 GPT私人秘书来了",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575554.htm",
-      "summary": "<p>ChatGPT 有 9 亿周活用户，付费的不到 5000 万，转化率只有 5% 到 6%。8 月 26 日，OpenAI 把定时任务功能（侧栏的“已安排”）向所有免费用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-30T06:16:21+00:00",
-      "published_ts": 1788070581.0,
+      "id": "tmtpost:d5b5ed119901",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "豆包工作开始加速字节的Token飞轮",
+      "url": "https://www.tmtpost.com/8123032.html",
+      "summary": "基础模型能否追上产品野心，将成为决定豆包工作能否承接核心工作、以及字节Token飞轮能转多快的关键。",
+      "published_at": "2026-08-31T11:13:21+00:00",
+      "published_ts": 1788174801.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.693
+      "importance": 1.838
     },
     {
-      "id": "cnbeta:268724a67ae0",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "智能戒指可通过汗液持续监测血糖、酮体等多项生物标志物",
-      "url": "https://www.cnbeta.com.tw/articles/science/1575534.htm",
-      "summary": "<p>智能戒指如今已不再局限于记录语音、连接人工智能或辅助运动训练。市场上已有产品能够监测睡眠质量、接入各种健康应用，甚至通过智能耳环帮助用户了解血流状况。美国加州大学圣迭戈分校的工程师近日开发出一款新型智能戒指。该设备利用渗透作用，能够持续测量酒精、葡萄糖、酮体、乳酸、维生素C（抗坏血酸）和尿酸等多种生物标志物，并将数据传输至智能手机应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1575534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-30T05:50:26+00:00",
-      "published_ts": 1788069026.0,
+      "id": "tmtpost:c17c34f8cd18",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AGI军令状前，MiniMax 和智谱的最后一份中报",
+      "url": "https://www.tmtpost.com/8122866.html",
+      "summary": "智谱和Kimi，很快就要回答同一道题。",
+      "published_at": "2026-08-31T09:00:30+00:00",
+      "published_ts": 1788166830.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.672
+      "importance": 1.724
+    },
+    {
+      "id": "cnbeta:5f83afe67f6b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic发布安全警报：恶意软件已窃取部分用户Claude会话",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575714.htm",
+      "summary": "<p>据bleepingcomputer 报道，Anthropic 警告部分 Claude 用户，他们电脑上的信息窃取恶意软件已窃取了活跃的 Claude 登录会话，使攻击者能够访问其账号并窃取使用数据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575714.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-31T08:46:53+00:00",
+      "published_ts": 1788166013.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.713
     }
   ]
 }
