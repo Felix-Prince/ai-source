@@ -1,94 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:08:53.969991+00:00",
+    "generated_at": "2026-08-31T22:56:00.297546+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-01T15:31:46.677435+00:00",
-      "generated_ts": 1785598306.6774354,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:8cc756e29777",
-          "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.987,
-          "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-          "published_at": "2026-08-01T15:05:00+00:00",
-          "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-01T17:27:20.757503+00:00",
-      "generated_ts": 1785605240.7575026,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:bada20a17232",
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.981,
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-          "published_at": "2026-08-01T17:07:34+00:00",
-          "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-01T19:38:55.284403+00:00",
-      "generated_ts": 1785613135.2844026,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-01T21:12:28.716463+00:00",
-      "generated_ts": 1785618748.716463,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:c32d16dc4240",
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.959,
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "published_at": "2026-08-01T19:45:45+00:00",
-          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-01T23:15:46.804613+00:00",
       "generated_ts": 1785626146.8046129,
@@ -8116,6 +8031,72 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575714.htm",
           "published_at": "2026-08-31T08:46:53+00:00",
           "summary": "<p>据bleepingcomputer 报道，Anthropic 警告部分 Claude 用户，他们电脑上的信息窃取恶意软件已窃取了活跃的 Claude 登录会话，使攻击者能够访问其账号并窃取使用数据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575714.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-31T22:56:00.297546+00:00",
+      "generated_ts": 1788216960.2975461,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:902ef46b4f88",
+          "title": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.926,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575800.htm",
+          "published_at": "2026-08-31T22:04:01+00:00",
+          "summary": "<p>美国国防部近日宣布，已在其安全人工智能门户GenAI.mil中上线OpenAI的ChatGPT Mil和xAI的Grok for Government，为约300万名文职及军职人员提供面向“作战人员需求”定制的生成式人工智能工具。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:d2f93f799c54",
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.775,
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "published_at": "2026-08-31T20:13:45+00:00",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+        },
+        {
+          "id": "venturebeat:23fc1db60cf8",
+          "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.668,
+          "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+          "published_at": "2026-08-31T18:52:19+00:00",
+          "summary": "<p>If you look at the commit histories of modern data platforms, something profound has shifted over the last two years. The friction of writing syntax has collapsed. With Cursor, Claude Code, and agentic workflows now living inside our Docker containers and IDEs, generating the first implementation"
+        },
+        {
+          "id": "cnbeta:fddb7ebd9605",
+          "title": "ChatGPT广告业务年化营收破10亿美元 OpenAI再添变现引擎",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.34,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575750.htm",
+          "published_at": "2026-08-31T14:19:26+00:00",
+          "summary": "<p>OpenAI正在打开第三条规模化变现曲线。广告业务上线约200天便突破年化10亿美元营收门槛，在订阅和API之外进一步拓宽了商业化空间。据报道，OpenAI周一宣布，<strong>其ChatGPT广告业务年化营收已突破10亿美元。</strong>目前，ChatGPT广告已覆盖逾40个国家，公司同日宣布向印度、欧洲、中东及北非地区开放自助投放服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575750.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:90b6881fe402",
+          "title": "苹果称前员工在OpenAI使用窃取的商业机密并训练AI代理运行相关工程软件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.95,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575798.htm",
+          "published_at": "2026-08-31T22:03:26+00:00",
+          "summary": "<p>苹果公司近日向法院提交新证据，指控前员工Chang Liu离职加入OpenAI后，仍获取并使用苹果的机密技术资料。苹果希望以此推动法院批准加速取证程序。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

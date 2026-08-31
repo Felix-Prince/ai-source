@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:08:53.969991+00:00",
-    "generated_ts": 1788185333.969991,
+    "generated_at": "2026-08-31T22:56:00.297546+00:00",
+    "generated_ts": 1788216960.2975461,
     "window_hours": 24.0,
-    "total": 16
+    "total": 20
   },
   "items": [
     {
@@ -22,19 +22,19 @@
       "importance": 2.987
     },
     {
-      "id": "venturebeat:cff33d1a44c7",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
-      "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
-      "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetical. In June,<a href=\"https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html\"> <u>CISA added a LiteLLM flaw</u></a> to its Known Exploited Vulnerabilities catalog after attackers were caught abusing it in the wild. The bug ran commands on the host through the gateway itself, and chained with a second flaw it required no credentials. It was one of seven common vulnerabilities and exposures (CVEs) disclosed in that single AI gateway in a month. This is the layer many enterprises reach for first to secure their AI agents.</p><p>When considering secure agent architecture, gateway controls should not be the first control. They should be the fifth.</p><p>Most models on the maturity of agent security describe the controls a company will need in the future. They tend to miss, from my experience, the more difficult problem of describing the brownfield scenario: In what order should these controls be layered in conjunction with an identity and access management system that is already in place?</p><p>If the control plane is unaware of which agent is acting, who delegated the work, what task the agent is to perform, and what credentials are being used, then the context is incomplete. A gateway may block clear policy violations, but will struggle to distinguish a justified action from one that is technically permissible but operationally inappropriate.</p><p>The pattern of failure is clear when sequencing these controls for agent production deployments: Enforcement is taken early, while the identity and attribution context it depends on has yet to be developed. Agent security functions as a dependency chain, with each control depending on context generated upstream.</p><h2><b>The wrong starting point</b></h2><p>Think about routing agent traffic via a new runtime gateway. A finance-reconciliation agent tries to alter a record in production. The gateway authenticates the user token and checks the API call. What it can&#x27;t observe is that the request is agent-initiated, that the agent is executing a more limited function, or that the request is part of a tool chain invoked by an untrusted artifact.</p><p>The credential is valid. The API call is permissible. The action contradicts the purpose of the delegation. The gateway is there, but its set of supports seems absent, so a costly control is applied to a very small part of the whole picture.</p><p>Limiting an <a href=\"https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority\">agent&#x27;s privileges</a> to those of the human principal is useful so the agent does not exceed the person it serves. However, having a privilege ceiling does not create separate attribution. Twenty agents might operate under a single person&#x27;s permissions and still need unique identities, audit logs, behavior profiles, and revocation paths.</p><h2><b>Dependency-gated deployment</b></h2><p>I call this process dependency-gated deployment. Upstream exit tests must be satisfied before any downstream control is considered operationally complete. Concurrent development of downstream controls is permissible. </p><p>Here are the six gates, and the proof that they work:</p><table><tbody><tr><td><p><b>Gate</b></p></td><td><p><b>Control</b></p></td><td><p><b>Operational proof it works</b></p></td></tr><tr><td><p>1</p></td><td><p>Agent inventory and accountable ownership</p></td><td><p>Every production agent has a named owner, purpose, approved tools, and lifecycle state</p></td></tr><tr><td><p>2</p></td><td><p>Distinct agent identity plus delegation context</p></td><td><p>The system can identify the agent, its owner, and the principal it is acting for</p></td></tr><tr><td><p>3</p></td><td><p>Task-scoped, short-lived credentials</p></td><td><p>A compromised agent cannot reach resources unrelated to its assigned task</p></td></tr><tr><td><p>4</p></td><td><p>Attributable telemetry</p></td><td><p>A completed task can be reconstructed from initiation to downstream effect</p></td></tr><tr><td><p>5</p></td><td><p>Runtime action enforcement</p></td><td><p>Policy decisions incorporate agent, principal, task, and action context, not just token validity</p></td></tr><tr><td><p>6</p></td><td><p>Behavioral baselines and cross-system kill path</p></td><td><p>The agent&#x27;s effective authority can be stopped everywhere it reaches</p></td></tr></tbody></table><p><i>The six dependency gates for the agent security controls. Each control is contextualized by the gates above it. From the author&#x27;s analysis of production agent deployments.</i></p><h2><b>Start with the agents you can actually name</b></h2><p>To begin, recognize the production agents in open-source frameworks, cloud offerings, SaaS services, and developer tools. For each, record the owner, responsibility, lifecycle stage, allowed tools, data domains, and sources of credentials.</p><p>Bypass this step, and the organization will lose the first hour of <a href=\"https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools\">incident response</a> while they figure out what should have been obvious. The inventory identifies the asset that every control thereafter governs.</p><h2><b>An agent needs its own identity, but it cannot lose the human behind it </b></h2><p>An agent should not be buried in a developer token, a shared service account, or a human session. Simply knowing the caller is an agent is not sufficient. The control plane requires additional delegation context: Who delegated the work, what specific task the agent was instructed to execute, and which resources the agent needs the authority to access. Identity specifies which actor placed the call. Delegation is the answer to whose authority it acts, and for what reason.</p><p>Once that connection is cut off, the downstream logs attribute the reconciliation agent to the employee whose token it borrowed, and every action it takes is attributed to someone who did not start it.</p><h2><b>Shrink authority before you inspect behavior </b></h2><p>Once an agent can be identified, capabilities should be limited. Access restrictions should be time-bound to the task and limited to the tools and resources required to perform the task. This can be implemented using identity access management (IAM) features such as workload identity, token exchange, conditional access, and time-bound entitlements which the organization already possesses.</p><p>With regard to the<a href=\"https://goteleport.com/about/newsroom/press-releases/2026-state-of-ai-in-enterprise-security-report/\"> <u>2026 Teleport study</u></a> involving 205 security leaders, the access scope surpasses the predictive capacity of industry, maturity, or self-assurance concerning predicting AI-related incidents. For example, organizations with over-privileged AI reported a 76% incident rate, whereas AI incidents occurred in 17% of organizations under the least privilege. This indicates that access scope in the dependency chain is more important than context-aware runtime enforcement.</p><p>The primary principle is monotonic delegation. Every transfer of responsibility must preserve or diminish authority; under no circumstances should it increase authority. For the reconciliation agent, this means an agent who can view one ledger as opposed to one who inherits the employee&#x27;s access to all systems the employee can access.</p><h2><b>Fix attribution before automating enforcement </b></h2><p>Most audit stacks can capture what resource was accessed and which credential allowed access. In the agent deployments I have reviewed, this is the most commonly missed gate. Prior to utilizing an adaptive runtime policy, link any relevant tool invocation to the agent identity, initiating principal, task id, parent action, and outcome. After doing so, examine the telemetry: For one completed task, see if you can track down the initiator, the agent who executed it, the authority under which the action was taken, the tools utilized, and the outcome. In regulated environments, oversight that is not attributed cannot be justified.</p><h2><b>Now the gateway earns its keep</b></h2><p>The gateway can use registered identities, explicit delegation, scoped credentials, and attributable telemetry to question if this agent is authorized to perform this action, for this principal, within this task, involving this resource. Although the user&#x27;s credentials may provision write access to the finance-reconciliation agent, the gateway has situational context and so determines that it is out of scope. This is control&#x27;s point of greatest value. The most stringent controls should be applied at irreversible boundaries — payments, access policy changes, deletions, modifications of the production environment, and data exports.</p><h2><b>Detection and the kill path come last</b></h2><p>Behavioral baselines are developed last because distinguishable and attributable agent activity must be established to set a standard. Then, <a href=\"https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers\">security teams</a> are able to identify anomalous patterns of tool usage, unexpected cross-domain access, and deviations from their assigned tasks. Containment is more than just the disabling of a single directory object: A proper kill path entails disabling the agent&#x27;s identity, invalidation of active and derived credentials, blockage of tool activation, termination of active tasks, and isolation of the workload that contains the agent.</p><h2><b>Start without replacing your IAM</b></h2><p>Designing a whole new identity program is unnecessary. If the existing identity provider doesn&#x27;t treat agents as native object types, begin with an authoritative registry linked to the existing workload identities. Following this, extend agent and task identifiers as trusted execution contexts, implement short-lived credentials to mitigate inherited privileges, and include those identifiers in tool-call logs for subsequent gateway ingestion. The dependency model remains unchanged as vendor support matures.</p><p>Control gaps are measurable. In<a href=\"https://www.okta.com/newsroom/articles/ai-agents-at-work-2026-agentic-enterprise-security/\"> <u>Okta&#x27;s 2026 survey</u></a>, only 34% of executives said their organization always applies the same level of security rigor to its agentic workforce as to its human workforce. The last control from the chain cannot be applied first to close that gap.</p><h2><b>What to do in the next 30 days</b></h2><p>Begin with 10 production agents. For each one, identify the owner, purpose, approved tools, and credentials. By now, you should have the beginnings of an agent registry and perhaps your first insights on governance.</p><p>Test attribution. Find out if IAM and logging can tell each agent apart from the human or service that delegated the task. If this kind of differentiation is not possible, a gateway would be operating without any visibility.</p><p>Reconstruct one completed agent task within an action chain, from start to finish, including downstream effects. Wherever the chain breaks is where your deployment falls short.</p><p>Adding downstream enforcement ahead of required context breaks agent security. Maturity models describe the destination. A build order gets you there without breaking production along the way. </p><p><b><i>Nik Kale is a principal engineer specializing in enterprise AI platforms and security. </i></b></p>",
-      "published_at": "2026-08-30T20:15:00+00:00",
-      "published_ts": 1788120900.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:902ef46b4f88",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575800.htm",
+      "summary": "<p>美国国防部近日宣布，已在其安全人工智能门户GenAI.mil中上线OpenAI的ChatGPT Mil和xAI的Grok for Government，为约300万名文职及军职人员提供面向“作战人员需求”定制的生成式人工智能工具。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-31T22:04:01+00:00",
+      "published_ts": 1788213841.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.914
+      "importance": 2.926
     },
     {
       "id": "cnbeta:0bb8bd0ee741",
@@ -67,6 +67,21 @@
       "importance": 2.881
     },
     {
+      "id": "techcrunch:d2f93f799c54",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "published_at": "2026-08-31T20:13:45+00:00",
+      "published_ts": 1788207225.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.775
+    },
+    {
       "id": "tmtpost:dd87788b898d",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -80,6 +95,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.694
+    },
+    {
+      "id": "venturebeat:23fc1db60cf8",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+      "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+      "summary": "<p>If you look at the commit histories of modern data platforms, something profound has shifted over the last two years. The friction of writing syntax has collapsed. With Cursor, Claude Code, and agentic workflows now living inside our Docker containers and IDEs, generating the first implementation of a distributed streaming pipeline or a complex API integration is no longer the central bottleneck.</p><p>Agents can navigate repositories, write test coverage, inspect stack traces, and propose refactors. Describe a Kafka-to-Iceberg sink mapping in plain English, and an agent can produce a credible starting point before the engineer has opened every relevant file.</p><p>That changes the question for software engineers.</p><p>If the agent is becoming the primary author of local system logic, what exactly is left for the engineer to do? Are we headed toward an industry of reviewers rubber-stamping an endless stream of plausible pull requests? Or has the work shifted away from constructing logic and toward something more abstract?</p><p>To answer that, it helps to borrow a lens from thermodynamics, which gives us a language for directed work, feedback, loss, and the boundaries that keep a complex system coherent.</p><h2>The agent as a heat engine</h2><p>When we strip away the anthropomorphic illusion of AI, what remains is a computational engine. It takes direction and turns it into action.</p><p>An LLM sitting in a data center has immense capacity, but it does no useful work until it is given intent. A prompt, a business requirement, a system instruction, or a failing test gives the agent a direction. It turns that direction into code, tool calls, queries, tests, and changes to a running system.</p><p>Every engine has losses. Every agent loop does, too.</p><p>Anyone who has left an agent running against a difficult repository has seen this. It starts with a clear task. Then it follows a stale assumption, fixes a symptom rather than a cause, treats an old migration as current behavior, and begins to accumulate its own history. A few tool calls later, the context contains enough plausible but conflicting detail that the next step is less certain than the first.</p><p>Call this operational entropy: the buildup of stale assumptions, branching context, and unresolved dependencies inside a loop that is still trying to move forward.</p><p>A human interruption helps because it introduces new information. So does a failing test, a precise data contract, a deterministic tool, or an evaluation that tells the agent exactly what it got wrong. Without that signal, an agent can keep generating output while drifting further from a correct outcome.</p><p>Agents clearly generate motion. The real question is whether the system around them turns that motion into useful work.</p><h2>The infinite monkey and the accelerating search space</h2><p>The <a href=\"https://elgl.org/infinite-monkey-theorem/\">infinite monkey theorem</a> gives us a useful picture of what follows: repeated attempts, finite constraints, and feedback.</p><p>The theorem says that a monkey hitting keys at random for an infinite amount of time will almost surely type the complete works of Shakespeare. Modern agents are much smarter monkeys. They have compilers, tools, repositories, test suites, and feedback loops. Their work is not random — the feedback steers the next attempt — but the dynamic is familiar: propose, execute, observe, correct, and try again.</p><p>In a bounded task, that loop is remarkably effective.</p><p>Give an agent a known input schema, a known target schema, a small codebase, and tests that catch the relevant failures. It can inspect the code, make a change, run the tests, absorb the result, and try again. The definition of done is visible. The search space is narrow. The loop has a chance to converge.</p><p>But enterprise systems rarely offer that kind of stillness. A real-time pricing engine may depend on mutable operational state, third-party APIs, late-arriving events, regional policy, and business rules that exist partly in code and partly in someone’s head. A data lakehouse can be physically consistent and semantically wrong. A pipeline can pass its tests and still produce numbers that finance does not recognize.</p><p>The environment is changing while the monkey is typing.</p><h2>The three-body problem of enterprise logic</h2><p>This is why the <a href=\"https://www.askamathematician.com/2011/10/q-what-is-the-three-body-problem/\">three-body problem</a> is such a useful image for enterprise software.</p><p>With two bodies — a planet and a star — you can predict the motion with a clean mathematical description. Add a third body and the problem becomes much harder to solve. There is no general closed-form solution, and some configurations exhibit chaotic behavior. Small changes in one place can produce very different trajectories elsewhere.</p><p>Modern data platforms have the same shape. Clickstream data changes with product behavior. Operational databases mutate under customer activity. APIs impose rate limits and change versions. Schemas evolve. Security policies shift. Legacy systems carry rules that no one has written down because they have been buried in exception handling for years.</p><p>Each system exerts pressure on the others. A change in one place alters the meaning or behavior of another. What begins as a local feature request starts to pull on the entire system.</p><p>Consider a hypothetical: an agent is asked to add a customer_tier field to a revenue model. It finds a field called status in the operational database, maps it into the transformation, and passes the existing type and nullability tests. The code is clean. The pipeline is green. The answer is still wrong.</p><p>A semantic data contract says that customer_tier is derived from trailing twelve-month spend, has an assigned business owner, and cannot be populated from account status. The contract rejects the change before it reaches the dashboard. The engineer&#x27;s contribution wasn&#x27;t the transformation — it was the boundary that made the agent&#x27;s mistake visible, specific, and recoverable.</p><h2>The new mandate: Designing equilibrium</h2><p>The software engineer’s job is no longer to write every piece of micro-logic. Agents will increasingly do that work, often faster. The new mandate — designing equilibrium — is to create the conditions in which generated logic can be trusted.</p><p>When a business requirement changes faster than an agent can absorb feedback, the engineer has to build containment fields. Strict semantic layers, immutable event logs, data contracts, idempotent APIs, and deterministic state machines are not just good platform hygiene. They reduce the number of assumptions an agent has to make at once.</p><p>They turn a coupled problem into a bounded domain with clear inputs, explicit rules, and reliable feedback.</p><p>Once that domain exists, the agent becomes genuinely powerful. It can write the transformation, execute the tests, repair the failures, and ship the change without needing to infer the unwritten history behind every table and service.</p><p>The value of software engineering doesn&#x27;t disappear as code generation gets cheaper — it becomes more visible, which is the shift that actually matters.</p><p>Autonomous systems will increasingly generate software. But the contracts, feedback loops, and boundaries that determine whether that software succeeds or spirals into chaos will still be designed by software engineers.</p><hr /><p><i>Ananth Packkildurai is a data engineering leader, writer, and author of Data Engineering Weekly, sharing insights on modern data platforms, large-scale pipelines, and AI-driven architectures.</i></p>",
+      "published_at": "2026-08-31T18:52:19+00:00",
+      "published_ts": 1788202339.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.668
     },
     {
       "id": "venturebeat:fa93d88fa9d6",
@@ -97,6 +127,21 @@
       "importance": 2.465
     },
     {
+      "id": "cnbeta:fddb7ebd9605",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "ChatGPT广告业务年化营收破10亿美元 OpenAI再添变现引擎",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575750.htm",
+      "summary": "<p>OpenAI正在打开第三条规模化变现曲线。广告业务上线约200天便突破年化10亿美元营收门槛，在订阅和API之外进一步拓宽了商业化空间。据报道，OpenAI周一宣布，<strong>其ChatGPT广告业务年化营收已突破10亿美元。</strong>目前，ChatGPT广告已覆盖逾40个国家，公司同日宣布向印度、欧洲、中东及北非地区开放自助投放服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575750.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-31T14:19:26+00:00",
+      "published_ts": 1788185966.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.34
+    },
+    {
       "id": "the_verge:9a10f096dc5b",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -110,6 +155,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.961
+    },
+    {
+      "id": "cnbeta:90b6881fe402",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果称前员工在OpenAI使用窃取的商业机密并训练AI代理运行相关工程软件",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575798.htm",
+      "summary": "<p>苹果公司近日向法院提交新证据，指控前员工Chang Liu离职加入OpenAI后，仍获取并使用苹果的机密技术资料。苹果希望以此推动法院批准加速取证程序。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-08-31T22:03:26+00:00",
+      "published_ts": 1788213806.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.95
     },
     {
       "id": "cnbeta:220d266b3ac2",
