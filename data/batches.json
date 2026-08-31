@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T21:15:23.472267+00:00",
+    "generated_at": "2026-08-31T05:48:04.997865+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8204,6 +8204,112 @@
           "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
           "published_at": "2026-08-30T20:15:00+00:00",
           "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetic"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-08-31T05:48:04.997865+00:00",
+      "generated_ts": 1788155284.9978647,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:0bb8bd0ee741",
+          "title": "OpenAI买几万台Mac搞强化训练 英伟达的活被苹果抢了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.882,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575644.htm",
+          "published_at": "2026-08-31T04:24:41+00:00",
+          "summary": "<p>OpenAI被曝疯狂扫货Mac，一买就是几万台。一不小心给买断货了，还要想尽办法搞到更多。MacBook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Mac Studio。那么问题来了：什么样的AI业务，英伟达GPU和Google TPU搞不定，非得用Mac？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:096c24cf81f3",
+          "title": "ChatGPT新模型Bel被曝预训练完成 参数高达10万亿",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.881,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575642.htm",
+          "published_at": "2026-08-31T04:24:12+00:00",
+          "summary": "<p>OpenAI最强模型Astra被曝下周四可能发布，目前已扩大测试范围。此前，内部机密泄露，已正式接管自研芯片“Jalapeño”的底层代码。AI编写核心代码运行速度，比人类顶尖工程师快出1.8倍。OpenAI内部出现AI自我递归的迹象！</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575642.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:dd87788b898d",
+          "title": "大模型领域跑出新玩家，StartLux-27B本地大模型打赢DeepSeek V4 Flash",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.694,
+          "url": "https://www.tmtpost.com/8122427.html",
+          "published_at": "2026-08-31T02:04:43+00:00",
+          "summary": "本地大模型上牌桌，性能正面硬刚DeepSeek。"
+        },
+        {
+          "id": "venturebeat:fa93d88fa9d6",
+          "title": "AI agents need their own identity before they need a gateway",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.465,
+          "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
+          "published_at": "2026-08-30T23:00:00+00:00",
+          "summary": "<p>Enterprise AI has entered a new era. Organizations are rapidly moving beyond assistants that answer questions to autonomous agents capable of reasoning, invoking tools, accessing enterprise applications, coordinating with other agents, and completing multi-step business workflows with minimal hum"
+        },
+        {
+          "id": "cnbeta:220d266b3ac2",
+          "title": "Linux 7.3-rc1发布：加入AMD Zen 6支持、支持2026款Steam手柄",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.942,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575686.htm",
+          "published_at": "2026-08-31T04:46:33+00:00",
+          "summary": "<p>Linux 7.3 合并窗口按计划在历经两周后结束，Linux 7.3-rc1 现已发布，供用户下载测试。Linux 7.3-rc1 收录了大量新代码，涉及新硬件及改进后的硬件支持、文件系统增强、安全性改进等多个方面。此外，受人工智能和大语言模型驱动的开发活动影响，内核各个部分也加入了大量修复。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575686.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:350532b77bcd",
+          "title": "中国存储芯片厂商江波龙拟香港上市 融资不超过62.8亿港元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.936,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575674.htm",
+          "published_at": "2026-08-31T04:40:26+00:00",
+          "summary": "<p>中国存储芯片厂商江波龙拟香港上市，融资不超过62.8亿港元（8.01亿美元），加入人工智能硬件供应链企业赴港融资潮。根据江波龙周一发布的上市文件，公司计划发行约2600万股股份，发售价不超过每股240.6港元，较其上周五在深圳上市的A股收盘价折让约45%。江波龙预计9月8日在香港挂牌上市。该公司A股今年以来已上涨约50%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8a9568f5b83f",
+          "title": "Claude遭大规模盗号 大批用户被强制注销",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.914,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575632.htm",
+          "published_at": "2026-08-31T04:16:28+00:00",
+          "summary": "<p>就在刚刚，Anthropic突发大规模账号安全事件，大批Claude用户被强制注销！就在这两天，大批Claude用户发现：没有任何封号预警，自己的账号忽然就被强制下线了。甚至，连后台绑定的Visa、Mastercard等付款方式，都被官方紧急清空！</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575632.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4893a4cd0b76",
+          "title": "SK海力士考虑在日本合资建厂生产存储芯片 应对AI需求激增",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.902,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575626.htm",
+          "published_at": "2026-08-31T04:03:56+00:00",
+          "summary": "<p>SK海力士正在研究在日本合资建厂生产存储芯片的可行性，这是该公司为满足人工智能（AI）需求激增、同时控制生产成本而考虑的多个方案之一。SK集团董事长崔泰源接受采访时表示，公司正在日本各地选址，任何电力和水资源条件良好的地方都可以。他没有进一步透露潜在合作伙伴或具体地点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:ef24072af190",
+          "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.846,
+          "url": "https://www.qbitai.com/2026/08/481475.html",
+          "published_at": "2026-08-31T03:01:29+00:00",
+          "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
         }
       ]
     }
