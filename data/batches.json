@@ -1,46 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T22:56:00.297546+00:00",
+    "generated_at": "2026-09-01T05:21:16.455434+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-01T23:15:46.804613+00:00",
-      "generated_ts": 1785626146.8046129,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-02T04:00:03.041106+00:00",
-      "generated_ts": 1785643203.0411057,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:5be1cbeed4eb",
-          "title": "长三角（嘉兴）Token运营中心正式启动",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.971,
-          "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
-          "published_at": "2026-08-02T03:39:57+00:00",
-          "summary": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用DeepSeek、Qwen等100余款主流大模型。 (浙江发布)"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-02T07:04:06.795065+00:00",
       "generated_ts": 1785654246.7950652,
@@ -8097,6 +8060,72 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1575798.htm",
           "published_at": "2026-08-31T22:03:26+00:00",
           "summary": "<p>苹果公司近日向法院提交新证据，指控前员工Chang Liu离职加入OpenAI后，仍获取并使用苹果的机密技术资料。苹果希望以此推动法院批准加速取证程序。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-01T05:21:16.455434+00:00",
+      "generated_ts": 1788240076.4554343,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "tmtpost:1f75d1b3c7a3",
+          "title": "独家｜扩散语言模型杀进端侧：Agent跑快5倍，GPT的“下一代替代者”出现了？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.933,
+          "url": "https://www.tmtpost.com/8124156.html",
+          "published_at": "2026-09-01T04:34:00+00:00",
+          "summary": "长期以来主要依赖云端大模型的Agent，正在出现另一条技术路线：不再单纯追求更大的模型，而是通过改变语言模型的生成方式，再叠加端侧芯片的并行算力，压缩Agent执行任务所需的时间。"
+        },
+        {
+          "id": "cnbeta:3089adfaa910",
+          "title": "独立研究机构公布OpenAI智能体自主攻击HF事件的调查报告 情况比OpenAI所说的更严重",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.9,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575812.htm",
+          "published_at": "2026-09-01T04:10:49+00:00",
+          "summary": "<p>研究机构 METR 和 Redwood Research 日前公布 OpenAI 智能体自主攻击 Hugging Face 安全事件的独立调查，调查人员在 OpenAI 现场工作 6 天，分析超过 7 万条智能体消息和文件，以及 1300 份包含原始推理过程的运行记录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575812.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:4c7e931581e5",
+          "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.839,
+          "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+          "published_at": "2026-09-01T03:26:53+00:00",
+          "summary": "<p>The viral fervor we<a href=\"https://venturebeat.com/technology/what-the-openclaw-moment-means-for-enterprises-5-big-takeaways\"> saw earlier this year</a> around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite"
+        },
+        {
+          "id": "tmtpost:85b150dec901",
+          "title": "存储成了AI落地最大变量，企业如何打破阻碍？丨ToB产业观察",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.921,
+          "url": "https://www.tmtpost.com/8124068.html",
+          "published_at": "2026-09-01T03:58:04+00:00",
+          "summary": "推理已经成为吞噬算力的黑洞。"
+        },
+        {
+          "id": "openai_blog:639832c81abf",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.573,
+          "url": "https://openai.com/index/polimill",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
         }
       ]
     }
