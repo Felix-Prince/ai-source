@@ -1,44 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T16:45:51.039917+00:00",
+    "generated_at": "2026-09-01T21:08:40.047543+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-02T17:28:21.064266+00:00",
-      "generated_ts": 1785691701.0642657,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-02T19:39:15.662890+00:00",
-      "generated_ts": 1785699555.6628904,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30
-      },
-      "items": [
-        {
-          "id": "the_verge:7ea4cff9d1c0",
-          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.998,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-          "published_at": "2026-08-02T19:36:08+00:00",
-          "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-02T21:13:12.885302+00:00",
       "generated_ts": 1785705192.8853023,
@@ -8104,6 +8069,102 @@
           "url": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
           "published_at": "2026-09-01T14:00:00+00:00",
           "summary": "<p><i>Presented by SAP</i></p><hr /><p>HR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-01T21:08:40.047543+00:00",
+      "generated_ts": 1788296920.0475433,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:a60248dc944b",
+          "title": "Anthropic发布Claude Fable与Mythos 5.1：成本降低 网络安全误报减少约60%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.87,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575974.htm",
+          "published_at": "2026-09-01T19:36:22+00:00",
+          "summary": "<p>Anthropic于9月1日宣布推出Claude Fable 5.1和Claude Mythos 5.1，并称这两款模型是“全球最先进的编程与知识工作模型”。Anthropic表示，Claude Fable 5.1在编程、知识工作以及长期复杂问题解决任务方面树立了新的标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575974.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:041069f08f09",
+          "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.847,
+          "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+          "published_at": "2026-09-01T19:20:09+00:00",
+          "summary": "<p>When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval architectures.</p><p>A <a hre"
+        },
+        {
+          "id": "venturebeat:43d0519aa44c",
+          "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.82,
+          "url": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
+          "published_at": "2026-09-01T18:59:54+00:00",
+          "summary": "<p>Egiziago Cioffi is the IT and Enterprise Architect and CEO of SynSphere Italia, a Microsoft partner based in Milan. He built an agent himself. He wrote the indexing job, configured the Azure OpenAI retrieval pipeline, connected it to SharePoint, and watched it pass every evaluation his team ran.<"
+        },
+        {
+          "id": "venturebeat:db05f88f79bc",
+          "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.795,
+          "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+          "published_at": "2026-09-01T18:41:21+00:00",
+          "summary": "<p>It&#x27;s only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet — <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable 5.1 and Claud"
+        },
+        {
+          "id": "cnbeta:c908d2431f80",
+          "title": "Google推出AI图像创作工具Pics 基于Nano Banana模型打造",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.786,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575962.htm",
+          "published_at": "2026-09-01T18:35:01+00:00",
+          "summary": "<p>Google于9月1日正式推出Google Pics，这是一款集成在Google Workspace中的生成式人工智能图像创作与编辑工具，旨在与Canva、Adobe Express以及微软Designer等产品展开竞争。Google AI Pro和Ultra订阅用户，以及大多数Google Workspace企业客户，都可以免费使用该工具。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575962.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:5e25fe0619fc",
+          "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.998,
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "published_at": "2026-09-01T21:06:24+00:00",
+          "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+        },
+        {
+          "id": "techcrunch:f7585d2a7dee",
+          "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.916,
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "published_at": "2026-09-01T19:39:22+00:00",
+          "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+        },
+        {
+          "id": "techcrunch:c875659ed530",
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.774,
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "published_at": "2026-09-01T17:00:00+00:00",
+          "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
         }
       ]
     }
