@@ -1,108 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T05:21:16.455434+00:00",
+    "generated_at": "2026-09-01T11:48:57.376190+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-02T07:04:06.795065+00:00",
-      "generated_ts": 1785654246.7950652,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:e2538889f877",
-          "title": "中国产品包揽全球大模型调用量前五",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.929,
-          "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
-          "published_at": "2026-08-02T06:14:03+00:00",
-          "summary": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5，单周调用量达到10.5万亿Token，环比增长12%。排名第二和第五的均来自DeepSeek，两款模型形成高低搭配，覆盖不同开发需求，其中旗舰Pro版本在代码、复杂智能体任务性能对标海外顶级闭源模型。而这些模型的共同之处，是发布时间很短便快速上榜，位列第三的腾讯混元3，7月6日才正式开源，单周环比增幅超999%，是榜单增长势头最猛的模型。（人民财讯）"
-        },
-        {
-          "id": "kr36:65d43500ed3a",
-          "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.787,
-          "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
-          "published_at": "2026-08-02T04:31:04+00:00",
-          "summary": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订阅，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来维持差异化，另一方面持续引爆推理算力需求，当前Kimi K3已实现与多家国产算力平台的‌Day 0极速适配，拉动国产超节点的需求，进而推动产业链中服务器、交换机、光模块、液冷、电源等国产算力产业链环节配套需求，建议关注国产超节点及产业链相关公司。（界面）"
-        },
-        {
-          "id": "kr36:bbfac1ca75de",
-          "title": "新一代通信网建设加快，千兆光网覆盖���九成国民经济大类",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.909,
-          "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
-          "published_at": "2026-08-02T05:27:35+00:00",
-          "summary": "记者从工业和信息化部了解到，我国正加快新一代通信网建设，目前千兆光网典型应用已覆盖超九成国民经济大类。工业和信息化部信息通信发展司副司长赵策介绍，千兆光网与人工智能、云计算、大数据等技术加速融合，覆盖我国国民经济97个大类中的91个，在智能制造、智慧交通、数字医疗、智慧教育等领域形成一批可复制、可推广的典型方案。我国已经实现“县县通千兆”“村村通宽带”，千兆光网典型应用案例超过5万个，重庆等城市已实现千兆光网城乡全域覆盖。工业和信息化部依托全光网络通过实施城域“毫秒用算”专项行动，形成一批辨识度高、可复制推广的代表性实践成果。截至6月底，我国具备千兆网络服务能力的10G无源光网络端口数达到32"
-        },
-        {
-          "id": "kr36:66a28b56abae",
-          "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.918,
-          "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
-          "published_at": "2026-08-02T04:07:01+00:00",
-          "summary": "36氪获悉，据山东政府网官微消息，山东省工信厅等12部门近日联合印发《关于支持人工智能OPC创新发展的行动方案》，培育壮大人工智能OPC（One Person Company，一人公司）新型市场主体，推动“AI+超级个体”新型创业模式加速落地。力争3年内，建成百个定位清晰、功能完善的特色载体，培育千家技术领先、成长性强的创业主体，集聚万名优秀人工智能OPC创新人才。支持济南、青岛、烟台等市结合产业禀赋，统筹规划存量资源与新增空间，依托数字经济产业园、广告产业园、网络视听产业园、双创孵化中心等，打造一批人工智能OPC特色园区。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-02T10:11:45.642840+00:00",
-      "generated_ts": 1785665505.6428404,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30
-      },
-      "items": [
-        {
-          "id": "kr36:02854bebf0c3",
-          "title": "Truth Social推出“Truth API”服务，每月10万美元出售特朗普帖文快速访问权",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.946,
-          "url": "https://36kr.com/newsflashes/3922088228957576?f=rss",
-          "published_at": "2026-08-02T08:15:21+00:00",
-          "summary": "当地时间8月1日，据美联社报道，美国总统特朗普旗下Truth Social将于当天推出名为“Truth API”的高速信息服务，向华尔街交易机构收费提供特朗普社交媒体帖文的快速访问渠道，引发有关内幕交易、利益冲突以及利用公职谋取私人利益的质疑。\n\n报道称，Truth API收费高达每月10万美元，目标客户主要是高频交易公司。由于特朗普经常通过Truth Social发布涉及关税、战争、央行领导层及其他重大政策的消息，这些内容往往会迅速引发股票、债券、汇率和大宗商品价格波动。批评者认为，即使帖子理论上同时向公众发布，付费客户通过更快的数据接口和自动交易系统，仍可能比普通投资者更早采取行动。\n\n报"
-        },
-        {
-          "id": "kr36:a5375fe6f916",
-          "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.935,
-          "url": "https://36kr.com/newsflashes/3922077104664199?f=rss",
-          "published_at": "2026-08-02T07:51:54+00:00",
-          "summary": "谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。 (澎湃新闻)"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-02T11:38:07.956305+00:00",
-      "generated_ts": 1785670687.9563046,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-02T14:03:06.919976+00:00",
       "generated_ts": 1785679386.9199758,
@@ -8126,6 +8027,62 @@
           "url": "https://openai.com/index/polimill",
           "published_at": "2026-08-31T07:00:00+00:00",
           "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-01T11:48:57.376190+00:00",
+      "generated_ts": 1788263337.3761904,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:007561e9ca98",
+          "title": "DeepSeek-V4首款多模态模型权重开放“睁眼”后追上Opus-4.8",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.751,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575922.htm",
+          "published_at": "2026-09-01T08:48:36+00:00",
+          "summary": "<p>在连续强化了推理、代码和Agent能力之后，DeepSeek终于为V4补上了视觉输入。8月31日上午，DeepSeek在Hugging Face开放了DeepSeek-V4-Flash-Vision-Exp模型权重，开发者可以直接下载模型权重并自行部署。而官方仓库除了模型文件，还包括视觉编码器和Aligner等组件的参考推理实现，并覆盖DFlash Attention、MoE、Hyper-Connections和DSpark等部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575922.htm\" target=\"_bla"
+        },
+        {
+          "id": "cnbeta:50759f48dda5",
+          "title": "发生模型逃逸并发起真实攻击后 Anthropic宣布全面加固安全体系提升模型安全性",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.709,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575888.htm",
+          "published_at": "2026-09-01T08:17:15+00:00",
+          "summary": "<p>Anthropic日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目标而采取高危行动的对齐风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ba78da74bb6f",
+          "title": "NVIDIA GPU帧插值功能正式加入FFmpeg 可将视频帧率提升一倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.818,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575902.htm",
+          "published_at": "2026-09-01T08:30:29+00:00",
+          "summary": "<p>据项目开发者消息，英伟达基于GPU加速的帧插值功能已经通过Vulkan API集成进FFmpeg。FFmpeg是一套广泛使用的软件工具，支持包括YouTube在内的大量现代多媒体处理平台、服务和应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:01df58d5c6a5",
+          "title": "百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.753,
+          "url": "https://www.tmtpost.com/8123419.html",
+          "published_at": "2026-09-01T07:14:34+00:00",
+          "summary": "企业首先应该谈的是业务如何运营、如何管理。你把业务标准化、数据标准化，体系做出来之后，模型和算力其实只是底座。"
         }
       ]
     }

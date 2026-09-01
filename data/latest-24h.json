@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T05:21:16.455434+00:00",
-    "generated_ts": 1788240076.4554343,
+    "generated_at": "2026-09-01T11:48:57.376190+00:00",
+    "generated_ts": 1788263337.3761904,
     "window_hours": 24.0,
     "total": 16
   },
@@ -97,6 +97,36 @@
       "importance": 2.775
     },
     {
+      "id": "cnbeta:007561e9ca98",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "DeepSeek-V4首款多模态模型权重开放“睁眼”后追上Opus-4.8",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575922.htm",
+      "summary": "<p>在连续强化了推理、代码和Agent能力之后，DeepSeek终于为V4补上了视觉输入。8月31日上午，DeepSeek在Hugging Face开放了DeepSeek-V4-Flash-Vision-Exp模型权重，开发者可以直接下载模型权重并自行部署。而官方仓库除了模型文件，还包括视觉编码器和Aligner等组件的参考推理实现，并覆盖DFlash Attention、MoE、Hyper-Connections和DSpark等部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575922.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-01T08:48:36+00:00",
+      "published_ts": 1788252516.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.751
+    },
+    {
+      "id": "cnbeta:50759f48dda5",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "发生模型逃逸并发起真实攻击后 Anthropic宣布全面加固安全体系提升模型安全性",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575888.htm",
+      "summary": "<p>Anthropic日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目标而采取高危行动的对齐风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-01T08:17:15+00:00",
+      "published_ts": 1788250635.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.709
+    },
+    {
       "id": "venturebeat:23fc1db60cf8",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -187,64 +217,34 @@
       "importance": 1.921
     },
     {
-      "id": "tmtpost:d5b5ed119901",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "豆包工作开始加速字节的Token飞轮",
-      "url": "https://www.tmtpost.com/8123032.html",
-      "summary": "基础模型能否追上产品野心，将成为决定豆包工作能否承接核心工作、以及字节Token飞轮能转多快的关键。",
-      "published_at": "2026-08-31T11:13:21+00:00",
-      "published_ts": 1788174801.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.838
-    },
-    {
-      "id": "tmtpost:c17c34f8cd18",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AGI军令状前，MiniMax 和智谱的最后一份中报",
-      "url": "https://www.tmtpost.com/8122866.html",
-      "summary": "智谱和Kimi，很快就要回答同一道题。",
-      "published_at": "2026-08-31T09:00:30+00:00",
-      "published_ts": 1788166830.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.724
-    },
-    {
-      "id": "cnbeta:5f83afe67f6b",
+      "id": "cnbeta:ba78da74bb6f",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic发布安全警报：恶意软件已窃取部分用户Claude会话",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575714.htm",
-      "summary": "<p>据bleepingcomputer 报道，Anthropic 警告部分 Claude 用户，他们电脑上的信息窃取恶意软件已窃取了活跃的 Claude 登录会话，使攻击者能够访问其账号并窃取使用数据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575714.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-08-31T08:46:53+00:00",
-      "published_ts": 1788166013.0,
+      "title": "NVIDIA GPU帧插值功能正式加入FFmpeg 可将视频帧率提升一倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1575902.htm",
+      "summary": "<p>据项目开发者消息，英伟达基于GPU加速的帧插值功能已经通过Vulkan API集成进FFmpeg。FFmpeg是一套广泛使用的软件工具，支持包括YouTube在内的大量现代多媒体处理平台、服务和应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-01T08:30:29+00:00",
+      "published_ts": 1788251429.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.713
+      "importance": 1.818
     },
     {
-      "id": "openai_blog:639832c81abf",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "published_ts": 1788159600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
+      "id": "tmtpost:01df58d5c6a5",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③",
+      "url": "https://www.tmtpost.com/8123419.html",
+      "summary": "企业首先应该谈的是业务如何运营、如何管理。你把业务标准化、数据标准化，体系做出来之后，模型和算力其实只是底座。",
+      "published_at": "2026-09-01T07:14:34+00:00",
+      "published_ts": 1788246874.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.573
+      "importance": 1.753
     }
   ]
 }
