@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T11:29:37.162099+00:00",
-    "generated_ts": 1788348577.1620991,
+    "generated_at": "2026-09-02T16:41:45.012047+00:00",
+    "generated_ts": 1788367305.012047,
     "window_hours": 24.0,
     "total": 30
   },
@@ -52,6 +52,21 @@
       "importance": 2.923
     },
     {
+      "id": "cnbeta:b1f079699365",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google推出Gemini 3.8 Flash 三个月内完成第三次更新",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576110.htm",
+      "summary": "<p>在上一款模型发布三周后，Google于当地时间9月2日开始推出 Gemini 3.8 Flash。这也是 Gemini Flash 系列在三个月内迎来的第三次更新。Google表示，Gemini 3.8 Flash 是其目前最智能的 Flash 模型，专为长周期软件工程、自动化智能体以及复杂的企业工作流程打造。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-02T15:39:06+00:00",
+      "published_ts": 1788363546.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.911
+    },
+    {
       "id": "cnbeta:a60248dc944b",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -80,21 +95,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.854
-    },
-    {
-      "id": "venturebeat:4d8ef2a4f6ef",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-      "summary": "<p><a href=\"https://www.perplexity.ai/\">Perplexity</a> today launched hybrid compute for its agentic platform, <a href=\"https://www.perplexity.ai/products/computer\">Computer</a>, a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight models running locally on Apple silicon Macs — routing sensitive data to the local machine so it never leaves the device.</p><p>The company says it is the first time an AI agent can begin a task in the cloud and dynamically hand off the confidential portions of that same task to a model running on the user&#x27;s own hardware, without restarting the job or losing context. The feature becomes available today through <a href=\"https://www.perplexity.ai/personal-computer\">Perplexity&#x27;s desktop app</a> for enterprise customers that opt in, as well as Pro and Max subscribers, on any Apple silicon Mac running macOS 15 or later.</p><p>&quot;Hybrid is really compelling because it&#x27;s often the work that requires confidentiality that is the most important to get right, and so the accuracy really, really matters,&quot; Jon Staff, who leads Perplexity&#x27;s macOS and iOS engineering teams, said during a press briefing attended by VentureBeat. &quot;By combining these two together, we can get that maximum intelligence from the frontier models, but we also get the security and the privacy that comes with local.&quot;</p><h2><b>How Perplexity&#x27;s on-device privacy gate keeps sensitive data off the cloud</b></h2><p>The architecture works like a dispatcher. A frontier model in the cloud breaks a task into subtasks and routes each one to the appropriate place. Web research, long-horizon planning and heavy reasoning run in the cloud, while anything touching private files, local data or actions on the device gets delegated down to a subagent running on the Mac itself.</p><p>The linchpin is what Perplexity calls a Privacy Gate: a company-trained classifier that runs on the device and scans for personally identifiable information — names, addresses, account numbers, secrets — before anything is transmitted to the cloud. When the gate flags sensitive content, the user chooses whether that portion of the task runs locally or gets shared.</p><p>&quot;What we wanted to do is make sure anything that&#x27;s shared to that cloud orchestrator is safe,&quot; Staff said. &quot;We built and trained our own PII classifier that integrates directly into the Mac app.&quot;</p><p>He described the handoff in detail: &quot;The cloud orchestration will break down the task based on the prompt and figure out how to route it to different subagents... it&#x27;s going to delegate that down to a sub-agent running on your Mac, and then that portion of the task is run entirely local. None of those tokens go to the cloud.&quot;</p><p>The economics matter, too, for a company that meters cloud usage through credits. Tokens generated locally cost nothing. &quot;You&#x27;re paying for the electricity, you&#x27;re paying for the hardware, so we&#x27;re not charging you for that,&quot; Staff said. &quot;The only thing the credits are used for is the orchestration and the delegation.&quot;</p><h2><b>Lawyers, private equity firms and a founder in an Uber: hybrid compute in action</b></h2><p>Perplexity built its demonstrations around exactly the kind of work most professionals would never hand to a cloud-only agent. In the first, a lawyer on deadline updated a draft brief against privileged case files stored on a Mac while a cloud agent simultaneously pulled public case law from the open web — sending out, Perplexity says, only anonymized legal questions. &quot;At no point did their privileged information get shared to the cloud,&quot; Staff said. &quot;It never left the Mac.&quot;</p><p>In the second demo, a private equity associate&#x27;s agent reworked a financial model against confidential management projections, benchmarked the deal against public comparables and produced a fifth iteration of an investment committee deck. The task ran roughly 40 minutes in the background with no human input — work that would have taken hours of manual stitching between local spreadsheets and cloud research.</p><p>The third demo emphasized continuity across devices. The founder of a pottery shop, riding in the back of an Uber, kicked off a marketing analysis from her iPhone. Computer asked permission to reach her Mac at the studio, fired up the local subagent to process her customer interviews and revenue data, and combined that with cloud research on competitors&#x27; public pricing. &quot;It doesn&#x27;t matter how far away she is from her computer,&quot; Staff said.</p><p>&quot;Tasks like this aren&#x27;t possible in a fully local or a fully cloud setup,&quot; he added. &quot;You need that security of the local and the privacy, but you also need the intelligence of the frontier.&quot;</p><h2><b>Why a Chinese-made Qwen model on enterprise Macs is raising eyebrows</b></h2><p>The launch model lineup immediately raised a pointed question. At launch, users can choose among three local models: <a href=\"https://deepmind.google/models/gemma/gemma-4/#e2b-and-e4b\">Google&#x27;s Gemma E4B</a>, <a href=\"https://huggingface.co/Qwen/Qwen3.6-35B-A3B\">Alibaba&#x27;s Qwen3.6 35B-A3B</a>, and a Perplexity post-trained version of <a href=\"https://huggingface.co/Qwen/Qwen3.6-35B-A3B\">Qwen3.6 35B</a> — the company&#x27;s recommended option. Asked by VentureBeat whether enterprise or government customers had raised concerns about giving a Chinese-developed model access to their machines, Staff argued that local inference neutralizes the geopolitical risk.</p><p>&quot;The great thing about these models is that they are open weight. We&#x27;re able to evaluate them ourselves,&quot; he said. &quot;When that model is running locally on your computer, the data is not going outside of your computer itself... You&#x27;re not actually sending those tokens to some cloud provider that&#x27;s hosted in another country. In fact, all of Perplexity&#x27;s models are U.S. hosted.&quot;</p><p>He added that macOS&#x27;s built-in sandboxing framework, known as <a href=\"https://github.com/michaelneale/agent-seatbelt-sandbox\">Seatbelt</a>, constrains what the agent can actually do on a machine: &quot;If local execution is trying to do something that it shouldn&#x27;t, it&#x27;ll just point blank stop it and it&#x27;ll request permission from the user.&quot; Perplexity does not currently allow unrestricted &quot;YOLO mode&quot; execution, he said, though &quot;I wouldn&#x27;t be surprised at some point if we allow certain people to do this.&quot;</p><p>For enterprises, admins can set a single organization-wide sensitivity policy and audit a full record of what leaves each device — a feature aimed squarely at compliance teams in law, finance and healthcare. Questions remain on the consumer side, however. Pressed on how usage data feeds model training, Staff pointed to Perplexity&#x27;s incognito mode and a long-standing opt-out toggle, and said enterprise contracts can include zero-data-retention terms. A company spokesperson said Perplexity is &quot;not using it for post training&quot; globally and promised to follow up with specifics on non-enterprise accounts.</p><h2><b>The enterprise privacy problem hybrid AI is trying to solve</b></h2><p>The announcement lands amid a broader industry reckoning with a stubborn problem: the most valuable enterprise work involves exactly the data companies are least willing to send to someone else&#x27;s servers. <a href=\"https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence\">NIST&#x27;s generative AI risk profile</a> flags data privacy and information leakage among the technology&#x27;s central risks, and <a href=\"https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai\">McKinsey&#x27;s research</a> on the state of AI has consistently found that organizations struggle to move from experimentation to value capture, with data governance among the chief obstacles. Gartner, for its part, named <a href=\"https://www.gartner.com/en/documents/5850147\">hybrid computing </a>among its top strategic technology trends for 2025, anticipating architectures that blend compute across environments.</p><p><a href=\"https://www.perplexity.ai/\">Perplexity</a> is betting that the answer is not choosing between cloud intelligence and local privacy, but building the orchestration layer that arbitrates between them in real time. It is a defensible position for a company that has always styled itself as a neutral broker — &quot;Perplexity is like Switzerland in that we work with everyone,&quot; a company representative said at the briefing — sitting at the application layer above whichever models happen to lead at any given moment.</p><p>&quot;Anytime one of these gets better, Perplexity gets better,&quot; Staff said of the interplay among local models, frontier models and Apple&#x27;s chips. &quot;That&#x27;s the really cool nature of where we sit in this application layer, orchestrating all the different pieces together.&quot;</p><h2><b>From $520 million startup to $20 billion agent platform in three years</b></h2><p>Hybrid compute caps an extraordinarily aggressive product run. Perplexity launched its <a href=\"https://www.perplexity.ai/comet\">Comet AI browser</a> in July 2025, initially for $200-a-month Max subscribers — an early bid to make agents, not chat, the interface to computing. <a href=\"https://www.perplexity.ai/products/computer\">Computer</a>, its full agentic platform, arrived in March 2026, followed by desktop apps for Mac and Windows. Just last week, the company launched a local-first version of Computer on <a href=\"https://www.nvidia.com/en-us/products/workstations/dgx-spark/\">NVIDIA&#x27;s DGX Spark hardware</a>, which starts on the user&#x27;s device and escalates to cloud models only with permission. Today&#x27;s launch inverts that flow: cloud-first, delegating down.</p><p>The business trajectory has been equally steep. Perplexity was valued at <a href=\"https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/\">$520 million in January 2024</a>; by September 2025, the company had finalized a funding round at a <a href=\"https://www.reuters.com/technology/perplexity-finalizes-20-billion-valuation-round-information-reports-2025-09-10/\">$20 billion valuation</a>. Along the way it made an audacious <a href=\"https://www.reuters.com/business/media-telecom/ai-startup-perplexity-makes-bold-345-billion-bid-googles-chrome-browser-2025-08-12/\">$34.5 billion bid</a> for Google&#x27;s Chrome browser during Google&#x27;s antitrust remedies fight, and Bloomberg reported that Apple executives held <a href=\"https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-perplexity\">internal talks about acquiring the company</a> — a striking backdrop for a product now built to showcase Apple silicon.</p><p>The strategy is not without headwinds. Reuters reported in July that Reddit&#x27;s <a href=\"https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/\">data-scraping lawsuit</a> against Perplexity survived a motion to dismiss, part of a wave of copyright and data litigation facing the company — context that makes its privacy-forward positioning both commercially savvy and reputationally necessary. And practical constraints remain: Perplexity recommends at least 32GB of unified memory for the better tier of local models, Staff was candid that the smallest option &quot;significantly underperforms&quot; the <a href=\"https://huggingface.co/Qwen\">larger Qwen models</a>, and Windows and Linux support will come only later.</p><p>The deeper question is one users cannot easily inspect. The Privacy Gate is itself a machine learning classifier, and classifiers miss things; a false negative means sensitive data reaches the cloud anyway. Perplexity&#x27;s answer is transparency — users can expand and review exactly what the gate flagged before anything is sent, and enterprises get device-level audit logs. But the pitch, at bottom, asks professionals to trust one AI to decide what another AI is allowed to see. For an industry that has spent three years telling lawyers, bankers and doctors to keep their most sensitive work away from the cloud, Perplexity&#x27;s wager is that the fix was never to build a higher wall — it was to build a smarter gate.</p><p>\n</p>",
-      "published_at": "2026-09-01T15:00:00+00:00",
-      "published_ts": 1788274800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.851
     },
     {
       "id": "venturebeat:041069f08f09",
@@ -217,6 +217,21 @@
       "importance": 1.998
     },
     {
+      "id": "cnbeta:ff083500d59d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AMD RDNA 5 GPU IP首次现身 三星2纳米Exynos 2700 SoC搭载Xclipse 970",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576116.htm",
+      "summary": "<p>今天，AMD下一代RDNA 5 GPU IP首次出现在已经工作的芯片中，不过其载体并非传统显卡，而是三星的移动平台。SemiAnalysis对三星Exynos 2700 SoC进行晶圆级标注后发现，该芯片搭载了采用AMD GPU技术打造的Xclipse 970 GPU。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576116.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-02T16:26:04+00:00",
+      "published_ts": 1788366364.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.985
+    },
+    {
       "id": "cnbeta:2389a0fc915f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -247,34 +262,19 @@
       "importance": 1.973
     },
     {
-      "id": "cnbeta:348f4054d895",
+      "id": "cnbeta:0c7e40743bf3",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Perplexity推出混合计算功能 敏感任务拆分给本地AI处理",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575948.htm",
-      "summary": "<p>今年2月，Perplexity推出了Perplexity Computer。这是一套类似Claude Cowork的人工智能代理工具，能够利用网络以及用户电脑上的文件和应用，自主完成各种任务。此后，该平台逐渐发展出多个产品，包括面向Mac的Personal Computer。如今，Perplexity又宣布推出一项名为Hybrid Compute的新功能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575948.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-01T16:02:09+00:00",
-      "published_ts": 1788278529.0,
+      "title": "Google与MrBeast达成多年合作 将借助野外挑战推广Gemini与健康产品",
+      "url": "https://www.cnbeta.com.tw/articles/movie/1576112.htm",
+      "summary": "<p>Google宣布与YouTube头部创作者MrBeast达成一项多年合作协议。根据安排，MrBeast将在后续视频中展示Google人工智能助手Gemini、Google Health以及Fitbit Air等产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1576112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-02T15:59:40+00:00",
+      "published_ts": 1788364780.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.958
-    },
-    {
-      "id": "the_verge:d11f24036973",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
-      "published_at": "2026-09-01T16:00:00+00:00",
-      "published_ts": 1788278400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.956
+      "importance": 1.96
     },
     {
       "id": "tmtpost:9926e5b747b7",
@@ -322,6 +322,21 @@
       "importance": 1.909
     },
     {
+      "id": "the_verge:ea31b8f3d0cb",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [&#8230;]",
+      "published_at": "2026-09-02T14:35:03+00:00",
+      "published_ts": 1788359703.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.882
+    },
+    {
       "id": "cnbeta:362fdb0bf21c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -335,21 +350,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.858
-    },
-    {
-      "id": "venturebeat:d3bb63119ad1",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "AI is redefining the workforce — and most planning models aren’t ready",
-      "url": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
-      "summary": "<p><i>Presented by SAP</i></p><hr /><p>HR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes.</p><h2>Fragmented planning creates workforce blind spots</h2><p>Each function has its own systems, its own planning cadence, and its own assumptions about how work gets done. Recent <a href=\"https://www.sap.com/registration/protected/default-overlay.html?gated_asset_path=%2F%2Fwww.sap.com%2Fdocuments%2F2026%2F04%2F6caf2dc2-4c7f-0010-bca6-c68f7e60039b.rc.html&amp;pdf-asset=6caf2dc2-4c7f-0010-bca6-c68f7e60039b&amp;page=1\">SAP research</a> found that 62% of C-suite executives are dissatisfied with their current level of integration between people and business performance data. The same research found that while 50% of organizations are planning for AI’s impact on productivity and capacity, only 21% are planning for AI’s impact on job design and organizational structure. </p><p>That gap matters because the two are inseparable. You can’t make a sound decision about where to automate without understanding how it will affect the teams, roles, and skills connected to that work. Most organizations are trying to do exactly that, and discovering, usually too late, that the pieces don’t fit together.</p><h2>The workforce has quietly expanded — and planning hasn’t caught up</h2><p>The definition of “workforce” has been expanding for years, but most planning models haven’t registered the change. Employees now work alongside contractors, specialized partners, and AI systems that handle real execution-layer tasks — not just support functions, but actual work. In some delivery models, external and digital labor has moved from supplemental to central.</p><p>That shift changes the nature of every significant workforce decision. When a company chooses to automate a process, the ripple effects touch headcount, skills, services spending, and productivity assumptions simultaneously. A reskilling initiative can reduce dependency on contractors. Expanding contractor capacity can close an immediate gap while quietly deepening a long-term capability problem. None of these moves can be evaluated well in isolation, but that’s precisely how most organizations still evaluate them — separately, in sequence, by different teams working from different data.</p><p>The real question isn’t “should we hire, automate, or reskill?” It’s how work should be configured across humans and intelligent systems, and at what cost. Most planning architectures weren’t designed to ask that question, let alone answer it.</p><h2>CFOs and CHROs are being pushed into the same room</h2><p>CFOs are being asked to connect financial signals to real operational choices, particularly in workforce spending, which dominates most income statements. CHROs are being pulled beyond traditional talent management into harder questions about work design and the balance between human and digital labor. Neither can answer these questions from their current vantage point alone, and historically, they haven’t had to answer them together. That’s changing, not because of some cultural shift toward collaboration, but because the decisions genuinely require both perspectives at the same time.</p><p>When that partnership works, organizations can move workforce planning from a periodic budgeting exercise to an ongoing strategic conversation. They can ask harder questions: Where does it make more sense to build critical skills internally than to buy capacity externally? When we automate a workflow, how do we know whether we’re creating capacity or just moving a problem downstream? These aren’t questions finance or HR can answer in sequence. They require shared data, shared governance, and frankly, a shared willingness to operate in territory that neither function fully owns yet.</p><h2>From annual budgets to continuous workforce steering</h2><p>The organizations handling this best stopped treating workforce planning as a once-a-year negotiation and started treating it as an ongoing operational discipline. That means finance, HR, and procurement seeing the same picture of workforce capacity, skills, and cost, rather than reconciling three different pictures after the fact. It means modeling scenarios that combine hiring, reskilling, automation, and external labor as connected levers rather than separate conversations.</p><p>The metrics are evolving too. Headcount, labor cost, and utilization still matter, but they describe only part of what’s happening. As AI becomes embedded in operations, leaders need visibility into skills and readiness relative to strategic priorities, how work is actually distributed across employees and intelligent systems, and whether automation is unlocking new capacity or quietly eroding the engagement of the people working alongside it. Organizations that track these signals appear to be making structurally different decisions about where to invest. They are not just better-informed, but asking better questions. </p><h2>The hard part isn’t the technology</h2><p>Connecting HR, finance, and procurement data creates the conditions for better decisions. It doesn’t make those decisions. The harder challenge is leadership alignment: CFOs and CHROs agreeing on shared metrics, committing to a planning cadence that keeps workforce choices connected to business strategy, and building a working relationship where neither function is simply ratifying what the other has already decided. That’s a governance problem, and it doesn’t come bundled with any platform.</p><p>The organizations that move first on this won’t just have better data. They’ll have a fundamentally clearer picture of how work creates value across employees, contractors, and intelligent systems together. The ones that don’t will keep making workforce decisions in the dark. The difference is that those decisions are coming faster now, and the consequences of getting them wrong are larger.</p><p><i>For additional perspectives on workforce planning, continuous planning, and leadership in the age of AI, explore </i><a href=\"https://www.sap.com/resources/what-is-workforce-planning\"><i>SAP Workforce Planning</i></a><i> and the latest </i><a href=\"https://news.sap.com/2026/05/sap-successfactors-innovations-new-era-autonomous-hcm/\"><i>SAP SuccessFactors innovations</i></a><i>. </i></p><p><i>David Imbert is Chief Marketing Officer, SAP Financial Management; Lara Albert is Chief Marketing Officer, SAP SuccessFactors.</i></p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p>",
-      "published_at": "2026-09-01T14:00:00+00:00",
-      "published_ts": 1788271200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.847
     },
     {
       "id": "tmtpost:57047da0d512",
