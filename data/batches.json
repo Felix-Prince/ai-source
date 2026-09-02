@@ -1,103 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T04:47:15.198036+00:00",
+    "generated_at": "2026-09-02T11:29:37.162099+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-03T07:52:48.927647+00:00",
-      "generated_ts": 1785743568.9276466,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:4a71494f5603",
-          "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.819,
-          "url": "https://36kr.com/p/3923374038265217?f=rss",
-          "published_at": "2026-08-03T05:43:36+00:00",
-          "summary": "<p>硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。</p>\n  <p>量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg"
-        },
-        {
-          "id": "qbitai:004f5f19504e",
-          "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.816,
-          "url": "https://www.qbitai.com/2026/08/465226.html",
-          "published_at": "2026-08-03T05:41:02+00:00",
-          "summary": "编程、专业工作、长程任务、多模态分析统统梭哈"
-        },
-        {
-          "id": "qbitai:cebd817ec569",
-          "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.758,
-          "url": "https://www.qbitai.com/2026/08/465215.html",
-          "published_at": "2026-08-03T04:58:17+00:00",
-          "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。"
-        },
-        {
-          "id": "kr36:f8d0519dc7a7",
-          "title": "A股三大指数集体收跌，兆易创新跌停",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.951,
-          "url": "https://36kr.com/newsflashes/3923451953966467?f=rss",
-          "published_at": "2026-08-03T07:01:43+00:00",
-          "summary": "36氪获悉，A股三大指数集体收跌，沪指跌0.59%，深成指跌0.96%，创业板指跌1.24%；芯片股持续走弱，兆易创新跌停，中科飞测、拓荆科技跌超10%；核电、太空算力涨幅居前，中国核建、江苏神通、通宇通讯涨停；个股涨多跌少，全市场超4000股上涨。"
-        },
-        {
-          "id": "kr36:e810642b51e1",
-          "title": "长鑫存储增资至约313.9亿",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.98,
-          "url": "https://36kr.com/newsflashes/3923461182107009?f=rss",
-          "published_at": "2026-08-03T07:11:06+00:00",
-          "summary": "36氪获悉，天眼查App显示，近日，长鑫存储技术有限公司发生工商变更，注册资本由约238.9亿人民币增至约313.9亿人民币，增幅约31%。该公司成立于2017年11月，法定代表人为吴丽影，经营范围包含集成电路设计、集成电路芯片及产品制造等，由长鑫科技集团股份有限公司全资持股。"
-        },
-        {
-          "id": "kr36:6159bb7db6b3",
-          "title": "“昉擎科技”完成A1轮融资，估值突破百亿",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.949,
-          "url": "https://36kr.com/newsflashes/3923395975589508?f=rss",
-          "published_at": "2026-08-03T06:04:46+00:00",
-          "summary": "36氪获悉， 近日，“昉擎科技”完成A1轮融资，估值突破百亿元人民币。本轮融资由徐汇资本、珠海科技产业集团领投，中金资本、国泰海通创意投资、九安医疗旗下尚势资本、水木创投、明嘉资本等参与投资。老股东钧山资本大额加注，多维资本、华业天成、临港科创投、建发新兴、三七互娱等同步超额追投。公司本轮融资资金将主要用于自研芯片与系统的研发、规模化量产、软件生态建设及高端人才引进。"
-        },
-        {
-          "id": "kr36:798e6ec415e1",
-          "title": "索尼PS5拟再次涨价",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.937,
-          "url": "https://36kr.com/newsflashes/3923368540384646?f=rss",
-          "published_at": "2026-08-03T05:36:51+00:00",
-          "summary": "由于零部件生产成本走高、内存芯片价格持续上涨以及缺乏与供应商长期合同的压力，索尼正考虑在《GTA 6》发售前，再次提高旗下游戏主机和配件的建议零售价，以此弥补当前的财务亏损。 业内分析认为，由于《GTA 6》具备庞大的媒体影响力，平台方寄希望于通过这款超级大作来提高销售利润率，且不必担心消费需求���幅下降。（新浪财经）"
-        },
-        {
-          "id": "qbitai:74b1b8fee057",
-          "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.907,
-          "url": "https://www.qbitai.com/2026/08/465176.html",
-          "published_at": "2026-08-03T04:29:44+00:00",
-          "summary": "终究还是喜提了「美国豆包」"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-03T11:50:02.902319+00:00",
       "generated_ts": 1785757802.902319,
@@ -8102,6 +8008,142 @@
           "url": "https://www.tmtpost.com/8125252.html",
           "published_at": "2026-09-02T03:32:42+00:00",
           "summary": "赶在IPO之前的“模型路演”。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-02T11:29:37.162099+00:00",
+      "generated_ts": 1788348577.1620991,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "tmtpost:bc062c1cbaba",
+          "title": "Claude Desktop 被 Ollama 偷梁换柱",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.95,
+          "url": "https://www.tmtpost.com/8125118.html",
+          "published_at": "2026-09-02T10:54:44+00:00",
+          "summary": "第三方模型绕过限制入驻 Claude"
+        },
+        {
+          "id": "tmtpost:bdd3e1fe5b31",
+          "title": "AI公司终于赚钱了，商汤做对了什么？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.854,
+          "url": "https://www.tmtpost.com/8125570.html",
+          "published_at": "2026-09-02T09:45:43+00:00",
+          "summary": "一套模型+一座Token工厂+一套智能体管控系统，这“三个一”正在成为支撑商汤主营业务持续增长的新型AI生产体系。"
+        },
+        {
+          "id": "cnbeta:2389a0fc915f",
+          "title": "DLSS5魔改版换路线：性能暴涨114% 老显卡也能稳30帧",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.977,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576084.htm",
+          "published_at": "2026-09-02T11:05:43+00:00",
+          "summary": "<p><strong>顶级硬件发烧友圈内再次传出捷报，非官方DLSS 5神经渲染组件在更换OptiScaler架构后，性能表现实现了翻倍式跃升。此次更新的核心变动是弃用了基于RenoDX的ReShade注入方式，转而采用OptiScaler分支进行直接处理。</strong>要知道神经渲染作为一种利用AI神经网络重建全局光照的尖端技术，其对算力的要求极高，而OptiScaler的介入显著优化了这一处理流程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576084.htm\" target=\"_blank\"><strong>阅读全文"
+        },
+        {
+          "id": "cnbeta:38716be70b1a",
+          "title": "OpenAI即将推出的“Astra”模型中的技术引发安全担忧",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.973,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576078.htm",
+          "published_at": "2026-09-02T11:01:31+00:00",
+          "summary": "<p>OpenAI表示，其即将推出的AI模型Astra标志着在编码和计算机应用操作等能力上的提升。但据一位了解Astra开发情况的人士透露，一项提升模型性能的创新技术也意味着该模型及类似模型将更少暴露其“思考”过程，从而更难以监控其不良行为迹象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576078.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:19a6cc456f5d",
+          "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.909,
+          "url": "https://www.tmtpost.com/8125160.html",
+          "published_at": "2026-09-02T09:52:45+00:00",
+          "summary": "从早期的手工梳理本体，到现在的平台化积累，工业大模型的落地正在从演示走向生产。"
+        },
+        {
+          "id": "cnbeta:362fdb0bf21c",
+          "title": "OpenAI将Astra模型列为“关键”网络安全风险 收紧使用限制",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.858,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576060.htm",
+          "published_at": "2026-09-02T08:57:09+00:00",
+          "summary": "<p>OpenAI于当地时间9月1日在官方博客《通往Astra》中宣布，即将推出的模型Astra已正式达到公司《准备框架》下的“关键”网络安全能力门槛——这是OpenAI首次将任何模型评定至该等级。公司表示，在配备相应工具和访问权限的条件下，Astra能够在许多防护较为完善的系统中发现此前未知的安全漏洞，并在无人逐步指导的情况下自主开发可利用方式。研究副总裁格莱泽在简报会上向记者复述了这一判定标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576060.htm\" target=\"_blank\"><strong>阅读全文</st"
+        },
+        {
+          "id": "tmtpost:57047da0d512",
+          "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.846,
+          "url": "https://www.tmtpost.com/8125170.html",
+          "published_at": "2026-09-02T08:42:46+00:00",
+          "summary": "开源不是做慈善，是先放水养鱼"
+        },
+        {
+          "id": "cnbeta:db4a37f7d554",
+          "title": "OpenAI称其新AI“Astra”可在无人协助下构建网络攻击",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.756,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576054.htm",
+          "published_at": "2026-09-02T06:59:21+00:00",
+          "summary": "<p>OpenAI表示，其即将推出的Astra模型能够发现此前未知的软件漏洞，并将其转化为可实施攻击的利用代码，而无需人类逐步引导——这标志着该模型在网络安全能力上跨过了一道门槛，而该能力此前主要属于顶级黑客团队。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576054.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:4e334a88e782",
+          "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.723,
+          "url": "https://www.qbitai.com/2026/09/483104.html",
+          "published_at": "2026-09-02T06:20:17+00:00",
+          "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
+        },
+        {
+          "id": "qbitai:79d49bc81023",
+          "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.715,
+          "url": "https://www.qbitai.com/2026/09/483101.html",
+          "published_at": "2026-09-02T06:10:26+00:00",
+          "summary": ""
+        },
+        {
+          "id": "cnbeta:2caae0b55d88",
+          "title": "AI数据中心耗水引爆担忧？OpenAI CEO反驳：还比不上种植杏仁",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.669,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576052.htm",
+          "published_at": "2026-09-02T05:13:54+00:00",
+          "summary": "<p>在周二发布的一档播客节目中，OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）被主持人要求回应人们对人工智能（AI）数据中心的抵制，包括对水资源消耗的担忧时，他反驳了这一说法。奥尔特曼表示，<strong>虽然数据中心素有耗水大户的名声，但现代数据中心的用水量与办公楼的用水量大致相当。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576052.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9f68bc4bcc92",
+          "title": "ChatGPT接入Epic电子健康记录系统 可读取患者病历、检验结果和用药信息",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.663,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576036.htm",
+          "published_at": "2026-09-02T05:06:31+00:00",
+          "summary": "<p>OpenAI宣布，ChatGPT for Healthcare现已支持与Epic电子健康记录（EHR）系统集成，医务人员可以调取获授权的患者信息、总结就诊情况，并进一步辅助日常临床工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576036.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
