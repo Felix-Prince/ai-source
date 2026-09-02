@@ -1,87 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T16:41:45.012047+00:00",
+    "generated_at": "2026-09-02T21:08:43.188818+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-03T18:12:45.563762+00:00",
-      "generated_ts": 1785780765.563762,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:78d89a161fb4",
-          "title": "Congress’s favorite AI tool? ChatGPT",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.87,
-          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-          "published_at": "2026-08-03T16:40:55+00:00",
-          "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
-        },
-        {
-          "id": "the_verge:ab73e93307db",
-          "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.974,
-          "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
-          "published_at": "2026-08-03T17:17:54+00:00",
-          "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage i"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-03T20:03:25.275091+00:00",
-      "generated_ts": 1785787405.2750914,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:338440089618",
-          "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.974,
-          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-          "published_at": "2026-08-03T19:45:35+00:00",
-          "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking "
-        },
-        {
-          "id": "techcrunch:0a10db61f27b",
-          "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.975,
-          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-          "published_at": "2026-08-03T19:09:56+00:00",
-          "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
-        },
-        {
-          "id": "techcrunch:abb51a9c553c",
-          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.962,
-          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-          "published_at": "2026-08-03T18:43:43+00:00",
-          "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it "
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-03T21:33:53.068428+00:00",
       "generated_ts": 1785792833.0684283,
@@ -8052,6 +7974,92 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
           "published_at": "2026-09-02T14:35:03+00:00",
           "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-02T21:08:43.188818+00:00",
+      "generated_ts": 1788383323.1888185,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:70e00e2feca9",
+          "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.996,
+          "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
+          "published_at": "2026-09-02T21:05:59+00:00",
+          "summary": "<p>When enterprise buyers build out their next AI accelerator evaluation list this cycle, they&#x27;re more likely to put a non-Nvidia chip on it than Nvidia&#x27;s own next-generation GPU. According to <a href=\"https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-c"
+        },
+        {
+          "id": "the_verge:ffaf39594797",
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.919,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "published_at": "2026-09-02T20:11:40+00:00",
+          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m"
+        },
+        {
+          "id": "cnbeta:6ef3cedb7737",
+          "title": "大型语言模型训练使用受版权保护内容的合法性仍存争议 美国政府公开支持OpenAI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.835,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576128.htm",
+          "published_at": "2026-09-02T19:11:00+00:00",
+          "summary": "<p>特朗普政府近日向纽约时报起诉OpenAI一案提交了一份20页法律意见书，支持OpenAI未经授权使用受版权保护材料训练大型语言模型的做法。政府在文件中表示，美国在人工智能领域保持全球竞争力和领导地位符合国家利益，不应因对合理使用原则的误解而限制人工智能的发展，否则可能阻碍创新、科学进步以及美国经济增长和社会流动。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576128.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:b753718e46fa",
+          "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.729,
+          "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
+          "published_at": "2026-09-02T17:51:48+00:00",
+          "summary": "<p>Infostealers <a href=\"https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense\">replayed stolen Claude session cookies into paid accounts</a> without ever touching the login page two-factor authentication guards.</p><p>The accounts Anthropic flagg"
+        },
+        {
+          "id": "techcrunch:de1017c09b7f",
+          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.673,
+          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+          "published_at": "2026-09-02T17:09:06+00:00",
+          "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads."
+        },
+        {
+          "id": "techcrunch:0a0debc17d8e",
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.953,
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+          "published_at": "2026-09-02T20:19:14+00:00",
+          "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+        },
+        {
+          "id": "the_verge:707f363dbfad",
+          "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.758,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "published_at": "2026-09-02T16:40:50+00:00",
+          "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur"
         }
       ]
     }
