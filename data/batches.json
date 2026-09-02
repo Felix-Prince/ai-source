@@ -1,148 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T21:08:40.047543+00:00",
+    "generated_at": "2026-09-02T04:47:15.198036+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-02T21:13:12.885302+00:00",
-      "generated_ts": 1785705192.8853023,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-02T23:16:10.206188+00:00",
-      "generated_ts": 1785712570.2061882,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-03T04:02:03.859485+00:00",
-      "generated_ts": 1785729723.8594847,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:efb64f7d91fe",
-          "title": "OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.909,
-          "url": "https://36kr.com/newsflashes/3923212228292232?f=rss",
-          "published_at": "2026-08-03T02:57:51+00:00",
-          "summary": "OpenAI当地时间8月1日发布有关数学和理论计算机科学的十项突破，这些成果由其下一代主要模型Astra的内部版本实现。按照Sol API的费率计算，找到这些问题的解决方案所需总词元（tokens）成本约为2000美元。十项突破涵盖高维球体堆积密度上限、二进制与球面码界限提升、非纯索菲群存在性证明、康涅斯刚性猜想的推翻、算术电路复杂性新下界、量子平行重复定理、最近向量问题的多项式因子近似难度证明、埃尔哈特体积猜想、多色拉姆齐数的超指数下界，以及极值数猜想等。（界面）"
-        },
-        {
-          "id": "kr36:ea4f7e610f41",
-          "title": "阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.883,
-          "url": "https://36kr.com/newsflashes/3923193948614025?f=rss",
-          "published_at": "2026-08-03T02:39:15+00:00",
-          "summary": "36氪获悉，8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，在编程（Coding）和专业办公（Cowork）方面能力大幅提升。今日放榜的三方榜单Arena中，阿里Qwen模型仅次于Anthropic的Claude系列。目前，Qwen3.8的API已上线千问AI平台，并接入阿里今日同步推出的Agent产品“千问办公”。Qwen3.8-Max预计下周开源，同时还将开源Qwen3.8-27B。"
-        },
-        {
-          "id": "kr36:70a9c1c8e68e",
-          "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.683,
-          "url": "https://36kr.com/p/3919025939246727?f=rss",
-          "published_at": "2026-08-03T00:10:16+00:00",
-          "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，"
-        },
-        {
-          "id": "kr36:608292d00840",
-          "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.68,
-          "url": "https://36kr.com/p/3923043072634498?f=rss",
-          "published_at": "2026-08-03T00:07:39+00:00",
-          "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻"
-        },
-        {
-          "id": "kr36:9606aa3d5dc1",
-          "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.952,
-          "url": "https://36kr.com/newsflashes/3923225864416902?f=rss",
-          "published_at": "2026-08-03T03:11:43+00:00",
-          "summary": "36氪获悉，近日，DeepSeek-V4-Flash正式版API面向公众开启公测，国家超算互联网第一时间同步上线DeepSeek-V4-Flash模型API调用与下载服务。"
-        },
-        {
-          "id": "kr36:a2143db99c1e",
-          "title": "阿里“千问办公”开启公测",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.943,
-          "url": "https://36kr.com/newsflashes/3923216741756293?f=rss",
-          "published_at": "2026-08-03T03:02:26+00:00",
-          "summary": "36氪获悉，阿里巴巴旗下企业级Agent产品“千问办公”（QwenWork）开启公测。目前网页版和独立PC客户端已开放，钉钉PC端和手机端内置入口近期也将开放。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。"
-        },
-        {
-          "id": "kr36:b9033628bb7d",
-          "title": "MiniMax H3正式开源",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.932,
-          "url": "https://36kr.com/newsflashes/3923204259098244?f=rss",
-          "published_at": "2026-08-03T02:49:44+00:00",
-          "summary": "36氪获悉，MiniMax正式开源新一代通用视频模型MiniMax H3。MiniMax H3是一个通用型全模态生成系统。它能够统一理解由文本、图像、视频和音频构成的多模态上下文，并可生成最高2K分辨率、最长15秒、带有原生立体声音频的视频。"
-        },
-        {
-          "id": "kr36:de43d27671b5",
-          "title": "上海市新增11款已完成登记的生成式人工智能服务",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.995,
-          "url": "https://36kr.com/newsflashes/3923265514270345?f=rss",
-          "published_at": "2026-08-03T03:52:03+00:00",
-          "summary": "36氪获悉，据“网信上海”消息，截至至8月3日，上海市新增11款已完成登记的生成式人工智能服务，累计已完成211款生成式人工智能服务登记。"
-        },
-        {
-          "id": "qbitai:d5eca9317e50",
-          "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.967,
-          "url": "https://www.qbitai.com/2026/08/464835.html",
-          "published_at": "2026-08-03T02:51:33+00:00",
-          "summary": "面向AI Agent的可迁移、自演进记忆操作层MindMemOS"
-        },
-        {
-          "id": "kr36:f63430d9c2b6",
-          "title": "马克·古尔曼：预计iPhone会涨价100至200美元，折叠屏iPhone起售价或至少2000美元",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.957,
-          "url": "https://36kr.com/newsflashes/3923185831243136?f=rss",
-          "published_at": "2026-08-03T02:31:00+00:00",
-          "summary": "彭博科技记者马克·古尔曼当地时间8月2日表示，苹果“毫无疑问”会提高iPhone价格，原因包括公司面临内存芯片和主设备处理器短缺的问题，以及iPhone 18 Pro和Pro Max中新的摄像头系统成本更高，“更不用说首款可折叠iPhone更为昂贵的设计了”。古尔曼称，在很多情况下，iPad和Mac的价格上涨100到200美元，预计iPhone的价格涨幅也会在类似范围内，“至于折叠屏iPhone，应该做好起售价至少2000美元的准备，甚至可能更高”。（界面）"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-03T07:52:48.927647+00:00",
       "generated_ts": 1785743568.9276466,
@@ -8165,6 +8026,82 @@
           "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
           "published_at": "2026-09-01T17:00:00+00:00",
           "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-02T04:47:15.198036+00:00",
+      "generated_ts": 1788324435.198036,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:faaee48a32d6",
+          "title": "Claude最强Fable 5.1发布 8项屠榜，最高降价45%，反蒸馏机制上线",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.993,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576004.htm",
+          "published_at": "2026-09-02T04:42:05+00:00",
+          "summary": "<p>Fable 5.1和Mythos 5.1发布！8项公开基准测试全部第一，价格最高降45%。尤其是在科学研究和代码这两项上，明显甩开了Fable 5和隔壁GPT-5.6 Sol。换个更直观的视角，现在用中、低推理程度跑Fable 5.1，表现基本相当于老版Mythos 5开到极高甚至最高推理程度。这一波属于是“牢Fable”干掉了“Mythos圣”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:2ca260f9a925",
+          "title": "大模型厂商，正忙着自备“干粮”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.923,
+          "url": "https://www.tmtpost.com/8124383.html",
+          "published_at": "2026-09-02T03:53:25+00:00",
+          "summary": "当模型公司开始用AI设计AI芯片，会对行业格局带来哪些影响？"
+        },
+        {
+          "id": "qbitai:5cc6615d157a",
+          "title": "李飞飞发布：全球首个多模态世界模型",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.699,
+          "url": "https://www.qbitai.com/2026/09/482586.html",
+          "published_at": "2026-09-02T01:07:13+00:00",
+          "summary": "一张图补全3D世界，还能给机器人造训练场"
+        },
+        {
+          "id": "the_verge:0b212053df8e",
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.468,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "published_at": "2026-09-01T22:01:36+00:00",
+          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less"
+        },
+        {
+          "id": "cnbeta:606e65746062",
+          "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.444,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1575976.htm",
+          "published_at": "2026-09-01T21:41:36+00:00",
+          "summary": "<p>OpenAI周二表示，其即将推出的人工智能模型Astra是首个超越其“关键”网络安全能力阈值的产品。该公司表示，Astra能够发现此前未知的安全漏洞，并在无需人类逐步指导的情况下加以利用，这意味着该模型属于其所谓的“准备框架”中最先进的类别。OpenAI表示仍计划“很快”推出Astra，但对其网络安全能力的访问将更加受限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575976.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:9926e5b747b7",
+          "title": "Fable 5.1来了！Anthropic再秀肌肉",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.929,
+          "url": "https://www.tmtpost.com/8125252.html",
+          "published_at": "2026-09-02T03:32:42+00:00",
+          "summary": "赶在IPO之前的“模型路演”。"
         }
       ]
     }
