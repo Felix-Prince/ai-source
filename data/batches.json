@@ -1,93 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:26:34.649372+00:00",
+    "generated_at": "2026-09-03T16:33:16.198004+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-04T14:45:34.730457+00:00",
-      "generated_ts": 1785854734.7304573,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:1749726d1a74",
-          "title": "Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.786,
-          "url": "https://36kr.com/newsflashes/3925172170324099?f=rss",
-          "published_at": "2026-08-04T12:11:36+00:00",
-          "summary": "据报道，Anthropico与一家人工智能云初创公司签署了一项价值100亿美元的算力协议。（第一财经）"
-        },
-        {
-          "id": "the_verge:462c79d898ba",
-          "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.728,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-          "published_at": "2026-08-04T11:27:55+00:00",
-          "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele"
-        },
-        {
-          "id": "qbitai:3d2cc78ad08f",
-          "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.914,
-          "url": "https://www.qbitai.com/2026/08/466386.html",
-          "published_at": "2026-08-04T13:14:27+00:00",
-          "summary": "北京大学&#038;元空AI Agent联合实验室"
-        },
-        {
-          "id": "kr36:f9fa207e1547",
-          "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.882,
-          "url": "https://36kr.com/newsflashes/3925199434611072?f=rss",
-          "published_at": "2026-08-04T12:39:20+00:00",
-          "summary": "为增强韩国人工智能技术竞争力、拓展AI服务，被称作“人工智能高速通道”的人工智能算力中心建设工作正式启动。8月3日，韩国科学技术信息通信部在全罗南道光州市海南郡索拉西多数据中心园区，举办人工智能算力中心奠基仪式。该项目总投资2.5万亿韩元，占地面积约4.8万平方米，规划建设一栋两层建筑，预计2028年竣工投用。去年，三星SDS联合NAVER云、三星物产、三星电子、Kakao、KT、光州市政府以及西南海岸企业城市开发公司组建联合体，通过公开招标拿下该项目。（财联社）"
-        },
-        {
-          "id": "kr36:de9ba39377c7",
-          "title": "CoWoS封装产能告急，台积电进一步扩大外包产能",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.841,
-          "url": "https://36kr.com/newsflashes/3925154441787525?f=rss",
-          "published_at": "2026-08-04T11:53:34+00:00",
-          "summary": "英伟达的GPU订单已经把台积电的封装产线挤到极限，台积电不得不决定将AI芯片制造核心工席CoWoS中的CoW（晶圆上芯片）封装产能进一步外包给日月光等封测厂商。CoWoS是台积电用于AI芯片的2.5D封装技术，AI处理器位于芯片中心，HBM（高带宽内存）环绕四周，通过中介层连接。（财联社）"
-        },
-        {
-          "id": "techcrunch:b7513f544f15",
-          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.98,
-          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-          "published_at": "2026-08-04T14:03:01+00:00",
-          "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
-        },
-        {
-          "id": "techcrunch:85f7a7d128e4",
-          "title": "Is the future of data centers portable? Runware builds a pod to find out",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.95,
-          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-          "published_at": "2026-08-04T13:00:00+00:00",
-          "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-04T18:09:35.733907+00:00",
       "generated_ts": 1785866975.7339075,
@@ -7932,6 +7848,122 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
           "published_at": "2026-09-03T06:34:28+00:00",
           "summary": "<p>英伟达目前已占到标普500指数总市值的约8%。这一压倒性体量几乎完全由人工智能热潮造就，这家芯片巨头的市值，甚至超过了该指数11个行业板块当中5个板块的市值总和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-03T16:33:16.198004+00:00",
+      "generated_ts": 1788453196.1980038,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "venturebeat:20f74358ff8c",
+          "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.981,
+          "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
+          "published_at": "2026-09-03T16:19:49+00:00",
+          "summary": "<p>Meta’s newest AI model Muse Spark 1.3, <a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\">unveiled yesterday</a>, is faster and more performant on third-party benchmarks than its predecessor — with a caveat. </p><p>&quot;Muse Spark 1.3 is rolling out today with frontier performanc"
+        },
+        {
+          "id": "the_verge:20503f66e6d0",
+          "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.952,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+          "published_at": "2026-09-03T16:00:00+00:00",
+          "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-so"
+        },
+        {
+          "id": "cnbeta:9d16ac70665d",
+          "title": "OpenAI、Anthropic等多家AI公司正遭遇服务中断",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.906,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576306.htm",
+          "published_at": "2026-09-03T15:26:55+00:00",
+          "summary": "<p>据Downdetector上的用户报告以及各公司状态页面显示，多家AI公司正遭遇服务中断。OpenAI表示，其ChatGPT和Codex目前正出现问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576306.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5ce6b134b636",
+          "title": "英伟达130亿美元收购开源AI平台Hugging Face",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.859,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576298.htm",
+          "published_at": "2026-09-03T14:53:35+00:00",
+          "summary": "<p>英伟达已达成协议，以 130 亿美元收购 AI 模型平台 Hugging Face。这家市值 5.4 万亿美元的芯片巨头，再度动用雄厚资金实力，助推人工智能产业高速发展，同时进一步加大对整个行业的掌控力度。就在去年，Hugging Face 还拒绝了英伟达的投资，当时估值 70 亿美元，以此维持自身独立性。Hugging Face 托管数百万个 AI 模型与数据集，是开源 AI 体系的标杆平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576298.htm\" target=\"_blank\"><strong>阅读全文</s"
+        },
+        {
+          "id": "venturebeat:2cda443dcf7e",
+          "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.787,
+          "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+          "published_at": "2026-09-03T14:00:00+00:00",
+          "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft AI</a> on Thursday released <a href=\"https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/\">MAI-Transcribe-2</a>, a speech-recognition model the company says is faster, more a"
+        },
+        {
+          "id": "cnbeta:7106f50ff01f",
+          "title": "黄仁勋解释NVIDIA为何豪掷近130亿美元收购Hugging Face",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.73,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576288.htm",
+          "published_at": "2026-09-03T13:17:09+00:00",
+          "summary": "<p>人工智能芯片巨头英伟达（NVIDIA）正式宣布以约129.3亿美元收购知名开源AI模型社区与开发者平台Hugging Face。根据交易条款，英伟达将向Hugging Face股东支付约119亿美元现金及股票，并向加入英伟达的Hugging Face员工分配约10亿美元的激励激励。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576288.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1dc76332327b",
+          "title": "Google深度整合Gemini语音交互功能 全面登陆Gmail、Docs与Keep",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.982,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576310.htm",
+          "published_at": "2026-09-03T16:14:51+00:00",
+          "summary": "<p>Google宣布为其Workspace办公生态推出一系列基于Gemini的人工智能语音新功能，正式将对话式语音交互深度整合进Gmail、Google Docs和Google Keep三大核心产品。用户未来无需繁琐地手动打字输入，直接通过语音对话即可完成邮件检索、文档起草以及结构化笔记整理等多项复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b57d1beed815",
+          "title": "Google发布新一代天气预报AI模型WeatherNext 3",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.933,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576304.htm",
+          "published_at": "2026-09-03T15:22:40+00:00",
+          "summary": "<p>来自GoogleDeepMind与Google研究团队（Google Research）的科学家们正式推出了一款用于天气预测的全新人工智能模型。该模型能够更加清晰地洞察不断变化的大气层状态，并以更高的频率预测气象变化。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576304.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:755be6804a2f",
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.912,
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "published_at": "2026-09-03T15:00:00+00:00",
+          "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
+        },
+        {
+          "id": "venturebeat:0519b2588474",
+          "title": "The AI visibility gap: Why great brands disappear from AI answers",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 1.858,
+          "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
+          "published_at": "2026-09-03T14:00:00+00:00",
+          "summary": "<p><i>Presented by Contentful</i></p><hr /><p>Most marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. </p><p>Search tools and AI engines now synthesize answers directly on the screen, creating a world "
         }
       ]
     }
