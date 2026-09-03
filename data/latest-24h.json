@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T16:33:16.198004+00:00",
-    "generated_ts": 1788453196.1980038,
+    "generated_at": "2026-09-03T21:08:51.613821+00:00",
+    "generated_ts": 1788469731.6138213,
     "window_hours": 24.0,
-    "total": 33
+    "total": 32
   },
   "items": [
-    {
-      "id": "venturebeat:70e00e2feca9",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
-      "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
-      "summary": "<p>When enterprise buyers build out their next AI accelerator evaluation list this cycle, they&#x27;re more likely to put a non-Nvidia chip on it than Nvidia&#x27;s own next-generation GPU. According to <a href=\"https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs\">VentureBeat&#x27;s July VB Pulse survey of 170 AI infrastructure respondents</a>, 39.4% said they&#x27;re likely to evaluate non-Nvidia accelerators — AWS Trainium, Google TPU, AMD Instinct, Intel Gaudi or in-house ASICs — over the next 12 months, compared with 25.3% for Nvidia Blackwell (GB300) or other next-generation Nvidia GPUs, a 14-point gap.</p><p>Nvidia remains the default in most production environments. But organizations are building real optionality into their accelerator strategy rather than treating Nvidia as the only evaluation worth doing.</p><p>The finding sits inside a broader pattern: enterprises are expanding and optimizing the AI infrastructure they already operate before making another major platform change. Greater infrastructure activity did not produce greater urgency to switch platforms. The share of respondents expecting a platform change within three months fell from 38.3% in June to 28.8% in July, even as production adoption, accelerator utilization, and exploration of neoclouds and open-source infrastructure all rose.</p><h2>Where is enterprise AI infrastructure actually growing?</h2><p>The July data shows organizations operating AI infrastructure more intensively and putting more provider platforms into production.</p><p>Microsoft Azure posted the largest production adoption growth among the major platforms measured, with the share of respondents reporting Azure in production increasing from 29% in June to 47.1% in July, an 18.1 percentage-point increase. Some of that jump reflects who was surveyed: July&#x27;s respondent base skewed more up-market than June&#x27;s (57% at organizations above 1,000 employees, versus 37% in June), and Azure adoption rises with company size in both waves. Google&#x27;s Gemini was the most-used platform in both waves, with the share of respondents reporting it in production rising from 41.1% in June to 47.6% in July, narrowly ahead of Azure.</p><p>The share of respondents reporting OpenAI in production rose from 40.2% to 49.4%. Anthropic production adoption increased from 12.1% to 24.7%. </p><p>Among enterprises that operate their own GPUs, the share running at half capacity or less fell from 83% in June (100 respondents) to 69% in July (155 respondents), with the share above 50% utilization rising from 13% to 23%.</p><p>The definition of infrastructure effectiveness is also becoming more operational. The share of respondents who selected uptime and reliability as important effectiveness measures increased from 42.1% to 51.2%. The share selecting throughput rose from 21.5% to 24.7%.</p><p>Ease of implementation improved from an average rating of 3.84 to 4.04 on a five-point scale. Overall satisfaction moved only slightly, from 4.07 to 4.14, while perceived value was essentially unchanged at approximately 3.9.</p><p>That combination is telling. Enterprises are not reporting a dramatic improvement in value simply because they are deploying more infrastructure. They are becoming more capable operators with better architectures, but they are also setting a higher bar for what that infrastructure must deliver, with reliability leading the way.</p><h2>Why is platform-change urgency shifting outward?</h2><p>The strongest counter-signal in the July findings is the declining share of respondents who plan to make an immediate platform change.</p><p>The share expecting a change within zero to three months declined by 9.5 percentage points. The share expecting a change within three to six months rose by 4.1 points, while the six-to-12-month window rose by 5.3 points. The share with no planned change remained effectively flat at approximately 40%.</p><p>Urgency is shifting outward, with the open-weight-model and open-source-harness debate playing a role in which pieces get enhanced versus fully replaced.</p><p>The selection criteria support that interpretation. Integration with existing cloud and data stack was the top factor in both waves, holding steady at 41.1% in June and 40.0% in July. The share of respondents prioritizing performance increased from 24.3% to 35.3%. The share prioritizing cost per million tokens increased from 7.5% to 15.9%, while the share prioritizing access to GPUs rose from 18.7% to 23.5%.</p><p>By contrast, the share selecting broad total cost of ownership as a leading factor fell from 34.6% to 21.8%.</p><p>The market appears to be moving from general infrastructure planning toward workload-level scrutiny. Buyers increasingly want to know how a platform performs under production inference, how reliably it operates and what each unit of useful work costs.</p><h2>Interest in Nvidia alternatives is concentrated at the top</h2><p>That 39.4% figure was 31.8% in June, already climbing before this wave. The alternatives enterprises are weighing include AWS Trainium, Google TPU, AMD Instinct, Intel Gaudi and other in-house ASICs.</p><p>Interest was even stronger among respondents with strategic purchasing authority, though the C-suite sample is small: the share of C-suite respondents likely to evaluate non-Nvidia accelerators rose from 42.9% (6 of 14) in June to 57.1% (12 of 21) in July. Among final decision-makers, the same interest rose from 35.4% to 50%.</p><p>This was especially true for organizations in the small and medium-size business tiers. Among organizations with 251 to 1,000 employees, the share increased from 41.4% to 53.2%. Among organizations with 101 to 250 employees, it rose from 33.3% to 57.7%.</p><p>These findings show organizations building optionality into their accelerator strategy.</p><p>The increased attention from C-suite respondents and final decision-makers suggests that accelerator diversity is becoming a strategic infrastructure question, not just a technical one for engineering teams.</p><h2>Enterprises want to own the harness</h2><p>The infrastructure findings align with a separate <a href=\"https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent\">VB Pulse survey of agentic context layers</a>. That survey included 101 substantive respondents in June and 101 respondents in July.</p><p>The AI harness is the operational layer connecting models to enterprise data, tools, orchestration, evaluation, identity, security, observability and business processes. It determines what an agent can access, which actions it can take and how the organization evaluates its output.</p><p>In July, 36.6% of context-layer respondents said they planned to retain best-of-breed standalone tools alongside their models. Another 36.6% expected to mix provider-native runtimes with standalone tools, while only 5.9% intended to build and own the context layer in-house.</p><p>Combined, 79.2% of July respondents favored an approach that maintained at least some architectural control outside a single model provider, compared with approximately 65.3% in June. Only 11.9% of July respondents favored consolidating onto a single model provider’s native context stack, down from 20.8% in June.</p><p>Most want to preserve provider choice, independent governance or control over critical components around the model.</p><p>The need for that control is becoming clearer. In July, 62.4% of context-layer respondents reported that a governed semantic or context layer was either in production or being built. Production adoption alone increased from 24.8% to 31.7%.</p><p>At the same time, 68.3% of July respondents reported experiencing at least one confident-but-wrong agent answer caused by missing or incorrect context, compared with 57.4% of June respondents.</p><p>The share expecting to use multiple retrieval architectures by use case increased from 12.9% to 28.7%. The share expecting to mix provider-native and standalone context tools increased from 20.8% to 36.6%.</p><p>The emerging architecture is a controlled combination of models, infrastructure, retrieval approaches, context systems and operational tooling selected by workload.</p><h2>Are neoclouds gaining enterprise traction?</h2><p>Neoclouds are specialized cloud providers focused heavily on AI infrastructure, particularly access to accelerators and supporting services. The July results suggest that these providers are becoming a more credible part of enterprise multi-provider strategies.</p><p>The share of respondents expecting to do more with neoclouds increased from 33% in June to 38% in July. At the same time, the share expecting to do less with neoclouds fell from 9.7% to 5.4%.</p><p>The movement was especially pronounced among respondents in the technology and software vertical. The share of that July segment expecting to do more with neoclouds reached 57.6%, compared with 44.4% in June.</p><p>Current production adoption remains much smaller than broad expansion intent. Across the named providers measured consistently in both waves, such as CoreWeave, Lambda, Crusoe and Nebius, production use increased from 1.9% of June respondents to 5.9% of July respondents.</p><p>The difference between 38% expansion intent and 5.9% current named-provider production use may point to a sizable evaluation and adoption pipeline. </p><p>The neocloud demand pipeline is not theoretical. <a href=\"https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx\">CoreWeave reported</a> around $104 billion in revenue backlog at the end of June, excluding more than $25 billion in additional customer commitments secured during early Q3. Nebius does not disclose a directly comparable backlog metric, but said it could <a href=\"https://assets.nebius.com/assets/4462517b-ce83-41f2-96ed-f2ac1bc06a05/SHLQ226%20%281%29.pdf\">sell its entire 2027 capacity under current terms</a> and reported four second-quarter AI cloud agreements, each averaging more than $1 billion in total contract value.</p><p>The larger implication is that neoclouds are becoming a viable source of strategic leverage. They give organizations additional options for accelerator availability, software stacks, workload placement and ammunition for negotiations with hyperscale providers.</p><p>Neoclouds will still have to demonstrate enterprise-grade reliability, security, support, networking, and data management capabilities. Specialized compute access may open the door, but durable enterprise adoption will depend on the surrounding operational stack. </p><h2>Is open-source AI infrastructure usage growing?</h2><p>The most accurate answer is that open-source production usage is growing, while broad platform consideration remains relatively flat.</p><p>The share of respondents reporting a custom, self-managed open-source production stack increased from 3.7% in June to 12.9% in July. The stack definition included technologies such as PyTorch, Triton, vLLM, Ray and Kubernetes.</p><p>The movement was visible across several segments with July bases above 20 respondents:</p><ul><li><p>Among individual contributors, 23.9% reported production use in July.</p></li><li><p>Among recommenders and influencers, 13.7% reported production use in July.</p></li><li><p>Among organizations with 251 to 1,000 employees, 12.8% reported production use in July.</p></li></ul><p>The share of respondents using open-source key-value cache tooling, including LMCache and vLLM prefix caching, increased from 6.5% to 11.8%. Among technology and software respondents, usage increased from effectively 0% to 13.3%.</p><p>Open-source platform consideration ticked up slightly but remained essentially unchanged, moving from 5.6% to 6.5%.</p><p>This combination suggests that growth is concentrated among organizations moving into implementation rather than across a dramatically larger population of evaluators. Open source appears to be deepening inside an active portion of the market.</p><p>Organizations may be turning to open-source components for greater portability, model choice and control over inference optimization. But ownership also transfers responsibility. Teams adopting self-managed stacks must operate upgrades, security, observability, integration and production support themselves.</p><p>That combination of more activity, less urgency and more optionality is the throughline across all of it. Enterprises are running more AI infrastructure while deliberately keeping multiple paths open on chips, clouds and the layer that connects models to their own data. The next platform change, when it comes, will be a choice made from a stronger position.</p><hr /><h2>Notes on methodology</h2><p>For this article, I compared two independent, cross-sectional infrastructure survey waves: <a href=\"https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs\">107 respondents in June 2026</a> and 170 respondents in July 2026. These waves are not a longitudinal panel, so the findings describe changes between respondent populations rather than changes made by the same organizations. Platform-change timing shares add to slightly more than 100% because a small number of respondents selected more than one window (5 in June, 9 in July).</p><p>Sample composition changed between the waves. Respondents selecting the 1–100 employee organization-size category were excluded before calculating results. The remaining wave composition still differed, including a larger July share from organizations with more than 10,000 employees. Month-to-month movements should therefore be treated as directional signals rather than proof of causation. No statistical-significance testing was applied to the comparisons reported here.</p><p>The context-layer findings come from a separate survey, with <a href=\"https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix\">101 substantive respondents in June</a> and 101 in July. Those results use a different respondent base and are included as supporting evidence, not combined with the infrastructure-survey results.</p>",
-      "published_at": "2026-09-02T21:05:59+00:00",
-      "published_ts": 1788383159.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.996
-    },
     {
       "id": "venturebeat:20f74358ff8c",
       "source": "venturebeat",
@@ -65,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.952
-    },
-    {
-      "id": "the_verge:ffaf39594797",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-      "published_at": "2026-09-02T20:11:40+00:00",
-      "published_ts": 1788379900.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.919
     },
     {
       "id": "tmtpost:91e6e382ad10",
@@ -202,21 +172,6 @@
       "importance": 2.859
     },
     {
-      "id": "cnbeta:6ef3cedb7737",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "大型语言模型训练使用受版权保护内容的合法性仍存争议 美国政府公开支持OpenAI",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576128.htm",
-      "summary": "<p>特朗普政府近日向纽约时报起诉OpenAI一案提交了一份20页法律意见书，支持OpenAI未经授权使用受版权保护材料训练大型语言模型的做法。政府在文件中表示，美国在人工智能领域保持全球竞争力和领导地位符合国家利益，不应因对合理使用原则的误解而限制人工智能的发展，否则可能阻碍创新、科学进步以及美国经济增长和社会流动。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576128.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T19:11:00+00:00",
-      "published_ts": 1788376260.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.835
-    },
-    {
       "id": "venturebeat:2cda443dcf7e",
       "source": "venturebeat",
       "source_label": "VentureBeat",
@@ -232,6 +187,51 @@
       "importance": 2.787
     },
     {
+      "id": "cnbeta:2ce9e22f867b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI正式发布GPT-6 Astra 号称操作电脑水平超越人类",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576320.htm",
+      "summary": "<p>OpenAI正式推出了代号为“Astra”的下一代旗舰大模型GPT-6。据外媒报道，OpenAI宣称该模型在计算机操作能力（Computer Use）上已经超越普通人类用户，不仅在操作速度与准确度上更胜一筹，还能自主在复杂的多应用与多系统环境中高效执行多步骤任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T18:28:11+00:00",
+      "published_ts": 1788460091.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.777
+    },
+    {
+      "id": "techcrunch:89449fa7b756",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "published_at": "2026-09-03T18:19:56+00:00",
+      "published_ts": 1788459596.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.766
+    },
+    {
+      "id": "ars_technica:40d8803ad4cd",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+      "published_at": "2026-09-03T18:10:19+00:00",
+      "published_ts": 1788459019.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.753
+    },
+    {
       "id": "cnbeta:7106f50ff01f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -245,36 +245,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.73
-    },
-    {
-      "id": "venturebeat:b753718e46fa",
-      "source": "venturebeat",
-      "source_label": "VentureBeat",
-      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
-      "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
-      "summary": "<p>Infostealers <a href=\"https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense\">replayed stolen Claude session cookies into paid accounts</a> without ever touching the login page two-factor authentication guards.</p><p>The accounts Anthropic flagged were card-billed, self-serve accounts, which is the population no corporate identity provider governs, and no admin console can sign out. Session-cookie replay bypasses SSO as thoroughly as it bypasses 2FA. What SSO provides here is revocation and visibility, not prevention. The company disclosed the campaign in notification emails to affected users, named six stealer families, signed the accounts out, stripped the saved payment methods, and refunded the charges it found.</p><p>The burned usage is the small loss. What those sessions could reach is the exposure, and none of it sat behind an identity controlled by an enterprise.</p><p>Anthropic told affected users that a bad actor was using common infostealer malware to lift Claude login sessions off their computers and then replaying them to burn the accounts&#x27; usage, according to the notification an affected user posted to Reddit and <a href=\"https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/\">BleepingComputer reported on August 30</a>.</p><p>It named Vidar, LummaC2, StealC, RedLine and Acreed on Windows and Atomic Stealer on a small number of Macs, and it described general-purpose malware that copies browser login cookies along with saved passwords. &quot;Your Claude session was likely one of the many things it collected,&quot; the email said.</p><h2>A session cookie is the proof that a login already happened</h2><p>The attack chain runs in one direction, from an infected machine through a stolen cookie past a checkpoint that never fires, and into everything the account can reach.</p><p>Signing the accounts out worked because a replayed cookie dies with the session it copies.</p><p>Two-factor authentication guards the login page. The site then hands the browser a cookie so the user stays signed in, and an attacker who copies that cookie and replays it looks to the server like the person who already passed the check. <a href=\"https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/\">Help Net Security described the mechanism on August 31</a> as session theft becoming the new credential theft.</p><p>Anthropic spotted the theft in the usage meter. Limits were refilled and drained while the owner was away from Claude, the company wrote.</p><p>One Redditor who received the notification traced the infection to a pirated game, per BleepingComputer. That is one machine, and Anthropic has not said what the others ran.</p><p>Anthropic&#x27;s notification gave no count. The company had not responded by publication to VentureBeat&#x27;s questions on how many accounts were affected, whether any Team or Enterprise seats behind SSO were among them, or whether the replayed sessions reached conversation history or connected apps rather than usage alone.</p><p>Removing a saved card and refunding charges point to directly billed, self-serve accounts that authenticate through Anthropic&#x27;s own login rather than a corporate identity provider. Those include personal subscriptions. Team and self-serve Enterprise organizations can also be card-billed, so the deduction is strong rather than closed.</p><p>Bugcrowd CEO Dave Gerry <a href=\"https://www.axios.com/2026/08/06/hackers-ai-llm-hijacking\">told Axios in early August</a> that his company sent employees nearly a dozen emails saying the OpenClaw agent was not allowed on corporate networks, and employees kept trying to download it anyway. A personal Claude subscription on a managed laptop is the same reflex, and it comes with a card on file. <a href=\"https://www.akamai.com/blog/security/navigating-ai-risk-special-soti-report\">LayerX data in Akamai&#x27;s enterprise AI risk report</a> found 47% of enterprise AI conversations run through personal identities, with Claude at 61%.</p><p>The pirated game is one vector. In July, attackers hosted a spoofed Claude download page on the claude.ai domain itself through a public Artifact, and a sponsored Bing ad sent employees searching for &quot;Claude Desktop app&quot; straight to it. <a href=\"https://www.huntress.com/blog/fakeagent-claude-desktop-malvertising-ends-in-dotnet-rat\">Huntress documented the campaign, named FakeAgent</a>, after SectopRAT compromised employees at 29 organizations in two days. The artifact collected roughly 7,100 downloads before Anthropic removed it. <a href=\"https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer\">A separate campaign pushed a fake Claude installer through a spoofed download site earlier in the year</a>, per Malwarebytes. The vector is not piracy. It is enterprise employees searching for the official app on their work machines.</p><h2>Refunds cover the usage. Nothing covers the connectors</h2><p>A replayed session inherits everything the legitimate one could reach, and Anthropic has not said whether these did. On a Claude account, that means the conversation history, the files uploaded into projects, and any connectors the owner authorized. <a href=\"https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities\">Anthropic&#x27;s help center</a> states that connectors let Claude retrieve data and take actions inside connected services and that Claude inherits each person&#x27;s permissions from the connected service. Read and search operations run without approval. Write actions, including send, reply, forward, share, move, and trash, are approval-gated by default. The exfiltration path is the one that is open. <a href=\"https://support.claude.com/en/articles/10166901-use-google-workspace-connectors\">Google Workspace connectors are available to individual Claude accounts</a>, so a personal Pro subscription can hold a live authorization into a Gmail inbox or a Drive folder.</p><p>If that inbox is the work inbox, the attacker holding the replayed cookie has a read path into it that the corporate identity provider evaluated once, at the moment the employee clicked allow, and rarely again. On a personal plan, the employee owns that grant. No Claude tenant administrator can sign that account out, and the Workspace or Entra administrator who can pull the underlying grant rarely knows it exists.</p><p>Adam Meyers, CrowdStrike&#x27;s senior vice president of counter adversary operations, put numbers to the market in an August 6 Axios interview. Criminals have been buying and reselling stolen ChatGPT, Claude and Gemini credentials since ChatGPT took off in late 2022, fed by infostealer malware. <a href=\"https://www.crowdstrike.com/en-us/resources/reports/threat-hunting-report/\">CrowdStrike&#x27;s 2026 Threat Hunting Report</a> documents one LLMjacking campaign that pushed nearly 200,000 API requests through a compromised cloud account&#x27;s AI model access in two minutes.</p><p>Meyers drew the line in a July briefing on the report. LLMjacking, in his framing, is stealing the credentials, and cost harvesting is what the buyer does next, manipulating AI resources that belong to the victim &quot;in order to conduct operations and generate massive bills as a byproduct of that,&quot; he said. &quot;So think of this as LLM coin mining.&quot;</p><h2>One architect refused to build the same exposure into his product</h2><p>Tom Kleinpeter, co-founder and chief architect at Common Room, described in written answers to VentureBeat why he held his company&#x27;s AI agent integrations back through the summer of 2025.</p><p>&quot;We rejected local MCP servers early, full stop. That path meant storing a long-lived API key or token on someone&#x27;s machine. Steal that credential, and you can impersonate the user, pull their data, or do anything else the token allows, indefinitely, until someone notices and manually revokes it. We weren&#x27;t willing to ship that.&quot;</p><p>Common Room shipped its first agent integration in October 2025 with <a href=\"https://www.okta.com/\">Okta&#x27;s</a> <a href=\"https://auth0.com/ai/docs/auth-for-mcp\">Auth0</a> handling authentication, separate read and write scopes, and writes off by default, per Kleinpeter.</p><p>An AI coding agent working on Common Room&#x27;s own system proposed caching access tokens in plain text in Redis to cut down on repeated authentication calls, he wrote. It worked, and it would have parked live credentials in shared infrastructure had a human reviewer not caught it before it shipped.</p><p>Asked what was acceptable in 2024 and a liability now, he named one thing. &quot;Long-lived, broadly scoped API keys. Those made sense when one human operated one trusted system and stayed in the loop. Agents now run across laptops and multiple clients, often with no human watching in real time.&quot;</p><h2>Okta gave agents governed identities the same week Claude users lost their cookies</h2><p><a href=\"https://www.okta.com/newsroom/press-releases/okta-brings-first-class-identity-to-ai-agents-with-agent-sso/\">Okta made Agent SSO generally available on August 24</a>, registering AI agents as first-class identities in Universal Directory and issuing short-lived, identity-governed tokens in place of stored credentials, according to the company&#x27;s announcement. The release names Claude as its example of an agent a security team can now govern natively.</p><p>Six days later, Anthropic was signing users out because six stealer families had copied the humans&#x27; Claude cookies. The agents got governed identities. The people using Claude on their own cards did not.</p><p><a href=\"https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five\">VentureBeat&#x27;s July Pulse Research wave on agent security</a> found 63% of 116 enterprises report credential sharing somewhere among their AI agents, and 3% run Okta for AI Agents.</p><p>That 3% has a reason, <a href=\"https://kaynemcgladrey.com/\">Kayne McGladrey, author of the forthcoming &quot;Cyber Risk is a Myth&quot;</a> and a senior IEEE member, told VentureBeat during a July interview. &quot;It&#x27;s only those well-resourced companies that are above the poverty line that have met all the prerequisites,&quot; he said.</p><p>The prerequisites he named are the same controls most enterprises still treat as hygiene, not strategic investment.</p><p>&quot;If they don&#x27;t have their defenses in order, like attack surface management or blast radius containment or basic MFA, that would not be a useful capability or a meaningful spend.&quot;</p><p>Anthropic&#x27;s position deserves its hearing. The company told users it has no reason to believe the malware is related to Claude, installed through Claude, or tied to anything they did with Claude, and it warned that signing out stops the stolen sessions while leaving the malware in place to steal the next login.</p><p>Both hold, and they are the last thing a provider can do, because the infected device belongs to the customer. On a work laptop, the device belongs to the enterprise, and the control that catches Vidar or LummaC2 before it reads a cookie jar is endpoint detection, the control in this story the security team already runs.</p><p>The profession&#x27;s gap is rarely a missing control anymore, in McGladrey&#x27;s framing. &quot;I think we&#x27;ve got technical solutions for nearly all of the things that could go wrong, what we don&#x27;t have is a way of prioritizing those,&quot; he argued.</p><p>The endpoint team owns the machine. The identity team owns an SSO the account never touched, and the AI governance lead wrote a policy the employee routed around the day the card went on file.</p><p>Each of those owners is paid to close a different gap. &quot;Engineering is comped on getting product out the door quickly, your internal audit team is comped on checking boxes to meet your compliance goals, and security is comped and sometimes penalized on a lack of incidents,&quot; he argued. &quot;People aren&#x27;t doing the wrong thing either. They&#x27;re doing what pays their bills on an ongoing basis.&quot;</p><h2>What security leaders need to do next</h2><p>Add AI accounts to the infostealer response playbook. When an endpoint alert names a stealer family, treat every AI service session on that machine as compromised, revoke what the enterprise tenant lets you revoke, and have the employee sign out of personal accounts until the machine is clean.</p><p>Warn users that the notification itself is now a phishing template. <a href=\"https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/\">Help Net Security flagged</a> copycat phishing impersonating Anthropic using this campaign as pretext. If the notification lands in a user&#x27;s inbox, the next email that looks like it may not be from Anthropic.</p><p>Count the personal subscriptions on managed devices. Browser telemetry, CASB logs, and expense reports surface the sessions and the payments.</p><p>Stop personal AI accounts from holding OAuth grants into corporate Google Workspace or Microsoft 365. Both platforms let administrators restrict third-party app authorization. Use that gate so a work inbox can only be attached from a tenant the security team can revoke.</p><p>Revoke the OAuth grants Claude already holds, not just the Claude session. Signing out of Claude invalidates the stolen session but does not revoke the Google or Microsoft grant Claude was already authorized to use. Check Google&#x27;s third-party app authorizations and Microsoft&#x27;s enterprise application consents for live grants the sign-out left behind.</p><p>Move the heavy users onto the organization-managed tenant. On Team and Enterprise plans, an owner decides whether connectors can be enabled at all.</p><p>Put session binding on the renewal agenda. Google shipped <a href=\"https://workspaceupdates.googleblog.com/2026/05/prevent-account-takeovers-with-DBSC-now-generally-available-in-the-Chrome-browser-for-Windows.html\">Device Bound Session Credentials</a> in Chrome 146 on Windows in April and turned it on by default for Google accounts and Workspace Individual accounts in May, binding each session to a private key in the device&#x27;s TPM so a copied cookie cannot be refreshed anywhere else. It covers Chrome on Windows only so far, so the Mac victims in this campaign sit outside it. Ask Anthropic and OpenAI for parity and Google for a coverage date before the next contract signs.</p><p>Anthropic sent its notification to individuals. The laptop the cookie came from belongs to whoever manages it, and Vidar and LummaC2 will be back for the next login on the same machine.</p>",
-      "published_at": "2026-09-02T17:51:48+00:00",
-      "published_ts": 1788371508.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.729
-    },
-    {
-      "id": "techcrunch:de1017c09b7f",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "published_at": "2026-09-02T17:09:06+00:00",
-      "published_ts": 1788368946.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.673
     },
     {
       "id": "venturebeat:c2b3961400ca",
@@ -305,6 +275,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.439
+    },
+    {
+      "id": "openai_blog:f0505849c117",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "published_at": "2026-09-03T13:15:00+00:00",
+      "published_ts": 1788441300.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.388
     },
     {
       "id": "cnbeta:1dc76332327b",
@@ -382,21 +367,6 @@
       "importance": 1.955
     },
     {
-      "id": "techcrunch:0a0debc17d8e",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "published_at": "2026-09-02T20:19:14+00:00",
-      "published_ts": 1788380354.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.953
-    },
-    {
       "id": "cnbeta:b57d1beed815",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -457,6 +427,21 @@
       "importance": 1.858
     },
     {
+      "id": "cnbeta:acf104f833b7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达公布RTX Spark“N1X”芯片规格 20核与18核双版本",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576318.htm",
+      "summary": "<p>在柏林国际电子消费品展览会（IFA）上，英伟达正式公布了面向消费级RTX Spark PC平台的首款高整合SoC——“N1X”的详细规格与上市计划。作为英伟达进军完整个人电脑计算平台的核心产品，N1X将基于Arm架构的Grace CPU与最新的Blackwell RTX GPU架构融为一体，并计划于今年10月通过各大OEM合作伙伴正式上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T18:22:41+00:00",
+      "published_ts": 1788459761.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.846
+    },
+    {
       "id": "cnbeta:69c7e5335cdc",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -472,19 +457,19 @@
       "importance": 1.844
     },
     {
-      "id": "the_verge:707f363dbfad",
+      "id": "the_verge:88e487e812ab",
       "source": "the_verge",
       "source_label": "The Verge",
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
-      "published_at": "2026-09-02T16:40:50+00:00",
-      "published_ts": 1788367250.0,
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+      "published_at": "2026-09-03T18:00:00+00:00",
+      "published_ts": 1788458400.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.758
+      "importance": 1.826
     },
     {
       "id": "cnbeta:a56dea0107cc",

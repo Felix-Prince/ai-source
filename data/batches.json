@@ -1,137 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T16:33:16.198004+00:00",
+    "generated_at": "2026-09-03T21:08:51.613821+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-04T18:09:35.733907+00:00",
-      "generated_ts": 1785866975.7339075,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "ars_technica:902bc8155575",
-          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.755,
-          "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-          "published_at": "2026-08-04T13:38:29+00:00",
-          "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says."
-        },
-        {
-          "id": "the_verge:a1668366fc9b",
-          "title": "How an OpenAI influencer trip backfired",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.989,
-          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "published_at": "2026-08-04T17:46:41+00:00",
-          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro"
-        },
-        {
-          "id": "the_verge:c7dfeeb3a335",
-          "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.984,
-          "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-          "published_at": "2026-08-04T17:35:04+00:00",
-          "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has t"
-        },
-        {
-          "id": "the_verge:cb6e681be9c6",
-          "title": "‘Not healthy’ LLM use is more common than you think",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.983,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-          "published_at": "2026-08-04T17:33:46+00:00",
-          "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor"
-        },
-        {
-          "id": "the_verge:3553be283440",
-          "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.943,
-          "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-          "published_at": "2026-08-04T16:07:02+00:00",
-          "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 percent APR for a limited time. Even if [&#"
-        },
-        {
-          "id": "kr36:ae8b77d8ec06",
-          "title": "“车企牌”电池相继上车，不只是PK宁德时代",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.933,
-          "url": "https://36kr.com/p/3925382191708552?f=rss",
-          "published_at": "2026-08-04T15:46:22+00:00",
-          "summary": "<p>“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。</p>\n  <p>车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。</p>\n  <p>这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。</p>\n  <p>“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。</p>\n  <p>这与过往的动力电"
-        },
-        {
-          "id": "the_verge:dc9ecde278c4",
-          "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.92,
-          "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
-          "published_at": "2026-08-04T15:15:36+00:00",
-          "summary": "The Asus Chromebook Plus CX34 is a dependable laptop that doesn’t cost a fortune, despite being nearly three years old. It’s cheaper than usual right now, and you have a few options in the sub-$400 range. The option with the most storage is currently on sale for $399.99 (about $100 off recent prices"
-        },
-        {
-          "id": "openai_blog:2948de59d0ca",
-          "title": "New ways to learn and teach with ChatGPT Work and Codex",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.888,
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-          "published_at": "2026-08-04T00:00:00+00:00",
-          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-04T20:02:49.882058+00:00",
-      "generated_ts": 1785873769.882058,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:bc673b6a434d",
-          "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.993,
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-          "published_at": "2026-08-04T19:48:40+00:00",
-          "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-        },
-        {
-          "id": "techcrunch:1d0d690392ff",
-          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.984,
-          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-          "published_at": "2026-08-04T19:28:49+00:00",
-          "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-04T21:41:42.346304+00:00",
       "generated_ts": 1785879702.3463037,
@@ -7964,6 +7836,81 @@
           "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
           "published_at": "2026-09-03T14:00:00+00:00",
           "summary": "<p><i>Presented by Contentful</i></p><hr /><p>Most marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. </p><p>Search tools and AI engines now synthesize answers directly on the screen, creating a world "
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-03T21:08:51.613821+00:00",
+      "generated_ts": 1788469731.6138213,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:2ce9e22f867b",
+          "title": "OpenAI正式发布GPT-6 Astra 号称操作电脑水平超越人类",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.777,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576320.htm",
+          "published_at": "2026-09-03T18:28:11+00:00",
+          "summary": "<p>OpenAI正式推出了代号为“Astra”的下一代旗舰大模型GPT-6。据外媒报道，OpenAI宣称该模型在计算机操作能力（Computer Use）上已经超越普通人类用户，不仅在操作速度与准确度上更胜一筹，还能自主在复杂的多应用与多系统环境中高效执行多步骤任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:89449fa7b756",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.766,
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "published_at": "2026-09-03T18:19:56+00:00",
+          "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
+        },
+        {
+          "id": "ars_technica:40d8803ad4cd",
+          "title": "Four major AI models suffer rare overlapping downtime",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.753,
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "published_at": "2026-09-03T18:10:19+00:00",
+          "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
+        },
+        {
+          "id": "openai_blog:f0505849c117",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.388,
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "published_at": "2026-09-03T13:15:00+00:00",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+        },
+        {
+          "id": "cnbeta:acf104f833b7",
+          "title": "英伟达公布RTX Spark“N1X”芯片规格 20核与18核双版本",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.846,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576318.htm",
+          "published_at": "2026-09-03T18:22:41+00:00",
+          "summary": "<p>在柏林国际电子消费品展览会（IFA）上，英伟达正式公布了面向消费级RTX Spark PC平台的首款高整合SoC——“N1X”的详细规格与上市计划。作为英伟达进军完整个人电脑计算平台的核心产品，N1X将基于Arm架构的Grace CPU与最新的Blackwell RTX GPU架构融为一体，并计划于今年10月通过各大OEM合作伙伴正式上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:88e487e812ab",
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.826,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "published_at": "2026-09-03T18:00:00+00:00",
+          "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"cr"
         }
       ]
     }
