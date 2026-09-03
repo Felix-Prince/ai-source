@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T04:43:25.543003+00:00",
-    "generated_ts": 1788410605.5430033,
+    "generated_at": "2026-09-03T11:26:34.649372+00:00",
+    "generated_ts": 1788434794.649372,
     "window_hours": 24.0,
-    "total": 35
+    "total": 27
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.955
     },
     {
-      "id": "tmtpost:bc062c1cbaba",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Claude Desktop 被 Ollama 偷梁换柱",
-      "url": "https://www.tmtpost.com/8125118.html",
-      "summary": "第三方模型绕过限制入驻 Claude",
-      "published_at": "2026-09-02T10:54:44+00:00",
-      "published_ts": 1788346484.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.95
-    },
-    {
       "id": "the_verge:ffaf39594797",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -67,21 +52,6 @@
       "importance": 2.919
     },
     {
-      "id": "tmtpost:eaba0dbb9baf",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
-      "url": "https://www.tmtpost.com/8126479.html",
-      "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。",
-      "published_at": "2026-09-03T03:41:52+00:00",
-      "published_ts": 1788406912.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.912
-    },
-    {
       "id": "tmtpost:91e6e382ad10",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -90,6 +60,21 @@
       "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。",
       "published_at": "2026-09-03T03:41:35+00:00",
       "published_ts": 1788406895.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.912
+    },
+    {
+      "id": "tmtpost:eaba0dbb9baf",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
+      "url": "https://www.tmtpost.com/8126479.html",
+      "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。",
+      "published_at": "2026-09-03T03:41:52+00:00",
+      "published_ts": 1788406912.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -142,19 +127,34 @@
       "importance": 2.9
     },
     {
-      "id": "tmtpost:bdd3e1fe5b31",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AI公司终于赚钱了，商汤做对了什么？",
-      "url": "https://www.tmtpost.com/8125570.html",
-      "summary": "一套模型+一座Token工厂+一套智能体管控系统，这“三个一”正在成为支撑商汤主营业务持续增长的新型AI生产体系。",
-      "published_at": "2026-09-02T09:45:43+00:00",
-      "published_ts": 1788342343.0,
+      "id": "qbitai:c1b8c523d9aa",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "陈大年复出，入局大模型",
+      "url": "https://www.qbitai.com/2026/09/483600.html",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
+      "published_at": "2026-09-03T10:13:24+00:00",
+      "published_ts": 1788430404.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.854
+      "importance": 2.896
+    },
+    {
+      "id": "tmtpost:9df3cfeba268",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "“大”模型向左，“Flash”向右：国内外开卷轻量化背后的商业清算",
+      "url": "https://www.tmtpost.com/8127474.html",
+      "summary": "大模型向左，继续探索通用人工智能的智力极限；Flash向右，向下扎根进入千行百业的生产线。",
+      "published_at": "2026-09-03T10:00:32+00:00",
+      "published_ts": 1788429632.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.878
     },
     {
       "id": "cnbeta:6ef3cedb7737",
@@ -262,21 +262,6 @@
       "importance": 1.98
     },
     {
-      "id": "cnbeta:2389a0fc915f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DLSS5魔改版换路线：性能暴涨114% 老显卡也能稳30帧",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576084.htm",
-      "summary": "<p><strong>顶级硬件发烧友圈内再次传出捷报，非官方DLSS 5神经渲染组件在更换OptiScaler架构后，性能表现实现了翻倍式跃升。此次更新的核心变动是弃用了基于RenoDX的ReShade注入方式，转而采用OptiScaler分支进行直接处理。</strong>要知道神经渲染作为一种利用AI神经网络重建全局光照的尖端技术，其对算力的要求极高，而OptiScaler的介入显著优化了这一处理流程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576084.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T11:05:43+00:00",
-      "published_ts": 1788347143.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.977
-    },
-    {
       "id": "cnbeta:5206eb0c7282",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -290,21 +275,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.976
-    },
-    {
-      "id": "cnbeta:38716be70b1a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI即将推出的“Astra”模型中的技术引发安全担忧",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576078.htm",
-      "summary": "<p>OpenAI表示，其即将推出的AI模型Astra标志着在编码和计算机应用操作等能力上的提升。但据一位了解Astra开发情况的人士透露，一项提升模型性能的创新技术也意味着该模型及类似模型将更少暴露其“思考”过程，从而更难以监控其不良行为迹象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576078.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T11:01:31+00:00",
-      "published_ts": 1788346891.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.973
     },
     {
       "id": "cnbeta:56ba882b7d07",
@@ -382,21 +352,6 @@
       "importance": 1.928
     },
     {
-      "id": "tmtpost:19a6cc456f5d",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
-      "url": "https://www.tmtpost.com/8125160.html",
-      "summary": "从早期的手工梳理本体，到现在的平台化积累，工业大模型的落地正在从演示走向生产。",
-      "published_at": "2026-09-02T09:52:45+00:00",
-      "published_ts": 1788342765.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.909
-    },
-    {
       "id": "the_verge:ea31b8f3d0cb",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -412,34 +367,19 @@
       "importance": 1.882
     },
     {
-      "id": "cnbeta:362fdb0bf21c",
+      "id": "cnbeta:69c7e5335cdc",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI将Astra模型列为“关键”网络安全风险 收紧使用限制",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576060.htm",
-      "summary": "<p>OpenAI于当地时间9月1日在官方博客《通往Astra》中宣布，即将推出的模型Astra已正式达到公司《准备框架》下的“关键”网络安全能力门槛——这是OpenAI首次将任何模型评定至该等级。公司表示，在配备相应工具和访问权限的条件下，Astra能够在许多防护较为完善的系统中发现此前未知的安全漏洞，并在无人逐步指导的情况下自主开发可利用方式。研究副总裁格莱泽在简报会上向记者复述了这一判定标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576060.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T08:57:09+00:00",
-      "published_ts": 1788339429.0,
+      "title": "黄仁勋、奥特曼亮相G20 呼吁各国拥抱AI",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576260.htm",
+      "summary": "<p>当地时间周三，包括英伟达首席执行官黄仁勋、OpenAI山姆·奥特曼在内的美国科技巨头高管敦促G20各国部长接纳人工智能，并建设支撑AI运行的数据中心。这场G20会议在北卡罗来纳州举办，会议进入第二天。特朗普政府召集AI行业头部企业代表，向全球主要经济体的部长们阐述行业愿景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576260.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T08:38:10+00:00",
+      "published_ts": 1788424690.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.858
-    },
-    {
-      "id": "tmtpost:57047da0d512",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
-      "url": "https://www.tmtpost.com/8125170.html",
-      "summary": "开源不是做慈善，是先放水养鱼",
-      "published_at": "2026-09-02T08:42:46+00:00",
-      "published_ts": 1788338566.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.846
+      "importance": 1.844
     },
     {
       "id": "the_verge:707f363dbfad",
@@ -457,79 +397,19 @@
       "importance": 1.758
     },
     {
-      "id": "cnbeta:db4a37f7d554",
+      "id": "cnbeta:a56dea0107cc",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI称其新AI“Astra”可在无人协助下构建网络攻击",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576054.htm",
-      "summary": "<p>OpenAI表示，其即将推出的Astra模型能够发现此前未知的软件漏洞，并将其转化为可实施攻击的利用代码，而无需人类逐步引导——这标志着该模型在网络安全能力上跨过了一道门槛，而该能力此前主要属于顶级黑客团队。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576054.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T06:59:21+00:00",
-      "published_ts": 1788332361.0,
+      "title": "英伟达市值超越标普500五大板块总和 相当于美国GDP的16.3%",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
+      "summary": "<p>英伟达目前已占到标普500指数总市值的约8%。这一压倒性体量几乎完全由人工智能热潮造就，这家芯片巨头的市值，甚至超过了该指数11个行业板块当中5个板块的市值总和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T06:34:28+00:00",
+      "published_ts": 1788417268.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.756
-    },
-    {
-      "id": "qbitai:4e334a88e782",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-      "published_at": "2026-09-02T06:20:17+00:00",
-      "published_ts": 1788330017.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.723
-    },
-    {
-      "id": "qbitai:79d49bc81023",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "url": "https://www.qbitai.com/2026/09/483101.html",
-      "summary": "",
-      "published_at": "2026-09-02T06:10:26+00:00",
-      "published_ts": 1788329426.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.715
-    },
-    {
-      "id": "cnbeta:2caae0b55d88",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI数据中心耗水引爆担忧？OpenAI CEO反驳：还比不上种植杏仁",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576052.htm",
-      "summary": "<p>在周二发布的一档播客节目中，OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）被主持人要求回应人们对人工智能（AI）数据中心的抵制，包括对水资源消耗的担忧时，他反驳了这一说法。奥尔特曼表示，<strong>虽然数据中心素有耗水大户的名声，但现代数据中心的用水量与办公楼的用水量大致相当。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576052.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T05:13:54+00:00",
-      "published_ts": 1788326034.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.669
-    },
-    {
-      "id": "cnbeta:9f68bc4bcc92",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "ChatGPT接入Epic电子健康记录系统 可读取患者病历、检验结果和用药信息",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576036.htm",
-      "summary": "<p>OpenAI宣布，ChatGPT for Healthcare现已支持与Epic电子健康记录（EHR）系统集成，医务人员可以调取获授权的患者信息、总结就诊情况，并进一步辅助日常临床工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576036.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T05:06:31+00:00",
-      "published_ts": 1788325591.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.663
+      "importance": 1.738
     }
   ]
 }

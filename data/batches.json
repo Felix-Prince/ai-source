@@ -1,167 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T04:43:25.543003+00:00",
+    "generated_at": "2026-09-03T11:26:34.649372+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-04T06:45:29.565492+00:00",
-      "generated_ts": 1785825929.565492,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:3d9108153bcd",
-          "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.981,
-          "url": "https://36kr.com/p/3924826666301831?f=rss",
-          "published_at": "2026-08-04T06:32:05+00:00",
-          "summary": "<p>&nbsp;</p>\n  <p>文 | 李炤锋</p>\n  <p>编辑 | 张雨忻</p>\n  <p>“长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”</p>\n  <p><strong>过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。</strong></p>\n  <p>今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常"
-        },
-        {
-          "id": "kr36:bbe5908f5ecd",
-          "title": "DeepSeek API出现性能下降情况，现已恢复",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.93,
-          "url": "https://36kr.com/newsflashes/3924803122903430?f=rss",
-          "published_at": "2026-08-04T05:56:11+00:00",
-          "summary": "8月4日，海外开源AI Coding Agent平台OpenCode发文称：DeepSeek V4 Flash当前因前所未有的访问量而出现容量不足问题，可能会遇到报错，正在紧急修复中。也有网友发文表示：DeepSeek V4 Flash官方API上午几乎不可用，和Kimi K3刚发布时情况差不多，国产模型能力赶上来了，但可用性与容量仍有改善空间。DeepSeek官方披露，今日上午DeepSeek V4 Flash API出现性能下降情况，目前问题已解决，服务已恢复。（一财）"
-        },
-        {
-          "id": "kr36:de47bb829453",
-          "title": "城堡证券预计AI热潮下的芯片需求将掀起5000亿美元债务融资热潮",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.905,
-          "url": "https://36kr.com/newsflashes/3924702184176009?f=rss",
-          "published_at": "2026-08-04T05:04:18+00:00",
-          "summary": "信贷市场对数据中心创纪录的融资活动可能已感到厌倦，但科技公司尚未停下脚步。城堡证券预测，截止到2028年，它们还将在公开市场和私募市场进行超过5000亿美元的债务融资，为人工智能（AI）园区建设所需芯片提供资金。该公司投资级债券部门首席分析师Jeff Eason表示，这一金额相当于彭博美国投资级债券指数总规模的5%以上。他预计，大部分所发债券的期限将较短，约三至五年，匹配芯片的使用寿命，其中一部分可能会以144A私募形式发行。（新浪财经）"
-        },
-        {
-          "id": "openai_blog:12bd4914d86c",
-          "title": "Apple is getting this wrong",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.165,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "published_at": "2026-08-03T22:00:00+00:00",
-          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-        },
-        {
-          "id": "kr36:aaadf17c9196",
-          "title": "新石器无人车变更为股份公司",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.95,
-          "url": "https://36kr.com/newsflashes/3924685979236484?f=rss",
-          "published_at": "2026-08-04T04:58:53+00:00",
-          "summary": "36氪获悉，天眼查App显示，近日，新石器无人车关联公司新石器慧通（北京）科技有限公司发生工商变更，企业名称变更为新石器慧通科技股份有限公司。该公司成立于2018年2月，法定代表人为李子夷，注册资本约5016.9万人民币，经营范围包括智能机器人的研发、工业机器人制造、人工智能应用软件开发等。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-04T10:59:44.508285+00:00",
-      "generated_ts": 1785841184.508285,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:3d869f49d42f",
-          "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.954,
-          "url": "https://36kr.com/p/3925067918227591?f=rss",
-          "published_at": "2026-08-04T10:27:21+00:00",
-          "summary": "<p>一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。</p>\n  <p>具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。</p>\n  <p>由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解"
-        },
-        {
-          "id": "kr36:859c9e8b6fbe",
-          "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.863,
-          "url": "https://36kr.com/p/3924953058605444?f=rss",
-          "published_at": "2026-08-04T08:31:59+00:00",
-          "summary": "<p><strong>【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，</strong>国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。</p>\n  <p>&nbsp;</p>\n  <h2><strong>股东结构：市场化资本、产业资本"
-        },
-        {
-          "id": "qbitai:1a0ec5443c23",
-          "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.954,
-          "url": "https://www.qbitai.com/2026/08/465792.html",
-          "published_at": "2026-08-04T09:22:46+00:00",
-          "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立"
-        },
-        {
-          "id": "qbitai:5b86cf6ad1a6",
-          "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.952,
-          "url": "https://www.qbitai.com/2026/08/466262.html",
-          "published_at": "2026-08-04T09:18:08+00:00",
-          "summary": "Skill和Agent也能被封装调用"
-        },
-        {
-          "id": "qbitai:e53320725303",
-          "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.95,
-          "url": "https://www.qbitai.com/2026/08/466032.html",
-          "published_at": "2026-08-04T09:13:57+00:00",
-          "summary": "OpenAI+田园牧歌，画风属实太违和"
-        },
-        {
-          "id": "qbitai:27720d35e585",
-          "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.943,
-          "url": "https://www.qbitai.com/2026/08/465973.html",
-          "published_at": "2026-08-04T08:58:21+00:00",
-          "summary": "元宝已接入"
-        },
-        {
-          "id": "kr36:8228b010a66a",
-          "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.925,
-          "url": "https://36kr.com/p/3924913931679877?f=rss",
-          "published_at": "2026-08-04T08:18:21+00:00",
-          "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_2e223b3f6f994090a3d4944d9162d843@5284654_oswg647144oswg1080oswg459_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪企业全情报带你发现涨停背后的机会</p>\n  <h3><strong>开篇，先给大家送个福利</strong></h3>\n  <p>最近不少"
-        },
-        {
-          "id": "qbitai:67285d931f13",
-          "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.925,
-          "url": "https://www.qbitai.com/2026/08/465814.html",
-          "published_at": "2026-08-04T08:18:45+00:00",
-          "summary": "那还说啥了梁圣，我订阅费全给你就是了呗"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-04T14:45:34.730457+00:00",
       "generated_ts": 1785854734.7304573,
@@ -8034,6 +7876,62 @@
           "url": "https://www.tmtpost.com/8126540.html",
           "published_at": "2026-09-03T03:27:27+00:00",
           "summary": "最强模型不等于最好卖。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-03T11:26:34.649372+00:00",
+      "generated_ts": 1788434794.649372,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "qbitai:c1b8c523d9aa",
+          "title": "陈大年复出，入局大模型",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.896,
+          "url": "https://www.qbitai.com/2026/09/483600.html",
+          "published_at": "2026-09-03T10:13:24+00:00",
+          "summary": "首秀逼近DeepSeek万亿旗舰"
+        },
+        {
+          "id": "tmtpost:9df3cfeba268",
+          "title": "“大”模型向左，“Flash”向右：国内外开卷轻量化背后的商业清算",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.878,
+          "url": "https://www.tmtpost.com/8127474.html",
+          "published_at": "2026-09-03T10:00:32+00:00",
+          "summary": "大模型向左，继续探索通用人工智能的智力极限；Flash向右，向下扎根进入千行百业的生产线。"
+        },
+        {
+          "id": "cnbeta:69c7e5335cdc",
+          "title": "黄仁勋、奥特曼亮相G20 呼吁各国拥抱AI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.844,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576260.htm",
+          "published_at": "2026-09-03T08:38:10+00:00",
+          "summary": "<p>当地时间周三，包括英伟达首席执行官黄仁勋、OpenAI山姆·奥特曼在内的美国科技巨头高管敦促G20各国部长接纳人工智能，并建设支撑AI运行的数据中心。这场G20会议在北卡罗来纳州举办，会议进入第二天。特朗普政府召集AI行业头部企业代表，向全球主要经济体的部长们阐述行业愿景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576260.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a56dea0107cc",
+          "title": "英伟达市值超越标普500五大板块总和 相当于美国GDP的16.3%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.738,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
+          "published_at": "2026-09-03T06:34:28+00:00",
+          "summary": "<p>英伟达目前已占到标普500指数总市值的约8%。这一压倒性体量几乎完全由人工智能热潮造就，这家芯片巨头的市值，甚至超过了该指数11个行业板块当中5个板块的市值总和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
