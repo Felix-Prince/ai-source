@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T21:08:43.188818+00:00",
-    "generated_ts": 1788383323.1888185,
+    "generated_at": "2026-09-03T04:43:25.543003+00:00",
+    "generated_ts": 1788410605.5430033,
     "window_hours": 24.0,
-    "total": 29
+    "total": 35
   },
   "items": [
     {
@@ -22,19 +22,19 @@
       "importance": 2.996
     },
     {
-      "id": "cnbeta:faaee48a32d6",
+      "id": "cnbeta:a6b02c1cad12",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Claude最强Fable 5.1发布 8项屠榜，最高降价45%，反蒸馏机制上线",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576004.htm",
-      "summary": "<p>Fable 5.1和Mythos 5.1发布！8项公开基准测试全部第一，价格最高降45%。尤其是在科学研究和代码这两项上，明显甩开了Fable 5和隔壁GPT-5.6 Sol。换个更直观的视角，现在用中、低推理程度跑Fable 5.1，表现基本相当于老版Mythos 5开到极高甚至最高推理程度。这一波属于是“牢Fable”干掉了“Mythos圣”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-02T04:42:05+00:00",
-      "published_ts": 1788324125.0,
+      "title": "OpenAI新模型陷入失控争议 首席科学家回应",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576178.htm",
+      "summary": "<p>9月2日，OpenAI首席科学家雅库布・帕乔基（Jakub Pachocki）在社交平台发文，就近日围绕新模型Astra“不可监控”的争议作出回应。这场争议源于此前一天，有消息称OpenAI即将发布的Astra模型采用了一种名为循环深度（Recurrent Depth）的推理技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T04:11:42+00:00",
+      "published_ts": 1788408702.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.993
+      "importance": 2.955
     },
     {
       "id": "tmtpost:bc062c1cbaba",
@@ -52,21 +52,6 @@
       "importance": 2.95
     },
     {
-      "id": "tmtpost:2ca260f9a925",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "大模型厂商，正忙着自备“干粮”",
-      "url": "https://www.tmtpost.com/8124383.html",
-      "summary": "当模型公司开始用AI设计AI芯片，会对行业格局带来哪些影响？",
-      "published_at": "2026-09-02T03:53:25+00:00",
-      "published_ts": 1788321205.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.923
-    },
-    {
       "id": "the_verge:ffaf39594797",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -82,6 +67,36 @@
       "importance": 2.919
     },
     {
+      "id": "tmtpost:eaba0dbb9baf",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
+      "url": "https://www.tmtpost.com/8126479.html",
+      "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。",
+      "published_at": "2026-09-03T03:41:52+00:00",
+      "published_ts": 1788406912.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.912
+    },
+    {
+      "id": "tmtpost:91e6e382ad10",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "人形机器人的天花板不在算法，在热力学",
+      "url": "https://www.tmtpost.com/8126785.html",
+      "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。",
+      "published_at": "2026-09-03T03:41:35+00:00",
+      "published_ts": 1788406895.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.912
+    },
+    {
       "id": "cnbeta:b1f079699365",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,6 +110,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.911
+    },
+    {
+      "id": "cnbeta:2277a4b543cf",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Meta推出Muse Spark 1.3 编程能力与智能代理性能进一步提升",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576148.htm",
+      "summary": "<p>Meta近日推出旗舰人工智能模型Muse Spark 1.3。该模型主要面向编程和智能代理任务，目前已通过Muse Code及Meta API提供使用。Meta首席执行官马克·扎克伯格还表示，未来公司将推出采用开放权重形式发布的Muse Spark版本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T03:38:46+00:00",
+      "published_ts": 1788406726.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.908
+    },
+    {
+      "id": "cnbeta:35545104ae7b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美国政府向法庭提交意见称AI训练中的版权限制可能阻碍创新",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576142.htm",
+      "summary": "<p>美国政府近日向法院提交意见，支持人工智能公司在未经许可的情况下使用受版权保护的内容训练大型语言模型。文件认为，如果美国企业因版权规则面临更高的数据获取成本，可能会在人工智能竞争中落后于不受同等约束的外国竞争者，并对国家安全造成影响。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T03:33:00+00:00",
+      "published_ts": 1788406380.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.9
     },
     {
       "id": "tmtpost:bdd3e1fe5b31",
@@ -142,21 +187,6 @@
       "importance": 2.729
     },
     {
-      "id": "qbitai:5cc6615d157a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "summary": "一张图补全3D世界，还能给机器人造训练场",
-      "published_at": "2026-09-02T01:07:13+00:00",
-      "published_ts": 1788311233.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.699
-    },
-    {
       "id": "techcrunch:de1017c09b7f",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -172,34 +202,34 @@
       "importance": 2.673
     },
     {
-      "id": "the_verge:0b212053df8e",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
-      "published_at": "2026-09-01T22:01:36+00:00",
-      "published_ts": 1788300096.0,
+      "id": "venturebeat:c2b3961400ca",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+      "summary": "<p>Google keeps cranking out Flash models: the company on Wednesday announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">two versions of a new 3.8 Flash</a>. </p><p>The variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.</p><p>Google CEO Sundar Pichai said in an X post that <a href=\"https://x.com/sundarpichai/status/2095181765082292334\">3.8 Flash delivers “significant leaps”</a> from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outperformed many large frontier models on the DeepSWE coding benchmark, at far lower cost. </p><p>Meanwhile, Flash Cyber is the company’s “most capable” cybersecurity model, Pichai said; it also matches frontier-level performance when it comes to discovering vulnerabilities and patching them at scale. The model achieved 86.2% on the CyberGym cybersecurity benchmark and 47.2% on CWE-Bench, which evaluates AI patching abilities. In an internal Google benchmark, the model achieved a more than 70% success rate discovering vulnerabilities across 20 programming languages, Pichai said. </p><div></div><p>3.8 is Google’s third Flash release in six weeks and comes quickly on the heels of version 3.7. </p><h2><b>3.8 working &quot;harder&quot; with &quot;greater diligence&quot;</b></h2><p>3.8 Flash is available now in Gemini Enterprise; devs can try it out in the Gemini API via Google AI Studio, Google Antigravity, Android Studio, or generate UIs in Stitch. It is priced at $0.75 per million input tokens and $3.75 per million output tokens — the same introductory pricing as Gemini 3.7 Flash — and users can customize and adjust model effort levels based on their needs around quality, cost, and latency. </p><p>For instance, when compute efficiency is a priority, they can adjust to lower token overhead, or simply continue working with 3.7 Flash, which is “fully supported for efficiency-first workloads,” Google senior product director Tulsee Doshi and Gemini security lead Raluca Ada Popa wrote in a <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">blog post</a>. </p><p>“3.8 Flash works harder,” exhibiting “greater diligence” with complex tasks like executing extra reasoning steps, although at times it may use more tokens to maximize performance, Doshi and Popa note. The model has a 1M-token input window and a 64K-token output limit, and can ingest text as well as images, audio, video, and PDF files. </p><p>3.8 Flash was evaluated across numerous benchmarks testing coding, multimodal capabilities, computer use, long-context and knowledge work, and scientific reasoning. Google says it also does well in specialized knowledge domains requiring more in-depth analysis and reporting. For instance, the model outperformed its predecessor and other frontier models on benchmarks like <a href=\"https://www.vals.ai/benchmarks/fabv2\">Vals Finance Agent V2</a> for finance, and <a href=\"https://www.vals.ai/benchmarks/hlab\">Harvey&#x27;s Legal Agent Benchmark</a> for law; it also scored 54.9% on Humanity’s Last Exam (HLE)-Verified, reflecting its ability to take on multi-step reasoning tasks across subjects like math, science, and humanities. </p><p>In one example shared by Google, Gemini 3.8 Flash built a game with a simple prompt using looping techniques in Google’s Antigravity platform. The game uses puzzles, storytelling that changes based on the environment, and images and textures from Nano Banana to create a 3D experience (in this case a wizard navigating a castle). </p><p>In other instances, the model created a fully-functional DOS version of Google Maps featuring interactive locations, directions, and street views; a 3D visualizer that automatically decomposed devices into layers for inspection with a slider capability; and a topographic map of famous geographical sites based on real datasets from the U.S. Geological Survey, complete with real-time cross-sections, 2D projections, and scientific explanations. </p><p>According to Arena.ai, 3.8 Flash landed at <a href=\"https://x.com/arena/status/2095179977805517149\">No. 14 in Agent Arena</a>, ranking above DeepSeek-V4-Pro, and showed a significant jump over Gemini 3.7 Flash (which sits all the way down at No. 32). It debuted at No. 7 in Text Arena, ahead of Claude Opus 5 and Gemini 3.7 Flash. It improved over 3.7 Flash in several areas: multi-turn requests, writing, literature, and language, longer queries, hard prompts, coding, instruction following, software and IT services, and business, management and financial ops. </p><div></div><h2><b>Flash Cyber is already securing Google&#x27;s code</b></h2><p>Flash Cyber is initially being rolled out to “trusted defenders” through Google’s <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/\">Fairwind Program</a>, which prioritizes government authorities, critical-infrastructure operators, and other partners looking for advanced cyber defense capabilities. Organizations can apply for access. </p><p>Google says the model version has undergone “rigorous training” in the cybersecurity domain and represents a “significant leap in prompt injection robustness.” It is particularly adept at autonomous vulnerability discovery — at least, based on internal Gemini benchmarks — and automated patching. It is also very good at coding, Popa said in a video. </p><p>The goal was to equip defenders with expert-level capabilities to give them a leg up over threat actors (whether malicious, fellow AI agents, or human hackers). “We have invested in vulnerability fixing from the start, and prioritized it over offensive capabilities like exploitation,” Doshi and Popa explain. </p><p>The model ships a more permissive set of mitigations for cybersecurity safeguards — which is why, for now, it is only being shared with limited partners — and safeguards against misuse in cyber offense and areas like chemical, biological, radiological, and nuclear (CBRN).</p><p>Google is already using 3.8 Flash Cyber to secure its own code; it produced 2.6 times more correct patches in Chrome vulnerabilities versus much larger commercial models. </p><p>Wiz — which Google acquired earlier this year at a historic $32 billion — reported that 3.8 Flash Cyber had 7.5% to 9.7% higher recall of real-world vulnerabilities on an internal penetration testing benchmark at 2.3 to 5.2 times lower cost than leading frontier models. Similarly, Google’s Cloud Vulnerability Research found a critical foundational vulnerability in less than 2 hours with 3.8 Flash Cyber. Typically, that research and discovery would take months, Google claims. </p><p>AI agents are “incredibly skilled” at finding and exploiting vulnerabilities, Popa said. Scanning large codebases with big AI models is expensive, and defenders are overwhelmed. “In cybersecurity, attackers need only find one significant flaw over millions of lines of code. Defenders have to remove every one of those flaws to be able to defend against attackers.” </p><p>Doug Turner, engineering director for Chrome, described a “vulnerability apocalypse” in recent months due to generative AI. “Simply overnight, we saw a hockey stick increase in the number of software vulnerabilities reported through our vulnerability research program,” he said in a video. </p><p>One interesting vulnerability 3.8 Flash Cyber discovered had been in Chromium and Chrome for 13 years, he explained. It was a “very subtle bug” that dozens, if not hundreds, of engineers looked at but never flagged. “Gemini 3.8 Flash Cyber is going to allow us to create better suggested fixes so that developers’ lives can get a lot easier.” </p>",
+      "published_at": "2026-09-03T00:02:18+00:00",
+      "published_ts": 1788393738.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.468
+      "importance": 2.62
     },
     {
-      "id": "cnbeta:606e65746062",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1575976.htm",
-      "summary": "<p>OpenAI周二表示，其即将推出的人工智能模型Astra是首个超越其“关键”网络安全能力阈值的产品。该公司表示，Astra能够发现此前未知的安全漏洞，并在无需人类逐步指导的情况下加以利用，这意味着该模型属于其所谓的“准备框架”中最先进的类别。OpenAI表示仍计划“很快”推出Astra，但对其网络安全能力的访问将更加受限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575976.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-01T21:41:36+00:00",
-      "published_ts": 1788298896.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "venturebeat:b45460fd34b0",
+      "source": "venturebeat",
+      "source_label": "VentureBeat",
+      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+      "summary": "<p>Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just $0.18 per hour of processed audio.</p><p>Developed by Meta Superintelligence Labs, Muse is designed to process speech while it happens rather than waiting for a recording to finish. Meta’s <a href=\"https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=chatgpt.com\">launch post for Muse Voice Transcribe</a> says the model supports long audio exceeding an hour, seamless multilingual code-switching, language and keyword biasing, and diarization without a separate post-processing pipeline. The model was trained across more than 70 languages, with 25 extensively validated for the initial release. </p><p>The 20-plus-speaker figure is substantial, but it is not a world record. A review of current vendor documentation turns up systems with higher published ceilings. <a href=\"https://www.speechmatics.com/product/real-time?utm_source=chatgpt.com\">Speechmatics&#x27; real-time transcription service</a> says it can identify 50 speakers by default and up to 100 when the limit is increased, while <a href=\"https://docs.aws.amazon.com/transcribe/latest/dg/diarization.html?utm_source=chatgpt.com\">Amazon Transcribe&#x27;s diarization documentation</a> specifies a maximum of 30 unique speakers, including for streaming transcription. (<a href=\"https://www.speechmatics.com/product/real-time?utm_source=chatgpt.com\">Speechmatics</a>)</p><p>Muse nevertheless lands toward the high end of the market, and Meta&#x27;s broader proposition is arguably more important than the raw maximum: high-capacity real-time diarization combined with low-latency transcription, endpointing, multilingual code-switching and aggressive API pricing in the same model.</p><p>For enterprise developers building meeting systems, call analytics, live assistants or ambient AI, that combination could matter more than who holds the speaker-count record.</p><h2><b>Diarization is becoming part of the core voice stack</b></h2><p>Traditional speech recognition answers a relatively simple question: <i>What was said?</i> Diarization adds another: <i>Who said it?</i></p><p>That distinction becomes critical as transcripts feed downstream AI systems. A meeting assistant can correctly transcribe every sentence and still create an unreliable corporate record if it attributes an approval, commitment or objection to the wrong participant. The same issue affects customer-service analytics, compliance workflows and AI agents operating in rooms where several people can speak.</p><p>Muse incorporates speaker attribution directly into its autoregressive multimodal architecture. Meta says audio arrives in 80-millisecond chunks, or 12.5 chunks per second, with each transformed into a soft token. At each step, the model decides whether to consume more audio or emit text. Meta calls this mechanism adaptive delay: rather than applying one latency budget to every word, Muse can wait longer when speech is ambiguous and commit earlier when it has enough context. Meta says reinforcement learning combines word-error-rate and delay rewards to train that behavior. <a href=\"https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=chatgpt.com\">Meta&#x27;s technical explanation of Muse</a> details the architecture. (<a href=\"https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=chatgpt.com\">Meta AI Research</a>)</p><p>Speaker attribution and endpointing then become part of the same token sequence. A <code>&lt;|start_of_turn|&gt;</code> token marks a potential new speaker turn, tokens such as <code>&lt;|speaker_A|&gt;</code> identify the speaker, and separate onset and endpoint tokens identify speech boundaries. Meta says it trains ASR, diarization and endpointing together rather than running speaker clustering as an unrelated downstream process.</p><p>Meta&#x27;s <a href=\"https://developer.meta.com/ai/models/muse-voice-transcribe/?utm_source=chatgpt.com\">Model API speech-to-text documentation</a> also exposes diarization as a first-class operating mode alongside push-to-talk and endpointing. Speaker labels such as A and B are scoped to a session rather than verified identities, and the API provides turn-level rather than word-level timestamps.</p><h2><b>20+ speakers is high, but Speechmatics goes considerably higher</b></h2><p>Speaker-count comparisons require care because vendors implement diarization differently and do not all publish a maximum.</p><p>Speechmatics currently makes the strongest explicit real-time capacity claim found in this review. Its <a href=\"https://www.speechmatics.com/product/real-time?utm_source=chatgpt.com\">real-time STT documentation</a> says speaker diarization is available live, while its real-time FAQ says the system supports 50 speakers by default and can be increased to 100. </p><p>AWS likewise exceeds Meta&#x27;s stated figure: <a href=\"https://docs.aws.amazon.com/transcribe/latest/dg/diarization.html?utm_source=chatgpt.com\">Amazon Transcribe</a> can differentiate a maximum of 30 unique speakers, and AWS provides explicit instructions for speaker partitioning in a streaming transcription.</p><p><a href=\"https://soniox.com/docs/stt/concepts/speaker-diarization?utm_source=chatgpt.com\">Soniox</a> supports diarization in both real-time and asynchronous processing, but documents a maximum of 15 speakers per session. <a href=\"https://www.assemblyai.com/blog/streaming-speaker-diarization?utm_source=chatgpt.com\">AssemblyAI&#x27;s streaming diarization system</a> lets developers set <code>max_speakers</code> between one and 10. Both companies caution that live speaker attribution is more difficult because streaming systems must make decisions with less future audio context than offline models. </p><p><a href=\"https://docs.x.ai/developers/model-capabilities/audio/speech-to-text?campaign=stt-tts-blog&amp;utm_source=chatgpt.com\">xAI&#x27;s current Speech-to-Text API</a> also supports speaker diarization in streaming mode, but its documentation reviewed for this story does not publish a maximum diarized-speaker count, so a direct ceiling comparison with Muse is not possible. (<a href=\"https://docs.x.ai/developers/model-capabilities/audio/speech-to-text?utm_source=chatgpt.com\">X.ai Docs</a>)</p><p>That means it would be inaccurate to describe Muse&#x27;s 20-plus capability as a new global record. The highest explicitly documented real-time number identified in this survey is Speechmatics&#x27; configurable 100-speaker ceiling.</p><p>Meta also does not demonstrate 20-plus simultaneous participants in its launch material. Its principal live demonstration uses eight speakers, while its long-form recording contains 11 labeled participants. The 20-plus number is a stated model capability rather than the participant count in the public demos.</p><h2><b>At $0.18 per hour, Muse competes aggressively on price</b></h2><p>Meta&#x27;s pricing makes the competitive picture more interesting.</p><p>According to its <a href=\"https://developer.meta.com/ai/models/muse-voice-transcribe/?utm_source=chatgpt.com\">Muse Voice Transcribe developer page</a>, Muse costs $3 per 1,000 minutes, or $0.18 per hour. Streaming and non-streaming transcription cost the same, and Meta says zero-data-retention processing is priced at parity with standard processing. Billing applies to audio actually processed and is rounded down to whole seconds.</p><p>Standardizing publicly posted rates to one hour of streaming audio gives the following rough comparison:</p><table><tbody><tr><td><p><b>Streaming speech-to-text service</b></p></td><td><p><b>Approx. public cost/hour</b></p></td><td><p><b>Real-time diarization</b></p></td></tr><tr><td><p><a href=\"https://soniox.com/pricing?trk=organization_guest_main-feed-card-text&amp;utm_source=chatgpt.com\">Soniox stt-rt-v5</a></p></td><td><p>$0.12</p></td><td><p>Included; up to 15 speakers</p></td></tr><tr><td><p><a href=\"https://developer.meta.com/ai/models/muse-voice-transcribe/?utm_source=chatgpt.com\">Meta Muse Voice Transcribe</a></p></td><td><p>$0.18</p></td><td><p>Included; 20+ speakers</p></td></tr><tr><td><p><a href=\"https://docs.x.ai/developers/models/speech-to-text?utm_source=chatgpt.com\">xAI Speech to Text</a></p></td><td><p>$0.20</p></td><td><p>Supported; maximum not stated</p></td></tr><tr><td><p><a href=\"https://www.speechmatics.com/pricing?utm_source=chatgpt.com\">Speechmatics Real-time Standard</a></p></td><td><p>$0.24</p></td><td><p>Included; 50 default, configurable to 100</p></td></tr><tr><td><p><a href=\"https://www.alibabacloud.com/help/en/model-studio/model-pricing?utm_source=chatgpt.com\">Qwen3 ASR Flash Realtime</a></p></td><td><p>~$0.324</p><p> international</p></td><td><p>No comparable maximum documented in source reviewed</p></td></tr><tr><td><p><a href=\"https://deepgram.com/pricing?utm_source=chatgpt.com\">Deepgram Nova-3 Multilingual</a></p></td><td><p>~$0.35 base / ~$0.47 with diarization</p></td><td><p>$0.12/hour diarization add-on</p></td></tr><tr><td><p><a href=\"https://elevenlabs.io/pricing/api?utm_source=chatgpt.com\">ElevenLabs Scribe v2 Realtime</a></p></td><td><p>$0.39 PAYG</p></td><td><p>Not supported in real time</p></td></tr><tr><td><p><a href=\"https://www.assemblyai.com/blog/speech-to-text?utm_source=chatgpt.com\">AssemblyAI Universal-3.5 Pro Realtime</a></p></td><td><p>$0.45 base / $0.57 with diarization</p></td><td><p>$0.12/hour add-on; up to 10 speakers</p></td></tr><tr><td><p><a href=\"https://ai.google.dev/gemini-api/docs/pricing?authuser=3&amp;utm_source=chatgpt.com\">Gemini 3.5 Transcribe Live</a></p></td><td><p>~$0.54 blended</p></td><td><p>Not supported in live mode</p></td></tr><tr><td><p><a href=\"https://aws.amazon.com/transcribe/pricing/?loc=3&amp;nc=sn&amp;utm_source=chatgpt.com\">Amazon Transcribe Streaming</a></p></td><td><p>~$0.60 in AWS&#x27;s N. Virginia streaming example</p></td><td><p>Included; up to 30 speakers</p></td></tr><tr><td><p><a href=\"https://developers.openai.com/api/docs/models/gpt-live-transcribe?utm_source=chatgpt.com\">OpenAI GPT Live Transcribe</a></p></td><td><p>$1.02</p></td><td><p>Diarization not listed as a model capability</p></td></tr></tbody></table><p>The comparison is necessarily imperfect. Qwen&#x27;s price varies by deployment geography; its international real-time rate of $0.00009 per second works out to about $0.324 per hour. Google&#x27;s Gemini figure is an estimated blended token cost rather than a flat hourly tariff. AWS prices vary by region and usage tier. ElevenLabs lists $0.39 per hour on its API pricing page but advertises $0.28 per hour or lower on annual Business plans.</p><p>Deepgram&#x27;s pricing particularly illustrates why feature-level comparisons matter: its current Nova-3 Multilingual streaming rate is about $0.35 per hour, but <a href=\"https://deepgram.com/pricing?utm_source=chatgpt.com\">speaker diarization costs another $0.002 per minute</a>, bringing the comparable total to roughly $0.47 per hour. AssemblyAI similarly lists $0.45 per hour for Universal-3.5 Pro Realtime and another $0.12 per hour for streaming diarization. </p><p>Cartesia is harder to normalize because <a href=\"https://www.cartesia.ai/pricing?utm_source=chatgpt.com\">Ink-2 is packaged through monthly credit plans</a> rather than a simple metered PAYG hourly rate. Its $5 Pro plan includes roughly nine hours and 16 minutes of Ink-2 transcription, which works out to about $0.54 per transcription hour if every credit is consumed exclusively on STT. That should not be treated as equivalent to a standalone $0.54 hourly API tariff. </p><p>Even with those caveats, Muse&#x27;s positioning is clear. It is not the absolute cheapest streaming transcription service — Soniox currently publishes a lower equivalent rate — but $0.18 per hour with diarization included puts Meta toward the low end of the market, especially against providers that charge separately for speaker attribution.</p><p>At 1,000 hours of processed audio, Meta&#x27;s public rate implies roughly $180 in transcription charges.</p><h2><b>Meta also leads its launch accuracy benchmarks</b></h2><p>Price matters less if it comes with a large accuracy penalty. Meta&#x27;s benchmark material argues the opposite.</p><p>On the Artificial Analysis AA-WER Streaming Index supplied with the launch, Muse records a 3.1% final-transcription word error rate, ahead of Cartesia Ink-2 at 3.4%, ElevenLabs Scribe v2 Realtime at 3.6%, Qwen3 ASR Flash Realtime at 3.7%, GPT Live Transcribe and Grok Speech to Text Streaming at 3.9%, and Gemini 3.5 Transcribe Live and AssemblyAI U3.5 Realtime Pro at 4.0%. </p><p>Meta points out that Muse took the number one spot on third-party independent AI benchmarking firm <a href=\"https://artificialanalysis.ai/speech-to-text/streaming\">Artificial Analysis&#x27; streaming speech-to-text evaluation</a> as of September 1. <a href=\"https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=chatgpt.com\">Meta published the following benchmark charts in its launch post</a>.</p><p>Its diarization result may be even more relevant to the product&#x27;s positioning. Meta reports an average 17.5% diarization error rate across AMI-IHM, AMI-SDM and VoxConverse, lower than the competing systems shown in its chart.</p><p>Speaker capacity and diarization error rate should not be conflated. A platform capable of representing 100 people is not automatically better at correctly attributing speech than one supporting 20, and Meta&#x27;s benchmark does not test every competitor operating at its advertised maximum speaker count.</p><p>There are deployment tradeoffs as well. Meta&#x27;s API currently provides turn-level but not word-level timestamps, and it does not expose word-level confidence scores, sound-event detection or emotion detection. The documentation also specifies eight concurrent streams per tenant by default and real-time sessions of up to 60 minutes before an application must reconnect.</p><p>Still, Muse&#x27;s launch creates an unusually sharp price-performance proposition. Its 20-plus-speaker diarization does not establish a world record, but the record may be the less important metric. For enterprise developers, the larger question is whether a service can preserve speaker attribution, accurate text and usable turn boundaries while a complicated real-world conversation is still unfolding.</p><p>At $0.18 per hour, with 20-plus-speaker diarization inside the same real-time model that currently leads Meta&#x27;s supplied streaming accuracy benchmarks, Muse Voice Transcribe gives enterprise teams a serious new option for meeting intelligence, live transcription and voice-agent infrastructure — while putting additional pressure on competitors to compete on speaker-aware accuracy and total operating cost, not merely raw speech recognition.</p>",
+      "published_at": "2026-09-02T21:32:59+00:00",
+      "published_ts": 1788384779.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.444
+      "importance": 2.439
     },
     {
       "id": "cnbeta:ff083500d59d",
@@ -217,6 +247,21 @@
       "importance": 1.985
     },
     {
+      "id": "cnbeta:b272697a8e79",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "高通公布新一代Adreno GPU：矩阵核心强化AI算力、更高频率更低功耗",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576204.htm",
+      "summary": "<p><strong>高通公布了下一代骁龙顶级移动平台所搭载的新一代Adreno GPU的部分技术细节。</strong>新GPU在延续三切片架构的基础上，进一步提升了运行频率，并首次引入片上高性能缓存、Matrix Cores专用AI计算单元及Adreno Neural Fusion融合架构，旨在从架构层面优化持续图形性能与功耗效率。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576204.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T04:22:52+00:00",
+      "published_ts": 1788409372.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.98
+    },
+    {
       "id": "cnbeta:2389a0fc915f",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -230,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.977
+    },
+    {
+      "id": "cnbeta:5206eb0c7282",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "中国团队在自主超导量子计算机上实现新突破 传输效率高达98%",
+      "url": "https://www.cnbeta.com.tw/articles/science/1576190.htm",
+      "summary": "<p>记者2日从安徽省量子计算芯片重点实验室获悉，本源量子联合中国科学技术大学、合肥综合性国家科学中心人工智能研究院等科研团队，在“本源悟空”自主超导量子计算机上成功研发出面向桶式量子随机存储器（QRAM）的“相干量子路由系统”，相当于为数据中心架设了“快速路”，有效解决了QRAM扩展的行业难题。相关论文日前发表于国际物理期刊《物理评论X》。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1576190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T04:18:24+00:00",
+      "published_ts": 1788409104.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.976
     },
     {
       "id": "cnbeta:38716be70b1a",
@@ -247,6 +307,21 @@
       "importance": 1.973
     },
     {
+      "id": "cnbeta:56ba882b7d07",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "解决模型失控 OpenAI称正开发AI系统自动终止功能",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576176.htm",
+      "summary": "<p>据路透社看到的一封公司信件，OpenAI告诉两名众议院民主党议员，其工程师正在为AI系统开发“自动终止功能”。就在几周前，该公司披露，其一款AI工具在一次安全测试中逃出了测试环境。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576176.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T04:11:11+00:00",
+      "published_ts": 1788408671.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.969
+    },
+    {
       "id": "cnbeta:0c7e40743bf3",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -260,6 +335,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.96
+    },
+    {
+      "id": "cnbeta:64713d631b65",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "A20 Pro GPU核心数量或创新高 封装升级 拓宽内存总线",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576166.htm",
+      "summary": "<p>苹果即将在9月9日举办发布会，届时预计将展示其首款采用2纳米工艺打造的iPhone芯片A20 Pro。此前曝光的芯片封装信息显示，苹果将从旧有的InFO_PoP方案转向WMCM（晶圆级多芯片模块）技术。如今，A20 Pro的首张正面裸晶照片也已流出，图中展现了更高的GPU核心数量以及其他改进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-03T03:56:01+00:00",
+      "published_ts": 1788407761.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.955
     },
     {
       "id": "techcrunch:0a0debc17d8e",
@@ -277,19 +367,19 @@
       "importance": 1.953
     },
     {
-      "id": "tmtpost:9926e5b747b7",
+      "id": "tmtpost:82aa9cf9fd0d",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "Fable 5.1来了！Anthropic再秀肌肉",
-      "url": "https://www.tmtpost.com/8125252.html",
-      "summary": "赶在IPO之前的“模型路演”。",
-      "published_at": "2026-09-02T03:32:42+00:00",
-      "published_ts": 1788319962.0,
+      "title": "最强模型Fable 5.1发布，Anthropic要用降价换IPO",
+      "url": "https://www.tmtpost.com/8126540.html",
+      "summary": "最强模型不等于最好卖。",
+      "published_at": "2026-09-03T03:27:27+00:00",
+      "published_ts": 1788406047.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.929
+      "importance": 1.928
     },
     {
       "id": "tmtpost:19a6cc456f5d",

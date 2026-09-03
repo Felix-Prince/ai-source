@@ -1,171 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T21:08:43.188818+00:00",
+    "generated_at": "2026-09-03T04:43:25.543003+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-03T21:33:53.068428+00:00",
-      "generated_ts": 1785792833.0684283,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:a82173c3ede2",
-          "title": "How we built a realtime system for responsive voice AI in six months",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.985,
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "published_at": "2026-08-03T07:00:00+00:00",
-          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-03T23:31:32.039262+00:00",
-      "generated_ts": 1785799892.0392616,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:75de10ae47d7",
-          "title": "白宫拟召集OpenAI和Anthropic等巨头 讨论AI模型安全测试框架",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.96,
-          "url": "https://36kr.com/newsflashes/3924397461649801?f=rss",
-          "published_at": "2026-08-03T23:03:32+00:00",
-          "summary": "知情人士透露，特朗普政府计划于周二在白宫召集人工智能企业，讨论美国开展人工智能模型自愿安全测试的新框架。知情人士表示，计划出席会议的人工智能开发商包括OpenAI、Anthropic以及Alphabet Inc．旗下谷歌。这套近期完成制定的框架源于美国总统特朗普6月签署的人工智能网络安全行政令。这项行政令提出，对AI模型安全评估采取自愿参机制，并将加强关键计算机系统的安全防护。（新浪财经）"
-        },
-        {
-          "id": "kr36:051f91a81795",
-          "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.998,
-          "url": "https://36kr.com/newsflashes/3923960964938118?f=rss",
-          "published_at": "2026-08-03T23:29:15+00:00",
-          "summary": "8月3日，根据城堡证券的最新预测，到2028年，全球公开与私募信贷市场将再涌现超过5000亿美元的债务，以支持人工智能数据中心内部的芯片采购与设施建设。城堡证券分析师指出，到2028年，这一发债规模预计将相当于彭博美国投资级债券指数总额的5%以上。考虑到芯片的使用寿命，城堡证券预计大部分发行的债券将以3至5年期等较短期限为主，且部分可能通过144A私募形式公开发售。（界面）"
-        },
-        {
-          "id": "kr36:d9f13a5330e7",
-          "title": "Visa斥资24亿美元收购网络安全公司BioCatch，应对AI驱动的诈骗激增",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.998,
-          "url": "https://36kr.com/newsflashes/3923960349129092?f=rss",
-          "published_at": "2026-08-03T23:27:44+00:00",
-          "summary": "Visa公司周一宣布，将以24亿美元现金收购欺诈检测初创公司BioCatch。此举旨在扩大这家支付巨头在网络安全领域的布局，因为银行业正面临由人工智能驱动的诈骗和账户接管事件的激增。此次收购凸显了支付公司正竞相加强欺诈防御，因为生成式人工智能使得攻击成本更低、速度更快且更具迷惑性。Visa估计，诈骗和账户接管每年给全球经济造成的损失超过1万亿美元。（新浪财经）"
-        },
-        {
-          "id": "kr36:8dba852ec6d4",
-          "title": "上半年3000亿元涌入中国AI创业公司，创投资金加速涌向AI和硬科技",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.991,
-          "url": "https://36kr.com/newsflashes/3923952584734854?f=rss",
-          "published_at": "2026-08-03T23:11:47+00:00",
-          "summary": "从全球经验来看，很多科技领军企业的崛起，都少不了创业投资的支持。今年上半年，高技术产业投资同比增长4.6%，这一数据背后，是创业投资的活跃度在持续回升。业内人士普遍认为，AI技术的发展，是这一轮创投市场回暖的核心驱动力，资金正加快涌向AI、量子科技、算力等领域。数据显示，2026年上半年中国AI创业公司融资总额突破3000亿元，已超过2025年全年。而资金的集中涌入，带来了估值的快速攀升，“抢额度”成了一级市场的关键词。（央视财经）"
-        },
-        {
-          "id": "kr36:0f1e0987fb89",
-          "title": "欧盟《人工智能法案》透明度规则正式生效",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.989,
-          "url": "https://36kr.com/newsflashes/3923951789176960?f=rss",
-          "published_at": "2026-08-03T23:08:53+00:00",
-          "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-04T03:43:55.411954+00:00",
-      "generated_ts": 1785815035.4119544,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:f40aace0164e",
-          "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.81,
-          "url": "https://www.qbitai.com/2026/08/465732.html",
-          "published_at": "2026-08-04T01:27:41+00:00",
-          "summary": "出海AI，正被“三重算力锁链\"捆死"
-        },
-        {
-          "id": "kr36:d06e9bbdb1fa",
-          "title": "网络安全初创公司Horizon3.ai��资2.5亿美元",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.79,
-          "url": "https://36kr.com/newsflashes/3924513901820041?f=rss",
-          "published_at": "2026-08-04T01:12:54+00:00",
-          "summary": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增，引发了企业界的担忧浪潮，该公司希望借此势头实现发展。（新浪财经）"
-        },
-        {
-          "id": "kr36:88e14d742243",
-          "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.717,
-          "url": "https://36kr.com/p/3924467692927369?f=rss",
-          "published_at": "2026-08-04T00:18:04+00:00",
-          "summary": "<h2>今日热点导览</h2>\n  <p>OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题</p>\n  <p>江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万</p>\n  <p>iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售</p>\n  <p>多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药</p>\n  <p>王思聪卸任万达产业投资公司董事</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英</strong></p>\n  <p>据天眼查显示，7月31日，杭州"
-        },
-        {
-          "id": "kr36:9a182c42d9db",
-          "title": "创业板指涨超4%",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 1.946,
-          "url": "https://36kr.com/newsflashes/3924617622272132?f=rss",
-          "published_at": "2026-08-04T02:47:29+00:00",
-          "summary": "36氪获悉，创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。"
-        },
-        {
-          "id": "kr36:431905f61190",
-          "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.981,
-          "url": "https://36kr.com/p/3924634192673153?f=rss",
-          "published_at": "2026-08-04T03:05:05+00:00",
-          "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。</p>\n  <p>随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础"
-        },
-        {
-          "id": "kr36:f43e8a07dc32",
-          "title": "截至今年7月底，国家标准中文版在线阅读量超1.74亿次",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.977,
-          "url": "https://36kr.com/newsflashes/3924624581523586?f=rss",
-          "published_at": "2026-08-04T02:54:34+00:00",
-          "summary": "今天了解到，市场监管总局将免费公开国家标准作为为民办实事的重要举措， 自去年对3万余项国家标准提供免费下载服务后，今年又全文免费公开了2600余项国家标准外文版。截至2026年7月底，国家标准中文版在线阅读量超过1.74亿次、下载量超过5300万次，上线仅三个多月的国家标准外文版在线阅读量超过12万次、下载量超过16万次，《智慧城市时空基础设施 评价指标体系》《有限空间作业安全技术规范》等人工智能与安全方面的国家标准阅读量和下载量位居前列。（央视新闻）"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-04T06:45:29.565492+00:00",
       "generated_ts": 1785825929.565492,
@@ -8060,6 +7898,142 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
           "published_at": "2026-09-02T16:40:50+00:00",
           "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-03T04:43:25.543003+00:00",
+      "generated_ts": 1788410605.5430033,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50,
+        "venturebeat": 7
+      },
+      "items": [
+        {
+          "id": "cnbeta:a6b02c1cad12",
+          "title": "OpenAI新模型陷入失控争议 首席科学家回应",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.955,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576178.htm",
+          "published_at": "2026-09-03T04:11:42+00:00",
+          "summary": "<p>9月2日，OpenAI首席科学家雅库布・帕乔基（Jakub Pachocki）在社交平台发文，就近日围绕新模型Astra“不可监控”的争议作出回应。这场争议源于此前一天，有消息称OpenAI即将发布的Astra模型采用了一种名为循环深度（Recurrent Depth）的推理技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:eaba0dbb9baf",
+          "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.912,
+          "url": "https://www.tmtpost.com/8126479.html",
+          "published_at": "2026-09-03T03:41:52+00:00",
+          "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。"
+        },
+        {
+          "id": "tmtpost:91e6e382ad10",
+          "title": "人形机器人的天花板不在算法，在热力学",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.912,
+          "url": "https://www.tmtpost.com/8126785.html",
+          "published_at": "2026-09-03T03:41:35+00:00",
+          "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。"
+        },
+        {
+          "id": "cnbeta:2277a4b543cf",
+          "title": "Meta推出Muse Spark 1.3 编程能力与智能代理性能进一步提升",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.908,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576148.htm",
+          "published_at": "2026-09-03T03:38:46+00:00",
+          "summary": "<p>Meta近日推出旗舰人工智能模型Muse Spark 1.3。该模型主要面向编程和智能代理任务，目前已通过Muse Code及Meta API提供使用。Meta首席执行官马克·扎克伯格还表示，未来公司将推出采用开放权重形式发布的Muse Spark版本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:35545104ae7b",
+          "title": "美国政府向法庭提交意见称AI训练中的版权限制可能阻碍创新",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.9,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576142.htm",
+          "published_at": "2026-09-03T03:33:00+00:00",
+          "summary": "<p>美国政府近日向法院提交意见，支持人工智能公司在未经许可的情况下使用受版权保护的内容训练大型语言模型。文件认为，如果美国企业因版权规则面临更高的数据获取成本，可能会在人工智能竞争中落后于不受同等约束的外国竞争者，并对国家安全造成影响。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "venturebeat:c2b3961400ca",
+          "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.62,
+          "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+          "published_at": "2026-09-03T00:02:18+00:00",
+          "summary": "<p>Google keeps cranking out Flash models: the company on Wednesday announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">two versions of a new 3.8 Flash</a>. </p><p>The variants include a standard Flash, a “workhorse” model for ag"
+        },
+        {
+          "id": "venturebeat:b45460fd34b0",
+          "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+          "source": "venturebeat",
+          "source_label": "VentureBeat",
+          "importance": 2.439,
+          "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+          "published_at": "2026-09-02T21:32:59+00:00",
+          "summary": "<p>Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just $0.18 per hour of proc"
+        },
+        {
+          "id": "cnbeta:b272697a8e79",
+          "title": "高通公布新一代Adreno GPU：矩阵核心强化AI算力、更高频率更低功耗",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.98,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576204.htm",
+          "published_at": "2026-09-03T04:22:52+00:00",
+          "summary": "<p><strong>高通公布了下一代骁龙顶级移动平台所搭载的新一代Adreno GPU的部分技术细节。</strong>新GPU在延续三切片架构的基础上，进一步提升了运行频率，并首次引入片上高性能缓存、Matrix Cores专用AI计算单元及Adreno Neural Fusion融合架构，旨在从架构层面优化持续图形性能与功耗效率。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576204.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5206eb0c7282",
+          "title": "中国团队在自主超导量子计算机上实现新突破 传输效率高达98%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.976,
+          "url": "https://www.cnbeta.com.tw/articles/science/1576190.htm",
+          "published_at": "2026-09-03T04:18:24+00:00",
+          "summary": "<p>记者2日从安徽省量子计算芯片重点实验室获悉，本源量子联合中国科学技术大学、合肥综合性国家科学中心人工智能研究院等科研团队，在“本源悟空”自主超导量子计算机上成功研发出面向桶式量子随机存储器（QRAM）的“相干量子路由系统”，相当于为数据中心架设了“快速路”，有效解决了QRAM扩展的行业难题。相关论文日前发表于国际物理期刊《物理评论X》。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1576190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:56ba882b7d07",
+          "title": "解决模型失控 OpenAI称正开发AI系统自动终止功能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.969,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576176.htm",
+          "published_at": "2026-09-03T04:11:11+00:00",
+          "summary": "<p>据路透社看到的一封公司信件，OpenAI告诉两名众议院民主党议员，其工程师正在为AI系统开发“自动终止功能”。就在几周前，该公司披露，其一款AI工具在一次安全测试中逃出了测试环境。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576176.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:64713d631b65",
+          "title": "A20 Pro GPU核心数量或创新高 封装升级 拓宽内存总线",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.955,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576166.htm",
+          "published_at": "2026-09-03T03:56:01+00:00",
+          "summary": "<p>苹果即将在9月9日举办发布会，届时预计将展示其首款采用2纳米工艺打造的iPhone芯片A20 Pro。此前曝光的芯片封装信息显示，苹果将从旧有的InFO_PoP方案转向WMCM（晶圆级多芯片模块）技术。如今，A20 Pro的首张正面裸晶照片也已流出，图中展现了更高的GPU核心数量以及其他改进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:82aa9cf9fd0d",
+          "title": "最强模型Fable 5.1发布，Anthropic要用降价换IPO",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.928,
+          "url": "https://www.tmtpost.com/8126540.html",
+          "published_at": "2026-09-03T03:27:27+00:00",
+          "summary": "最强模型不等于最好卖。"
         }
       ]
     }
