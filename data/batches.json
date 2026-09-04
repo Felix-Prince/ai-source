@@ -1,52 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T11:29:29.279419+00:00",
+    "generated_at": "2026-09-04T16:29:00.603182+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-05T14:39:58.233218+00:00",
-      "generated_ts": 1785940798.233218,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:574c4750927c",
-          "title": "Anthropic is hiring an AI chip design team",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.974,
-          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-          "published_at": "2026-08-05T14:13:18+00:00",
-          "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently."
-        },
-        {
-          "id": "techcrunch:9132c49232c6",
-          "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.939,
-          "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-          "published_at": "2026-08-05T12:28:38+00:00",
-          "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
-        },
-        {
-          "id": "the_verge:503591ec81f3",
-          "title": "Google Assistant will disappear from your phone next month",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.905,
-          "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-          "published_at": "2026-08-05T11:12:50+00:00",
-          "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement "
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-05T17:57:21.122658+00:00",
       "generated_ts": 1785952641.1226583,
@@ -8035,6 +7992,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1576374.htm",
           "published_at": "2026-09-04T05:04:32+00:00",
           "summary": "<p>知情人士透露，Anthropic PBC接近敲定将其循环信贷额度扩大至150亿美元，为这家人工智能（AI）公司在公开提交备受瞩目的IPO文件之前扫清了一道障碍。摩根士丹利将负责牵头，高盛、摩根大通和花旗也将在信贷安排中担任重要角色。媒体此前还报道称，这四家银行同时也是此次IPO交易的主要承销商。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-04T16:29:00.603182+00:00",
+      "generated_ts": 1788539340.603182,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "techcrunch:8f96fe71dca1",
+          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.992,
+          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+          "published_at": "2026-09-04T16:21:11+00:00",
+          "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
+        },
+        {
+          "id": "cnbeta:b1c511a051eb",
+          "title": "Gemini Spark新增Google Photos管理能力 可通过指令编辑照片、整理相册",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.91,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576474.htm",
+          "published_at": "2026-09-04T14:53:48+00:00",
+          "summary": "<p>Google正在进一步扩大人工智能与旗下服务的整合范围。9月4日，Google宣布其个人智能代理Gemini Spark现已能够管理Google Photos照片库。用户可以通过自然语言指令，让Spark执行照片编辑、相册整理、创建共享相册等任务，甚至将演唱会海报照片转换为日历预约。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576474.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:01a7880c76d1",
+          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.839,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+          "published_at": "2026-09-04T13:34:12+00:00",
+          "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying"
         }
       ]
     }
