@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T16:29:00.603182+00:00",
+    "generated_at": "2026-09-04T20:51:27.071803+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-05T17:57:21.122658+00:00",
-      "generated_ts": 1785952641.1226583,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "the_verge:61c39acdcde1",
-          "title": "Rogue AI agents created fake online identities in another hacking attempt",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.774,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-          "published_at": "2026-08-05T15:14:57+00:00",
-          "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems."
-        },
-        {
-          "id": "the_verge:e6785ba1f3d3",
-          "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.972,
-          "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
-          "published_at": "2026-08-05T16:59:23+00:00",
-          "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage a"
-        },
-        {
-          "id": "the_verge:2d9e3f7f6978",
-          "title": "Reddit is introducing a new moderator: AI",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.945,
-          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-          "published_at": "2026-08-05T16:00:00+00:00",
-          "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan"
-        },
-        {
-          "id": "techcrunch:3ba8581ce9c2",
-          "title": "Hark previews its browser use agent for completing tasks",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.939,
-          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-          "published_at": "2026-08-05T15:46:27+00:00",
-          "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
-        },
-        {
-          "id": "ars_technica:23d12e0ae989",
-          "title": "Google plans to kill Assistant on your phone on September 4",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.932,
-          "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-          "published_at": "2026-08-05T15:30:02+00:00",
-          "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-05T19:59:34.692233+00:00",
-      "generated_ts": 1785959974.6922326,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-05T21:37:23.512913+00:00",
       "generated_ts": 1785965843.5129135,
@@ -8037,6 +7962,51 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
           "published_at": "2026-09-04T13:34:12+00:00",
           "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-04T20:51:27.071803+00:00",
+      "generated_ts": 1788555087.0718033,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:6774c2fd2b27",
+          "title": "DeepSeek据称采购16万颗华为昇腾950DT芯片 英伟达在华市场前景再受质疑",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.872,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576494.htm",
+          "published_at": "2026-09-04T19:20:37+00:00",
+          "summary": "<p>英伟达在中国人工智能芯片市场的竞争前景，正受到一笔大规模采购消息的冲击。Wccftech援引彭博社报道，DeepSeek据称已向华为订购16万颗昇腾950DT芯片，用于其位于内蒙古的新建1GW数据中心。报道认为，这笔订单进一步凸显了华为在中国本土AI市场的竞争优势，也让英伟达面向中国市场推出的特供产品面临更大压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576494.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:df71fb8d9c0b",
+          "title": "AGI is whatever you want it to be",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.804,
+          "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+          "published_at": "2026-09-04T17:16:49+00:00",
+          "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition "
+        },
+        {
+          "id": "ars_technica:b06c05a92939",
+          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.757,
+          "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+          "published_at": "2026-09-04T16:22:18+00:00",
+          "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
         }
       ]
     }

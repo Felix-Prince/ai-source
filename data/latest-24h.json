@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T16:29:00.603182+00:00",
-    "generated_ts": 1788539340.603182,
+    "generated_at": "2026-09-04T20:51:27.071803+00:00",
+    "generated_ts": 1788555087.0718033,
     "window_hours": 24.0,
-    "total": 32
+    "total": 30
   },
   "items": [
     {
@@ -82,6 +82,21 @@
       "importance": 2.937
     },
     {
+      "id": "cnbeta:6774c2fd2b27",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "DeepSeek据称采购16万颗华为昇腾950DT芯片 英伟达在华市场前景再受质疑",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576494.htm",
+      "summary": "<p>英伟达在中国人工智能芯片市场的竞争前景，正受到一笔大规模采购消息的冲击。Wccftech援引彭博社报道，DeepSeek据称已向华为订购16万颗昇腾950DT芯片，用于其位于内蒙古的新建1GW数据中心。报道认为，这笔订单进一步凸显了华为在中国本土AI市场的竞争优势，也让英伟达面向中国市场推出的特供产品面临更大压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576494.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T19:20:37+00:00",
+      "published_ts": 1788549637.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.872
+    },
+    {
       "id": "tmtpost:13dbafef9efa",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -127,36 +142,6 @@
       "importance": 2.807
     },
     {
-      "id": "cnbeta:2ce9e22f867b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI正式发布GPT-6 Astra 号称操作电脑水平超越人类",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576320.htm",
-      "summary": "<p>OpenAI正式推出了代号为“Astra”的下一代旗舰大模型GPT-6。据外媒报道，OpenAI宣称该模型在计算机操作能力（Computer Use）上已经超越普通人类用户，不仅在操作速度与准确度上更胜一筹，还能自主在复杂的多应用与多系统环境中高效执行多步骤任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-03T18:28:11+00:00",
-      "published_ts": 1788460091.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.777
-    },
-    {
-      "id": "techcrunch:89449fa7b756",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "published_at": "2026-09-03T18:19:56+00:00",
-      "published_ts": 1788459596.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.766
-    },
-    {
       "id": "tmtpost:ea2da277af9a",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -170,21 +155,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.765
-    },
-    {
-      "id": "ars_technica:40d8803ad4cd",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "published_at": "2026-09-03T18:10:19+00:00",
-      "published_ts": 1788459019.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.753
     },
     {
       "id": "tmtpost:4af484fbe3bb",
@@ -382,21 +352,6 @@
       "importance": 1.859
     },
     {
-      "id": "cnbeta:acf104f833b7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达公布RTX Spark“N1X”芯片规格 20核与18核双版本",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576318.htm",
-      "summary": "<p>在柏林国际电子消费品展览会（IFA）上，英伟达正式公布了面向消费级RTX Spark PC平台的首款高整合SoC——“N1X”的详细规格与上市计划。作为英伟达进军完整个人电脑计算平台的核心产品，N1X将基于Arm架构的Grace CPU与最新的Blackwell RTX GPU架构融为一体，并计划于今年10月通过各大OEM合作伙伴正式上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-03T18:22:41+00:00",
-      "published_ts": 1788459761.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.846
-    },
-    {
       "id": "the_verge:01a7880c76d1",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -412,21 +367,6 @@
       "importance": 1.839
     },
     {
-      "id": "the_verge:88e487e812ab",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-      "published_at": "2026-09-03T18:00:00+00:00",
-      "published_ts": 1788458400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.826
-    },
-    {
       "id": "tmtpost:8c9a5f0518b0",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -440,6 +380,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.819
+    },
+    {
+      "id": "the_verge:df71fb8d9c0b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "AGI is whatever you want it to be",
+      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition [&#8230;]",
+      "published_at": "2026-09-04T17:16:49+00:00",
+      "published_ts": 1788542209.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.804
+    },
+    {
+      "id": "ars_technica:b06c05a92939",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "published_at": "2026-09-04T16:22:18+00:00",
+      "published_ts": 1788538938.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.757
     },
     {
       "id": "cnbeta:c3e7d85878c7",
