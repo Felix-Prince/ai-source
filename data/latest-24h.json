@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T04:45:00.241264+00:00",
-    "generated_ts": 1788497100.2412643,
+    "generated_at": "2026-09-04T11:29:29.279419+00:00",
+    "generated_ts": 1788521369.279419,
     "window_hours": 24.0,
-    "total": 29
+    "total": 40
   },
   "items": [
+    {
+      "id": "cnbeta:dc501adfeaf4",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI智能体被曝“接管”德国维基网站 自主交流、规避限制行为引发安全担忧",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576454.htm",
+      "summary": "<p>一项最新曝光的人工智能安全事件正在引发业内广泛关注。根据研究人员披露的信息，今年春季，一批与OpenAI模型相关的自主智能体曾在未经授权的情况下“接管”一家德国维基网站，并将其改造成供其他AI系统交流信息的公共平台。这一事件此前从未对外公开，而OpenAI据称已在数周前获悉相关情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576454.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T11:20:01+00:00",
+      "published_ts": 1788520801.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.986
+    },
     {
       "id": "venturebeat:20f74358ff8c",
       "source": "venturebeat",
@@ -35,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.962
+    },
+    {
+      "id": "tmtpost:09fd85d5d9b5",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了",
+      "url": "https://www.tmtpost.com/8128382.html",
+      "summary": "最聪明的大脑最难被读懂。",
+      "published_at": "2026-09-04T10:58:50+00:00",
+      "published_ts": 1788519530.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.956
     },
     {
       "id": "cnbeta:6664e9742442",
@@ -67,6 +97,21 @@
       "importance": 2.952
     },
     {
+      "id": "cnbeta:7d79b63e8e58",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6 Astra发布遇挫 付费用户迟迟无法使用 CEO为混乱上线致歉",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576446.htm",
+      "summary": "<p>OpenAI首席执行官萨姆·奥尔特曼在GPT-6 Astra发布数小时后，便为这款备受期待的新模型“混乱的上线过程”致歉。原本期待第一时间体验新模型的付费用户发现，自己仍然无法使用Astra，而OpenAI也没有给出明确的开放时间表。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576446.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T10:45:37+00:00",
+      "published_ts": 1788518737.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.937
+    },
+    {
       "id": "cnbeta:9d16ac70665d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -82,36 +127,6 @@
       "importance": 2.906
     },
     {
-      "id": "qbitai:c1b8c523d9aa",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "陈大年复出，入局大模型",
-      "url": "https://www.qbitai.com/2026/09/483600.html",
-      "summary": "首秀逼近DeepSeek万亿旗舰",
-      "published_at": "2026-09-03T10:13:24+00:00",
-      "published_ts": 1788430404.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.896
-    },
-    {
-      "id": "tmtpost:9df3cfeba268",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "“大”模型向左，“Flash”向右：国内外开卷轻量化背后的商业清算",
-      "url": "https://www.tmtpost.com/8127474.html",
-      "summary": "大模型向左，继续探索通用人工智能的智力极限；Flash向右，向下扎根进入千行百业的生产线。",
-      "published_at": "2026-09-03T10:00:32+00:00",
-      "published_ts": 1788429632.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.878
-    },
-    {
       "id": "cnbeta:5ce6b134b636",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -125,6 +140,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.859
+    },
+    {
+      "id": "tmtpost:13dbafef9efa",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "智谱上天猫“摆摊”，要把Token当话费卖",
+      "url": "https://www.tmtpost.com/8128188.html",
+      "summary": "大模型第一股，把自己摆上了货架。",
+      "published_at": "2026-09-04T09:24:48+00:00",
+      "published_ts": 1788513888.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.825
+    },
+    {
+      "id": "qbitai:9240b6fc8257",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "published_at": "2026-09-04T09:19:29+00:00",
+      "published_ts": 1788513569.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.818
     },
     {
       "id": "tmtpost:d54a9db308a2",
@@ -247,6 +292,66 @@
       "importance": 2.73
     },
     {
+      "id": "cnbeta:f95cc0b7bbc1",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美参议员桑德斯呼吁立即暂停先进AI技术开发 永久禁止开发超级智能",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576424.htm",
+      "summary": "<p>美国资深参议员伯尼·桑德斯呼吁立即暂停先进人工智能的开发，并永久禁止开发超级智能，他以7月OpenAI模型逃逸入侵Hugging Face事件为例，指出自主智能体正变得越来越难以控制。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576424.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T06:47:31+00:00",
+      "published_ts": 1788504451.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.619
+    },
+    {
+      "id": "cnbeta:0a869aed7716",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI有限预览GPT-6 Astra 付费用户与API将在数日内开放",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576422.htm",
+      "summary": "<p>OpenAI周四（9月3日）开始向部分受信组织开放新一代旗舰模型GPT-6 Astra，并计划在随后数日逐步向ChatGPT Plus、Pro、Business和Enterprise用户，以及OpenAI API和亚马逊云科技AWS开放。微软方面也已通过Microsoft Foundry有限访问项目启动Astra的分阶段部署。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576422.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T06:45:54+00:00",
+      "published_ts": 1788504354.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.617
+    },
+    {
+      "id": "cnbeta:188c641dffef",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6正式发布 OpenAI：欢迎来到AGI时代",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576398.htm",
+      "summary": "<p>万众期待的<strong>GPT-6 Astra</strong>和<strong>GPT-6 Astra Pro</strong>正式发布！GPT-6 Astra是世界上最智能、最协调的模型，为Computer use、Browser Use、软件工程、网络安全、科学和专业工作树立了新的标杆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576398.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T05:12:17+00:00",
+      "published_ts": 1788498737.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.502
+    },
+    {
+      "id": "cnbeta:1aa615cfa210",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6 Astra上线 AGI时代真到来了吗？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576370.htm",
+      "summary": "<p>Astra发布前几个小时，AI圈先乱成了一团。9月3日晚间，ChatGPT、Claude和Grok几乎同时出现大范围服务异常，大量用户不是打不开模型，就是请求失败。恰在此时，ChatGPT官方账号在仰望星空：“The stars are almost aligned.”（群星即将就位）</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576370.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T05:03:28+00:00",
+      "published_ts": 1788498208.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.491
+    },
+    {
       "id": "openai_blog:f0505849c117",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -275,6 +380,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.982
+    },
+    {
+      "id": "the_verge:8f6a5c7e30f2",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+      "published_at": "2026-09-04T10:41:48+00:00",
+      "published_ts": 1788518508.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.955
     },
     {
       "id": "cnbeta:b57d1beed815",
@@ -322,6 +442,21 @@
       "importance": 1.91
     },
     {
+      "id": "the_verge:a345966c9cc0",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "This NAS company wants to run your local smart home",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+      "published_at": "2026-09-04T09:41:44+00:00",
+      "published_ts": 1788514904.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.899
+    },
+    {
       "id": "tmtpost:3848bb2ebd58",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -335,6 +470,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.891
+    },
+    {
+      "id": "qbitai:d08e8ca7bcee",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能",
+      "published_at": "2026-09-04T09:23:24+00:00",
+      "published_ts": 1788513804.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.882
+    },
+    {
+      "id": "qbitai:0eb80d375c39",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "summary": "不训练模型、不调参数",
+      "published_at": "2026-09-04T08:57:14+00:00",
+      "published_ts": 1788512234.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.859
     },
     {
       "id": "venturebeat:0519b2588474",
@@ -367,21 +532,6 @@
       "importance": 1.846
     },
     {
-      "id": "cnbeta:69c7e5335cdc",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "黄仁勋、奥特曼亮相G20 呼吁各国拥抱AI",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576260.htm",
-      "summary": "<p>当地时间周三，包括英伟达首席执行官黄仁勋、OpenAI山姆·奥特曼在内的美国科技巨头高管敦促G20各国部长接纳人工智能，并建设支撑AI运行的数据中心。这场G20会议在北卡罗来纳州举办，会议进入第二天。特朗普政府召集AI行业头部企业代表，向全球主要经济体的部长们阐述行业愿景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576260.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-03T08:38:10+00:00",
-      "published_ts": 1788424690.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.844
-    },
-    {
       "id": "the_verge:88e487e812ab",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -412,34 +562,49 @@
       "importance": 1.819
     },
     {
-      "id": "cnbeta:a56dea0107cc",
+      "id": "cnbeta:c3e7d85878c7",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "英伟达市值超越标普500五大板块总和 相当于美国GDP的16.3%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
-      "summary": "<p>英伟达目前已占到标普500指数总市值的约8%。这一压倒性体量几乎完全由人工智能热潮造就，这家芯片巨头的市值，甚至超过了该指数11个行业板块当中5个板块的市值总和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-03T06:34:28+00:00",
-      "published_ts": 1788417268.0,
+      "title": "消息称DeepSeek前7个月营收约4.75亿元 算力花了110亿元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576388.htm",
+      "summary": "<p>9月4日，据《财经》援引多名参与交易人士消息，DeepSeek最新估值约为5000亿元，计划在第二轮融资中募集500亿元。DeepSeek未对相关融资及估值消息作出回应。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576388.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T05:08:34+00:00",
+      "published_ts": 1788498514.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.738
+      "importance": 1.665
     },
     {
-      "id": "qbitai:106d8e33d26b",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "url": "https://www.qbitai.com/2026/09/483898.html",
-      "summary": "全球最强C",
-      "published_at": "2026-09-03T21:50:07+00:00",
-      "published_ts": 1788472207.0,
+      "id": "cnbeta:8e69c07e891e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "4个月4个Flash，Gemini到底在下什么怪棋？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576382.htm",
+      "summary": "<p>四连超凡 Quadra kill，不是游戏，而是 Gemini 又双叒叕发新的 Flash 模型了。出于刻板印象和谷歌低调的宣发，这次的 Gemini 3.8 Flash 世超本来没太上心。但意外的是，网上风评很不错，尤其是编辑部的谷歌老粉，纷纷感慨：<strong>难道说，Flash 才是对的？</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576382.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T05:06:20+00:00",
+      "published_ts": 1788498380.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.638
+      "importance": 1.663
+    },
+    {
+      "id": "cnbeta:d70b08725b28",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic全力冲刺“世纪IPO” 据悉接近敲定150亿美元信贷融资",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576374.htm",
+      "summary": "<p>知情人士透露，Anthropic PBC接近敲定将其循环信贷额度扩大至150亿美元，为这家人工智能（AI）公司在公开提交备受瞩目的IPO文件之前扫清了一道障碍。摩根士丹利将负责牵头，高盛、摩根大通和花旗也将在信贷安排中担任重要角色。媒体此前还报道称，这四家银行同时也是此次IPO交易的主要承销商。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-04T05:04:32+00:00",
+      "published_ts": 1788498272.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.662
     }
   ]
 }
