@@ -1,99 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T21:08:51.613821+00:00",
+    "generated_at": "2026-09-04T04:45:00.241264+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-04T21:41:42.346304+00:00",
-      "generated_ts": 1785879702.3463037,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:63daf6f86dd1",
-          "title": "Third-party cyber evaluations involving OpenAI models",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.388,
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "published_at": "2026-08-04T19:00:00+00:00",
-          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
-        },
-        {
-          "id": "techcrunch:414df16d7536",
-          "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.969,
-          "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-          "published_at": "2026-08-04T20:36:30+00:00",
-          "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-04T23:28:39.633624+00:00",
-      "generated_ts": 1785886119.6336238,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "kr36": 30,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "kr36:913e28957442",
-          "title": "Anthropic据悉与Volta达成100亿美元算力协议，满足AI需求增长",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 2.974,
-          "url": "https://36kr.com/newsflashes/3925367691524483?f=rss",
-          "published_at": "2026-08-04T23:10:20+00:00",
-          "summary": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd.达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最新举措。知情人士表示，Anthropic已签署协议，将使用由英伟达支持的云基础设施初创公司Volta管理的数据中心。Volta周二早些时候宣布，已与一家未具名AI实验室达成一项价值100亿美元的协议，并将与运营数据中心的比特币矿企Bitdeer Technologies Group合作，利用位于挪威的设施。该协议为期六年。（新浪财经）"
-        },
-        {
-          "id": "kr36:2d4a525edf71",
-          "title": "三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.999,
-          "url": "https://36kr.com/newsflashes/3925818953414792?f=rss",
-          "published_at": "2026-08-04T23:26:28+00:00",
-          "summary": "当地时间8月4日， 三星电子在美国圣克拉拉举行的2026年未来存储与内存大会（FMS）上，公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品，并推出采用晶圆键合技术的400层以上V10 BV-NAND。三星表示，zHBM旨在通过将HBM垂直堆叠于AI加速器上方，缩短处理器与内存之间的数据传输距离，以提升AI训练和推理性能。搭载下一代接口系统的zHBM预计性能可达到HBM5的约8倍，同时借助新型晶圆键合技术，实现超过HBM5 10倍的内存密度，并提升能效表现。（界面）"
-        },
-        {
-          "id": "kr36:7de4ec15ccb9",
-          "title": "英伟达、思科、CrowdStrike等企业推动起草AI网络安全指南",
-          "source": "kr36",
-          "source_label": "36氪",
-          "importance": 0.993,
-          "url": "https://36kr.com/newsflashes/3925368415156352?f=rss",
-          "published_at": "2026-08-04T23:13:48+00:00",
-          "summary": "据英伟达8月4日声明，Linux基金会发布关于“共享AI发现交换”（SAFE）的征求意见稿。据介绍，SAFE是一套拟议指南，旨在将涉及AI智能体的网络安全事件转化为整个生态系统的共享防护能力。声明称，“开放安全AI联盟”的一个工作组正负责起草SAFE指南。英伟达、思科、CrowdStrike、Hugging Face和Red Hat等联盟成员正与Linux基金会合作，共同推进这一初步提案。（界面）"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-05T03:40:15.331484+00:00",
-      "generated_ts": 1785901215.3314843,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-05T06:46:49.911062+00:00",
       "generated_ts": 1785912409.9110618,
@@ -7911,6 +7821,111 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
           "published_at": "2026-09-03T18:00:00+00:00",
           "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"cr"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-04T04:45:00.241264+00:00",
+      "generated_ts": 1788497100.2412643,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:7bf8a4d97226",
+          "title": "英伟达推出开源个人AI路由器PAIR 让家中多台电脑协同运行本地AI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.962,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576332.htm",
+          "published_at": "2026-09-04T04:18:21+00:00",
+          "summary": "<p>英伟达近日在IFA 2026期间正式推出Personal AI Router（PAIR）测试版。这是一款免费的开源软件，并非传统意义上的网络硬件路由器，而是面向本地AI推理的“虚拟路由器”，能够自动发现同一局域网中的兼容电脑，将多台设备的闲置计算能力组织起来，为AI代理和本地大模型任务提供更加充足的推理资源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576332.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6664e9742442",
+          "title": "Codex接下来将在每天向付费订阅用户赠送1个重置卡 直到GPT-6 Astra可用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.954,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576330.htm",
+          "published_at": "2026-09-04T04:12:41+00:00",
+          "summary": "<p>昨天夜里 OpenAI 推出最新模型 GPT-6 Astra，在拉丁语中 Astra 的意思星星 / 群星 / 星辰，在 OpenAI 模型里天体等级越高也意味着模型越先进，目前排序是 Astra (星辰) &gt; Sol (太阳) &gt; Terra (地球) &gt; Luna (月亮)。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:d54a9db308a2",
+          "title": "Claude走出屏幕前，Anthropic先给机械臂写“说明书”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.807,
+          "url": "https://www.tmtpost.com/8127807.html",
+          "published_at": "2026-09-04T02:27:13+00:00",
+          "summary": "AI Agent要走出电脑，不仅需要一个更聪明的大脑，还得面对几十年工业系统留下的接口。现在，大模型公司与自动化行业开始从两端向同一层靠近。"
+        },
+        {
+          "id": "tmtpost:ea2da277af9a",
+          "title": "三大AI巨头同日宕机，GPT-6发布日的“最黑暗一天”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.765,
+          "url": "https://www.tmtpost.com/8128284.html",
+          "published_at": "2026-09-04T01:55:26+00:00",
+          "summary": "Claude的对话框停在原地转圈，ChatGPT的请求反复报错，Grok的页面只剩一片空白。"
+        },
+        {
+          "id": "tmtpost:4af484fbe3bb",
+          "title": "模型发布当天就过时：OpenAI们两天三场发布，最快反超只用五小时",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.733,
+          "url": "https://www.tmtpost.com/8128187.html",
+          "published_at": "2026-09-04T01:31:44+00:00",
+          "summary": "OpenAI在发布说明里点明，这次上线是一整套全新系统首次在真实生产环境中整体运转，为此团队正在调集大批计算资源、扩充推理能力。"
+        },
+        {
+          "id": "tmtpost:71790a2b6347",
+          "title": "ARR 3亿美元的Kimi，为什么还在追着投资人要钱？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.91,
+          "url": "https://www.tmtpost.com/8127838.html",
+          "published_at": "2026-09-04T03:09:17+00:00",
+          "summary": "Kimi 越来越不像 Anthropic 了。"
+        },
+        {
+          "id": "tmtpost:3848bb2ebd58",
+          "title": "中国大模型简史01：模型越做越大，却没人知道它该变成什么",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.891,
+          "url": "https://www.tmtpost.com/8127754.html",
+          "published_at": "2026-09-04T02:48:35+00:00",
+          "summary": "记录一个骤然加速的时代，一群雕琢未来的人"
+        },
+        {
+          "id": "tmtpost:8c9a5f0518b0",
+          "title": "智谱MiniMax，疯狂卖Token",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.819,
+          "url": "https://www.tmtpost.com/8127766.html",
+          "published_at": "2026-09-04T01:27:53+00:00",
+          "summary": "不得不打的一场仗"
+        },
+        {
+          "id": "qbitai:106d8e33d26b",
+          "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.638,
+          "url": "https://www.qbitai.com/2026/09/483898.html",
+          "published_at": "2026-09-03T21:50:07+00:00",
+          "summary": "全球最强C"
         }
       ]
     }
