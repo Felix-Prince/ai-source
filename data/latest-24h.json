@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T20:51:27.071803+00:00",
-    "generated_ts": 1788555087.0718033,
+    "generated_at": "2026-09-05T04:40:41.579432+00:00",
+    "generated_ts": 1788583241.5794315,
     "window_hours": 24.0,
-    "total": 30
+    "total": 25
   },
   "items": [
     {
@@ -22,21 +22,6 @@
       "importance": 2.986
     },
     {
-      "id": "cnbeta:7bf8a4d97226",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达推出开源个人AI路由器PAIR 让家中多台电脑协同运行本地AI",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576332.htm",
-      "summary": "<p>英伟达近日在IFA 2026期间正式推出Personal AI Router（PAIR）测试版。这是一款免费的开源软件，并非传统意义上的网络硬件路由器，而是面向本地AI推理的“虚拟路由器”，能够自动发现同一局域网中的兼容电脑，将多台设备的闲置计算能力组织起来，为AI代理和本地大模型任务提供更加充足的推理资源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576332.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T04:18:21+00:00",
-      "published_ts": 1788495501.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.962
-    },
-    {
       "id": "tmtpost:09fd85d5d9b5",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -50,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.956
-    },
-    {
-      "id": "cnbeta:6664e9742442",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Codex接下来将在每天向付费订阅用户赠送1个重置卡 直到GPT-6 Astra可用",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576330.htm",
-      "summary": "<p>昨天夜里 OpenAI 推出最新模型 GPT-6 Astra，在拉丁语中 Astra 的意思星星 / 群星 / 星辰，在 OpenAI 模型里天体等级越高也意味着模型越先进，目前排序是 Astra (星辰) &gt; Sol (太阳) &gt; Terra (地球) &gt; Luna (月亮)。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T04:12:41+00:00",
-      "published_ts": 1788495161.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.954
     },
     {
       "id": "cnbeta:7d79b63e8e58",
@@ -127,49 +97,19 @@
       "importance": 2.818
     },
     {
-      "id": "tmtpost:d54a9db308a2",
+      "id": "tmtpost:8a5bc6f95d6c",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "Claude走出屏幕前，Anthropic先给机械臂写“说明书”",
-      "url": "https://www.tmtpost.com/8127807.html",
-      "summary": "AI Agent要走出电脑，不仅需要一个更聪明的大脑，还得面对几十年工业系统留下的接口。现在，大模型公司与自动化行业开始从两端向同一层靠近。",
-      "published_at": "2026-09-04T02:27:13+00:00",
-      "published_ts": 1788488833.0,
+      "title": "AGI，真的来了？",
+      "url": "https://www.tmtpost.com/8129208.html",
+      "summary": "GPT-6 Astra来了，OpenAI还要追Anthropic。",
+      "published_at": "2026-09-05T01:58:41+00:00",
+      "published_ts": 1788573521.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.807
-    },
-    {
-      "id": "tmtpost:ea2da277af9a",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "三大AI巨头同日宕机，GPT-6发布日的“最黑暗一天”",
-      "url": "https://www.tmtpost.com/8128284.html",
-      "summary": "Claude的对话框停在原地转圈，ChatGPT的请求反复报错，Grok的页面只剩一片空白。",
-      "published_at": "2026-09-04T01:55:26+00:00",
-      "published_ts": 1788486926.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.765
-    },
-    {
-      "id": "tmtpost:4af484fbe3bb",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "模型发布当天就过时：OpenAI们两天三场发布，最快反超只用五小时",
-      "url": "https://www.tmtpost.com/8128187.html",
-      "summary": "OpenAI在发布说明里点明，这次上线是一整套全新系统首次在真实生产环境中整体运转，为此团队正在调集大批计算资源、扩充推理能力。",
-      "published_at": "2026-09-04T01:31:44+00:00",
-      "published_ts": 1788485504.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.733
+      "importance": 2.775
     },
     {
       "id": "cnbeta:f95cc0b7bbc1",
@@ -200,6 +140,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.617
+    },
+    {
+      "id": "techcrunch:ec1c1d6be4a3",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "published_at": "2026-09-04T23:15:11+00:00",
+      "published_ts": 1788563711.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.565
     },
     {
       "id": "cnbeta:188c641dffef",
@@ -262,21 +217,6 @@
       "importance": 1.955
     },
     {
-      "id": "tmtpost:71790a2b6347",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "ARR 3亿美元的Kimi，为什么还在追着投资人要钱？",
-      "url": "https://www.tmtpost.com/8127838.html",
-      "summary": "Kimi 越来越不像 Anthropic 了。",
-      "published_at": "2026-09-04T03:09:17+00:00",
-      "published_ts": 1788491357.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.91
-    },
-    {
       "id": "cnbeta:b1c511a051eb",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -305,21 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.899
-    },
-    {
-      "id": "tmtpost:3848bb2ebd58",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "中国大模型简史01：模型越做越大，却没人知道它该变成什么",
-      "url": "https://www.tmtpost.com/8127754.html",
-      "summary": "记录一个骤然加速的时代，一群雕琢未来的人",
-      "published_at": "2026-09-04T02:48:35+00:00",
-      "published_ts": 1788490115.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.891
     },
     {
       "id": "qbitai:d08e8ca7bcee",
@@ -365,21 +290,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.839
-    },
-    {
-      "id": "tmtpost:8c9a5f0518b0",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "智谱MiniMax，疯狂卖Token",
-      "url": "https://www.tmtpost.com/8127766.html",
-      "summary": "不得不打的一场仗",
-      "published_at": "2026-09-04T01:27:53+00:00",
-      "published_ts": 1788485273.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.819
     },
     {
       "id": "the_verge:df71fb8d9c0b",
@@ -437,6 +347,21 @@
       "published_ts": 1788498380.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.663
+    },
+    {
+      "id": "ars_technica:290e6aed74a0",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "published_at": "2026-09-04T22:17:36+00:00",
+      "published_ts": 1788560256.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.663
