@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T10:45:21.847791+00:00",
+    "generated_at": "2026-09-05T15:21:19.632714+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-06T10:57:24.622909+00:00",
-      "generated_ts": 1786013844.6229086,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "the_verge:b09616f26e40",
-          "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.921,
-          "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-          "published_at": "2026-08-06T09:33:11+00:00",
-          "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'"
-        },
-        {
-          "id": "qbitai:5a1c2e0dcdf5",
-          "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.822,
-          "url": "https://www.qbitai.com/2026/08/467444.html",
-          "published_at": "2026-08-06T07:43:56+00:00",
-          "summary": ""
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-06T14:40:16.961661+00:00",
-      "generated_ts": 1786027216.9616606,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20
-      },
-      "items": [
-        {
-          "id": "techcrunch:7abe7d3a352c",
-          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.953,
-          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-          "published_at": "2026-08-06T13:00:00+00:00",
-          "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
-        },
-        {
-          "id": "techcrunch:949905e4eead",
-          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.939,
-          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-          "published_at": "2026-08-06T12:30:00+00:00",
-          "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
-        },
-        {
-          "id": "techcrunch:56a0c548007a",
-          "title": "Omilia raises $67M to scale its customer support platform",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.926,
-          "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-          "published_at": "2026-08-06T12:00:00+00:00",
-          "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-07T00:19:46.529252+00:00",
       "generated_ts": 1786061986.5292518,
@@ -8047,6 +7972,41 @@
           "url": "https://www.qbitai.com/2026/09/484611.html",
           "published_at": "2026-09-05T04:18:54+00:00",
           "summary": "如此“反骨”的方法，具体又是怎么实现的？"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-05T15:21:19.632714+00:00",
+      "generated_ts": 1788621679.6327136,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "the_verge:e61ae671c548",
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.777,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "published_at": "2026-09-05T11:15:55+00:00",
+          "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age"
+        },
+        {
+          "id": "tmtpost:506870c29b8c",
+          "title": "WorkBuddy开放平台这天，我算了一笔Token账",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.77,
+          "url": "https://www.tmtpost.com/8128334.html",
+          "published_at": "2026-09-05T11:07:55+00:00",
+          "summary": "这些持续消耗的 Token，究竟由谁来买单？当AI开始“建生态”，这些Agent创造的价值，又能否覆盖它们消耗的成本？"
         }
       ]
     }

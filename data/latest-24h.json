@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T10:45:21.847791+00:00",
-    "generated_ts": 1788605121.847791,
+    "generated_at": "2026-09-05T15:21:19.632714+00:00",
+    "generated_ts": 1788621679.6327136,
     "window_hours": 24.0,
-    "total": 22
+    "total": 19
   },
   "items": [
-    {
-      "id": "cnbeta:dc501adfeaf4",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI智能体被曝“接管”德国维基网站 自主交流、规避限制行为引发安全担忧",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576454.htm",
-      "summary": "<p>一项最新曝光的人工智能安全事件正在引发业内广泛关注。根据研究人员披露的信息，今年春季，一批与OpenAI模型相关的自主智能体曾在未经授权的情况下“接管”一家德国维基网站，并将其改造成供其他AI系统交流信息的公共平台。这一事件此前从未对外公开，而OpenAI据称已在数周前获悉相关情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576454.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T11:20:01+00:00",
-      "published_ts": 1788520801.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.986
-    },
     {
       "id": "tmtpost:f4501cdcb05e",
       "source": "tmtpost",
@@ -35,36 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.971
-    },
-    {
-      "id": "tmtpost:09fd85d5d9b5",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了",
-      "url": "https://www.tmtpost.com/8128382.html",
-      "summary": "最聪明的大脑最难被读懂。",
-      "published_at": "2026-09-04T10:58:50+00:00",
-      "published_ts": 1788519530.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.956
-    },
-    {
-      "id": "cnbeta:7d79b63e8e58",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "GPT-6 Astra发布遇挫 付费用户迟迟无法使用 CEO为混乱上线致歉",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576446.htm",
-      "summary": "<p>OpenAI首席执行官萨姆·奥尔特曼在GPT-6 Astra发布数小时后，便为这款备受期待的新模型“混乱的上线过程”致歉。原本期待第一时间体验新模型的付费用户发现，自己仍然无法使用Astra，而OpenAI也没有给出明确的开放时间表。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576446.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T10:45:37+00:00",
-      "published_ts": 1788518737.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.937
     },
     {
       "id": "cnbeta:6774c2fd2b27",
@@ -187,36 +142,6 @@
       "importance": 1.992
     },
     {
-      "id": "cnbeta:b1c511a051eb",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Gemini Spark新增Google Photos管理能力 可通过指令编辑照片、整理相册",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576474.htm",
-      "summary": "<p>Google正在进一步扩大人工智能与旗下服务的整合范围。9月4日，Google宣布其个人智能代理Gemini Spark现已能够管理Google Photos照片库。用户可以通过自然语言指令，让Spark执行照片编辑、相册整理、创建共享相册等任务，甚至将演唱会海报照片转换为日历预约。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576474.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T14:53:48+00:00",
-      "published_ts": 1788533628.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.91
-    },
-    {
-      "id": "the_verge:01a7880c76d1",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
-      "published_at": "2026-09-04T13:34:12+00:00",
-      "published_ts": 1788528852.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.839
-    },
-    {
       "id": "the_verge:df71fb8d9c0b",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -230,6 +155,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.804
+    },
+    {
+      "id": "the_verge:e61ae671c548",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+      "published_at": "2026-09-05T11:15:55+00:00",
+      "published_ts": 1788606955.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.777
+    },
+    {
+      "id": "tmtpost:506870c29b8c",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "WorkBuddy开放平台这天，我算了一笔Token账",
+      "url": "https://www.tmtpost.com/8128334.html",
+      "summary": "这些持续消耗的 Token，究竟由谁来买单？当AI开始“建生态”，这些Agent创造的价值，又能否覆盖它们消耗的成本？",
+      "published_at": "2026-09-05T11:07:55+00:00",
+      "published_ts": 1788606475.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.77
     },
     {
       "id": "cnbeta:c691cb77acfc",
