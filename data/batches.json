@@ -1,32 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T04:40:41.579432+00:00",
+    "generated_at": "2026-09-05T10:45:21.847791+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-06T07:07:55.270622+00:00",
-      "generated_ts": 1786000075.2706215,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:53184aa53f29",
-          "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.954,
-          "url": "https://www.qbitai.com/2026/08/467262.html",
-          "published_at": "2026-08-06T05:29:40+00:00",
-          "summary": ""
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-06T10:57:24.622909+00:00",
       "generated_ts": 1786013844.6229086,
@@ -7955,6 +7932,121 @@
           "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
           "published_at": "2026-09-04T22:17:36+00:00",
           "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-05T10:45:21.847791+00:00",
+      "generated_ts": 1788605121.847791,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:f4501cdcb05e",
+          "title": "【数智周报】 OpenAI发布GPT-6 Astra模型；国家人工智能基金向北京可灵注入现金资本14亿元；阿里更新旗舰模型Qwen3.8-Max",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.971,
+          "url": "https://www.tmtpost.com/8129653.html",
+          "published_at": "2026-09-05T10:25:29+00:00",
+          "summary": "（8月31日~9月6日）阿里云宣布Qwen3-VL-Rerank模型降价；Anthropic发布Claude Fable 5.1和Mythos 5.1；"
+        },
+        {
+          "id": "tmtpost:2153fe0620e2",
+          "title": "中国开源模型，正成为全球 AI 的“度量衡”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.818,
+          "url": "https://www.tmtpost.com/8129473.html",
+          "published_at": "2026-09-05T08:35:00+00:00",
+          "summary": "小萨勒曼严选MiniMax。"
+        },
+        {
+          "id": "cnbeta:12715de5fdaa",
+          "title": "OpenAI强力新模型 GPT-6一天攻破5道至今未解数学难题",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.662,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576556.htm",
+          "published_at": "2026-09-05T06:37:07+00:00",
+          "summary": "<p>OpenAI正式推出品牌史上能力最强大模型GPT-6 Astra，官方将这款模型定义为全球智能水平最高、对齐效果最优的生成式AI模型。其训练工作在美国德州Stargate超算基地完成，动用超过10万张GPU完成预训练，也是OpenAI首次大规模使用前代模型参与监督训练的旗舰产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f14aba6d4810",
+          "title": "GPT-6 Astra还没正式开放 大家怎么把庆功宴都办完了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.658,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576550.htm",
+          "published_at": "2026-09-05T06:33:50+00:00",
+          "summary": "<p>GPT-6 还没正式开放，怎么全网已经替它把庆功宴都办完了？这场面虽然有点夸张，但这香槟可能还真开对了。4 号凌晨，在经历了服务器爆炸，熬夜等待三小时之后，OpenAI 终于发布了被他们寄予厚望的最新模型：GPT-6 Astra。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576550.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1beb6b78bbf2",
+          "title": "GPT-6 Astra模型已全面接入ChatGPT与微软生态",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.618,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576510.htm",
+          "published_at": "2026-09-05T06:02:29+00:00",
+          "summary": "<p>OpenAI正式对外推出了备受瞩目的下一代人工智能模型GPT-6 Astra，并迅速展开跨平台部署。该模型现已开始全面接入ChatGPT、微软Microsoft 365办公套件以及GitHub Copilot等核心生态系统。OpenAI管理层表示，GPT-6 Astra不仅代表了公司在预训练、强化学习及模型对齐领域的多年积淀，更在能力上迎来了跨代跃升，公司总裁格雷格·布罗克曼甚至认为该模型或标志着通用人工智能时代的正式到来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576510.htm\" target=\"_blank\">"
+        },
+        {
+          "id": "cnbeta:c691cb77acfc",
+          "title": "曾被黑客用于攻破人工智能系统的“ASCII走私”隐身术 正被垃圾邮件制造者大肆利用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.764,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576534.htm",
+          "published_at": "2026-09-05T06:24:25+00:00",
+          "summary": "<p>一项最初在人工智能越狱与提示词注入攻击中名噪一时的隐匿技术——“ASCII走私”（ASCII Smuggling），如今被大规模滥用于垃圾邮件与网络钓鱼活动。微软安全研究团队披露，网络攻击者正借由这一手段绕过主流电子邮件网关与反垃圾邮件系统，向数以百万计的邮箱投递诈骗信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:363a60f227c2",
+          "title": "微软反驳侵权指控：Copilot极少复现《纽约时报》及作家著作内容",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.762,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576532.htm",
+          "published_at": "2026-09-05T06:22:04+00:00",
+          "summary": "<p>在应对由新闻出版商及图书作家发起的联合版权侵权诉讼中，微软公司向法庭提交了最新辩护材料，坚称其人工智能聊天机器人 Copilot 几乎从不逐字复制或实质性复现《纽约时报》等媒体的报道及受版权保护的文学作品。这一表态旨在为微软与 OpenAI 构筑坚实的“合理使用”法律防线，并推动法庭尽早通过即决判决结束相关案件的审理。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576532.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:28655fff1629",
+          "title": "中美拟于9月中旬举行人工智能安全对话 聚焦AI网络攻击与前沿模型风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.759,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576526.htm",
+          "published_at": "2026-09-05T06:18:53+00:00",
+          "summary": "<p>据知情人士透露，美国与中国正在为一场计划于9月中旬举行的人工智能安全对话做准备。在全球前沿人工智能能力快速突破、相关风险日益受到关注的背景下，双方希望就人工智能安全问题展开深入交流。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576526.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:28c9c9a8d421",
+          "title": "微软发布MAI-Image-2.6 Flash 主打更快、更便宜的AI图像生成",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.747,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576512.htm",
+          "published_at": "2026-09-05T06:04:17+00:00",
+          "summary": "<p>微软正在进一步扩大自研人工智能模型的布局。当地时间9月4日，据Neowin报道，微软推出了MAI-Image-2.6 Flash，这是一款面向高频图像生成任务优化的新模型，重点提升生成速度和成本效率。微软方面表示，新模型能够在保持较高图像质量的同时，以更低的成本处理大量生成请求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576512.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:602f1c57c57b",
+          "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.661,
+          "url": "https://www.qbitai.com/2026/09/484611.html",
+          "published_at": "2026-09-05T04:18:54+00:00",
+          "summary": "如此“反骨”的方法，具体又是怎么实现的？"
         }
       ]
     }
