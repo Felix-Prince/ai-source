@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T15:21:19.632714+00:00",
-    "generated_ts": 1788621679.6327136,
+    "generated_at": "2026-09-05T20:29:55.459310+00:00",
+    "generated_ts": 1788640195.45931,
     "window_hours": 24.0,
-    "total": 19
+    "total": 17
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.971
-    },
-    {
-      "id": "cnbeta:6774c2fd2b27",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek据称采购16万颗华为昇腾950DT芯片 英伟达在华市场前景再受质疑",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576494.htm",
-      "summary": "<p>英伟达在中国人工智能芯片市场的竞争前景，正受到一笔大规模采购消息的冲击。Wccftech援引彭博社报道，DeepSeek据称已向华为订购16万颗昇腾950DT芯片，用于其位于内蒙古的新建1GW数据中心。报道认为，这笔订单进一步凸显了华为在中国本土AI市场的竞争优势，也让英伟达面向中国市场推出的特供产品面临更大压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576494.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-04T19:20:37+00:00",
-      "published_ts": 1788549637.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.872
     },
     {
       "id": "tmtpost:2153fe0620e2",
@@ -127,34 +112,19 @@
       "importance": 2.565
     },
     {
-      "id": "techcrunch:8f96fe71dca1",
+      "id": "techcrunch:1bb8ec95aadc",
       "source": "techcrunch",
       "source_label": "TechCrunch",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "published_at": "2026-09-04T16:21:11+00:00",
-      "published_ts": 1788538871.0,
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "published_at": "2026-09-05T18:05:27+00:00",
+      "published_ts": 1788631527.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.992
-    },
-    {
-      "id": "the_verge:df71fb8d9c0b",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "AGI is whatever you want it to be",
-      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition [&#8230;]",
-      "published_at": "2026-09-04T17:16:49+00:00",
-      "published_ts": 1788542209.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.804
+      "importance": 1.866
     },
     {
       "id": "the_verge:e61ae671c548",
@@ -232,21 +202,6 @@
       "importance": 1.759
     },
     {
-      "id": "ars_technica:b06c05a92939",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "published_at": "2026-09-04T16:22:18+00:00",
-      "published_ts": 1788538938.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.757
-    },
-    {
       "id": "cnbeta:28c9c9a8d421",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -260,6 +215,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.747
+    },
+    {
+      "id": "qbitai:0c7536aedfb0",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "summary": "手握两篇顶会论文",
+      "published_at": "2026-09-05T15:07:08+00:00",
+      "published_ts": 1788620828.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.712
     },
     {
       "id": "ars_technica:290e6aed74a0",

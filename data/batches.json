@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T15:21:19.632714+00:00",
+    "generated_at": "2026-09-05T20:29:55.459310+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8007,6 +8007,41 @@
           "url": "https://www.tmtpost.com/8128334.html",
           "published_at": "2026-09-05T11:07:55+00:00",
           "summary": "这些持续消耗的 Token，究竟由谁来买单？当AI开始“建生态”，这些Agent创造的价值，又能否覆盖它们消耗的成本？"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-05T20:29:55.459310+00:00",
+      "generated_ts": 1788640195.45931,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "techcrunch:1bb8ec95aadc",
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.866,
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "published_at": "2026-09-05T18:05:27+00:00",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+        },
+        {
+          "id": "qbitai:0c7536aedfb0",
+          "title": "GPT-6带火循环Transformer，阿里早已布局",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.712,
+          "url": "https://www.qbitai.com/2026/09/484726.html",
+          "published_at": "2026-09-05T15:07:08+00:00",
+          "summary": "手握两篇顶会论文"
         }
       ]
     }
