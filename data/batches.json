@@ -1,77 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T04:50:15.718391+00:00",
+    "generated_at": "2026-09-06T11:07:06.043655+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-07T05:54:10.603323+00:00",
-      "generated_ts": 1786082050.6033235,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:ba858ab889dd",
-          "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.93,
-          "url": "https://www.qbitai.com/2026/08/467877.html",
-          "published_at": "2026-08-07T03:23:54+00:00",
-          "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
-        },
-        {
-          "id": "qbitai:5071afa88e0d",
-          "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.93,
-          "url": "https://www.qbitai.com/2026/08/467879.html",
-          "published_at": "2026-08-07T03:23:01+00:00",
-          "summary": "Chat优化版"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-07T07:47:57.787683+00:00",
-      "generated_ts": 1786088877.7876825,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-07T09:27:43.597569+00:00",
-      "generated_ts": 1786094863.5975695,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:8f19a86b6fd8",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.48,
-          "url": "https://openai.com/index/hsp-gruppe",
-          "published_at": "2026-08-07T09:00:00+00:00",
-          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-07T11:11:57.258471+00:00",
       "generated_ts": 1786101117.2584715,
@@ -7931,6 +7863,51 @@
           "url": "https://www.tmtpost.com/8129912.html",
           "published_at": "2026-09-06T02:03:50+00:00",
           "summary": "一个骤然加速的时代，一群雕琢未来的人"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-06T11:07:06.043655+00:00",
+      "generated_ts": 1788692826.043655,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:44807fe971b9",
+          "title": "《西雅图时报》和《新闻日报》起诉OpenAI与微软",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.726,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576612.htm",
+          "published_at": "2026-09-06T07:48:20+00:00",
+          "summary": "<p>又有两家新闻机构起诉 OpenAI 和微软，指控他们利用其新闻报道训练人工智能。《西雅图时报》和《新闻日报》提起诉讼，称随着人工智能的出现，新闻业可能会“彻底崩溃”。诉讼将生成式人工智能比作“一条吞噬自己尾巴的蛇”，它可能会“摧毁”那些生产其训练内容的机构。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576612.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1a86796214b6",
+          "title": "奥特曼：GPT-6早训练完了 更更更强的模型很快发布",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.718,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576600.htm",
+          "published_at": "2026-09-06T07:41:59+00:00",
+          "summary": "<p>奥特曼亲口承认，GPT-6 Astra其实早就训练完了。<strong>更更更强（much， much， much more capable）的模型，很快就会发布。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576600.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:2a9f33fc80a8",
+          "title": "微软推动Windows 11全面迈向本地端侧AI运行",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.769,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576588.htm",
+          "published_at": "2026-09-06T06:52:31+00:00",
+          "summary": "<p>微软正在对Windows 11的底层人工智能战略进行重大调整，计划逐步摆脱对键盘实体Copilot按键以及网页端侧边栏的初级依赖，全面转向在用户PC本地直接高效运行大型AI模型的全新阶段。这一转变标志着微软对AI与操作系统的融合探索正从表层的交互呼出入口，深入到操作系统的底层计算架构之中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576588.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
