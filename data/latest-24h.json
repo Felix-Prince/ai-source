@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T15:34:13.990204+00:00",
-    "generated_ts": 1788708853.990204,
+    "generated_at": "2026-09-06T20:32:00.948611+00:00",
+    "generated_ts": 1788726720.948611,
     "window_hours": 24.0,
     "total": 9
   },
   "items": [
+    {
+      "id": "openai_blog:1797e8e33665",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "published_ts": 1788681600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 3.133
+    },
     {
       "id": "tmtpost:099ccce46b45",
       "source": "tmtpost",
@@ -65,21 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.917
-    },
-    {
-      "id": "techcrunch:1bb8ec95aadc",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "published_at": "2026-09-05T18:05:27+00:00",
-      "published_ts": 1788631527.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.866
     },
     {
       "id": "tmtpost:e6692cff97d2",
