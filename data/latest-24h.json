@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T11:07:06.043655+00:00",
-    "generated_ts": 1788692826.043655,
+    "generated_at": "2026-09-06T15:34:13.990204+00:00",
+    "generated_ts": 1788708853.990204,
     "window_hours": 24.0,
-    "total": 10
+    "total": 9
   },
   "items": [
     {
@@ -97,34 +97,34 @@
       "importance": 1.846
     },
     {
-      "id": "the_verge:e61ae671c548",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
-      "published_at": "2026-09-05T11:15:55+00:00",
-      "published_ts": 1788606955.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.777
-    },
-    {
-      "id": "tmtpost:506870c29b8c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "WorkBuddy开放平台这天，我算了一笔Token账",
-      "url": "https://www.tmtpost.com/8128334.html",
-      "summary": "这些持续消耗的 Token，究竟由谁来买单？当AI开始“建生态”，这些Agent创造的价值，又能否覆盖它们消耗的成本？",
-      "published_at": "2026-09-05T11:07:55+00:00",
-      "published_ts": 1788606475.0,
+      "id": "qbitai:9fa40eb24790",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "summary": "让机器人学会利用更长的多模态Context",
+      "published_at": "2026-09-06T11:44:21+00:00",
+      "published_ts": 1788695061.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.77
+      "importance": 1.79
+    },
+    {
+      "id": "cnbeta:ae7a44346caa",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "2026年第二季度独立显卡出货量逆势增长12.2%",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576644.htm",
+      "summary": "<p>尽管全球PC市场整体表现疲软、存储芯片价格持续上涨，独立显卡市场却在2026年第二季度交出了一份出乎意料的成绩单。最新行业数据显示，独立图形处理器（dGPU）出货量在第二季度实现显著增长，不仅打破了传统淡季规律，也显示出配备独立显卡设备的市场需求仍具备较强韧性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-06T11:22:36+00:00",
+      "published_ts": 1788693756.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.772
     },
     {
       "id": "cnbeta:2a9f33fc80a8",
@@ -140,21 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.769
-    },
-    {
-      "id": "qbitai:0c7536aedfb0",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "url": "https://www.qbitai.com/2026/09/484726.html",
-      "summary": "手握两篇顶会论文",
-      "published_at": "2026-09-05T15:07:08+00:00",
-      "published_ts": 1788620828.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.712
     }
   ]
 }
