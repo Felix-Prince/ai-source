@@ -1,165 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T20:29:55.459310+00:00",
+    "generated_at": "2026-09-06T04:50:15.718391+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-07T00:19:46.529252+00:00",
-      "generated_ts": 1786061986.5292518,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "ars_technica:ce14a17263b0",
-          "title": "Anthropic will design its own hardware to power Claude",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 2.652,
-          "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-          "published_at": "2026-08-06T20:03:44+00:00",
-          "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
-        },
-        {
-          "id": "techcrunch:2f47c10fc2a2",
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.646,
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-          "published_at": "2026-08-06T17:34:42+00:00",
-          "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-        },
-        {
-          "id": "the_verge:dc3f0e9bae34",
-          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.618,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-          "published_at": "2026-08-06T17:00:00+00:00",
-          "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]"
-        },
-        {
-          "id": "openai_blog:1ab26683a1d6",
-          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.992,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "published_at": "2026-08-06T10:00:00+00:00",
-          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-        },
-        {
-          "id": "techcrunch:f9914213c4d4",
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.955,
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-          "published_at": "2026-08-06T22:43:53+00:00",
-          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-        },
-        {
-          "id": "the_verge:fe5fd96e305c",
-          "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.906,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-          "published_at": "2026-08-06T20:55:39+00:00",
-          "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove"
-        },
-        {
-          "id": "openai_blog:c0bb4ff3455b",
-          "title": "Working with the American Psychological Association on youth mental health and AI",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.883,
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-          "published_at": "2026-08-06T06:00:00+00:00",
-          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-        },
-        {
-          "id": "ars_technica:abc8445aac0b",
-          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.792,
-          "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-          "published_at": "2026-08-06T16:15:30+00:00",
-          "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
-        },
-        {
-          "id": "techcrunch:4bd19e9329f7",
-          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.768,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-          "published_at": "2026-08-06T15:10:32+00:00",
-          "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-07T03:21:33.863263+00:00",
-      "generated_ts": 1786072893.8632631,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:aea949963b15",
-          "title": "AI SSD：大模型推理的存储范式转移",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.964,
-          "url": "https://www.qbitai.com/2026/08/467840.html",
-          "published_at": "2026-08-07T02:56:46+00:00",
-          "summary": "算力、网络、内存与存储开始围绕每个Token协同"
-        },
-        {
-          "id": "qbitai:926973064001",
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.837,
-          "url": "https://www.qbitai.com/2026/08/467487.html",
-          "published_at": "2026-08-07T00:25:07+00:00",
-          "summary": "此后模型、算力、数据中心都在合作范围内"
-        },
-        {
-          "id": "qbitai:f868e4f0448a",
-          "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.994,
-          "url": "https://www.qbitai.com/2026/08/467871.html",
-          "published_at": "2026-08-07T03:08:51+00:00",
-          "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
-        },
-        {
-          "id": "qbitai:9006f1cfa2c7",
-          "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.941,
-          "url": "https://www.qbitai.com/2026/08/467663.html",
-          "published_at": "2026-08-07T01:15:42+00:00",
-          "summary": "指环王成为大模型新基准"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-07T05:54:10.603323+00:00",
       "generated_ts": 1786082050.6033235,
@@ -8042,6 +7886,51 @@
           "url": "https://www.qbitai.com/2026/09/484726.html",
           "published_at": "2026-09-05T15:07:08+00:00",
           "summary": "手握两篇顶会论文"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-06T04:50:15.718391+00:00",
+      "generated_ts": 1788670215.7183907,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:099ccce46b45",
+          "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.924,
+          "url": "https://www.tmtpost.com/8129268.html",
+          "published_at": "2026-09-06T03:57:09+00:00",
+          "summary": "OpenAI 高管称已完成通用人工智能（AGI）80% 的进程，预计 2026 年底前推出内部 AGI 系统。"
+        },
+        {
+          "id": "tmtpost:e2217610d2bd",
+          "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.917,
+          "url": "https://www.tmtpost.com/8129798.html",
+          "published_at": "2026-09-06T03:22:30+00:00",
+          "summary": "会刷题不算什么，能干活才真有用"
+        },
+        {
+          "id": "tmtpost:e6692cff97d2",
+          "title": "中国大模型简史02：一张突然值钱的船票",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.846,
+          "url": "https://www.tmtpost.com/8129912.html",
+          "published_at": "2026-09-06T02:03:50+00:00",
+          "summary": "一个骤然加速的时代，一群雕琢未来的人"
         }
       ]
     }

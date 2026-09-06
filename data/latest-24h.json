@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T20:29:55.459310+00:00",
-    "generated_ts": 1788640195.45931,
+    "generated_at": "2026-09-06T04:50:15.718391+00:00",
+    "generated_ts": 1788670215.7183907,
     "window_hours": 24.0,
-    "total": 17
+    "total": 16
   },
   "items": [
     {
@@ -22,6 +22,21 @@
       "importance": 2.971
     },
     {
+      "id": "tmtpost:099ccce46b45",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
+      "url": "https://www.tmtpost.com/8129268.html",
+      "summary": "OpenAI 高管称已完成通用人工智能（AGI）80% 的进程，预计 2026 年底前推出内部 AGI 系统。",
+      "published_at": "2026-09-06T03:57:09+00:00",
+      "published_ts": 1788667029.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.924
+    },
+    {
       "id": "tmtpost:2153fe0620e2",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -35,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.818
-    },
-    {
-      "id": "tmtpost:8a5bc6f95d6c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AGI，真的来了？",
-      "url": "https://www.tmtpost.com/8129208.html",
-      "summary": "GPT-6 Astra来了，OpenAI还要追Anthropic。",
-      "published_at": "2026-09-05T01:58:41+00:00",
-      "published_ts": 1788573521.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.775
     },
     {
       "id": "cnbeta:12715de5fdaa",
@@ -97,19 +97,19 @@
       "importance": 2.618
     },
     {
-      "id": "techcrunch:ec1c1d6be4a3",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "published_at": "2026-09-04T23:15:11+00:00",
-      "published_ts": 1788563711.0,
-      "category": "international",
-      "lang": "en",
+      "id": "tmtpost:e2217610d2bd",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
+      "url": "https://www.tmtpost.com/8129798.html",
+      "summary": "会刷题不算什么，能干活才真有用",
+      "published_at": "2026-09-06T03:22:30+00:00",
+      "published_ts": 1788664950.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.565
+      "ai_score": 2.0,
+      "importance": 1.917
     },
     {
       "id": "techcrunch:1bb8ec95aadc",
@@ -125,6 +125,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.866
+    },
+    {
+      "id": "tmtpost:e6692cff97d2",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "中国大模型简史02：一张突然值钱的船票",
+      "url": "https://www.tmtpost.com/8129912.html",
+      "summary": "一个骤然加速的时代，一群雕琢未来的人",
+      "published_at": "2026-09-06T02:03:50+00:00",
+      "published_ts": 1788660230.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.846
     },
     {
       "id": "the_verge:e61ae671c548",
@@ -230,36 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.712
-    },
-    {
-      "id": "ars_technica:290e6aed74a0",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "published_at": "2026-09-04T22:17:36+00:00",
-      "published_ts": 1788560256.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.663
-    },
-    {
-      "id": "qbitai:602f1c57c57b",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
-      "published_at": "2026-09-05T04:18:54+00:00",
-      "published_ts": 1788581934.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.661
     }
   ]
 }
