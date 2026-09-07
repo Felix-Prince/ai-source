@@ -1,91 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T12:47:20.279277+00:00",
+    "generated_at": "2026-09-07T21:36:28.265235+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-08T13:16:54.742483+00:00",
-      "generated_ts": 1786195014.7424834,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "ars_technica:2b2ac22d8713",
-          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.95,
-          "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-          "published_at": "2026-08-08T11:30:48+00:00",
-          "summary": "About 90 percent of the distance driven by Perseverance has been autonomous."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-08T14:54:11.268068+00:00",
-      "generated_ts": 1786200851.2680683,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-08T16:56:46.360303+00:00",
-      "generated_ts": 1786208206.3603027,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-08T19:03:48.350759+00:00",
-      "generated_ts": 1786215828.3507586,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-08T20:52:41.844017+00:00",
-      "generated_ts": 1786222361.8440166,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:46a486d36928",
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.932,
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-          "published_at": "2026-08-08T19:41:13+00:00",
-          "summary": "NextSlide says its team members are now working on ChatGPT."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-08T22:51:21.213689+00:00",
       "generated_ts": 1786229481.2136893,
@@ -7877,6 +7795,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1576766.htm",
           "published_at": "2026-09-07T06:39:49+00:00",
           "summary": "<p>在外界等待OpenAI就Agent自主入侵德国程序员网站DseWiki事件披露更多细节之际，当地时间9月6日，OpenAI发布两份文件：宣布公司已达到去年设定的目标，拥有能够在人类指导下完成熟练研究员数天工作的“自动化研究实习生”；另一份则由首席科学家雅库布·帕乔基（Jakub Pachocki）撰写，聚焦前沿AI发展的安全困境，强调目前没有任何实验室解决足够程度的对齐和监控问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576766.htm\" target=\"_blank\"><strong>阅读全文</strong><"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-07T21:36:28.265235+00:00",
+      "generated_ts": 1788816988.2652354,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:751305d75d67",
+          "title": "英国AI政策核心奠基人Matt Clifford因利益冲突争议从Anthropic离职",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.899,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576830.htm",
+          "published_at": "2026-09-07T19:49:14+00:00",
+          "summary": "<p style=\"white-space: normal;\">曾主导设计英国开创性人工智能监管框架的关键政策架构师Matt Clifford在加入前沿人工智能企业Anthropic不久后正式离职。引发这一突发人事变动的主要原因，是其迅速从政府核心监管角色转入受其政策深刻影响的顶级商业科技巨头，在英国政界及公共伦理监督领域引发了极其强烈的利益冲突担忧与舆论风暴。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576830.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:59d7fe4806de",
+          "title": "SK海力士加速先进1c DRAM量产布局 预计明年成为公司最大规模存储工艺",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.897,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576828.htm",
+          "published_at": "2026-09-07T19:46:17+00:00",
+          "summary": "<p>随着人工智能、高性能计算和下一代移动设备对先进内存需求持续增长，韩国存储芯片巨头SK海力士正加快向最新一代1c DRAM工艺转型。最新产业消息显示，公司正在大规模调整产能结构，计划将越来越多的DRAM产品迁移至第六代10纳米级1c工艺节点生产，并有望在未来数个季度内确立该工艺的主导地位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:30f4369b158b",
+          "title": "字节跳动新AI模型曝光：可实时生成空间视频 张一鸣亲自负责",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.633,
+          "url": "https://www.cnbeta.com.tw/articles/movie/1576798.htm",
+          "published_at": "2026-09-07T14:34:56+00:00",
+          "summary": "<p>据彭博社报道，字节跳动正准备推出一款面向实时空间视频生成的AI模型，在机器人和自主系统应用领域与Meta、Google母公司Alphabet展开竞争。据知情人士透露，字节跳动创始人张一鸣正在亲自监督这款新模型的开发工作，该模型最快将于下个月发布。知情人士称，张一鸣一直在协调公司旗下各业务部门的相关工作，并为这一项目调配AI资源和算力。该模型的发布时间尚不确定，计划可能会有所变动。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1576798.htm\" target=\"_blank\"><strong>阅读全文</strong><"
         }
       ]
     }
