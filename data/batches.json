@@ -1,79 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T04:56:14.477427+00:00",
+    "generated_at": "2026-09-07T12:47:20.279277+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-08T05:12:15.097801+00:00",
-      "generated_ts": 1786165935.0978007,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:036085b288f7",
-          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.516,
-          "url": "https://www.qbitai.com/2026/08/468305.html",
-          "published_at": "2026-08-07T06:18:51+00:00",
-          "summary": "从「能用」走向「规模化落地」"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-08T07:25:26.643024+00:00",
-      "generated_ts": 1786173926.6430244,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-08T09:04:43.338809+00:00",
-      "generated_ts": 1786179883.338809,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:3db99c456c86",
-          "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.968,
-          "url": "https://www.qbitai.com/2026/08/468631.html",
-          "published_at": "2026-08-08T07:57:35+00:00",
-          "summary": "这就有些尴尬了。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-08T10:55:31.471749+00:00",
-      "generated_ts": 1786186531.4717493,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-08T13:16:54.742483+00:00",
       "generated_ts": 1786195014.7424834,
@@ -7862,6 +7792,91 @@
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
           "published_at": "2026-09-06T20:47:37+00:00",
           "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-07T12:47:20.279277+00:00",
+      "generated_ts": 1788785240.2792766,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "qbitai:dfa838d15e18",
+          "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.659,
+          "url": "https://www.qbitai.com/2026/09/485108.html",
+          "published_at": "2026-09-07T08:36:30+00:00",
+          "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”"
+        },
+        {
+          "id": "cnbeta:1af6de34568e",
+          "title": "中国AI大模型调用量连续十九周领跑 环比增长379%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.511,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576760.htm",
+          "published_at": "2026-09-07T06:37:29+00:00",
+          "summary": "<p>根据OpenRouter最新数据测算，上周（8月31日至9月6日）全球AI大模型总调用量为115万亿Token，环比增长1.77%。其中，上榜的AI大模型中，中国AI大模型周调用量达56.72万亿Token，环比增长2.83%；同期美国AI大模型周调用量为16.54万亿Token，环比下滑3.1%。中国大模型周调用量连续十九周超过美国，稳居全球首位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576760.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:8f3a70e0d2e9",
+          "title": "DeepSeek千兆瓦雄心，遭遇电力现实",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.824,
+          "url": "https://www.tmtpost.com/8131016.html",
+          "published_at": "2026-09-07T09:36:14+00:00",
+          "summary": "算力在抢电，还没有想好怎么接。"
+        },
+        {
+          "id": "qbitai:9d5db5581862",
+          "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.796,
+          "url": "https://www.qbitai.com/2026/09/485431.html",
+          "published_at": "2026-09-07T09:04:06+00:00",
+          "summary": "OpenAI研究院人均带3个AI实习生"
+        },
+        {
+          "id": "cnbeta:ed75f89318e1",
+          "title": "韩国券商警告：三星电子和SK海力士内存库存降至不足10天供应量",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.785,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576786.htm",
+          "published_at": "2026-09-07T08:50:34+00:00",
+          "summary": "<p>存储半导体的短缺情况似乎还在恶化。韩国券商KB Securities最新警告，三星电子和SK海力士的存储半导体库存已降至不足10天的供应量，明年可用供应将明显不足。KB Securities在周一发布的报告中指出，随着人工智能基础设施投资以前所未有的速度扩张，存储芯片市场正面临严重的供应短缺。加剧供应短缺的一个关键因素是向下一代高带宽存储器HBM4的过渡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576786.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c77471fe4f7a",
+          "title": "三星将半数4纳米产能投入HBM4底层芯片生产",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.762,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576784.htm",
+          "published_at": "2026-09-07T08:24:10+00:00",
+          "summary": "<p>随着人工智能产业持续推动高带宽存储需求增长，三星电子正在进一步加码HBM4布局。根据韩国媒体披露的信息，三星晶圆代工业务部门已将其4纳米工艺产能中的相当大一部分专门用于HBM4底层芯片（Base Die）制造，其中占比据称已达到整个4纳米产能的一半左右。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576784.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:767f7da015e6",
+          "title": "OpenAI同日发布两份文件：AI加速时代，安全正在掉队",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.676,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576766.htm",
+          "published_at": "2026-09-07T06:39:49+00:00",
+          "summary": "<p>在外界等待OpenAI就Agent自主入侵德国程序员网站DseWiki事件披露更多细节之际，当地时间9月6日，OpenAI发布两份文件：宣布公司已达到去年设定的目标，拥有能够在人类指导下完成熟练研究员数天工作的“自动化研究实习生”；另一份则由首席科学家雅库布·帕乔基（Jakub Pachocki）撰写，聚焦前沿AI发展的安全困境，强调目前没有任何实验室解决足够程度的对齐和监控问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576766.htm\" target=\"_blank\"><strong>阅读全文</strong><"
         }
       ]
     }
