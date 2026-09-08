@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T16:44:13.861089+00:00",
-    "generated_ts": 1788885853.8610885,
+    "generated_at": "2026-09-08T21:16:10.865335+00:00",
+    "generated_ts": 1788902170.8653347,
     "window_hours": 24.0,
-    "total": 22
+    "total": 26
   },
   "items": [
+    {
+      "id": "techcrunch:0539d968644e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "published_at": "2026-09-08T21:10:27+00:00",
+      "published_ts": 1788901827.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.992
+    },
     {
       "id": "cnbeta:4c62b5a8257a",
       "source": "cnbeta",
@@ -52,6 +67,21 @@
       "importance": 2.877
     },
     {
+      "id": "cnbeta:ff4347264e5e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI未发布内部AI模型据称攻克纳维-斯托克斯方程难题",
+      "url": "https://www.cnbeta.com.tw/articles/science/1577024.htm",
+      "summary": "<p>OpenAI未发布内部AI模型据称攻克纳维–斯托克斯方程难题，相关结果已由机器验证。报道还称，该公司动用了约1万个并发自主代理完成推理与形式化验证，但这项成果目前仍未被克雷数学研究所正式认定为千禧年大奖难题的已解答案。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577024.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T19:10:21+00:00",
+      "published_ts": 1788894621.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.824
+    },
+    {
       "id": "cnbeta:e8ed06e775ed",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -80,6 +110,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.711
+    },
+    {
+      "id": "openai_blog:46c006ca8d59",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "published_ts": 1788886800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.652
     },
     {
       "id": "cnbeta:c37a21a2c326",
@@ -142,6 +187,36 @@
       "importance": 1.982
     },
     {
+      "id": "cnbeta:13d6369ffe3f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI推出ChatGPT Images 2.5 新增草图生图功能",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577032.htm",
+      "summary": "<p>OpenAI 推出 ChatGPT Images 2.5，并新增 Sketch 功能，允许用户先在聊天框里画草图，再让系统根据草图生成更细致的图像。OpenAI 于周二宣布更新 ChatGPT 的图像生成工具，核心变化是加入名为 Sketch 的新方式，让用户可以直接在 ChatGPT 内部绘制涂鸦，再说明希望它把这张草图变成什么样的图片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T20:26:41+00:00",
+      "published_ts": 1788899201.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.953
+    },
+    {
+      "id": "the_verge:3a7d99f7ce07",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+      "published_at": "2026-09-08T20:16:09+00:00",
+      "published_ts": 1788898569.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.943
+    },
+    {
       "id": "tmtpost:c861c8a3a08c",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -170,36 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.915
-    },
-    {
-      "id": "cnbeta:751305d75d67",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英国AI政策核心奠基人Matt Clifford因利益冲突争议从Anthropic离职",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576830.htm",
-      "summary": "<p style=\"white-space: normal;\">曾主导设计英国开创性人工智能监管框架的关键政策架构师Matt Clifford在加入前沿人工智能企业Anthropic不久后正式离职。引发这一突发人事变动的主要原因，是其迅速从政府核心监管角色转入受其政策深刻影响的顶级商业科技巨头，在英国政界及公共伦理监督领域引发了极其强烈的利益冲突担忧与舆论风暴。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576830.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-07T19:49:14+00:00",
-      "published_ts": 1788810554.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.899
-    },
-    {
-      "id": "cnbeta:59d7fe4806de",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "SK海力士加速先进1c DRAM量产布局 预计明年成为公司最大规模存储工艺",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576828.htm",
-      "summary": "<p>随着人工智能、高性能计算和下一代移动设备对先进内存需求持续增长，韩国存储芯片巨头SK海力士正加快向最新一代1c DRAM工艺转型。最新产业消息显示，公司正在大规模调整产能结构，计划将越来越多的DRAM产品迁移至第六代10纳米级1c工艺节点生产，并有望在未来数个季度内确立该工艺的主导地位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-07T19:46:17+00:00",
-      "published_ts": 1788810377.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.897
     },
     {
       "id": "cnbeta:8cc6f9a81dcd",
@@ -275,6 +320,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.826
+    },
+    {
+      "id": "cnbeta:23eedf196f88",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "全球PC出货量下滑 厂商却靠更昂贵的AI电脑赚得更多",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577014.htm",
+      "summary": "<p>全球个人电脑市场正在出现一种看似矛盾的现象：电脑出货量开始下降，但主要厂商的收入却在增长。推动这一变化的关键因素，是人工智能基础设施建设引发的内存芯片短缺，以及由此带来的整机价格上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577014.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T17:00:10+00:00",
+      "published_ts": 1788886810.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.768
     },
     {
       "id": "cnbeta:acfaa9dcaa08",
