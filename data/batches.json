@@ -1,33 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T21:36:28.265235+00:00",
+    "generated_at": "2026-09-08T04:52:04.084056+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-08T22:51:21.213689+00:00",
-      "generated_ts": 1786229481.2136893,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-09T02:32:49.675282+00:00",
-      "generated_ts": 1786242769.6752822,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-09T05:26:29.367512+00:00",
       "generated_ts": 1786253189.3675115,
@@ -7840,6 +7816,61 @@
           "url": "https://www.cnbeta.com.tw/articles/movie/1576798.htm",
           "published_at": "2026-09-07T14:34:56+00:00",
           "summary": "<p>据彭博社报道，字节跳动正准备推出一款面向实时空间视频生成的AI模型，在机器人和自主系统应用领域与Meta、Google母公司Alphabet展开竞争。据知情人士透露，字节跳动创始人张一鸣正在亲自监督这款新模型的开发工作，该模型最快将于下个月发布。知情人士称，张一鸣一直在协调公司旗下各业务部门的相关工作，并为这一项目调配AI资源和算力。该模型的发布时间尚不确定，计划可能会有所变动。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1576798.htm\" target=\"_blank\"><strong>阅读全文</strong><"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-08T04:52:04.084056+00:00",
+      "generated_ts": 1788843124.0840561,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:c37a21a2c326",
+          "title": "联发科官宣天玑旗舰芯片首款Pro版本 定档9月15日发布",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.993,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576884.htm",
+          "published_at": "2026-09-08T04:45:17+00:00",
+          "summary": "<p>9月8日，联发科技官方微博宣布，天玑旗舰芯片系列将迎来首款Pro版本，并于9月15日正式发布。预热信息显示，该芯片将在能效、游戏、影像三大维度实现Pro级升级：能效方面采用DTCO（设计-技术协同优化）制程深度共研并重构芯片架构；游戏方面带来AI深度融合的GPU图形渲染技术与星速引擎全面进化；影像方面宣称重塑Android视频拍摄体验，支持4K 240fps超高速慢动作及专业创作玩法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576884.htm\" target=\"_blank\"><strong>阅读全文</strong"
+        },
+        {
+          "id": "cnbeta:d1bc6440d911",
+          "title": "华为Mate XT2亮出全自研核心芯片 日媒称已摆脱美国限制",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.986,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576872.htm",
+          "published_at": "2026-09-08T04:37:44+00:00",
+          "summary": "<p>据《日经亚洲》报道，华为正式发布最新三折叠屏手机Mate XT2。新机搭载自研麒麟9050 Pro芯片，其CPU、GPU、NPU和通信基带均由华为开发。外媒据此称，这是华为首款采用“不受美国供应限制”核心芯片的三折叠屏手机。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576872.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:ddc5390dbe67",
+          "title": "Chinese Tech Giants Race to Monetize AI Office Agents After Free-Usage Era",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.878,
+          "url": "https://www.tmtpost.com/8132164.html",
+          "published_at": "2026-09-08T02:41:03+00:00",
+          "summary": "ByteDance, Alibaba, Tencent and Baidu have launched or expanded AI productivity agents in mid-2026, shifting from free consumer chatbots toward paid office workflows. Differing strategies—subscriptions, transaction embedding, desktop agents and product matrices—reflect the shared challenge of conver"
+        },
+        {
+          "id": "qbitai:9fe611b849a0",
+          "title": "王云鹤创业后交出首个模型",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.854,
+          "url": "https://www.qbitai.com/2026/09/485555.html",
+          "published_at": "2026-09-08T02:14:47+00:00",
+          "summary": "把多模型执行经验用到了模型训练"
         }
       ]
     }
