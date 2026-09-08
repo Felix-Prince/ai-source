@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T11:29:24.164915+00:00",
-    "generated_ts": 1788866964.1649148,
+    "generated_at": "2026-09-08T16:44:13.861089+00:00",
+    "generated_ts": 1788885853.8610885,
     "window_hours": 24.0,
-    "total": 18
+    "total": 22
   },
   "items": [
     {
@@ -67,6 +67,21 @@
       "importance": 2.722
     },
     {
+      "id": "cnbeta:19298139b79e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Adobe大幅升级Premiere Pro AI工具 让视频生成从“写提示词”变成“直接剪片”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576984.htm",
+      "summary": "<p>Adobe近日公布新一轮视频创作工具更新，其核心目标并非单纯提升AI生成质量，而是让人工智能功能更自然地融入专业剪辑流程之中。公司希望将原本复杂的提示词操作、模型选择和参数调整隐藏在幕后，使视频编辑人员能够像使用传统剪辑工具一样使用生成式AI。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T13:14:02+00:00",
+      "published_ts": 1788873242.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.711
+    },
+    {
       "id": "cnbeta:c37a21a2c326",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -82,6 +97,21 @@
       "importance": 1.993
     },
     {
+      "id": "cnbeta:a923991d3773",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google发布AlphaGenome Atlas 用AI预测人类基因组全部单碱基突变影响",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577008.htm",
+      "summary": "<p>Google DeepMind 于今日(2026年9月8日)宣布推出全新数据库&quot;AlphaGenome Atlas&quot;，该数据库利用人工智能模型对人类基因组中每一种可能发生的单核苷酸变异所产生的影响进行了预测，被称为迄今为止关于基因突变如何影响分子生物学的最全面目录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T16:33:12+00:00",
+      "published_ts": 1788885192.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.989
+    },
+    {
       "id": "cnbeta:d1bc6440d911",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,6 +125,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.986
+    },
+    {
+      "id": "cnbeta:f9c506ffdc51",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "高通宣布与亚马逊AWS 建立数据中心基础设施合作伙伴关系",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577002.htm",
+      "summary": "<p>高通股价周二上涨4%，此前该公司宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系。这家芯片制造商试图在人工智能市场挑战英伟达，此举是一次重大胜利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T16:25:48+00:00",
+      "published_ts": 1788884748.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.982
     },
     {
       "id": "tmtpost:c861c8a3a08c",
@@ -202,6 +247,21 @@
       "importance": 1.854
     },
     {
+      "id": "openai_blog:08c72474410d",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "published_ts": 1788825600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 1.85
+    },
+    {
       "id": "tmtpost:54e1dba65a52",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -215,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.826
+    },
+    {
+      "id": "cnbeta:acfaa9dcaa08",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "NVIDIA或为RTX 5070引入全新核心版本 GB203芯片有望下放至主流市场",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1576954.htm",
+      "summary": "<p>英伟达正在为GeForce RTX 5070准备一个新的硬件版本。与目前采用GB205核心的标准型号不同，新版本可能改用面积更大、定位更高的GB203图形核心。这意味着RTX 5070未来可能出现两种不同GPU版本并行销售的情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-08T11:56:24+00:00",
+      "published_ts": 1788868584.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.741
     },
     {
       "id": "cnbeta:6e51b99dc83d",
@@ -260,21 +335,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.659
-    },
-    {
-      "id": "cnbeta:30f4369b158b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "字节跳动新AI模型曝光：可实时生成空间视频 张一鸣亲自负责",
-      "url": "https://www.cnbeta.com.tw/articles/movie/1576798.htm",
-      "summary": "<p>据彭博社报道，字节跳动正准备推出一款面向实时空间视频生成的AI模型，在机器人和自主系统应用领域与Meta、Google母公司Alphabet展开竞争。据知情人士透露，字节跳动创始人张一鸣正在亲自监督这款新模型的开发工作，该模型最快将于下个月发布。知情人士称，张一鸣一直在协调公司旗下各业务部门的相关工作，并为这一项目调配AI资源和算力。该模型的发布时间尚不确定，计划可能会有所变动。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1576798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-07T14:34:56+00:00",
-      "published_ts": 1788791696.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.633
     }
   ]
 }

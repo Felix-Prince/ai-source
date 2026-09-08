@@ -1,55 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T11:29:24.164915+00:00",
+    "generated_at": "2026-09-08T16:44:13.861089+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-09T13:25:09.756069+00:00",
-      "generated_ts": 1786281909.756069,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "the_verge:86cf59fbfd48",
-          "title": "AI detectors are creating a new era of distrust",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.96,
-          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-          "published_at": "2026-08-09T12:00:00+00:00",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT beca"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-09T14:56:31.135635+00:00",
-      "generated_ts": 1786287391.135635,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:f749e7114459",
-          "title": "The AI safety test is becoming a safety risk",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.975,
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "published_at": "2026-08-09T14:30:00+00:00",
-          "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-09T16:59:58.962157+00:00",
       "generated_ts": 1786294798.962157,
@@ -7916,6 +7870,71 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1576908.htm",
           "published_at": "2026-09-08T05:00:42+00:00",
           "summary": "<p>Arm正式推出新一代Neoverse CSS N4“Ranger”计算子系统平台，进一步强化其在云计算和人工智能基础设施市场的布局。作为Arm半定制芯片战略的重要组成部分，Neoverse CSS N4基于台积电N3P工艺打造，单颗芯片最高可集成128个Neoverse N4核心，成为目前Arm Neoverse家族中配置最灵活、规模最大的计算子系统之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576908.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-08T16:44:13.861089+00:00",
+      "generated_ts": 1788885853.8610885,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:19298139b79e",
+          "title": "Adobe大幅升级Premiere Pro AI工具 让视频生成从“写提示词”变成“直接剪片”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.711,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576984.htm",
+          "published_at": "2026-09-08T13:14:02+00:00",
+          "summary": "<p>Adobe近日公布新一轮视频创作工具更新，其核心目标并非单纯提升AI生成质量，而是让人工智能功能更自然地融入专业剪辑流程之中。公司希望将原本复杂的提示词操作、模型选择和参数调整隐藏在幕后，使视频编辑人员能够像使用传统剪辑工具一样使用生成式AI。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a923991d3773",
+          "title": "Google发布AlphaGenome Atlas 用AI预测人类基因组全部单碱基突变影响",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.989,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577008.htm",
+          "published_at": "2026-09-08T16:33:12+00:00",
+          "summary": "<p>Google DeepMind 于今日(2026年9月8日)宣布推出全新数据库&quot;AlphaGenome Atlas&quot;，该数据库利用人工智能模型对人类基因组中每一种可能发生的单核苷酸变异所产生的影响进行了预测，被称为迄今为止关于基因突变如何影响分子生物学的最全面目录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f9c506ffdc51",
+          "title": "高通宣布与亚马逊AWS 建立数据中心基础设施合作伙伴关系",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.982,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577002.htm",
+          "published_at": "2026-09-08T16:25:48+00:00",
+          "summary": "<p>高通股价周二上涨4%，此前该公司宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系。这家芯片制造商试图在人工智能市场挑战英伟达，此举是一次重大胜利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:08c72474410d",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.85,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "published_at": "2026-09-08T00:00:00+00:00",
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+        },
+        {
+          "id": "cnbeta:acfaa9dcaa08",
+          "title": "NVIDIA或为RTX 5070引入全新核心版本 GB203芯片有望下放至主流市场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.741,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1576954.htm",
+          "published_at": "2026-09-08T11:56:24+00:00",
+          "summary": "<p>英伟达正在为GeForce RTX 5070准备一个新的硬件版本。与目前采用GB205核心的标准型号不同，新版本可能改用面积更大、定位更高的GB203图形核心。这意味着RTX 5070未来可能出现两种不同GPU版本并行销售的情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
