@@ -1,44 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T21:16:10.865335+00:00",
+    "generated_at": "2026-09-09T04:53:46.821822+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-09T22:54:08.761968+00:00",
-      "generated_ts": 1786316048.7619677,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-10T02:38:29.577160+00:00",
-      "generated_ts": 1786329509.57716,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:3e13562f0c75",
-          "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.959,
-          "url": "https://www.qbitai.com/2026/08/469076.html",
-          "published_at": "2026-08-10T01:12:33+00:00",
-          "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-10T05:49:28.970334+00:00",
       "generated_ts": 1786340968.9703343,
@@ -7952,6 +7917,81 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577014.htm",
           "published_at": "2026-09-08T17:00:10+00:00",
           "summary": "<p>全球个人电脑市场正在出现一种看似矛盾的现象：电脑出货量开始下降，但主要厂商的收入却在增长。推动这一变化的关键因素，是人工智能基础设施建设引发的内存芯片短缺，以及由此带来的整机价格上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577014.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-09T04:53:46.821822+00:00",
+      "generated_ts": 1788929626.8218217,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:6cc2505205ff",
+          "title": "DeepSeek V4.1 Flash新模型内测 网友实测：快得飞起",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.982,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577092.htm",
+          "published_at": "2026-09-09T04:41:05+00:00",
+          "summary": "<p>刚刚，DeepSeek宣布，<strong>DeepSeek V4.1 Flash</strong>的中间版本开启内测。新模型采用了<strong>新模型结构</strong>，<strong>原生支持多模态、能力更强、速度更快且成本更低</strong>。开发者保持base_url不变，将模型名设置为<strong>deepseek-v4.1-flash-expires-on-0910</strong>即可调用，当前计费与DeepSeek V4 Flash相同，每账号<strong>限流20并发</strong>。</p> <a href=\"https://www.cnbeta.com"
+        },
+        {
+          "id": "cnbeta:2c01cf89a7e5",
+          "title": "DeepSeek宣布下调Flash系列API价格 最高降幅60%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.979,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577090.htm",
+          "published_at": "2026-09-09T04:39:04+00:00",
+          "summary": "<p>9月9日，据DeepSeek开放平台公告，DeepSeek将于<strong>北京时间9月10日12时起下调Flash系列模型调用价格</strong>。其中，缓存命中、缓存未命中及输出价格最高降幅分别为<strong>60%、33.33%和11.11%</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577090.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e9069a9e17a0",
+          "title": "美国政府指责多家中国AI公司“恶意”复制美国AI技术",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.959,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577070.htm",
+          "published_at": "2026-09-09T04:25:28+00:00",
+          "summary": "<p>路透社消息，美国政府周二指责中国人工智能公司恶意复制美国AI企业的技术。美国执法和情报官员表示，这些中国公司通过一种名为“蒸馏”的技术，复制了美国AI实验室的知识产权。所谓“蒸馏”，是指利用更大、成本更高的模型输出，训练更小的AI模型，以降低新工具的训练成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:857691d02272",
+          "title": "Anthropic研究员Jacob Coxon因不满AI军备竞赛而辞职",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.935,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577056.htm",
+          "published_at": "2026-09-09T04:08:31+00:00",
+          "summary": "<p>Jacob Coxon在X上宣布辞去Anthropic职务。他表示自己过去三年分别在OpenAI和Anthropic从事预训练研究，但认为两家公司都没有以负责任的方式推进AI开发，反而在“直奔自我改进型超级智能”，并将人类安全置于赌局之中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577056.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:82a4bcbc2bf6",
+          "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.93,
+          "url": "https://www.qbitai.com/2026/09/486052.html",
+          "published_at": "2026-09-09T03:39:58+00:00",
+          "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
+        },
+        {
+          "id": "tmtpost:41daf71cf6dc",
+          "title": "【钛晨报】前8个月中国外贸数据重点速览：进出口总值同比增长17.6%，出口汽车增长47.1%；市场监管总局全面启动“放心消费”培育工作；苹果与铠侠签署NAND长期供应协议，或不设价格上限",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.703,
+          "url": "https://www.tmtpost.com/8133415.html",
+          "published_at": "2026-09-08T23:20:00+00:00",
+          "summary": "国务院以“高质量推进城市更新、促进城市内涵式发展”为主题，进行第二十一次专题学习；阿里B2B业务国内外打通，张阔统管1688与国际站；阿斯麦赢得台积电和三星承诺，使用其新一代EUV光刻机；高通将向亚马逊发行至多2500万股股票的认股权证；三部门发文加快提供优质高效眼健康服务；四川首笔“Token算力场景”贷款投放；霸王茶姬开卖茶叶蛋；喜茶重启加盟"
         }
       ]
     }
