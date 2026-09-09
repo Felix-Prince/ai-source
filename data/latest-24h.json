@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T11:34:52.244321+00:00",
-    "generated_ts": 1788953692.2443213,
+    "generated_at": "2026-09-09T16:46:06.934227+00:00",
+    "generated_ts": 1788972366.934227,
     "window_hours": 24.0,
-    "total": 28
+    "total": 26
   },
   "items": [
     {
@@ -127,21 +127,6 @@
       "importance": 2.824
     },
     {
-      "id": "cnbeta:19298139b79e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Adobe大幅升级Premiere Pro AI工具 让视频生成从“写提示词”变成“直接剪片”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576984.htm",
-      "summary": "<p>Adobe近日公布新一轮视频创作工具更新，其核心目标并非单纯提升AI生成质量，而是让人工智能功能更自然地融入专业剪辑流程之中。公司希望将原本复杂的提示词操作、模型选择和参数调整隐藏在幕后，使视频编辑人员能够像使用传统剪辑工具一样使用生成式AI。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-08T13:14:02+00:00",
-      "published_ts": 1788873242.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.711
-    },
-    {
       "id": "cnbeta:8b00a851bdd3",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -232,36 +217,6 @@
       "importance": 1.999
     },
     {
-      "id": "cnbeta:a923991d3773",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布AlphaGenome Atlas 用AI预测人类基因组全部单碱基突变影响",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577008.htm",
-      "summary": "<p>Google DeepMind 于今日(2026年9月8日)宣布推出全新数据库&quot;AlphaGenome Atlas&quot;，该数据库利用人工智能模型对人类基因组中每一种可能发生的单核苷酸变异所产生的影响进行了预测，被称为迄今为止关于基因突变如何影响分子生物学的最全面目录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-08T16:33:12+00:00",
-      "published_ts": 1788885192.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.989
-    },
-    {
-      "id": "cnbeta:f9c506ffdc51",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "高通宣布与亚马逊AWS 建立数据中心基础设施合作伙伴关系",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577002.htm",
-      "summary": "<p>高通股价周二上涨4%，此前该公司宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系。这家芯片制造商试图在人工智能市场挑战英伟达，此举是一次重大胜利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-08T16:25:48+00:00",
-      "published_ts": 1788884748.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.982
-    },
-    {
       "id": "tmtpost:25dcc8d8c1d1",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -320,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.93
+    },
+    {
+      "id": "cnbeta:dff5b072524d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Analog Devices拟斥资13.5亿美元收购Alif Semiconductor",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577190.htm",
+      "summary": "<p>Analog Devices（ADI）将以现金方式收购私营芯片公司Alif Semiconductor，交易金额为13.5亿美元。双方表示，这笔收购将扩充ADI在终端设备上的能力，因为人工智能应用正越来越多地进入实体系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-09T13:43:23+00:00",
+      "published_ts": 1788961403.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.832
     },
     {
       "id": "tmtpost:b14a36ebf464",
@@ -397,21 +367,6 @@
       "importance": 1.768
     },
     {
-      "id": "cnbeta:acfaa9dcaa08",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "NVIDIA或为RTX 5070引入全新核心版本 GB203芯片有望下放至主流市场",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1576954.htm",
-      "summary": "<p>英伟达正在为GeForce RTX 5070准备一个新的硬件版本。与目前采用GB205核心的标准型号不同，新版本可能改用面积更大、定位更高的GB203图形核心。这意味着RTX 5070未来可能出现两种不同GPU版本并行销售的情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-08T11:56:24+00:00",
-      "published_ts": 1788868584.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.741
-    },
-    {
       "id": "tmtpost:41daf71cf6dc",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -425,6 +380,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.703
+    },
+    {
+      "id": "ars_technica:abeefdc40be2",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "published_at": "2026-09-09T11:00:10+00:00",
+      "published_ts": 1788951610.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.693
     }
   ]
 }
