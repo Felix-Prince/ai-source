@@ -1,105 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T16:32:32.203341+00:00",
+    "generated_at": "2026-09-10T20:59:12.137402+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-11T17:17:12.323702+00:00",
-      "generated_ts": 1786468632.3237023,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:d15b2792ffe1",
-          "title": "Testing ads in ChatGPT",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.431,
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "published_at": "2026-08-11T10:00:00+00:00",
-          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-        },
-        {
-          "id": "techcrunch:7ea695e2a67c",
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.975,
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-          "published_at": "2026-08-11T16:25:20+00:00",
-          "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-11T19:30:05.070196+00:00",
-      "generated_ts": 1786476605.0701957,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:e02e74e8dbe8",
-          "title": "Google’s Gemini app surges to one billion users",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.942,
-          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-          "published_at": "2026-08-11T18:49:12+00:00",
-          "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
-        },
-        {
-          "id": "techcrunch:81460dd8b6dc",
-          "title": "OpenAI launches ChatGPT desktop app for Linux",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.986,
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-          "published_at": "2026-08-11T19:15:35+00:00",
-          "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-        },
-        {
-          "id": "the_verge:9deb73477b13",
-          "title": "Another OpenAI executive takes off",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.953,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-          "published_at": "2026-08-11T17:50:01+00:00",
-          "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next h"
-        },
-        {
-          "id": "techcrunch:2ea20712ccb5",
-          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.949,
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-          "published_at": "2026-08-11T17:41:34+00:00",
-          "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
-        },
-        {
-          "id": "techcrunch:5c2357fc1cd2",
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.949,
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-          "published_at": "2026-08-11T17:41:22+00:00",
-          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-11T21:08:29.332530+00:00",
       "generated_ts": 1786482509.3325303,
@@ -8015,6 +7919,91 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577324.htm",
           "published_at": "2026-09-10T11:39:00+00:00",
           "summary": "<p>苹果新款iPhone 18 Pro和iPhone 18 Pro Max即将上市之际，搭载的A20 Pro芯片已经出现在Geekbench 6数据库中，首批基准测试成绩也随之曝光。虽然这些成绩目前仍属于早期测试结果，尚未经过独立验证，但从现有数据来看，A20 Pro的CPU和GPU性能均实现了较为明显的提升，尤其是多核和图形性能的增长幅度相当可观。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-10T20:59:12.137402+00:00",
+      "generated_ts": 1789073952.137402,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:633fa667b7bd",
+          "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.691,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm",
+          "published_at": "2026-09-10T17:13:16+00:00",
+          "summary": "<p>因旗下人工智能模型在网络安全测试中失控脱离沙箱并攻击开源社区Hugging Face，OpenAI正面临来自美国国会参议院的全面调查。随着第三方调查机构披露出更多关于AI智能体协同“越狱”且在外部互联网隐秘串通的惊人细节，美国参议院负责灾难管理监督的下属委员会正式介入，要求OpenAI首席执行官山姆·奥特曼（Sam Altman）就该事件及公司的处置应对接受严厉质询。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577356.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6c01dff36558",
+          "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.674,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm",
+          "published_at": "2026-09-10T17:00:04+00:00",
+          "summary": "<p>美国总务管理局（GSA）发布声明：OpenAI 将结束政府机构每年仅需 1 美元即可调用其大模型的试点项目，改为按实际用量计费；联邦公职人员使用 OpenAI 模型，可享受标准定价<strong>五折优惠</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577352.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:abd8a7e3b394",
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.998,
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "published_at": "2026-09-10T20:57:30+00:00",
+          "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
+        },
+        {
+          "id": "techcrunch:5082d9f12c0d",
+          "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.935,
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "published_at": "2026-09-10T19:50:04+00:00",
+          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+        },
+        {
+          "id": "techcrunch:2a0626fcc6ee",
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.83,
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "published_at": "2026-09-10T17:54:44+00:00",
+          "summary": "Come inside the mind of a bot trying to convince the internet it's human."
+        },
+        {
+          "id": "openai_blog:b5d513620bb1",
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.636,
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+        },
+        {
+          "id": "openai_blog:a00c0016616a",
+          "title": "Introducing the Agents API",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.636,
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
         }
       ]
     }
