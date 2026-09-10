@@ -1,108 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T21:01:01.672644+00:00",
+    "generated_at": "2026-09-10T04:55:20.999914+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-10T21:05:58.429530+00:00",
-      "generated_ts": 1786395958.4295304,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:527a464d68be",
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.942,
-          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-          "published_at": "2026-08-10T20:04:24+00:00",
-          "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
-        },
-        {
-          "id": "techcrunch:d5a2b88121ff",
-          "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.994,
-          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-          "published_at": "2026-08-10T20:53:02+00:00",
-          "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-10T23:00:06.961441+00:00",
-      "generated_ts": 1786402806.9614408,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:9764e6d3a8e0",
-          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.544,
-          "url": "https://openai.com/index/zapier",
-          "published_at": "2026-08-10T00:00:00+00:00",
-          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-        },
-        {
-          "id": "openai_blog:57913097e36d",
-          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.772,
-          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-          "published_at": "2026-08-10T00:00:00+00:00",
-          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-11T02:31:35.166765+00:00",
-      "generated_ts": 1786415495.1667655,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:cee4c8ba8f13",
-          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.931,
-          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-          "published_at": "2026-08-11T00:03:18+00:00",
-          "summary": "San Francisco's housing market is in trouble again."
-        },
-        {
-          "id": "techcrunch:5654cedbf863",
-          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.928,
-          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-          "published_at": "2026-08-10T23:56:15+00:00",
-          "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-11T05:31:38.060440+00:00",
       "generated_ts": 1786426298.06044,
@@ -8006,6 +7907,71 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577206.htm",
           "published_at": "2026-09-09T17:26:54+00:00",
           "summary": "<p>苹果在9月9日举行的新品发布会上正式公布A20 Pro芯片，并确认这款芯片将搭载于iPhone 18 Pro和iPhone 18 Pro Max。A20 Pro采用全新的2纳米制程技术，是苹果首款基于该工艺打造的智能手机芯片，标志着手机处理器正式进入更先进的制程阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577206.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-10T04:55:20.999914+00:00",
+      "generated_ts": 1789016120.999914,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:edeb1c6e46a2",
+          "title": "免费的代价：中国开源大模型出海为什么开始收费",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.849,
+          "url": "https://www.tmtpost.com/8134994.html",
+          "published_at": "2026-09-10T03:07:52+00:00",
+          "summary": "智谱、月之暗面、MiniMax 同期出海，路径各不相同。共同点是：开源许可证正在成为收费工具。"
+        },
+        {
+          "id": "openai_blog:d4e986a1a42d",
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.682,
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "published_at": "2026-09-09T11:00:00+00:00",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+        },
+        {
+          "id": "tmtpost:4d9f7282d7eb",
+          "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.553,
+          "url": "https://www.tmtpost.com/8134558.html",
+          "published_at": "2026-09-09T23:20:00+00:00",
+          "summary": "OpenAI拟拓展芯片设计等垂直行业，并下调部分模型价格；深科技：子公司拟投资18.5亿元扩大高端存储芯片封测产能；阿里辟谣钉钉创始人“无招”回归；娃哈哈集团成被执行人；商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准；8月全球黄金ETF吸金180亿美元，创历史第二大单月流入。"
+        },
+        {
+          "id": "qbitai:df95cd0bc820",
+          "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.82,
+          "url": "https://www.qbitai.com/2026/09/486436.html",
+          "published_at": "2026-09-10T01:39:13+00:00",
+          "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
+        },
+        {
+          "id": "the_verge:762300170c02",
+          "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.604,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "published_at": "2026-09-09T21:16:34+00:00",
+          "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally"
         }
       ]
     }

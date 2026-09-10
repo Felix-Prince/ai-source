@@ -1,86 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T21:01:01.672644+00:00",
-    "generated_ts": 1788987661.6726444,
+    "generated_at": "2026-09-10T04:55:20.999914+00:00",
+    "generated_ts": 1789016120.999914,
     "window_hours": 24.0,
-    "total": 24
+    "total": 22
   },
   "items": [
-    {
-      "id": "techcrunch:0539d968644e",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "published_at": "2026-09-08T21:10:27+00:00",
-      "published_ts": 1788901827.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.992
-    },
-    {
-      "id": "cnbeta:6cc2505205ff",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek V4.1 Flash新模型内测 网友实测：快得飞起",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577092.htm",
-      "summary": "<p>刚刚，DeepSeek宣布，<strong>DeepSeek V4.1 Flash</strong>的中间版本开启内测。新模型采用了<strong>新模型结构</strong>，<strong>原生支持多模态、能力更强、速度更快且成本更低</strong>。开发者保持base_url不变，将模型名设置为<strong>deepseek-v4.1-flash-expires-on-0910</strong>即可调用，当前计费与DeepSeek V4 Flash相同，每账号<strong>限流20并发</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577092.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T04:41:05+00:00",
-      "published_ts": 1788928865.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.982
-    },
-    {
-      "id": "cnbeta:2c01cf89a7e5",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek宣布下调Flash系列API价格 最高降幅60%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577090.htm",
-      "summary": "<p>9月9日，据DeepSeek开放平台公告，DeepSeek将于<strong>北京时间9月10日12时起下调Flash系列模型调用价格</strong>。其中，缓存命中、缓存未命中及输出价格最高降幅分别为<strong>60%、33.33%和11.11%</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577090.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T04:39:04+00:00",
-      "published_ts": 1788928744.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.979
-    },
-    {
-      "id": "cnbeta:e9069a9e17a0",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国政府指责多家中国AI公司“恶意”复制美国AI技术",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577070.htm",
-      "summary": "<p>路透社消息，美国政府周二指责中国人工智能公司恶意复制美国AI企业的技术。美国执法和情报官员表示，这些中国公司通过一种名为“蒸馏”的技术，复制了美国AI实验室的知识产权。所谓“蒸馏”，是指利用更大、成本更高的模型输出，训练更小的AI模型，以降低新工具的训练成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T04:25:28+00:00",
-      "published_ts": 1788927928.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.959
-    },
-    {
-      "id": "cnbeta:857691d02272",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic研究员Jacob Coxon因不满AI军备竞赛而辞职",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577056.htm",
-      "summary": "<p>Jacob Coxon在X上宣布辞去Anthropic职务。他表示自己过去三年分别在OpenAI和Anthropic从事预训练研究，但认为两家公司都没有以负责任的方式推进AI开发，反而在“直奔自我改进型超级智能”，并将人类安全置于赌局之中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577056.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T04:08:31+00:00",
-      "published_ts": 1788926911.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.935
-    },
     {
       "id": "tmtpost:f787068035a1",
       "source": "tmtpost",
@@ -105,6 +30,21 @@
       "summary": "通过巨额资金投入，在算力、模型开发和人才吸纳等方面展开角逐，竞争态势日趋激烈。",
       "published_at": "2026-09-09T09:47:39+00:00",
       "published_ts": 1788947259.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.849
+    },
+    {
+      "id": "tmtpost:edeb1c6e46a2",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "免费的代价：中国开源大模型出海为什么开始收费",
+      "url": "https://www.tmtpost.com/8134994.html",
+      "summary": "智谱、月之暗面、MiniMax 同期出海，路径各不相同。共同点是：开源许可证正在成为收费工具。",
+      "published_at": "2026-09-10T03:07:52+00:00",
+      "published_ts": 1789009672.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -157,6 +97,21 @@
       "importance": 2.69
     },
     {
+      "id": "openai_blog:d4e986a1a42d",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "published_ts": 1788951600.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 2.682
+    },
+    {
       "id": "cnbeta:e4de8948b7a3",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -185,6 +140,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.676
+    },
+    {
+      "id": "tmtpost:4d9f7282d7eb",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
+      "url": "https://www.tmtpost.com/8134558.html",
+      "summary": "OpenAI拟拓展芯片设计等垂直行业，并下调部分模型价格；深科技：子公司拟投资18.5亿元扩大高端存储芯片封测产能；阿里辟谣钉钉创始人“无招”回归；娃哈哈集团成被执行人；商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准；8月全球黄金ETF吸金180亿美元，创历史第二大单月流入。",
+      "published_at": "2026-09-09T23:20:00+00:00",
+      "published_ts": 1788996000.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.553
     },
     {
       "id": "cnbeta:406283fef086",
@@ -217,21 +187,6 @@
       "importance": 1.966
     },
     {
-      "id": "qbitai:82a4bcbc2bf6",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-      "url": "https://www.qbitai.com/2026/09/486052.html",
-      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
-      "published_at": "2026-09-09T03:39:58+00:00",
-      "published_ts": 1788925198.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.93
-    },
-    {
       "id": "cnbeta:dff5b072524d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -245,6 +200,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.832
+    },
+    {
+      "id": "qbitai:df95cd0bc820",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "published_at": "2026-09-10T01:39:13+00:00",
+      "published_ts": 1789004353.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.82
     },
     {
       "id": "cnbeta:4a00a4913eef",
@@ -337,21 +307,6 @@
       "importance": 1.785
     },
     {
-      "id": "tmtpost:41daf71cf6dc",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】前8个月中国外贸数据重点速览：进出口总值同比增长17.6%，出口汽车增长47.1%；市场监管总局全面启动“放心消费”培育工作；苹果与铠侠签署NAND长期供应协议，或不设价格上限",
-      "url": "https://www.tmtpost.com/8133415.html",
-      "summary": "国务院以“高质量推进城市更新、促进城市内涵式发展”为主题，进行第二十一次专题学习；阿里B2B业务国内外打通，张阔统管1688与国际站；阿斯麦赢得台积电和三星承诺，使用其新一代EUV光刻机；高通将向亚马逊发行至多2500万股股票的认股权证；三部门发文加快提供优质高效眼健康服务；四川首笔“Token算力场景”贷款投放；霸王茶姬开卖茶叶蛋；喜茶重启加盟",
-      "published_at": "2026-09-08T23:20:00+00:00",
-      "published_ts": 1788909600.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.703
-    },
-    {
       "id": "ars_technica:abeefdc40be2",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -365,6 +320,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.693
+    },
+    {
+      "id": "the_verge:762300170c02",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+      "published_at": "2026-09-09T21:16:34+00:00",
+      "published_ts": 1788988594.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.604
     }
   ]
 }
