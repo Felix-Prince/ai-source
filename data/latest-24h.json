@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T11:32:10.104417+00:00",
-    "generated_ts": 1789039930.1044168,
+    "generated_at": "2026-09-10T16:32:32.203341+00:00",
+    "generated_ts": 1789057952.2033415,
     "window_hours": 24.0,
-    "total": 22
+    "total": 25
   },
   "items": [
     {
@@ -35,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.887
+    },
+    {
+      "id": "openai_blog:2eb49b8b46a1",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "published_ts": 1789052400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.869
     },
     {
       "id": "tmtpost:edeb1c6e46a2",
@@ -97,6 +112,21 @@
       "importance": 2.652
     },
     {
+      "id": "cnbeta:7447f7dc5176",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI前沿数学训练数据来源与数据使用边界遭深度质疑",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577330.htm",
+      "summary": "<p>伴随OpenAI高调宣布其内部人工智能系统成功攻克困扰数学界近百年的“千禧年大奖难题”之一——纳维-斯托克斯方程（Navier-Stokes）的存在性与光滑性问题，一场围绕前沿模型底层训练数据来源、科研知识产权归属以及学术伦理的巨大争议迅速在全球学术界与科技行业引爆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T11:49:44+00:00",
+      "published_ts": 1789040984.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.618
+    },
+    {
       "id": "cnbeta:3a80f54b7ae4",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -157,34 +187,19 @@
       "importance": 2.499
     },
     {
-      "id": "cnbeta:406283fef086",
+      "id": "cnbeta:9bbc4c7e2cef",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "AI需求引发历史性短缺 三星与SK海力士内存库存跌破10天",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577166.htm",
-      "summary": "<p>全球人工智能产业的爆发式扩张正在半导体供应链端掀起一场前所未有的资源争夺战。根据供应链最新行业调查报告显示，全球存储芯片双雄三星电子与SK海力士的常规内存库存水平已发生断崖式下跌，两家巨头的现货库存可用天数双双跌破10天的极端警戒线，这标志着全球存储芯片市场正陷入近年来罕见的历史性供应短缺。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T11:33:53+00:00",
-      "published_ts": 1788953633.0,
+      "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577350.htm",
+      "summary": "<p>据彭博社报道，美国总务管理局(GSA)的一份声明显示，<strong>OpenAI将终止一项允许政府机构仅以每年1美元使用其模型的试点计划，并转向基于使用量的定价体系</strong>。美国联邦政府工作人员可以按标准价格的五折使用OpenAI的技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577350.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T14:50:43+00:00",
+      "published_ts": 1789051843.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.999
-    },
-    {
-      "id": "cnbeta:dff5b072524d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Analog Devices拟斥资13.5亿美元收购Alif Semiconductor",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577190.htm",
-      "summary": "<p>Analog Devices（ADI）将以现金方式收购私营芯片公司Alif Semiconductor，交易金额为13.5亿美元。双方表示，这笔收购将扩充ADI在终端设备上的能力，因为人工智能应用正越来越多地进入实体系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-09T13:43:23+00:00",
-      "published_ts": 1788961403.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.832
+      "importance": 1.904
     },
     {
       "id": "cnbeta:819b730db8a9",
@@ -290,6 +305,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.776
+    },
+    {
+      "id": "cnbeta:25bb23ab4286",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "蚂蚁国际携手Visa、万事达卡制定AI代理支付标准",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577328.htm",
+      "summary": "<p>蚂蚁国际、Visa和万事达卡近日宣布启动合作，共同探索建立面向人工智能代理的“了解你的代理”（Know Your Agent，KYA）互操作框架，为未来由AI代理代表用户自主完成购物和支付建立统一的身份识别、验证和风险管理标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577328.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T11:48:41+00:00",
+      "published_ts": 1789040921.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.745
+    },
+    {
+      "id": "cnbeta:fd3f56d9d3dd",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "跑分数据显示A20 Pro性能大幅提升 单核最高领先A19 Pro约23%",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577324.htm",
+      "summary": "<p>苹果新款iPhone 18 Pro和iPhone 18 Pro Max即将上市之际，搭载的A20 Pro芯片已经出现在Geekbench 6数据库中，首批基准测试成绩也随之曝光。虽然这些成绩目前仍属于早期测试结果，尚未经过独立验证，但从现有数据来看，A20 Pro的CPU和GPU性能均实现了较为明显的提升，尤其是多核和图形性能的增长幅度相当可观。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T11:39:00+00:00",
+      "published_ts": 1789040340.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.736
     },
     {
       "id": "cnbeta:a52c9fc8ee2f",
