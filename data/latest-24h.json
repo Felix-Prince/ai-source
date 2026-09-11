@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T20:59:12.137402+00:00",
-    "generated_ts": 1789073952.137402,
+    "generated_at": "2026-09-11T04:51:49.214336+00:00",
+    "generated_ts": 1789102309.2143357,
     "window_hours": 24.0,
-    "total": 29
+    "total": 30
   },
   "items": [
     {
@@ -52,19 +52,19 @@
       "importance": 2.869
     },
     {
-      "id": "tmtpost:edeb1c6e46a2",
+      "id": "tmtpost:63a66f689aa0",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "免费的代价：中国开源大模型出海为什么开始收费",
-      "url": "https://www.tmtpost.com/8134994.html",
-      "summary": "智谱、月之暗面、MiniMax 同期出海，路径各不相同。共同点是：开源许可证正在成为收费工具。",
-      "published_at": "2026-09-10T03:07:52+00:00",
-      "published_ts": 1789009672.0,
+      "title": "AI六小虎IPO大年：中美谁先爬过算力成本那道坎",
+      "url": "https://www.tmtpost.com/8130885.html",
+      "summary": "当\"大模型六小虎\"的招股书被摊在聚光灯下，一个被统称掩盖太久的事实开始浮现。",
+      "published_at": "2026-09-11T02:50:32+00:00",
+      "published_ts": 1789095032.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.849
+      "importance": 2.83
     },
     {
       "id": "cnbeta:435a5a9561d5",
@@ -157,21 +157,6 @@
       "importance": 2.584
     },
     {
-      "id": "tmtpost:4d9f7282d7eb",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
-      "url": "https://www.tmtpost.com/8134558.html",
-      "summary": "OpenAI拟拓展芯片设计等垂直行业，并下调部分模型价格；深科技：子公司拟投资18.5亿元扩大高端存储芯片封测产能；阿里辟谣钉钉创始人“无招”回归；娃哈哈集团成被执行人；商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准；8月全球黄金ETF吸金180亿美元，创历史第二大单月流入。",
-      "published_at": "2026-09-09T23:20:00+00:00",
-      "published_ts": 1788996000.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.553
-    },
-    {
       "id": "cnbeta:e7d1ec5b7803",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -202,6 +187,36 @@
       "importance": 2.499
     },
     {
+      "id": "cnbeta:986d43ada3c1",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google正式推出面向Windows平台的Gemini原生桌面应用程序",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577380.htm",
+      "summary": "<p>Google公司正式宣布向全球Windows操作系统用户推出Gemini人工智能助手的原生桌面客户端应用程序。这一长期受PC用户期待的举措，标志着Google不再将Gemini的桌面访问体验局限于网页浏览器标签页之内，而是选择直接切入全球最大的桌面计算操作系统底层生态，正面迎战已深度植入Windows平台的微软Copilot以及OpenAI早前上线的ChatGPT桌面客户端。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577380.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T22:13:50+00:00",
+      "published_ts": 1789078430.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.477
+    },
+    {
+      "id": "cnbeta:189bcf2f40df",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI推出专为金融业者打造的人工智能工具",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577372.htm",
+      "summary": "<p>OpenAI推出面向投资银行家和股票研究员的新工具ChatGPT for Financial Services。该公司周四在一篇博客文章中写到，这款产品将把Daloopa、PitchBook和LSEG News等来源的内置数据，与最新的GPT-6 Astra模型结合起来。随着公司推出更新的人工智能模型，这项服务也将使用这些新模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577372.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T22:04:31+00:00",
+      "published_ts": 1789077871.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.466
+    },
+    {
       "id": "techcrunch:abd8a7e3b394",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -215,6 +230,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.998
+    },
+    {
+      "id": "tmtpost:fe423cb32f36",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "当 AI 智能体开始干活 Arm 为什么更看重 CPU",
+      "url": "https://www.tmtpost.com/8136506.html",
+      "summary": "Arm 首席营销官 Ami Badani表示：“GPU 和 CPU 配比未来会逐步接近，甚至有可能趋近 1:1。”",
+      "published_at": "2026-09-11T04:18:04+00:00",
+      "published_ts": 1789100284.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.968
     },
     {
       "id": "techcrunch:5082d9f12c0d",
@@ -290,21 +320,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.828
-    },
-    {
-      "id": "qbitai:df95cd0bc820",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
-      "published_at": "2026-09-10T01:39:13+00:00",
-      "published_ts": 1789004353.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.82
     },
     {
       "id": "cnbeta:86da4faea2bb",
@@ -397,49 +412,49 @@
       "importance": 1.694
     },
     {
-      "id": "openai_blog:b5d513620bb1",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "published_ts": 1788998400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.636
-    },
-    {
-      "id": "openai_blog:a00c0016616a",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "published_ts": 1788998400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.636
-    },
-    {
-      "id": "the_verge:762300170c02",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
-      "published_at": "2026-09-09T21:16:34+00:00",
-      "published_ts": 1788988594.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:86691cc6a878",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Astra需求激增，OpenAI暂停Pro新用户订阅",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577400.htm",
+      "summary": "<p>据TechCrunch报道，由于新模型Astra带来的需求超出预期，OpenAI已暂停月费200美元的Pro套餐新用户订阅，以缓解基础设施压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577400.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T22:55:57+00:00",
+      "published_ts": 1789080957.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.604
+      "importance": 1.685
+    },
+    {
+      "id": "cnbeta:b4ef982ab657",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "加州正式签署系列严苛新法 限制AI聊天机器人并强化未成年人网络保护",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577388.htm",
+      "summary": "<p>面对生成式人工智能对未成年人心理健康的潜在冲击与沉迷风险，美国加利福尼亚州州长加文·纽森（Gavin Newsom）正式签署了一组开创性的网络与AI安全法案。该揽子法规在全美范围内率先对向未成年人提供服务的AI聊天机器人设定了严格的功能红线，同时全面升级了针对社交平台算法诱导与数据收集的法定问责机制，标志着加州在保护未成年人免受高侵入性数字技术侵害方面再度树立了全美最严格的监管标杆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577388.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T22:20:44+00:00",
+      "published_ts": 1789078844.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.657
+    },
+    {
+      "id": "cnbeta:f5d101ff1d38",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软推进数据中心扩张 计划将算力扩大两倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577374.htm",
+      "summary": "<p>微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。此前，由于算力不足，微软不得不拒接部分人工智能（AI）和云服务业务。了解相关计划的知情人士称，到2032年，微软遍布全球的数据中心网络容量将超过38吉瓦，高于目前约12吉瓦的水平。届时，其容量将超过纽约州用电高峰时的电力需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-10T22:05:20+00:00",
+      "published_ts": 1789077920.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.645
     }
   ]
 }
