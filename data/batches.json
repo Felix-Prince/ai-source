@@ -1,57 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T04:51:49.214336+00:00",
+    "generated_at": "2026-09-11T11:33:22.515187+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-12T05:49:59.881529+00:00",
-      "generated_ts": 1786513799.8815289,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-12T07:56:29.339028+00:00",
-      "generated_ts": 1786521389.339028,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-12T09:34:29.404775+00:00",
-      "generated_ts": 1786527269.4047747,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-12T11:12:56.675676+00:00",
-      "generated_ts": 1786533176.675676,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-12T13:52:53.464777+00:00",
       "generated_ts": 1786542773.4647768,
@@ -8010,6 +7962,121 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577374.htm",
           "published_at": "2026-09-10T22:05:20+00:00",
           "summary": "<p>微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。此前，由于算力不足，微软不得不拒接部分人工智能（AI）和云服务业务。了解相关计划的知情人士称，到2032年，微软遍布全球的数据中心网络容量将超过38吉瓦，高于目前约12吉瓦的水平。届时，其容量将超过纽约州用电高峰时的电力需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-11T11:33:22.515187+00:00",
+      "generated_ts": 1789126402.5151865,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:11bcd7aa139a",
+          "title": "Anthropic指控中国多家AI公司大规模蒸馏 阿里巴巴、月之暗面和DeepSeek被指涉数千万次交互",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.96,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577500.htm",
+          "published_at": "2026-09-11T11:05:18+00:00",
+          "summary": "<p>美国人工智能公司Anthropic近日发布威胁情报报告，指控包括阿里巴巴、Moonshot AI、DeepSeek、小米以及另外数家中国AI实验室在内的机构，曾通过大规模调用Claude的方式提取其模型能力，并将生成结果用于训练和改进自己的人工智能模型。Anthropic将这种行为称为未经授权的“蒸馏攻击”（distillation attack）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:535fb71a0753",
+          "title": "YC总裁呼吁对AI“蒸馏”少点监管：与其限制复制技术不如保持开放与竞争平衡",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.924,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577492.htm",
+          "published_at": "2026-09-11T10:39:53+00:00",
+          "summary": "<p>在OpenAI、Anthropic等美国人工智能企业持续指责中国公司通过“模型蒸馏”复制先进技术之际，美国知名创业加速器Y Combinator首席执行官Garry Tan却公开表达了截然不同的观点。他表示，如果由自己决定，对于蒸馏问题“什么都不会做”，并认为当前监管重点不应放在打击蒸馏行为上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:2059a17ca9e4",
+          "title": "AI回答如何毁灭人类 杀手机器人被排在最后",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.715,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577454.htm",
+          "published_at": "2026-09-11T08:06:08+00:00",
+          "summary": "<p>据《商业内幕》报道，该媒体向OpenAI的ChatGPT、GoogleGemini、Anthropic的Claude以及xAI的Grok提出同一个问题，让它们分析人工智能可能如何导致人类灭绝，并按照可能性排列相关情景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577454.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:fb3956de3b90",
+          "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.579,
+          "url": "https://www.qbitai.com/2026/09/487273.html",
+          "published_at": "2026-09-11T06:19:03+00:00",
+          "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
+        },
+        {
+          "id": "cnbeta:2063c209be3f",
+          "title": "OpenAI将ChatGPT同款GPT-Live-1语音模型开放给开发者 API价格为每分钟0.05美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.579,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577420.htm",
+          "published_at": "2026-09-11T06:18:58+00:00",
+          "summary": "<p>OpenAI近日宣布，将目前用于ChatGPT语音功能的GPT-Live-1正式开放给开发者使用。开发者现在可以通过API把这一语音模型集成到自己的应用和业务流程中，构建能够实时听取用户讲话、同时进行回应的全双工语音助手。该模型的语音前端价格为每分钟0.05美元，后台用于复杂推理的模型则需要按照相应的模型价格另外计费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:927c0912aa0e",
+          "title": "高通详解下一代骁龙旗舰NPU升级：更强AI推理能力将降低对内存的依赖",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.504,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577414.htm",
+          "published_at": "2026-09-11T05:18:01+00:00",
+          "summary": "<p>高通近日进一步公布了骁龙8 Elite Gen 6 Pro的AI处理能力细节，其中最值得关注的是全新Hexagon NPU的升级。与过去单纯追求AI算力增长不同，高通此次更加重视AI模型运行效率、内存访问以及功耗控制，希望让下一代旗舰手机能够在本地运行规模更大的生成式AI模型和AI智能体。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577414.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:624946b02924",
+          "title": "32天就下架 DeepSeek为何对自家旗舰下狠手",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.877,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577486.htm",
+          "published_at": "2026-09-11T09:21:16+00:00",
+          "summary": "<p><strong>从正式发布到被Flash接替，DeepSeek只给V4 Pro正式版留了32天。</strong>9月10日，DeepSeek发布V4.1 Flash，同时宣布：从北京时间9月14日中午12点起，官方API中发给V4 Pro的请求，将全部由Flash接手，并按更低的Flash价格收费。这项安排会一直持续到V4.1 Pro推出。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577486.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:108925236521",
+          "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.875,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm",
+          "published_at": "2026-09-11T09:19:02+00:00",
+          "summary": "<p>据彭博社报道，<strong>“国产GPU四小龙”之一的燧原科技今天正式在上交所科创板上市‌，首日大涨，推动该公司两位创始人赵立东、张亚林成为亿万富翁</strong>。燧原科技目前员工不到900人，只有一个大客户，而且自2018年成立以来从未盈利。但是，这并未阻止该公司创始人赵立东和张亚林成为亿万富翁，因为渴望抓住AI机遇的投资者纷纷向该公司注资。除这两人外，腾讯是燧原科技的最大股东，同时也是该公司的最大客户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577482.htm\" target=\"_blank\"><stron"
+        },
+        {
+          "id": "cnbeta:98c17b985d4d",
+          "title": "Anthropic披露AI相亲骗局：2.5万人聊天 75%匹配对象是机器人",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.823,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577474.htm",
+          "published_at": "2026-09-11T08:21:17+00:00",
+          "summary": "<p>9月11日，Anthropic发布最新AI滥用报告称，App开发工作室利用Claude开发并运营超过20款交友软件。平台宣称用户均为真人，但普通用户刷到的匹配对象中，约75%是AI角色。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577474.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c1f6f032a50c",
+          "title": "OpenAI退出数学活动赞助 此前被批抢功制造“垃圾数学”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.816,
+          "url": "https://www.cnbeta.com.tw/articles/science/1577470.htm",
+          "published_at": "2026-09-11T08:12:49+00:00",
+          "summary": "<p>9月11日，据《商业内幕》报道，OpenAI眼下试图解决的最新数学难题，是一群愤怒的数学家。OpenAI一名研究员周四表示，该公司不再赞助加州理工学院的“数学黑客马拉松”。该活动让参与者使用大语言模型解决研究问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577470.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
