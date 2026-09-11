@@ -1,135 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T11:33:22.515187+00:00",
+    "generated_at": "2026-09-11T16:37:00.774816+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-12T13:52:53.464777+00:00",
-      "generated_ts": 1786542773.4647768,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "openai_blog:e39993603042",
-          "title": "From assistance to execution: How enterprises put AI to work",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 3.584,
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "published_at": "2026-08-12T06:00:00+00:00",
-          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-        },
-        {
-          "id": "qbitai:b1c40821e376",
-          "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.993,
-          "url": "https://www.qbitai.com/2026/08/471162.html",
-          "published_at": "2026-08-12T13:38:09+00:00",
-          "summary": "Dario能不能少吓唬点人…"
-        },
-        {
-          "id": "the_verge:b77348712db9",
-          "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.951,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-          "published_at": "2026-08-12T12:09:34+00:00",
-          "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA c"
-        },
-        {
-          "id": "the_verge:55d231efa4fa",
-          "title": "Grok is now an AI ‘teammate’ you can assign work",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.947,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-          "published_at": "2026-08-12T11:58:54+00:00",
-          "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace ta"
-        },
-        {
-          "id": "qbitai:cbbbace7ab8e",
-          "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.918,
-          "url": "https://www.qbitai.com/2026/08/471030.html",
-          "published_at": "2026-08-12T10:54:29+00:00",
-          "summary": "免训练、开箱即用！"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-12T15:24:25.628988+00:00",
-      "generated_ts": 1786548265.6289883,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:c215c040d05e",
-          "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.92,
-          "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-          "published_at": "2026-08-12T14:00:00+00:00",
-          "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage."
-        },
-        {
-          "id": "the_verge:430727036348",
-          "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.974,
-          "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-          "published_at": "2026-08-12T14:30:00+00:00",
-          "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, a"
-        },
-        {
-          "id": "techcrunch:d3123203536f",
-          "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.97,
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-          "published_at": "2026-08-12T14:20:33+00:00",
-          "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
-        },
-        {
-          "id": "techcrunch:b49082de4bba",
-          "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 0.96,
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
-          "published_at": "2026-08-12T14:00:00+00:00",
-          "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking."
-        },
-        {
-          "id": "ars_technica:75901046f3a6",
-          "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.95,
-          "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-          "published_at": "2026-08-12T13:37:12+00:00",
-          "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-12T17:17:27.699599+00:00",
       "generated_ts": 1786555047.6995986,
@@ -8077,6 +7951,81 @@
           "url": "https://www.cnbeta.com.tw/articles/science/1577470.htm",
           "published_at": "2026-09-11T08:12:49+00:00",
           "summary": "<p>9月11日，据《商业内幕》报道，OpenAI眼下试图解决的最新数学难题，是一群愤怒的数学家。OpenAI一名研究员周四表示，该公司不再赞助加州理工学院的“数学黑客马拉松”。该活动让参与者使用大语言模型解决研究问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577470.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-11T16:37:00.774816+00:00",
+      "generated_ts": 1789144620.7748163,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:051a9a80c6e9",
+          "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.652,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577512.htm",
+          "published_at": "2026-09-11T12:20:29+00:00",
+          "summary": "<p>Anthropic发现，也门北部一个团体正在利用其Claude人工智能模型协助研发导弹和火箭系统，进一步凸显外界对于先进AI被用于军事项目以及被非国家行为体使用的担忧。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577512.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4acf7ab4b45d",
+          "title": "遭数百名数学家联名抵制 OpenAI宣布退出加州理工学院AI数学黑客松赞助",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.645,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577508.htm",
+          "published_at": "2026-09-11T12:15:39+00:00",
+          "summary": "<p>在遭遇学术界近八百名数学家签署公开信的强烈抗议后，人工智能巨头OpenAI宣布正式撤回对加州理工学院（Caltech）AI数学黑客松（Mathathon）的赞助与算力支持。这场原定于10月30日举行的高校赛事因被指将严谨的纯数学研究异化为商业AI公司的宣传秀场并产生大量未经检验的学术噪音，在顶尖学术界引发了罕见的反弹风暴，同时也让联合赞助商Anthropic陷入了去留抉择的舆论风口。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577508.htm\" target=\"_blank\"><strong>阅读全文</strong>"
+        },
+        {
+          "id": "the_verge:20ffe826e354",
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.973,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "published_at": "2026-09-11T16:09:14+00:00",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will"
+        },
+        {
+          "id": "tmtpost:bf60a12ebeb8",
+          "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.815,
+          "url": "https://www.tmtpost.com/8135323.html",
+          "published_at": "2026-09-11T13:15:37+00:00",
+          "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。"
+        },
+        {
+          "id": "cnbeta:f2ec082e786d",
+          "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.789,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm",
+          "published_at": "2026-09-11T12:45:13+00:00",
+          "summary": "<p>SpaceX正在快速扩张人工智能基础设施业务，并拿下了一笔规模惊人的算力订单。SpaceX首席财务官布雷特·约翰森近日透露，公司本月早些时候与一家身份未公开的客户签署了一份云计算协议。从2026年12月开始，该客户每月将向SpaceX支付约11.1亿美元，以获得AI计算基础设施的使用权。按照这一金额计算，合同年化价值将达到约133亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:68eea9deaa28",
+          "title": "法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.779,
+          "url": "https://www.tmtpost.com/8136831.html",
+          "published_at": "2026-09-11T12:33:58+00:00",
+          "summary": "股份本身是通过凯辉资本（Cathay Capital）购买的，这是一家法中投资公司，在法国颇具知名度。"
         }
       ]
     }

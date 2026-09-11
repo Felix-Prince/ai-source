@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T11:33:22.515187+00:00",
-    "generated_ts": 1789126402.5151865,
+    "generated_at": "2026-09-11T16:37:00.774816+00:00",
+    "generated_ts": 1789144620.7748163,
     "window_hours": 24.0,
-    "total": 27
+    "total": 28
   },
   "items": [
     {
@@ -35,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.924
-    },
-    {
-      "id": "openai_blog:2eb49b8b46a1",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "published_ts": 1789052400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.869
     },
     {
       "id": "tmtpost:63a66f689aa0",
@@ -112,34 +97,34 @@
       "importance": 2.674
     },
     {
-      "id": "cnbeta:7447f7dc5176",
+      "id": "cnbeta:051a9a80c6e9",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI前沿数学训练数据来源与数据使用边界遭深度质疑",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577330.htm",
-      "summary": "<p>伴随OpenAI高调宣布其内部人工智能系统成功攻克困扰数学界近百年的“千禧年大奖难题”之一——纳维-斯托克斯方程（Navier-Stokes）的存在性与光滑性问题，一场围绕前沿模型底层训练数据来源、科研知识产权归属以及学术伦理的巨大争议迅速在全球学术界与科技行业引爆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T11:49:44+00:00",
-      "published_ts": 1789040984.0,
+      "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577512.htm",
+      "summary": "<p>Anthropic发现，也门北部一个团体正在利用其Claude人工智能模型协助研发导弹和火箭系统，进一步凸显外界对于先进AI被用于军事项目以及被非国家行为体使用的担忧。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577512.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-11T12:20:29+00:00",
+      "published_ts": 1789129229.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.618
+      "importance": 2.652
     },
     {
-      "id": "qbitai:fb3956de3b90",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "url": "https://www.qbitai.com/2026/09/487273.html",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-      "published_at": "2026-09-11T06:19:03+00:00",
-      "published_ts": 1789107543.0,
+      "id": "cnbeta:4acf7ab4b45d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "遭数百名数学家联名抵制 OpenAI宣布退出加州理工学院AI数学黑客松赞助",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577508.htm",
+      "summary": "<p>在遭遇学术界近八百名数学家签署公开信的强烈抗议后，人工智能巨头OpenAI宣布正式撤回对加州理工学院（Caltech）AI数学黑客松（Mathathon）的赞助与算力支持。这场原定于10月30日举行的高校赛事因被指将严谨的纯数学研究异化为商业AI公司的宣传秀场并产生大量未经检验的学术噪音，在顶尖学术界引发了罕见的反弹风暴，同时也让联合赞助商Anthropic陷入了去留抉择的舆论风口。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-11T12:15:39+00:00",
+      "published_ts": 1789128939.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.579
+      "importance": 2.645
     },
     {
       "id": "cnbeta:2063c209be3f",
@@ -150,6 +135,21 @@
       "summary": "<p>OpenAI近日宣布，将目前用于ChatGPT语音功能的GPT-Live-1正式开放给开发者使用。开发者现在可以通过API把这一语音模型集成到自己的应用和业务流程中，构建能够实时听取用户讲话、同时进行回应的全双工语音助手。该模型的语音前端价格为每分钟0.05美元，后台用于复杂推理的模型则需要按照相应的模型价格另外计费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-09-11T06:18:58+00:00",
       "published_ts": 1789107538.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.579
+    },
+    {
+      "id": "qbitai:fb3956de3b90",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "url": "https://www.qbitai.com/2026/09/487273.html",
+      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "published_at": "2026-09-11T06:19:03+00:00",
+      "published_ts": 1789107543.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -217,6 +217,21 @@
       "importance": 1.998
     },
     {
+      "id": "the_verge:20ffe826e354",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+      "published_at": "2026-09-11T16:09:14+00:00",
+      "published_ts": 1789142954.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.973
+    },
+    {
       "id": "tmtpost:fe423cb32f36",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -245,21 +260,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.935
-    },
-    {
-      "id": "cnbeta:9bbc4c7e2cef",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577350.htm",
-      "summary": "<p>据彭博社报道，美国总务管理局(GSA)的一份声明显示，<strong>OpenAI将终止一项允许政府机构仅以每年1美元使用其模型的试点计划，并转向基于使用量的定价体系</strong>。美国联邦政府工作人员可以按标准价格的五折使用OpenAI的技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577350.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T14:50:43+00:00",
-      "published_ts": 1789051843.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.904
     },
     {
       "id": "cnbeta:624946b02924",
@@ -337,34 +337,49 @@
       "importance": 1.816
     },
     {
-      "id": "cnbeta:25bb23ab4286",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "蚂蚁国际携手Visa、万事达卡制定AI代理支付标准",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577328.htm",
-      "summary": "<p>蚂蚁国际、Visa和万事达卡近日宣布启动合作，共同探索建立面向人工智能代理的“了解你的代理”（Know Your Agent，KYA）互操作框架，为未来由AI代理代表用户自主完成购物和支付建立统一的身份识别、验证和风险管理标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577328.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T11:48:41+00:00",
-      "published_ts": 1789040921.0,
+      "id": "tmtpost:bf60a12ebeb8",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+      "url": "https://www.tmtpost.com/8135323.html",
+      "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
+      "published_at": "2026-09-11T13:15:37+00:00",
+      "published_ts": 1789132537.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.745
+      "importance": 1.815
     },
     {
-      "id": "cnbeta:fd3f56d9d3dd",
+      "id": "cnbeta:f2ec082e786d",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "跑分数据显示A20 Pro性能大幅提升 单核最高领先A19 Pro约23%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577324.htm",
-      "summary": "<p>苹果新款iPhone 18 Pro和iPhone 18 Pro Max即将上市之际，搭载的A20 Pro芯片已经出现在Geekbench 6数据库中，首批基准测试成绩也随之曝光。虽然这些成绩目前仍属于早期测试结果，尚未经过独立验证，但从现有数据来看，A20 Pro的CPU和GPU性能均实现了较为明显的提升，尤其是多核和图形性能的增长幅度相当可观。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T11:39:00+00:00",
-      "published_ts": 1789040340.0,
+      "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm",
+      "summary": "<p>SpaceX正在快速扩张人工智能基础设施业务，并拿下了一笔规模惊人的算力订单。SpaceX首席财务官布雷特·约翰森近日透露，公司本月早些时候与一家身份未公开的客户签署了一份云计算协议。从2026年12月开始，该客户每月将向SpaceX支付约11.1亿美元，以获得AI计算基础设施的使用权。按照这一金额计算，合同年化价值将达到约133亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-11T12:45:13+00:00",
+      "published_ts": 1789130713.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.736
+      "importance": 1.789
+    },
+    {
+      "id": "tmtpost:68eea9deaa28",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注",
+      "url": "https://www.tmtpost.com/8136831.html",
+      "summary": "股份本身是通过凯辉资本（Cathay Capital）购买的，这是一家法中投资公司，在法国颇具知名度。",
+      "published_at": "2026-09-11T12:33:58+00:00",
+      "published_ts": 1789130038.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.779
     },
     {
       "id": "cnbeta:86691cc6a878",
