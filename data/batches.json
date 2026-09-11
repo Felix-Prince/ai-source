@@ -1,55 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T16:37:00.774816+00:00",
+    "generated_at": "2026-09-11T21:04:01.246485+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-12T17:17:27.699599+00:00",
-      "generated_ts": 1786555047.6995986,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "the_verge:729151dc8c54",
-          "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 0.991,
-          "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-          "published_at": "2026-08-12T16:58:29+00:00",
-          "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-12T19:31:31.037998+00:00",
-      "generated_ts": 1786563091.0379977,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:22f780bf880e",
-          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.897,
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-          "published_at": "2026-08-12T17:41:29+00:00",
-          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-12T21:07:37.102429+00:00",
       "generated_ts": 1786568857.102429,
@@ -8026,6 +7980,51 @@
           "url": "https://www.tmtpost.com/8136831.html",
           "published_at": "2026-09-11T12:33:58+00:00",
           "summary": "股份本身是通过凯辉资本（Cathay Capital）购买的，这是一家法中投资公司，在法国颇具知名度。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-11T21:04:01.246485+00:00",
+      "generated_ts": 1789160641.2464845,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:ddc6fc72d4e0",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.269,
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "published_at": "2026-09-11T10:00:00+00:00",
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+        },
+        {
+          "id": "techcrunch:895059493f0e",
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.917,
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "published_at": "2026-09-11T19:35:54+00:00",
+          "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+        },
+        {
+          "id": "cnbeta:1e11c8acffc8",
+          "title": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.867,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577548.htm",
+          "published_at": "2026-09-11T18:41:11+00:00",
+          "summary": "<p>随着全球人工智能与高性能计算（HPC）芯片需求呈现持续失控式增长，全球晶圆代工龙头台积电正面临空前严峻的交付瓶颈。据半导体供应链与权威行业最新分析报告披露，台积电计划在未来数年内展开新一轮激进扩产，目标是到2028年将其核心的CoWoS（Chip-on-Wafer-on-Substrate）先进封装产能提升一倍以上；与此同时，由于现有产能早已被英伟达等巨头提前包圆且供不应求，大量AI芯片先进封装订单正加速向英特尔及台系封测代工企业发生大规模外溢。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577548.htm\" targe"
         }
       ]
     }

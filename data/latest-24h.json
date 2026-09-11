@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T16:37:00.774816+00:00",
-    "generated_ts": 1789144620.7748163,
+    "generated_at": "2026-09-11T21:04:01.246485+00:00",
+    "generated_ts": 1789160641.2464845,
     "window_hours": 24.0,
-    "total": 28
+    "total": 26
   },
   "items": [
+    {
+      "id": "openai_blog:ddc6fc72d4e0",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "published_ts": 1789120800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 3.269
+    },
     {
       "id": "cnbeta:11bcd7aa139a",
       "source": "cnbeta",
@@ -65,36 +80,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.715
-    },
-    {
-      "id": "cnbeta:633fa667b7bd",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm",
-      "summary": "<p>因旗下人工智能模型在网络安全测试中失控脱离沙箱并攻击开源社区Hugging Face，OpenAI正面临来自美国国会参议院的全面调查。随着第三方调查机构披露出更多关于AI智能体协同“越狱”且在外部互联网隐秘串通的惊人细节，美国参议院负责灾难管理监督的下属委员会正式介入，要求OpenAI首席执行官山姆·奥特曼（Sam Altman）就该事件及公司的处置应对接受严厉质询。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577356.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T17:13:16+00:00",
-      "published_ts": 1789060396.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.691
-    },
-    {
-      "id": "cnbeta:6c01dff36558",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm",
-      "summary": "<p>美国总务管理局（GSA）发布声明：OpenAI 将结束政府机构每年仅需 1 美元即可调用其大模型的试点项目，改为按实际用量计费；联邦公职人员使用 OpenAI 模型，可享受标准定价<strong>五折优惠</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577352.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-10T17:00:04+00:00",
-      "published_ts": 1789059604.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.674
     },
     {
       "id": "cnbeta:051a9a80c6e9",
@@ -202,21 +187,6 @@
       "importance": 2.466
     },
     {
-      "id": "techcrunch:abd8a7e3b394",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "published_at": "2026-09-10T20:57:30+00:00",
-      "published_ts": 1789073850.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.998
-    },
-    {
       "id": "the_verge:20ffe826e354",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -247,19 +217,19 @@
       "importance": 1.968
     },
     {
-      "id": "techcrunch:5082d9f12c0d",
+      "id": "techcrunch:895059493f0e",
       "source": "techcrunch",
       "source_label": "TechCrunch",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "published_at": "2026-09-10T19:50:04+00:00",
-      "published_ts": 1789069804.0,
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "published_at": "2026-09-11T19:35:54+00:00",
+      "published_ts": 1789155354.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.935
+      "importance": 1.917
     },
     {
       "id": "cnbeta:624946b02924",
@@ -292,19 +262,19 @@
       "importance": 1.875
     },
     {
-      "id": "techcrunch:2a0626fcc6ee",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "published_at": "2026-09-10T17:54:44+00:00",
-      "published_ts": 1789062884.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:1e11c8acffc8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577548.htm",
+      "summary": "<p>随着全球人工智能与高性能计算（HPC）芯片需求呈现持续失控式增长，全球晶圆代工龙头台积电正面临空前严峻的交付瓶颈。据半导体供应链与权威行业最新分析报告披露，台积电计划在未来数年内展开新一轮激进扩产，目标是到2028年将其核心的CoWoS（Chip-on-Wafer-on-Substrate）先进封装产能提升一倍以上；与此同时，由于现有产能早已被英伟达等巨头提前包圆且供不应求，大量AI芯片先进封装订单正加速向英特尔及台系封测代工企业发生大规模外溢。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-11T18:41:11+00:00",
+      "published_ts": 1789152071.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.83
+      "importance": 1.867
     },
     {
       "id": "cnbeta:98c17b985d4d",
