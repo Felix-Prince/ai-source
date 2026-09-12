@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T15:38:12.683580+00:00",
-    "generated_ts": 1789227492.6835802,
+    "generated_at": "2026-09-12T20:40:37.906876+00:00",
+    "generated_ts": 1789245637.9068758,
     "window_hours": 24.0,
-    "total": 18
+    "total": 17
   },
   "items": [
     {
@@ -35,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.829
+    },
+    {
+      "id": "cnbeta:03853e4470a8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577648.htm",
+      "summary": "<p>Anthropic首席执行官Dario Amodei表示，人工智能行业需要放慢新模型的开发速度，并提到人们越来越担忧人工智能会给人类带来“严重”风险。“我们必须放慢提升人工智能模型能力的速度，”他周六在一篇博客文章中写道，“进步看起来仍会很快，我们必须明智利用由此争取到的时间。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577648.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-12T18:32:27+00:00",
+      "published_ts": 1789237947.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.82
     },
     {
       "id": "cnbeta:7ed398218434",
@@ -112,34 +127,19 @@
       "importance": 1.996
     },
     {
-      "id": "the_verge:20ffe826e354",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
-      "published_at": "2026-09-11T16:09:14+00:00",
-      "published_ts": 1789142954.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.973
-    },
-    {
-      "id": "techcrunch:895059493f0e",
+      "id": "techcrunch:8bde5f696cdb",
       "source": "techcrunch",
       "source_label": "TechCrunch",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "published_at": "2026-09-11T19:35:54+00:00",
-      "published_ts": 1789155354.0,
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "published_at": "2026-09-12T19:34:44+00:00",
+      "published_ts": 1789241684.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.917
+      "importance": 1.938
     },
     {
       "id": "qbitai:2bcda088d467",
@@ -155,21 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.88
-    },
-    {
-      "id": "cnbeta:1e11c8acffc8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577548.htm",
-      "summary": "<p>随着全球人工智能与高性能计算（HPC）芯片需求呈现持续失控式增长，全球晶圆代工龙头台积电正面临空前严峻的交付瓶颈。据半导体供应链与权威行业最新分析报告披露，台积电计划在未来数年内展开新一轮激进扩产，目标是到2028年将其核心的CoWoS（Chip-on-Wafer-on-Substrate）先进封装产能提升一倍以上；与此同时，由于现有产能早已被英伟达等巨头提前包圆且供不应求，大量AI芯片先进封装订单正加速向英特尔及台系封测代工企业发生大规模外溢。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T18:41:11+00:00",
-      "published_ts": 1789152071.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.867
     },
     {
       "id": "cnbeta:498cadecffd5",
