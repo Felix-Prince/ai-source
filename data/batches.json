@@ -1,56 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T04:44:58.173559+00:00",
+    "generated_at": "2026-09-12T10:58:01.107860+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-13T05:52:15.161598+00:00",
-      "generated_ts": 1786600335.1615984,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "qbitai:833a4be7a63b",
-          "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 0.945,
-          "url": "https://www.qbitai.com/2026/08/471642.html",
-          "published_at": "2026-08-13T03:54:01+00:00",
-          "summary": "现在调用V4 Pro，能直接用上完全体"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-13T07:58:13.048089+00:00",
-      "generated_ts": 1786607893.048089,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-13T09:35:53.698009+00:00",
-      "generated_ts": 1786613753.6980085,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-13T11:13:34.994109+00:00",
       "generated_ts": 1786619614.994109,
@@ -8002,6 +7955,111 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577552.htm",
           "published_at": "2026-09-11T22:27:27+00:00",
           "summary": "<p>美国参议院两党立法谈判代表正就一项重要的人工智能监管法案展开密集磋商。根据多位参议院助理及知情人士透露，该提案拟对前沿技术企业施加明确的法律责任，要求其从底层设计端打造安全的人工智能产品并化解已知的重大灾难性风险；同时，法案还探讨赋予美国联邦政府在特定极端危险情形下叫停AI模型发布的权力，并允许科技企业就此类行政干预向联邦法院提起司法挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577552.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-12T10:58:01.107860+00:00",
+      "generated_ts": 1789210681.1078603,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:97323a4e2948",
+          "title": "Kimi发布K2.8：性能逼近K3 百万上下文全员开放",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.621,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577580.htm",
+          "published_at": "2026-09-12T06:17:32+00:00",
+          "summary": "<p>Kimi又发了个新模型，把K3的能力打到全价位段了。9月11日，Kimi K2.8 Preview在Kimi Code和Kimi Work全量上线，官方称综合性能接近旗舰 K3，且Coding和Agent能力进一步提升。最实质的变化是在权限上，<strong>所有会员档位都能用上1M上下文了！</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577580.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:52677b4eded0",
+          "title": "OpenAI把Codex“拆开卖了”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.61,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577572.htm",
+          "published_at": "2026-09-12T06:08:54+00:00",
+          "summary": "<p>OpenAI昨天一口气打出了四张大牌。Agents API、GPT-Live-1 API、Data agent、ChatGPT for Financial Services，一天横跨Agent、语音、数据和金融四条产品线，每一条都值得单独拿出来说道。但这四张牌里，最值得看的可能还是Agents API。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577572.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:bacc5bf64f9c",
+          "title": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.597,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577560.htm",
+          "published_at": "2026-09-12T05:58:20+00:00",
+          "summary": "<p>据报道，OpenAI正在测试的人工智能智能体在7月份黑入AI软件公司Hugging Face的两个月前，就对一款热门软件服务发起了网络攻击。这一新事件表明，先进的人工智能工具存在脱离人类控制的潜在风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577560.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:2bcda088d467",
+          "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.88,
+          "url": "https://www.qbitai.com/2026/09/487796.html",
+          "published_at": "2026-09-12T08:49:02+00:00",
+          "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+        },
+        {
+          "id": "cnbeta:498cadecffd5",
+          "title": "Google陷开源代码争议风波 AI移动自动化项目被指未经充分署名采用社区成果",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.845,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577626.htm",
+          "published_at": "2026-09-12T08:10:58+00:00",
+          "summary": "<p>Google近日因一项人工智能移动自动化工具陷入开源社区争议。一家专注于移动设备AI控制技术的创业公司公开指控Google在开发内部项目过程中，大量使用其开源项目代码、提示词设计以及测试案例，却未按照开源许可证要求保留原作者署名信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c255dfc60ca9",
+          "title": "英伟达考虑向Anthropic IPO投资100亿美元 超级IPO估值或达2万亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.768,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577624.htm",
+          "published_at": "2026-09-12T06:41:36+00:00",
+          "summary": "<p>人工智能公司Anthropic正在筹备一场可能成为全球历史上最大规模的首次公开募股（IPO），而英伟达正考虑以基石投资者身份参与其中。知情人士透露，Anthropic计划通过IPO筹集最多1000亿美元资金，公司上市后的估值可能达到约2万亿美元；英伟达则考虑投入最多100亿美元认购其股票。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577624.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9d4c75c6082b",
+          "title": "Google选定芬兰实施其在欧史上最大单笔投资 采购一半核电站产出",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.757,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577604.htm",
+          "published_at": "2026-09-12T06:29:20+00:00",
+          "summary": "<p>美国科技巨头Google公司宣布，计划在2027至2028年间向芬兰的数字与人工智能（AI）基础设施投资至少130亿欧元（约合150亿美元）。这是Google迄今为止在欧洲本土进行的最大一笔单一投资项目，旨在通过大规模扩建绿色数据中心与清洁能源配套，全面筑牢其在欧洲的端侧与云端算力底座，预计将在全芬兰范围内拉动数以万计的就业岗位并显著刺激经济增长。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577604.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:647b1c9e95f3",
+          "title": "月之暗面：网传关于创始人及员工的信息纯属虚构 系恶意造谣",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.749,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577584.htm",
+          "published_at": "2026-09-12T06:18:53+00:00",
+          "summary": "<p>月之暗面官方辟谣。9月12日，国内AI大模型独角兽月之暗面官微发文称：网传关于创始人及员工的信息纯属虚构，系恶意造谣，公司已第一时间向公安机关报案，将依法追究相关造谣者的法律责任。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577584.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:392fe1d73489",
+          "title": "陶哲轩、邓煜等菲奖得主联合抗议：AI公司正毁掉整个数学圈",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.739,
+          "url": "https://www.cnbeta.com.tw/articles/science/1577568.htm",
+          "published_at": "2026-09-12T06:07:23+00:00",
+          "summary": "<p>OpenAI，又开始对黎曼猜想和P与NP问题下手了？？最近，这些AI大公司仿佛疯了一般在冲刺“千禧年问题”的KPI。9月8日，NS方程被宣布解决；9月11日，第二道千禧年难题霍奇猜想被曝接近解决；据称，O/A两家正疯狂竞速，向BSD猜想发起冲锋。<strong>到了今天，又有惊人消息传来：OpenAI已经在用内部模型尝试解决黎曼猜想和P与NP问题。如果该模型证明了 P = NP，整个计算机科学领域都将被颠覆！</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577568.htm\" target=\"_bla"
         }
       ]
     }
