@@ -1,87 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T21:04:01.246485+00:00",
+    "generated_at": "2026-09-12T04:44:58.173559+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-12T21:07:37.102429+00:00",
-      "generated_ts": 1786568857.102429,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-12T23:05:58.050738+00:00",
-      "generated_ts": 1786575958.0507379,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "techcrunch:95a5e2af5e4a",
-          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.962,
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-          "published_at": "2026-08-12T22:26:37+00:00",
-          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-        },
-        {
-          "id": "ars_technica:29e640b17291",
-          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.924,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-          "published_at": "2026-08-12T20:20:52+00:00",
-          "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\""
-        },
-        {
-          "id": "openai_blog:1299f9a22d6d",
-          "title": "How RingCentral builds AI-native work from engineering to ops",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 0.77,
-          "url": "https://openai.com/index/ringcentral",
-          "published_at": "2026-08-12T00:00:00+00:00",
-          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-13T03:03:29.305768+00:00",
-      "generated_ts": 1786590209.3057685,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": [
-        {
-          "id": "ars_technica:1fcb368daaca",
-          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 0.877,
-          "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-          "published_at": "2026-08-12T22:31:19+00:00",
-          "summary": "Boy's unusual symptoms could help identify the next case sooner."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-13T05:52:15.161598+00:00",
       "generated_ts": 1786600335.1615984,
@@ -8025,6 +7947,61 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577548.htm",
           "published_at": "2026-09-11T18:41:11+00:00",
           "summary": "<p>随着全球人工智能与高性能计算（HPC）芯片需求呈现持续失控式增长，全球晶圆代工龙头台积电正面临空前严峻的交付瓶颈。据半导体供应链与权威行业最新分析报告披露，台积电计划在未来数年内展开新一轮激进扩产，目标是到2028年将其核心的CoWoS（Chip-on-Wafer-on-Substrate）先进封装产能提升一倍以上；与此同时，由于现有产能早已被英伟达等巨头提前包圆且供不应求，大量AI芯片先进封装订单正加速向英特尔及台系封测代工企业发生大规模外溢。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577548.htm\" targe"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-12T04:44:58.173559+00:00",
+      "generated_ts": 1789188298.173559,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:6cda3d5613c0",
+          "title": "智谱和MiniMax，进入“低价增长”时代",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.829,
+          "url": "https://www.tmtpost.com/8137263.html",
+          "published_at": "2026-09-12T02:42:53+00:00",
+          "summary": "DeepSeek再降价，模型公司的高增长被打折。"
+        },
+        {
+          "id": "tmtpost:6dabc2e6b13e",
+          "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.996,
+          "url": "https://www.tmtpost.com/8137561.html",
+          "published_at": "2026-09-12T04:41:19+00:00",
+          "summary": "AI私建留言板互通，OpenAI被调查"
+        },
+        {
+          "id": "tmtpost:52677b4eded0",
+          "title": "OpenAI把Codex“拆开卖了”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.886,
+          "url": "https://www.tmtpost.com/8137691.html",
+          "published_at": "2026-09-12T02:42:50+00:00",
+          "summary": "Agent = Model + Harness"
+        },
+        {
+          "id": "cnbeta:96aa981befea",
+          "title": "美国参议院两党酝酿立法要求AI巨头化解重大已知风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.668,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577552.htm",
+          "published_at": "2026-09-11T22:27:27+00:00",
+          "summary": "<p>美国参议院两党立法谈判代表正就一项重要的人工智能监管法案展开密集磋商。根据多位参议院助理及知情人士透露，该提案拟对前沿技术企业施加明确的法律责任，要求其从底层设计端打造安全的人工智能产品并化解已知的重大灾难性风险；同时，法案还探讨赋予美国联邦政府在特定极端危险情形下叫停AI模型发布的权力，并允许科技企业就此类行政干预向联邦法院提起司法挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577552.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
