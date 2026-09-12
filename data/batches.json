@@ -1,86 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T10:58:01.107860+00:00",
+    "generated_at": "2026-09-12T15:38:12.683580+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-13T11:13:34.994109+00:00",
-      "generated_ts": 1786619614.994109,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-13T13:53:44.375365+00:00",
-      "generated_ts": 1786629224.375365,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "venturebeat:448ecdfbfb21",
-          "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.923,
-          "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-          "published_at": "2026-08-13T13:00:00+00:00",
-          "summary": "<p><a href=\"https://writer.com/\">Writer</a>, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model <a href=\"https://writer.com/llms/\">Palmyra X6</a> today, alongside a rebuilt agent orchestration &quot;harness&quot; an"
-        },
-        {
-          "id": "qbitai:deca6ac3ad9f",
-          "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.888,
-          "url": "https://www.qbitai.com/2026/08/472059.html",
-          "published_at": "2026-08-13T12:34:42+00:00",
-          "summary": "首颗AI芯片已进入量产"
-        },
-        {
-          "id": "tmtpost:bed695fc197a",
-          "title": "腾讯528亿算力账：模型优先，出租是退路，但退路有多宽？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.773,
-          "url": "https://www.tmtpost.com/8102187.html",
-          "published_at": "2026-08-13T09:43:50+00:00",
-          "summary": "腾讯、资本开支、AI算力、混元大模型、WorkBuddy 、腾讯Q2财报、AI战略"
-        },
-        {
-          "id": "venturebeat:490c973080a4",
-          "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 1.726,
-          "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-          "published_at": "2026-08-12T18:44:50+00:00",
-          "summary": "<p>Visa&#x27;s president of technology, Rajat Taneja, walked the <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> audience through <a href=\"https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-"
-        },
-        {
-          "id": "venturebeat:b7eff22b71b8",
-          "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 1.662,
-          "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-          "published_at": "2026-08-12T17:26:58+00:00",
-          "summary": "<p>Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released <a href=\"https://x.ai/news/grok-4-6\">Grok 4.6</a>, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.</p><p>Th"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-13T19:30:50.615850+00:00",
       "generated_ts": 1786649450.6158497,
@@ -8060,6 +7983,51 @@
           "url": "https://www.cnbeta.com.tw/articles/science/1577568.htm",
           "published_at": "2026-09-12T06:07:23+00:00",
           "summary": "<p>OpenAI，又开始对黎曼猜想和P与NP问题下手了？？最近，这些AI大公司仿佛疯了一般在冲刺“千禧年问题”的KPI。9月8日，NS方程被宣布解决；9月11日，第二道千禧年难题霍奇猜想被曝接近解决；据称，O/A两家正疯狂竞速，向BSD猜想发起冲锋。<strong>到了今天，又有惊人消息传来：OpenAI已经在用内部模型尝试解决黎曼猜想和P与NP问题。如果该模型证明了 P = NP，整个计算机科学领域都将被颠覆！</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577568.htm\" target=\"_bla"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-12T15:38:12.683580+00:00",
+      "generated_ts": 1789227492.6835802,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:2f23fb5453ad",
+          "title": "Anthropic首席执行官罕见呼吁放缓AI竞赛：失控风险正在逼近关键临界点",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.988,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577638.htm",
+          "published_at": "2026-09-12T15:30:04+00:00",
+          "summary": "<p>人工智能公司Anthropic首席执行官达里奥·阿莫代伊日前发表长篇文章，对当前全球人工智能产业的发展速度发出罕见警告，并呼吁整个行业主动放缓前沿模型能力提升步伐。他认为，人工智能在过去几个月中的进步速度已经远超许多人的预期，如果缺乏必要约束，人类可能很快面临难以控制的风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577638.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7ed398218434",
+          "title": "苹果iPhone 18 Pro与Pro Max今日正式开启全球预购",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.738,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577632.htm",
+          "published_at": "2026-09-12T12:28:42+00:00",
+          "summary": "<p><strong>在秋季新品发布会落幕数日之后，苹果公司新一代直板旗舰手机iPhone 18 Pro与iPhone 18 Pro Max于今日（9月12日）正式在全球数十个国家和地区同步开启预订。</strong>作为今年苹果直板机型中的绝对顶配主力，两款新机携台积电首发2纳米制程打造的A20 Pro芯片、机械可变光圈相机模组以及全面重构的端侧人工智能体验登场，首批预订订单预计将于9月18日星期五起正式发货交付并同步开启线下零售。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577632.htm\" target=\"_blank"
+        },
+        {
+          "id": "cnbeta:9a6058c2463d",
+          "title": "苹果详解Apple Watch S11芯片 衍生自2纳米A20 Pro架构",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.825,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577630.htm",
+          "published_at": "2026-09-12T12:28:12+00:00",
+          "summary": "<p>在正式发布全新Apple Watch Series 12与Apple Watch Ultra 4后，苹果公司进一步披露了驱动新一代智能手表的底层算力核心——全新S11系统级封装芯片（SiP）的技术细节。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577630.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

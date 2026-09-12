@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T10:58:01.107860+00:00",
-    "generated_ts": 1789210681.1078603,
+    "generated_at": "2026-09-12T15:38:12.683580+00:00",
+    "generated_ts": 1789227492.6835802,
     "window_hours": 24.0,
-    "total": 21
+    "total": 18
   },
   "items": [
     {
-      "id": "cnbeta:11bcd7aa139a",
+      "id": "cnbeta:2f23fb5453ad",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic指控中国多家AI公司大规模蒸馏 阿里巴巴、月之暗面和DeepSeek被指涉数千万次交互",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577500.htm",
-      "summary": "<p>美国人工智能公司Anthropic近日发布威胁情报报告，指控包括阿里巴巴、Moonshot AI、DeepSeek、小米以及另外数家中国AI实验室在内的机构，曾通过大规模调用Claude的方式提取其模型能力，并将生成结果用于训练和改进自己的人工智能模型。Anthropic将这种行为称为未经授权的“蒸馏攻击”（distillation attack）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T11:05:18+00:00",
-      "published_ts": 1789124718.0,
+      "title": "Anthropic首席执行官罕见呼吁放缓AI竞赛：失控风险正在逼近关键临界点",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577638.htm",
+      "summary": "<p>人工智能公司Anthropic首席执行官达里奥·阿莫代伊日前发表长篇文章，对当前全球人工智能产业的发展速度发出罕见警告，并呼吁整个行业主动放缓前沿模型能力提升步伐。他认为，人工智能在过去几个月中的进步速度已经远超许多人的预期，如果缺乏必要约束，人类可能很快面临难以控制的风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577638.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-12T15:30:04+00:00",
+      "published_ts": 1789227004.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.96
+      "importance": 2.988
     },
     {
       "id": "tmtpost:6cda3d5613c0",
@@ -37,34 +37,19 @@
       "importance": 2.829
     },
     {
-      "id": "cnbeta:051a9a80c6e9",
+      "id": "cnbeta:7ed398218434",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577512.htm",
-      "summary": "<p>Anthropic发现，也门北部一个团体正在利用其Claude人工智能模型协助研发导弹和火箭系统，进一步凸显外界对于先进AI被用于军事项目以及被非国家行为体使用的担忧。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577512.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T12:20:29+00:00",
-      "published_ts": 1789129229.0,
+      "title": "苹果iPhone 18 Pro与Pro Max今日正式开启全球预购",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577632.htm",
+      "summary": "<p><strong>在秋季新品发布会落幕数日之后，苹果公司新一代直板旗舰手机iPhone 18 Pro与iPhone 18 Pro Max于今日（9月12日）正式在全球数十个国家和地区同步开启预订。</strong>作为今年苹果直板机型中的绝对顶配主力，两款新机携台积电首发2纳米制程打造的A20 Pro芯片、机械可变光圈相机模组以及全面重构的端侧人工智能体验登场，首批预订订单预计将于9月18日星期五起正式发货交付并同步开启线下零售。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577632.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-12T12:28:42+00:00",
+      "published_ts": 1789216122.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.652
-    },
-    {
-      "id": "cnbeta:4acf7ab4b45d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "遭数百名数学家联名抵制 OpenAI宣布退出加州理工学院AI数学黑客松赞助",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577508.htm",
-      "summary": "<p>在遭遇学术界近八百名数学家签署公开信的强烈抗议后，人工智能巨头OpenAI宣布正式撤回对加州理工学院（Caltech）AI数学黑客松（Mathathon）的赞助与算力支持。这场原定于10月30日举行的高校赛事因被指将严谨的纯数学研究异化为商业AI公司的宣传秀场并产生大量未经检验的学术噪音，在顶尖学术界引发了罕见的反弹风暴，同时也让联合赞助商Anthropic陷入了去留抉择的舆论风口。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T12:15:39+00:00",
-      "published_ts": 1789128939.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.645
+      "importance": 2.738
     },
     {
       "id": "cnbeta:97323a4e2948",
@@ -202,49 +187,19 @@
       "importance": 1.845
     },
     {
-      "id": "tmtpost:bf60a12ebeb8",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-      "url": "https://www.tmtpost.com/8135323.html",
-      "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
-      "published_at": "2026-09-11T13:15:37+00:00",
-      "published_ts": 1789132537.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.815
-    },
-    {
-      "id": "cnbeta:f2ec082e786d",
+      "id": "cnbeta:9a6058c2463d",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm",
-      "summary": "<p>SpaceX正在快速扩张人工智能基础设施业务，并拿下了一笔规模惊人的算力订单。SpaceX首席财务官布雷特·约翰森近日透露，公司本月早些时候与一家身份未公开的客户签署了一份云计算协议。从2026年12月开始，该客户每月将向SpaceX支付约11.1亿美元，以获得AI计算基础设施的使用权。按照这一金额计算，合同年化价值将达到约133亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T12:45:13+00:00",
-      "published_ts": 1789130713.0,
+      "title": "苹果详解Apple Watch S11芯片 衍生自2纳米A20 Pro架构",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577630.htm",
+      "summary": "<p>在正式发布全新Apple Watch Series 12与Apple Watch Ultra 4后，苹果公司进一步披露了驱动新一代智能手表的底层算力核心——全新S11系统级封装芯片（SiP）的技术细节。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577630.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-12T12:28:12+00:00",
+      "published_ts": 1789216092.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.789
-    },
-    {
-      "id": "tmtpost:68eea9deaa28",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注",
-      "url": "https://www.tmtpost.com/8136831.html",
-      "summary": "股份本身是通过凯辉资本（Cathay Capital）购买的，这是一家法中投资公司，在法国颇具知名度。",
-      "published_at": "2026-09-11T12:33:58+00:00",
-      "published_ts": 1789130038.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.779
+      "importance": 1.825
     },
     {
       "id": "cnbeta:c255dfc60ca9",
