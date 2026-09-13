@@ -1,45 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T04:59:22.124254+00:00",
+    "generated_at": "2026-09-13T12:05:40.026529+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-14T07:55:09.015539+00:00",
-      "generated_ts": 1786694109.0155394,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:b28e04e38147",
-          "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.842,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573210.htm",
-          "published_at": "2026-08-14T05:04:24+00:00",
-          "summary": "<p>中国最大的芯片代工企业中芯国际周五表示，人工智能（AI）相关的需求将继续支撑其产能订单，并且公司已对最抢手的产能上调了价格。得益于强劲的市场需求，中芯国际第二季度营收首次突破30亿美元大关，这一表现以及多项关键财务指标均超出了伦敦证交所集团（LSEG）分析师的平均预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573210.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b955457bb841",
-          "title": "苦等两年ChatGPT杀入Linux Codex上手能改你的代码",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.756,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573194.htm",
-          "published_at": "2026-08-14T03:25:11+00:00",
-          "summary": "<p>刚刚，Linux用户苦等了两年的客户端，终于落地了。OpenAI官宣：ChatGPT桌面应用的Linux版本，开放预览。ChatGPT、Work和Codex，从此装进同一个App。Linux是开发者密度最高的系统之一，却一直被OpenAI官方桌面端漏掉。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573194.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-14T13:49:39.336135+00:00",
       "generated_ts": 1786715379.3361354,
@@ -7846,6 +7810,101 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1577652.htm",
           "published_at": "2026-09-12T21:27:50+00:00",
           "summary": "<p>OpenAI首席执行官Sam Altman在接受采访时表示，这家人工智能公司专注于解决围绕AI技术的安全担忧，今年不会上市。Altman表示，今年进行首次公开募股“时机不合适”，公司要到明年才会上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577652.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-13T12:05:40.026529+00:00",
+      "generated_ts": 1789301140.0265288,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:2dc6a6017c63",
+          "title": "【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.868,
+          "url": "https://www.tmtpost.com/8138480.html",
+          "published_at": "2026-09-13T10:32:21+00:00",
+          "summary": "（9月7日-9月11日）华为“韬定律”芯片麒麟9050 Pro首现身；阿里辟谣钉钉创始人“无招”回归；ARM自研AI CPU获两大中国客户：联想、字节火山；OpenAI放弃今年上市……"
+        },
+        {
+          "id": "cnbeta:e56484ba5440",
+          "title": "Anthropic CEO呼吁放缓前沿AI模型开发 引入常驻独立评估人员",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.803,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577732.htm",
+          "published_at": "2026-09-13T09:44:29+00:00",
+          "summary": "<p>Anthropic首席执行官达里奥·阿莫代伊提出一项三阶段人工智能安全框架，主张控制前沿模型能力提升速度，为安全和对齐研究争取时间。Anthropic将率先允许第三方评估人员长期进入公司内部，核查安全措施、报告事件并评估模型训练过程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5386f644a78a",
+          "title": "AI越强，OpenAI和Anthropic为什么反而想踩刹车？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.563,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577708.htm",
+          "published_at": "2026-09-13T06:38:21+00:00",
+          "summary": "<p>9月13日，据《金融时报》、TechCrunch等报道，在过去几年持续竞逐更强大模型后，OpenAI和Anthropic正在公开讨论一个看起来与AI竞赛方向相反的问题：<strong>是否应该主动控制最前沿AI能力的开发速度，为安全研究和防护措施争取更多时间。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1ba6cacb5b5b",
+          "title": "OpenAI关停史上最快模型GPT-5.3-Codex-Spark",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.562,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577704.htm",
+          "published_at": "2026-09-13T06:37:42+00:00",
+          "summary": "<p>OpenAI史上最快的模型，死了。刚刚，Codex负责人Tibo发帖，<strong>GPT-5.3-Codex-Spark，下周退役。</strong>每秒1200个Token、OpenAI第一个逃离英伟达的模型、750兆瓦Cerebras大单的头一份交付，从发布到下线，只活了7个月。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577704.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a42b21ba2058",
+          "title": "AI三大死敌罕见联手 “AI股票”周一遭暴击？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.548,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577678.htm",
+          "published_at": "2026-09-13T06:26:05+00:00",
+          "summary": "<p>AI领域三大死敌，史上头一次站在了同一边——在一系列失控事件与末日预警接连冲击行业后，Anthropic、OpenAI与SpaceX的掌门人罕见联手，呼吁放缓人工智能开发步伐。周六，Anthropic首席执行官Dario Amodei发布博文，呼吁全球AI行业主动降速，理由是当前前沿模型能力的提升速度已远超人类的理解与控制能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577678.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ecd7d583b87d",
+          "title": "Google被传接近实现“递归自我改进”突破 AI行业减速呼声引发新争议",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.538,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577672.htm",
+          "published_at": "2026-09-13T06:18:31+00:00",
+          "summary": "<p>人工智能行业近日因一则未经证实的传闻而掀起广泛讨论。市场消息称，Google旗下DeepMind可能已经接近实现被业内视为“人工智能圣杯”的关键能力——递归自我改进（RSI）。与此同时，Anthropic、OpenAI以及马斯克等业界重要参与者近期频繁呼吁放缓前沿人工智能发展速度，这种时间上的巧合也引发外界对于行业竞争和监管博弈的新猜测。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577672.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e6aa2db51f57",
+          "title": "GPT-6 Astra开放Plus 20美元只能拿它干活，不能聊天",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.711,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577714.htm",
+          "published_at": "2026-09-13T06:40:51+00:00",
+          "summary": "<p>OpenAI Plus用户的GPT-6 Astra，终于开始陆续到账了。9月3日，OpenAI发布GPT-6 Astra，官方说“未来数日”将推送给所有Plus、Pro、Business和Enterprise用户。到了9月4日，奥特曼在X上宣布：Astra现在向所有Plus和Business用户开放了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577714.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e5208254be80",
+          "title": "菲奖得主未解难题 竟被两名高中生用AI攻破了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.698,
+          "url": "https://www.cnbeta.com.tw/articles/science/1577676.htm",
+          "published_at": "2026-09-13T06:25:12+00:00",
+          "summary": "<p>你敢信？人没上大学，研究已经接上了‘菲尔兹奖得主’的工作了。就在今天，UCLA数学圈传出了一条让所有人震惊的消息——两名高中生Aayush Bathija和Prince Rohatgi，在博士后的辅导下，解决了一个数学家许埈珥（June Huh）从未攻克的难题。更抓人眼球的是，这项证明，是在AI重度辅助下完成的！一个是Claude Opus 5，另一个GPT-5.6 Sol。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577676.htm\" target=\"_blank\"><strong>阅读全文</strong><"
         }
       ]
     }
