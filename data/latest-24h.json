@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T20:40:37.906876+00:00",
-    "generated_ts": 1789245637.9068758,
+    "generated_at": "2026-09-13T04:59:22.124254+00:00",
+    "generated_ts": 1789275562.1242545,
     "window_hours": 24.0,
-    "total": 17
+    "total": 18
   },
   "items": [
     {
@@ -22,19 +22,19 @@
       "importance": 2.988
     },
     {
-      "id": "tmtpost:6cda3d5613c0",
+      "id": "tmtpost:713358d0bac6",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "智谱和MiniMax，进入“低价增长”时代",
-      "url": "https://www.tmtpost.com/8137263.html",
-      "summary": "DeepSeek再降价，模型公司的高增长被打折。",
-      "published_at": "2026-09-12T02:42:53+00:00",
-      "published_ts": 1789180973.0,
+      "title": "Dario自曝RSI已成真，奥特曼同日光速跟进",
+      "url": "https://www.tmtpost.com/8138094.html",
+      "summary": "Anthropic CEO Dario Amodei 罕见发文，亲口承认递归自我改进已在全行业发生，并预测6到12个月内失控的AI Agent集群可能接管整个互联网，造成数千亿美元损失。他提出一套三步刹车法，OpenAI 奥特曼同日光速跟进。本文拆解最强对手为何在减速上突然达成一致，以及这次刹车真正争夺的东西是可验证性。",
+      "published_at": "2026-09-13T02:59:00+00:00",
+      "published_ts": 1789268340.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.829
+      "importance": 2.831
     },
     {
       "id": "cnbeta:03853e4470a8",
@@ -112,19 +112,19 @@
       "importance": 2.597
     },
     {
-      "id": "tmtpost:6dabc2e6b13e",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
-      "url": "https://www.tmtpost.com/8137561.html",
-      "summary": "AI私建留言板互通，OpenAI被调查",
-      "published_at": "2026-09-12T04:41:19+00:00",
-      "published_ts": 1789188079.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "the_verge:565fcb78cb55",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+      "published_at": "2026-09-12T21:41:36+00:00",
+      "published_ts": 1789249296.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.996
+      "ai_score": 3.0,
+      "importance": 2.43
     },
     {
       "id": "techcrunch:8bde5f696cdb",
@@ -155,6 +155,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.88
+    },
+    {
+      "id": "tmtpost:6e942f733848",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "乌兰察布：一个北方小城如何成为“Token之都”？",
+      "url": "https://www.tmtpost.com/8137132.html",
+      "summary": "蒙西电网的历史包袱，变成了乌兰察布AI算力爆发的制度红利。",
+      "published_at": "2026-09-13T02:28:00+00:00",
+      "published_ts": 1789266480.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.859
     },
     {
       "id": "cnbeta:498cadecffd5",
@@ -247,19 +262,19 @@
       "importance": 1.739
     },
     {
-      "id": "cnbeta:96aa981befea",
+      "id": "cnbeta:8f8f1952b606",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "美国参议院两党酝酿立法要求AI巨头化解重大已知风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577552.htm",
-      "summary": "<p>美国参议院两党立法谈判代表正就一项重要的人工智能监管法案展开密集磋商。根据多位参议院助理及知情人士透露，该提案拟对前沿技术企业施加明确的法律责任，要求其从底层设计端打造安全的人工智能产品并化解已知的重大灾难性风险；同时，法案还探讨赋予美国联邦政府在特定极端危险情形下叫停AI模型发布的权力，并允许科技企业就此类行政干预向联邦法院提起司法挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577552.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-11T22:27:27+00:00",
-      "published_ts": 1789165647.0,
+      "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577652.htm",
+      "summary": "<p>OpenAI首席执行官Sam Altman在接受采访时表示，这家人工智能公司专注于解决围绕AI技术的安全担忧，今年不会上市。Altman表示，今年进行首次公开募股“时机不合适”，公司要到明年才会上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577652.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-12T21:27:50+00:00",
+      "published_ts": 1789248470.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.668
+      "importance": 1.609
     }
   ]
 }
