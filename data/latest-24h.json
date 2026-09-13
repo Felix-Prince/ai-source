@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T16:28:25.144649+00:00",
-    "generated_ts": 1789316905.144649,
+    "generated_at": "2026-09-13T20:57:36.237678+00:00",
+    "generated_ts": 1789333056.2376776,
     "window_hours": 24.0,
     "total": 15
   },
@@ -37,21 +37,6 @@
       "importance": 2.831
     },
     {
-      "id": "cnbeta:03853e4470a8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577648.htm",
-      "summary": "<p>Anthropic首席执行官Dario Amodei表示，人工智能行业需要放慢新模型的开发速度，并提到人们越来越担忧人工智能会给人类带来“严重”风险。“我们必须放慢提升人工智能模型能力的速度，”他周六在一篇博客文章中写道，“进步看起来仍会很快，我们必须明智利用由此争取到的时间。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577648.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-12T18:32:27+00:00",
-      "published_ts": 1789237947.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.82
-    },
-    {
       "id": "cnbeta:e56484ba5440",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -65,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.803
+    },
+    {
+      "id": "cnbeta:b3fa98996a0f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic敲定纳斯达克上市计划",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577762.htm",
+      "summary": "<p>人工智能公司Anthropic正朝着公开上市迈出关键一步。最新消息显示，这家以Claude系列模型闻名的AI企业已经选择纳斯达克作为未来首次公开募股（IPO）的上市地点，在人工智能产业高速扩张与安全争议持续升温的背景下，其上市计划正受到全球资本市场高度关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-13T16:47:55+00:00",
+      "published_ts": 1789318075.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.66
     },
     {
       "id": "cnbeta:5386f644a78a",
@@ -142,19 +142,19 @@
       "importance": 2.43
     },
     {
-      "id": "techcrunch:8bde5f696cdb",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "published_at": "2026-09-12T19:34:44+00:00",
-      "published_ts": 1789241684.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:ceb6c92807d8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic掌门人称“中国因素”是放缓AI竞赛的最大难题",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1577766.htm",
+      "summary": "<p>人工智能行业围绕“是否应该放缓发展速度”的争论正在迅速升温，而中国则被推到了这场讨论的核心位置。Anthropic首席执行官达里奥·阿莫代伊近日公开表示，如果全球试图对人工智能发展设定速度限制，那么最大的现实难题并不在技术本身，而在于如何应对中国等竞争对手可能继续加速推进的问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-13T19:45:02+00:00",
+      "published_ts": 1789328702.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.938
+      "importance": 1.931
     },
     {
       "id": "tmtpost:6e942f733848",
