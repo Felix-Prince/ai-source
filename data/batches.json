@@ -1,90 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T13:03:23.126819+00:00",
+    "generated_at": "2026-09-14T21:54:56.059922+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-15T13:03:35.529322+00:00",
-      "generated_ts": 1786799015.529322,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "qbitai:192fbe1cef3e",
-          "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.453,
-          "url": "https://www.qbitai.com/2026/08/473669.html",
-          "published_at": "2026-08-15T06:05:31+00:00",
-          "summary": "推理能力还能自定义"
-        },
-        {
-          "id": "cnbeta:ea03c0cd5e91",
-          "title": "AMD与ARM蚕食英特尔服务器市场份额 但x86架构仍将是主导",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.988,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573354.htm",
-          "published_at": "2026-08-15T12:51:07+00:00",
-          "summary": "<p>根据美国银行全球研究（BofA Global Research）、Mercury Research以及IDC等机构的最新数据表明，受人工智能（尤其是高度依赖CPU的智能体工作流）需求激增的推动，服务器CPU的总潜在市场（TAM）将在未来几年内显著扩张，预计到2030年将突破2000亿美元大关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:00dbb11b0ab4",
-          "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.944,
-          "url": "https://www.tmtpost.com/8104508.html",
-          "published_at": "2026-08-15T12:04:24+00:00",
-          "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。"
-        },
-        {
-          "id": "tmtpost:a1d269e9febe",
-          "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.944,
-          "url": "https://www.tmtpost.com/8104597.html",
-          "published_at": "2026-08-15T12:04:21+00:00",
-          "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书"
-        },
-        {
-          "id": "tmtpost:d4a80a951167",
-          "title": "DeepSeek故意做了一个难用的Agent？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.698,
-          "url": "https://www.tmtpost.com/8104384.html",
-          "published_at": "2026-08-15T07:24:00+00:00",
-          "summary": "DeepSeek Harness可能压根没把普通用户当第一批用户。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-08-15T18:52:06.589021+00:00",
-      "generated_ts": 1786819926.5890214,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-16T02:00:29.853602+00:00",
       "generated_ts": 1786845629.853602,
@@ -7951,6 +7870,121 @@
           "url": "https://www.tmtpost.com/8139123.html",
           "published_at": "2026-09-14T08:59:41+00:00",
           "summary": "Token工厂的终极目标是做算力的“自来水系统”"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-14T21:54:56.059922+00:00",
+      "generated_ts": 1789422896.0599215,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:5e58b9cbc01d",
+          "title": "马斯克旗下X Corp撤回对苹果反垄断诉讼",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.761,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577958.htm",
+          "published_at": "2026-09-14T19:02:34+00:00",
+          "summary": "<p>埃隆·马斯克（Elon Musk）旗下的社交平台X公司（X Corp.）及其人工智能关联实体已正式向美国得克萨斯州联邦法院递交文件，申请撤回此前针对苹果公司发起的高调反垄断诉讼。该起诉讼曾指控苹果在App Store应用商店生态中给予OpenAI特殊优待，从而不当打压了包括Grok在内的xAI生态产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577958.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:dd826d2e443b",
+          "title": "OpenAI罕见支持英国出台强制性AI监管法案 呼吁趁“政治窗口期”尽快立法",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.584,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577946.htm",
+          "published_at": "2026-09-14T16:45:05+00:00",
+          "summary": "<p>OpenAI近日公开呼吁英国政府制定具有法律约束力的人工智能监管框架，要求对最先进的前沿人工智能模型实施强制性安全规则。这一表态标志着全球领先AI企业对于监管态度出现新的变化，也让英国围绕人工智能治理的讨论进一步升温。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577946.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e001cc08157e",
+          "title": "苹果被曝调整政策 拟利用用户数据训练旗下AI模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.571,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577930.htm",
+          "published_at": "2026-09-14T16:34:34+00:00",
+          "summary": "<p>在人工智能技术竞争日趋白热化的背景下，一向以严苛隐私保护著称的苹果公司正在对其核心数据政策进行策略性调整。最新消息显示，苹果已改变此前绝不使用个人客户数据训练通用AI模型的承诺，开始探索在特定框架下利用匿名化或获得授权的用户交互数据，以加速训练和优化旗下的人工智能算法与机器学习系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577930.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d892539bbf10",
+          "title": "特朗普驳斥放缓人工智能发展的呼声 称存在针对AI与数据中心的“阴谋”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.564,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577922.htm",
+          "published_at": "2026-09-14T16:28:36+00:00",
+          "summary": "<p>特朗普总统周一拒绝了为 AI 模型增设管控护栏的呼吁。他在真相社交（Truth Social）发帖表示，政府对这些企业已经手握 “极强的刑事与监管权力！”此前，Anthropic 首席执行官达里奥・阿莫代伊、OpenAI 高管以及 SpaceX 旗下 xAI 的埃隆・马斯克相继发声，呼吁放缓前沿 AI 模型的研发节奏。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577922.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:0f242b7a0894",
+          "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.879,
+          "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+          "published_at": "2026-09-14T19:45:13+00:00",
+          "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+        },
+        {
+          "id": "cnbeta:8ebdccb7ad11",
+          "title": "台积电加速扩充2纳米产能：2027年中月产能目标11万片 增速明显超过3纳米时期",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.723,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577948.htm",
+          "published_at": "2026-09-14T16:45:42+00:00",
+          "summary": "<p>随着人工智能和高性能计算芯片需求持续爆发，台积电正在加快先进制程产能扩张步伐。最新供应链消息显示，台积电计划在2027年进一步扩大2纳米和3纳米制程产能，其中2纳米的扩产速度将明显高于3纳米，预计到2027年年中，2纳米月产能将提升至约11万片晶圆，而3纳米月产能则达到约21万片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577948.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:96feaa1b0d4a",
+          "title": "三星与高通联手推进2.1D先进封装：无需硅中介层 带来AI芯片高性能互连能力",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.72,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577942.htm",
+          "published_at": "2026-09-14T16:42:09+00:00",
+          "summary": "<p>三星与高通正在进一步扩大双方在半导体领域的合作范围，双方已经围绕2.1D先进封装技术展开合作，目标是为下一代高性能计算和人工智能芯片提供更高密度、更高速率的芯片互连方案。此次合作也被视为三星进一步完善先进封装技术体系、争夺AI芯片封装市场的重要一步。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577942.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:343f8463558d",
+          "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.71,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577926.htm",
+          "published_at": "2026-09-14T16:29:58+00:00",
+          "summary": "<p>AI公司Cohere CEO戈麦斯表示，AI 模型正成为有史以来“最强大的网络武器”，将网络安全的“前沿”推向新领域。艾丹·戈麦斯发出这一警告之际，人们越来越担心 AI 模型识别并利用安全漏洞的能力。此前发生了一起 OpenAI 模型获得 Hugging Face 访问权限的事件。随着越来越强大的模型展现出更强的自主能力，网络安全已成为更广泛 AI 安全辩论中的核心问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577926.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6f3323a2b1aa",
+          "title": "马斯克：我早已为人工智能风险多次敲响警钟",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.709,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1577920.htm",
+          "published_at": "2026-09-14T16:28:07+00:00",
+          "summary": "<p>人们早就见惯埃隆・马斯克放出论断，而这一次，他意在表明：自己一直都是对的。这位太空探索技术公司（SpaceX）与特斯拉的首席执行官，对 Anthropic 公司 CEO 达里奥・阿莫代伊发布的长文表示赞同。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577920.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:d62ad0dca6c4",
+          "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.638,
+          "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+          "published_at": "2026-09-14T15:00:00+00:00",
+          "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
         }
       ]
     }
