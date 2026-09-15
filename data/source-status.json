@@ -1,8 +1,8 @@
 {
   "openai_blog": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:48.288142+00:00",
-    "last_run_ts": 1789492128.2881424,
+    "last_run_at": "2026-09-15T21:31:14.515417+00:00",
+    "last_run_ts": 1789507874.5154169,
     "url": "https://openai.com/news/rss.xml",
     "error": null,
     "fail_count": 0,
@@ -10,8 +10,8 @@
   },
   "the_verge": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:48.374114+00:00",
-    "last_run_ts": 1789492128.3741136,
+    "last_run_at": "2026-09-15T21:31:14.635578+00:00",
+    "last_run_ts": 1789507874.6355782,
     "url": "https://www.theverge.com/rss/index.xml",
     "error": null,
     "fail_count": 0,
@@ -19,8 +19,8 @@
   },
   "techcrunch": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:48.414458+00:00",
-    "last_run_ts": 1789492128.4144578,
+    "last_run_at": "2026-09-15T21:31:14.819238+00:00",
+    "last_run_ts": 1789507874.8192377,
     "url": "https://techcrunch.com/feed/",
     "error": null,
     "fail_count": 0,
@@ -28,8 +28,8 @@
   },
   "ars_technica": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:48.576487+00:00",
-    "last_run_ts": 1789492128.5764868,
+    "last_run_at": "2026-09-15T21:31:15.236338+00:00",
+    "last_run_ts": 1789507875.2363377,
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "error": null,
     "fail_count": 0,
@@ -37,16 +37,16 @@
   },
   "kr36": {
     "status": "failed",
-    "last_run_at": "2026-09-15T17:08:49.854289+00:00",
-    "last_run_ts": 1789492129.8542893,
+    "last_run_at": "2026-09-15T21:31:16.233869+00:00",
+    "last_run_ts": 1789507876.2338693,
     "url": "https://36kr.com/feed",
     "error": "parse https://36kr.com/feed: <unknown>:10:542: not well-formed (invalid token)",
     "fail_count": 1
   },
   "qbitai": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:51.315402+00:00",
-    "last_run_ts": 1789492131.315402,
+    "last_run_at": "2026-09-15T21:31:18.404585+00:00",
+    "last_run_ts": 1789507878.4045846,
     "url": "https://www.qbitai.com/feed",
     "error": null,
     "fail_count": 0,
@@ -54,8 +54,8 @@
   },
   "tmtpost": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:56.008755+00:00",
-    "last_run_ts": 1789492136.008755,
+    "last_run_at": "2026-09-15T21:31:20.418747+00:00",
+    "last_run_ts": 1789507880.418747,
     "url": "https://www.tmtpost.com/feed",
     "error": null,
     "fail_count": 0,
@@ -63,8 +63,8 @@
   },
   "cnbeta": {
     "status": "ok",
-    "last_run_at": "2026-09-15T17:08:58.586439+00:00",
-    "last_run_ts": 1789492138.5864394,
+    "last_run_at": "2026-09-15T21:31:22.780748+00:00",
+    "last_run_ts": 1789507882.7807481,
     "url": "https://rss.cnbeta.com.tw/",
     "error": null,
     "fail_count": 0,
@@ -72,8 +72,8 @@
   },
   "venturebeat": {
     "status": "failed",
-    "last_run_at": "2026-09-15T17:09:04.918294+00:00",
-    "last_run_ts": 1789492144.918294,
+    "last_run_at": "2026-09-15T21:31:29.233911+00:00",
+    "last_run_ts": 1789507889.2339106,
     "url": "https://venturebeat.com/feed/",
     "error": "GET https://venturebeat.com/feed/ failed after 3 tries: HTTP 429",
     "fail_count": 1

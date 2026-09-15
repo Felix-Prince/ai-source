@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T17:08:47.649738+00:00",
-    "generated_ts": 1789492127.6497378,
+    "generated_at": "2026-09-15T21:31:13.926343+00:00",
+    "generated_ts": 1789507873.9263434,
     "window_hours": 24.0,
-    "total": 18
+    "total": 19
   },
   "items": [
+    {
+      "id": "techcrunch:555b87366e93",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "published_at": "2026-09-15T20:12:53+00:00",
+      "published_ts": 1789503173.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.889
+    },
     {
       "id": "qbitai:4a319eb7bb5b",
       "source": "qbitai",
@@ -22,19 +37,19 @@
       "importance": 2.77
     },
     {
-      "id": "cnbeta:5e58b9cbc01d",
+      "id": "cnbeta:772303d54da7",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "马斯克旗下X Corp撤回对苹果反垄断诉讼",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577958.htm",
-      "summary": "<p>埃隆·马斯克（Elon Musk）旗下的社交平台X公司（X Corp.）及其人工智能关联实体已正式向美国得克萨斯州联邦法院递交文件，申请撤回此前针对苹果公司发起的高调反垄断诉讼。该起诉讼曾指控苹果在App Store应用商店生态中给予OpenAI特殊优待，从而不当打压了包括Grok在内的xAI生态产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577958.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T19:02:34+00:00",
-      "published_ts": 1789412554.0,
+      "title": "Google发布原生语音大模型Gemini 3.8 Live 首创“边说边想”扩展推理模式",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578144.htm",
+      "summary": "<p>Google今日正式公布了其在原生端到端语音交互领域的最新突破，推出全新一代实时语音大模型Gemini 3.8 Live以及针对高难度任务定制的Gemini 3.8 Live Extended Thinking。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578144.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-15T18:40:13+00:00",
+      "published_ts": 1789497613.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.761
+      "importance": 2.763
     },
     {
       "id": "cnbeta:c0da9fd7ac21",
@@ -217,19 +232,19 @@
       "importance": 1.923
     },
     {
-      "id": "ars_technica:0f242b7a0894",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "published_at": "2026-09-14T19:45:13+00:00",
-      "published_ts": 1789415113.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:f299ed046507",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美光推出全球首款512GB DDR5内存条 单台服务器内存容量可突破12TB",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578148.htm",
+      "summary": "<p>人工智能与超大规模数据处理需求正不断推高服务器内存容量的发展速度。存储芯片巨头美光日前宣布，已成功演示全球首款容量达到512GB的DDR5服务器内存模块，标志着企业级内存技术迈入新的密度时代。该产品不仅刷新了单条DDR5内存容量纪录，也为未来人工智能服务器和云计算基础设施提供了更大的扩展空间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-15T19:52:17+00:00",
+      "published_ts": 1789501937.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.879
+      "importance": 1.907
     },
     {
       "id": "cnbeta:01e6f2ec9e47",
