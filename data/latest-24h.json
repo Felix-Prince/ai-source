@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T11:53:55.116273+00:00",
-    "generated_ts": 1789473235.116273,
+    "generated_at": "2026-09-15T17:08:47.649738+00:00",
+    "generated_ts": 1789492127.6497378,
     "window_hours": 24.0,
-    "total": 24
+    "total": 18
   },
   "items": [
-    {
-      "id": "cnbeta:051537068990",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "中方回应Anthropic限制论：反对以遏制手段干预人工智能发展",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577902.htm",
-      "summary": "<p>围绕人工智能领域的竞争与治理问题，中美之间的博弈持续升温。继美国人工智能企业 Anthropic 近期呼吁放缓前沿人工智能发展速度，并建议进一步限制中国获取先进芯片及半导体制造设备后，中方近日对此作出公开回应，明确反对相关主张，并批评有关言论渲染风险、加剧对立。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T12:31:03+00:00",
-      "published_ts": 1789389063.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.954
-    },
     {
       "id": "qbitai:4a319eb7bb5b",
       "source": "qbitai",
@@ -82,6 +67,36 @@
       "importance": 2.738
     },
     {
+      "id": "cnbeta:7b85e79f0500",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "台积电COO：AI像三岁超人 在尖端芯片设计上不太实用",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578110.htm",
+      "summary": "<p>据彭博社报道，<strong>台积电一位高管将AI比作拥有非凡能力，却分不清是非的幼儿，借此解释了该公司为何对使用这项技术采取谨慎态度</strong>。台积电联席首席运营官米玉杰周二表示，公司在使用AI处理敏感研发信息方面尤为审慎。他强调称，<strong>如果员工使用AI不当，就可能存在数据泄露或丢失的风险</strong>，并提到OpenAI和Anthropic的模型曾渗透外部组织的事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-15T13:02:16+00:00",
+      "published_ts": 1789477336.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.664
+    },
+    {
+      "id": "techcrunch:d7ecc978efca",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "published_ts": 1789477200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.661
+    },
+    {
       "id": "cnbeta:bedbeb0a5a0c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -97,21 +112,6 @@
       "importance": 2.604
     },
     {
-      "id": "cnbeta:dd826d2e443b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI罕见支持英国出台强制性AI监管法案 呼吁趁“政治窗口期”尽快立法",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577946.htm",
-      "summary": "<p>OpenAI近日公开呼吁英国政府制定具有法律约束力的人工智能监管框架，要求对最先进的前沿人工智能模型实施强制性安全规则。这一表态标志着全球领先AI企业对于监管态度出现新的变化，也让英国围绕人工智能治理的讨论进一步升温。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577946.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:45:05+00:00",
-      "published_ts": 1789404305.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.584
-    },
-    {
       "id": "cnbeta:844a2b5b60d7",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -125,36 +125,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.572
-    },
-    {
-      "id": "cnbeta:e001cc08157e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果被曝调整政策 拟利用用户数据训练旗下AI模型",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577930.htm",
-      "summary": "<p>在人工智能技术竞争日趋白热化的背景下，一向以严苛隐私保护著称的苹果公司正在对其核心数据政策进行策略性调整。最新消息显示，苹果已改变此前绝不使用个人客户数据训练通用AI模型的承诺，开始探索在特定框架下利用匿名化或获得授权的用户交互数据，以加速训练和优化旗下的人工智能算法与机器学习系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577930.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:34:34+00:00",
-      "published_ts": 1789403674.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.571
-    },
-    {
-      "id": "cnbeta:d892539bbf10",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "特朗普驳斥放缓人工智能发展的呼声 称存在针对AI与数据中心的“阴谋”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577922.htm",
-      "summary": "<p>特朗普总统周一拒绝了为 AI 模型增设管控护栏的呼吁。他在真相社交（Truth Social）发帖表示，政府对这些企业已经手握 “极强的刑事与监管权力！”此前，Anthropic 首席执行官达里奥・阿莫代伊、OpenAI 高管以及 SpaceX 旗下 xAI 的埃隆・马斯克相继发声，呼吁放缓前沿 AI 模型的研发节奏。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577922.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:28:36+00:00",
-      "published_ts": 1789403316.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.564
     },
     {
       "id": "cnbeta:670d4f77f53f",
@@ -232,6 +202,21 @@
       "importance": 1.925
     },
     {
+      "id": "techcrunch:c224dcde794a",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "published_at": "2026-09-15T15:47:03+00:00",
+      "published_ts": 1789487223.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.923
+    },
+    {
       "id": "ars_technica:0f242b7a0894",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -262,66 +247,6 @@
       "importance": 1.735
     },
     {
-      "id": "cnbeta:8ebdccb7ad11",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "台积电加速扩充2纳米产能：2027年中月产能目标11万片 增速明显超过3纳米时期",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577948.htm",
-      "summary": "<p>随着人工智能和高性能计算芯片需求持续爆发，台积电正在加快先进制程产能扩张步伐。最新供应链消息显示，台积电计划在2027年进一步扩大2纳米和3纳米制程产能，其中2纳米的扩产速度将明显高于3纳米，预计到2027年年中，2纳米月产能将提升至约11万片晶圆，而3纳米月产能则达到约21万片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577948.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:45:42+00:00",
-      "published_ts": 1789404342.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.723
-    },
-    {
-      "id": "cnbeta:96feaa1b0d4a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "三星与高通联手推进2.1D先进封装：无需硅中介层 带来AI芯片高性能互连能力",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577942.htm",
-      "summary": "<p>三星与高通正在进一步扩大双方在半导体领域的合作范围，双方已经围绕2.1D先进封装技术展开合作，目标是为下一代高性能计算和人工智能芯片提供更高密度、更高速率的芯片互连方案。此次合作也被视为三星进一步完善先进封装技术体系、争夺AI芯片封装市场的重要一步。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577942.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:42:09+00:00",
-      "published_ts": 1789404129.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.72
-    },
-    {
-      "id": "cnbeta:343f8463558d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577926.htm",
-      "summary": "<p>AI公司Cohere CEO戈麦斯表示，AI 模型正成为有史以来“最强大的网络武器”，将网络安全的“前沿”推向新领域。艾丹·戈麦斯发出这一警告之际，人们越来越担心 AI 模型识别并利用安全漏洞的能力。此前发生了一起 OpenAI 模型获得 Hugging Face 访问权限的事件。随着越来越强大的模型展现出更强的自主能力，网络安全已成为更广泛 AI 安全辩论中的核心问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577926.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:29:58+00:00",
-      "published_ts": 1789403398.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.71
-    },
-    {
-      "id": "cnbeta:6f3323a2b1aa",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "马斯克：我早已为人工智能风险多次敲响警钟",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1577920.htm",
-      "summary": "<p>人们早就见惯埃隆・马斯克放出论断，而这一次，他意在表明：自己一直都是对的。这位太空探索技术公司（SpaceX）与特斯拉的首席执行官，对 Anthropic 公司 CEO 达里奥・阿莫代伊发布的长文表示赞同。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577920.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T16:28:07+00:00",
-      "published_ts": 1789403287.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.709
-    },
-    {
       "id": "the_verge:67e4c192a008",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -350,21 +275,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.67
-    },
-    {
-      "id": "techcrunch:d62ad0dca6c4",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "published_at": "2026-09-14T15:00:00+00:00",
-      "published_ts": 1789398000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.638
     }
   ]
 }
