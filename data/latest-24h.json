@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T21:54:56.059922+00:00",
-    "generated_ts": 1789422896.0599215,
+    "generated_at": "2026-09-15T05:03:11.323203+00:00",
+    "generated_ts": 1789448591.3232026,
     "window_hours": 24.0,
-    "total": 27
+    "total": 25
   },
   "items": [
     {
@@ -50,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.846
+    },
+    {
+      "id": "qbitai:4a319eb7bb5b",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "summary": "几百个Agent参与研发，AI开始造AI",
+      "published_at": "2026-09-15T02:17:34+00:00",
+      "published_ts": 1789438654.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.77
     },
     {
       "id": "cnbeta:5e58b9cbc01d",
@@ -112,21 +127,6 @@
       "importance": 2.658
     },
     {
-      "id": "qbitai:5015b8c80eb1",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-      "url": "https://www.qbitai.com/2026/09/488694.html",
-      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
-      "published_at": "2026-09-14T00:30:56+00:00",
-      "published_ts": 1789345856.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.625
-    },
-    {
       "id": "cnbeta:dd826d2e443b",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -172,21 +172,6 @@
       "importance": 2.564
     },
     {
-      "id": "tmtpost:86c47917f25c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-      "url": "https://www.tmtpost.com/8138491.html",
-      "summary": "DeepSeek灰度测试语音对话；图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3；现代汽车将于2029年推出自研驾驶辅助系统；特斯拉Semi卡车将进军欧洲，满载续航最高550公里；英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判；国务院国资委：统筹用好国内国际两个市场，优化海外投资布局；李强签署国务院令，公布《市场监督管理所条例》；中国证监会发布《期货公司监督管理办法》及配套实施；三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》；纳斯达克100指数将提高SpaceX权重，数十亿美元基金料将买入；伊朗称霍尔木兹海峡或将开新通道；中国词元需求呈现爆发式增长，预计2026年消耗量将达到10亿亿",
-      "published_at": "2026-09-13T23:20:00+00:00",
-      "published_ts": 1789341600.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.537
-    },
-    {
       "id": "cnbeta:5dc9ce14af73",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -217,34 +202,19 @@
       "importance": 1.996
     },
     {
-      "id": "cnbeta:a2e7d692df3d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "《新科学家》：数学难题证明不再稀缺 AI让数学进入混乱时代",
-      "url": "https://www.cnbeta.com.tw/articles/science/1577806.htm",
-      "summary": "<p>人工智能正在进入数学最核心的领地。过去，人们习惯把计算机视为高速计算器或证明检查器，如今，新一代模型已经能够提出证明思路、搜索反例、形式化复杂论证，甚至直接参与开放问题研究，这让数学界第一次认真面对一个令人不安的问题：如果机器也能“做数学”，人类数学家的价值将转移到哪里？</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577806.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-14T05:02:46+00:00",
-      "published_ts": 1789362166.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.994
-    },
-    {
-      "id": "tmtpost:4420574c2a48",
+      "id": "tmtpost:cf6ce5d9682b",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "【Fintech 周报】信用卡日均“销卡”超10万张；OpenAI推出金融版ChatGPT",
-      "url": "https://www.tmtpost.com/8138755.html",
-      "summary": "保险法时隔11年再迎大修；金融监管总局丛林：大力整治“价格战”；5家支付机构同日被罚3661万元；中互金发布7条自律举措规范互联网贷款营销行为；9家银行AIC上半年净利润同比增长约1.4倍；四大国有行今年“秋招”缩招7000余人；年内多家银行拟停办个人贵金属代理业务；信用卡日均“销卡”超10万张；头部寿险公司营销员止跌，7年减少700万人；招商银行行长助理辞任；广州农商行收缩异地布局；6家上市助贷公司上半年“放款”少1789亿。",
-      "published_at": "2026-09-14T03:21:44+00:00",
-      "published_ts": 1789356104.0,
+      "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
+      "url": "https://www.tmtpost.com/8140111.html",
+      "summary": "争霸战的赢家，属于那个先让利润追上故事的人。",
+      "published_at": "2026-09-15T03:43:45+00:00",
+      "published_ts": 1789443825.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.9
+      "importance": 1.925
     },
     {
       "id": "cnbeta:afda1b4cf1eb",
@@ -305,21 +275,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.814
-    },
-    {
-      "id": "tmtpost:c2bf209fa11e",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Anthropic为安全踩刹车：减硅谷的速，断中企的路",
-      "url": "https://www.tmtpost.com/8138511.html",
-      "summary": "Anthropic吹警笛，OpenAI推迟 IPO，马斯克点赞：硅谷AI大厂齐踩刹车。",
-      "published_at": "2026-09-14T01:32:42+00:00",
-      "published_ts": 1789349562.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.803
     },
     {
       "id": "tmtpost:1ebcca01b7b4",
@@ -395,6 +350,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.709
+    },
+    {
+      "id": "the_verge:67e4c192a008",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+      "published_at": "2026-09-14T22:59:41+00:00",
+      "published_ts": 1789426781.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.679
     },
     {
       "id": "techcrunch:d62ad0dca6c4",
