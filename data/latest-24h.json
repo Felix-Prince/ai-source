@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T17:08:42.949734+00:00",
-    "generated_ts": 1789578522.9497344,
+    "generated_at": "2026-09-16T21:26:48.538613+00:00",
+    "generated_ts": 1789594008.5386128,
     "window_hours": 24.0,
     "total": 31
   },
@@ -97,21 +97,6 @@
       "importance": 2.902
     },
     {
-      "id": "techcrunch:555b87366e93",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "published_at": "2026-09-15T20:12:53+00:00",
-      "published_ts": 1789503173.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.889
-    },
-    {
       "id": "qbitai:6eb43e71c42c",
       "source": "qbitai",
       "source_label": "量子位",
@@ -142,19 +127,19 @@
       "importance": 2.774
     },
     {
-      "id": "cnbeta:772303d54da7",
+      "id": "cnbeta:796dd07c290a",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Google发布原生语音大模型Gemini 3.8 Live 首创“边说边想”扩展推理模式",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578144.htm",
-      "summary": "<p>Google今日正式公布了其在原生端到端语音交互领域的最新突破，推出全新一代实时语音大模型Gemini 3.8 Live以及针对高难度任务定制的Gemini 3.8 Live Extended Thinking。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578144.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-15T18:40:13+00:00",
-      "published_ts": 1789497613.0,
+      "title": "Anthropic整合Claude产品线：聊天、协作与文档创作板块全面合并",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578298.htm",
+      "summary": "<p>人工智能公司Anthropic近日宣布对Claude产品体系进行重大调整。原本独立存在的Claude Cowork将不再作为单独功能入口存在，而是直接并入Claude聊天界面。未来用户无需再判断某项任务应该交给聊天模式还是协作模式处理，Claude将根据任务内容自动选择最合适的工作方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-16T18:32:13+00:00",
+      "published_ts": 1789583533.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.763
+      "importance": 2.758
     },
     {
       "id": "openai_blog:5062654a3d69",
@@ -232,6 +217,21 @@
       "importance": 2.482
     },
     {
+      "id": "openai_blog:47a79ab04733",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "published_ts": 1789560000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.284
+    },
+    {
       "id": "the_verge:608509ec34fc",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -260,6 +260,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.983
+    },
+    {
+      "id": "techcrunch:152448b86a1a",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "published_at": "2026-09-16T21:07:24+00:00",
+      "published_ts": 1789592844.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.981
     },
     {
       "id": "cnbeta:f78f94c3b147",
@@ -305,21 +320,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.949
-    },
-    {
-      "id": "cnbeta:f299ed046507",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美光推出全球首款512GB DDR5内存条 单台服务器内存容量可突破12TB",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578148.htm",
-      "summary": "<p>人工智能与超大规模数据处理需求正不断推高服务器内存容量的发展速度。存储芯片巨头美光日前宣布，已成功演示全球首款容量达到512GB的DDR5服务器内存模块，标志着企业级内存技术迈入新的密度时代。该产品不仅刷新了单条DDR5内存容量纪录，也为未来人工智能服务器和云计算基础设施提供了更大的扩展空间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-15T19:52:17+00:00",
-      "published_ts": 1789501937.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.907
     },
     {
       "id": "qbitai:5a419430db34",
