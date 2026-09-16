@@ -1,85 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T11:49:48.060774+00:00",
+    "generated_at": "2026-09-16T17:08:42.949734+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-17T13:11:49.378600+00:00",
-      "generated_ts": 1786972309.3786001,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:8237b173087b",
-          "title": "美国原告在诉讼文件中暗藏LLM提示词 法官警告AI滥用风险",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.571,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573576.htm",
-          "published_at": "2026-08-17T07:51:23+00:00",
-          "summary": "<p>美国康涅狄格州一名法官近日披露，一名自行出庭的原告疑似在提交给法院的文件中隐藏了仅供人工智能系统读取的文字指令，试图借此影响案件处理结果。这被认为可能是美国法院体系首次出现当事人通过“提示注入”方式干预AI审阅流程的案例。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "openai_blog:8e683bd6ee0e",
-          "title": "The Defender’s Window",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.402,
-          "url": "https://openai.com/index/the-defenders-window",
-          "published_at": "2026-08-17T05:30:00+00:00",
-          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
-        },
-        {
-          "id": "cnbeta:1faa5f3687ac",
-          "title": "索尼专利显示PSN将引入AI\"伪账户\" 专钓骗子与骚扰者",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.913,
-          "url": "https://www.cnbeta.com.tw/articles/game/1573598.htm",
-          "published_at": "2026-08-17T11:39:30+00:00",
-          "summary": "<p>索尼互动娱乐(SIE)近日提交了一项编号为18/314775的新专利申请，计划在PlayStation Network(PSN)中部署由大语言模型(LLM)驱动的AI“伪账户”，以主动识别并标记潜在的诈骗者、骚扰者及不法分子。与传统的被动举报机制不同，这套名为“大语言模型驱动的社交诚信系统”的系统采用了一种主动诱捕的策略。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573598.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:16853fbbf196",
-          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.875,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "published_at": "2026-08-17T10:57:13+00:00",
-          "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technolo"
-        },
-        {
-          "id": "tmtpost:46da9c05215c",
-          "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.808,
-          "url": "https://www.tmtpost.com/8105860.html",
-          "published_at": "2026-08-17T09:42:29+00:00",
-          "summary": "芯片算力的增长速度，已经远远超过了数据在芯片之间搬运的速度。"
-        },
-        {
-          "id": "cnbeta:d64ca750c0dd",
-          "title": "Linux 7.2正式发布：初步支持苹果M3芯片 多项驱动与调度能力升级",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.713,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573574.htm",
-          "published_at": "2026-08-17T07:49:34+00:00",
-          "summary": "<p>Linux 7.2内核正式版已如期发布，无需额外延长一周测试周期。尽管开发末期的测试工作较为紧张，新版本仍按计划推出，并带来了对苹果M3芯片的初步支持、Cache Aware Scheduling缓存感知调度、USB4STREAM协议以及AMD GPU HDMI 2.1等功能与硬件支持更新。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573574.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-17T19:03:44.877742+00:00",
       "generated_ts": 1786993424.8777418,
@@ -8139,6 +8063,101 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1578200.htm",
           "published_at": "2026-09-16T05:01:58+00:00",
           "summary": "<p>据Business Insider报道，为Anthropic、Google、OpenAI等科技公司加州办公室提供安保服务的工作人员，计划于本周举行罢工，部分科技公司可能因此关闭办公室，要求员工居家办公。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578200.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-16T17:08:42.949734+00:00",
+      "generated_ts": 1789578522.9497344,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "techcrunch:03dfbd973886",
+          "title": "Your AI agents can now control your Google Home devices",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.987,
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "published_at": "2026-09-16T17:00:00+00:00",
+          "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language."
+        },
+        {
+          "id": "the_verge:8f637bf4f059",
+          "title": "Claude comes for Gemini with its own take on Docs and Slides",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.945,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+          "published_at": "2026-09-16T16:30:00+00:00",
+          "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C"
+        },
+        {
+          "id": "openai_blog:6f9044896534",
+          "title": "Helping older adults use AI in everyday life",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.902,
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "published_at": "2026-09-16T16:00:00+00:00",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+        },
+        {
+          "id": "openai_blog:5062654a3d69",
+          "title": "Reimagining advertising with AI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.662,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "published_at": "2026-09-16T13:00:00+00:00",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+        },
+        {
+          "id": "the_verge:608509ec34fc",
+          "title": "Google will now let any AI agent run your smart home",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.992,
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "published_at": "2026-09-16T17:00:00+00:00",
+          "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor you"
+        },
+        {
+          "id": "techcrunch:12011079aba7",
+          "title": "Anthropic merges Claude chat and Cowork in one interface",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.963,
+          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+          "published_at": "2026-09-16T16:30:00+00:00",
+          "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+        },
+        {
+          "id": "qbitai:e05bfb685990",
+          "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.781,
+          "url": "https://www.qbitai.com/2026/09/490839.html",
+          "published_at": "2026-09-16T13:08:20+00:00",
+          "summary": "九大空间测试10B规模通用模型中8项第一"
+        },
+        {
+          "id": "the_verge:e736c28cfef0",
+          "title": "A brief history of AI executives calling for regulation",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.724,
+          "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+          "published_at": "2026-09-16T12:00:00+00:00",
+          "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, "
         }
       ]
     }

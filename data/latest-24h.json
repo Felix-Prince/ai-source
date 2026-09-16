@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T11:49:48.060774+00:00",
-    "generated_ts": 1789559388.0607743,
+    "generated_at": "2026-09-16T17:08:42.949734+00:00",
+    "generated_ts": 1789578522.9497344,
     "window_hours": 24.0,
-    "total": 26
+    "total": 31
   },
   "items": [
+    {
+      "id": "techcrunch:03dfbd973886",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+      "published_at": "2026-09-16T17:00:00+00:00",
+      "published_ts": 1789578000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.987
+    },
     {
       "id": "cnbeta:6f3f87eb1ef4",
       "source": "cnbeta",
@@ -50,6 +65,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.952
+    },
+    {
+      "id": "the_verge:8f637bf4f059",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
+      "published_at": "2026-09-16T16:30:00+00:00",
+      "published_ts": 1789576200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.945
+    },
+    {
+      "id": "openai_blog:6f9044896534",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "published_ts": 1789574400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.902
     },
     {
       "id": "techcrunch:555b87366e93",
@@ -112,34 +157,19 @@
       "importance": 2.763
     },
     {
-      "id": "cnbeta:7b85e79f0500",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "台积电COO：AI像三岁超人 在尖端芯片设计上不太实用",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578110.htm",
-      "summary": "<p>据彭博社报道，<strong>台积电一位高管将AI比作拥有非凡能力，却分不清是非的幼儿，借此解释了该公司为何对使用这项技术采取谨慎态度</strong>。台积电联席首席运营官米玉杰周二表示，公司在使用AI处理敏感研发信息方面尤为审慎。他强调称，<strong>如果员工使用AI不当，就可能存在数据泄露或丢失的风险</strong>，并提到OpenAI和Anthropic的模型曾渗透外部组织的事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-15T13:02:16+00:00",
-      "published_ts": 1789477336.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.664
-    },
-    {
-      "id": "techcrunch:d7ecc978efca",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "published_at": "2026-09-15T13:00:00+00:00",
-      "published_ts": 1789477200.0,
+      "id": "openai_blog:5062654a3d69",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "published_ts": 1789563600.0,
       "category": "international",
       "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.661
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.662
     },
     {
       "id": "qbitai:79d4441774f7",
@@ -202,6 +232,21 @@
       "importance": 2.482
     },
     {
+      "id": "the_verge:608509ec34fc",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
+      "published_at": "2026-09-16T17:00:00+00:00",
+      "published_ts": 1789578000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.992
+    },
+    {
       "id": "cnbeta:f46c39d16de5",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -232,6 +277,21 @@
       "importance": 1.969
     },
     {
+      "id": "techcrunch:12011079aba7",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "published_at": "2026-09-16T16:30:00+00:00",
+      "published_ts": 1789576200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.963
+    },
+    {
       "id": "tmtpost:b76621f7297f",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -245,21 +305,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.949
-    },
-    {
-      "id": "techcrunch:c224dcde794a",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "published_at": "2026-09-15T15:47:03+00:00",
-      "published_ts": 1789487223.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.923
     },
     {
       "id": "cnbeta:f299ed046507",
@@ -320,6 +365,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.835
+    },
+    {
+      "id": "qbitai:e05bfb685990",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "summary": "九大空间测试10B规模通用模型中8项第一",
+      "published_at": "2026-09-16T13:08:20+00:00",
+      "published_ts": 1789564100.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.781
+    },
+    {
+      "id": "the_verge:e736c28cfef0",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "published_ts": 1789560000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.724
     },
     {
       "id": "qbitai:7ce89de655b5",
