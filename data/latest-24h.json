@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T21:26:48.538613+00:00",
-    "generated_ts": 1789594008.5386128,
+    "generated_at": "2026-09-17T05:01:14.028341+00:00",
+    "generated_ts": 1789621274.0283413,
     "window_hours": 24.0,
-    "total": 31
+    "total": 29
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.987
+    },
+    {
+      "id": "tmtpost:a045346d97c4",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Claude 二合一背后，Anthropic 也想锁死你的上下文",
+      "url": "https://www.tmtpost.com/8142541.html",
+      "summary": "上下文越厚，越难搬家。",
+      "published_at": "2026-09-17T04:49:35+00:00",
+      "published_ts": 1789620575.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.983
     },
     {
       "id": "cnbeta:6f3f87eb1ef4",
@@ -52,21 +67,6 @@
       "importance": 2.971
     },
     {
-      "id": "cnbeta:92c0381f02c5",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI Project Lily曝光：有数百名外包员工阅读ChatGPT对话 隐私过滤并不彻底",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578166.htm",
-      "summary": "<p>据 404 Media 发布的报道，OpenAI 内部有个名为莉莉计划 (Project Lily) 的项目正在运转：OpenAI 雇佣数百名外包提示词审核员，人工阅读真实用户与 ChatGPT 的对话，用来改进回复质量。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-16T04:24:51+00:00",
-      "published_ts": 1789532691.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.952
-    },
-    {
       "id": "the_verge:8f637bf4f059",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -95,21 +95,6 @@
       "tier": 0,
       "ai_score": 2.0,
       "importance": 2.902
-    },
-    {
-      "id": "qbitai:6eb43e71c42c",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "把记忆交给CPU，大模型会变快",
-      "url": "https://www.qbitai.com/2026/09/489724.html",
-      "summary": "让GPU去忙生成Token",
-      "published_at": "2026-09-16T03:07:18+00:00",
-      "published_ts": 1789528038.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.843
     },
     {
       "id": "cnbeta:d35228f90254",
@@ -247,21 +232,6 @@
       "importance": 1.992
     },
     {
-      "id": "cnbeta:f46c39d16de5",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "实现完整数字化重构的果蝇大脑走红科研社群",
-      "url": "https://www.cnbeta.com.tw/articles/science/1578180.htm",
-      "summary": "<p>一个基于真实生物结构完整数字化重构的“果蝇大脑”在互联网与科研社群中引发了病毒式传播。随着国际科研联盟公开了首个成年黑腹果蝇（Drosophila melanogaster）全脑神经元连接组的完整三维图谱与开源仿真工具，来自生物学、计算机科学、人工智能以及数字艺术等多个领域的爱好者和研究人员迅速涌入，将这一原本深奥的神经科学尖端成果演化为一场席卷网络的群体性数字化探索。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578180.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-16T04:41:29+00:00",
-      "published_ts": 1789533689.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.983
-    },
-    {
       "id": "techcrunch:152448b86a1a",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -275,21 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.981
-    },
-    {
-      "id": "cnbeta:f78f94c3b147",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "微软准备给自研AI模型MAI设定硬规矩：永远不该拒绝被关闭",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578168.htm",
-      "summary": "<p>微软日前公布约 37 页的人文主义 AI 行为准则草案，该准则用于约束微软自己研发的人工智能模型 MAI。这个行为准则想要表达的核心观点就是：人类比人工智能更重要，人工智能是工具而不是人，人工智能永远不该拒绝被关闭。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578168.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-16T04:25:48+00:00",
-      "published_ts": 1789532748.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.969
     },
     {
       "id": "techcrunch:12011079aba7",
@@ -307,34 +262,49 @@
       "importance": 1.963
     },
     {
-      "id": "tmtpost:b76621f7297f",
+      "id": "tmtpost:4f7831e683f5",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "智谱、MiniMax，大砍销售开支",
-      "url": "https://www.tmtpost.com/8141022.html",
-      "summary": "销售的功能逐渐从售前转向售中和售后。OKR从用户量转向客户留存。模型自己就是最好的销售，人更像是为模型打工。",
-      "published_at": "2026-09-16T04:04:36+00:00",
-      "published_ts": 1789531476.0,
+      "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
+      "url": "https://www.tmtpost.com/8143131.html",
+      "summary": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。",
+      "published_at": "2026-09-17T03:50:19+00:00",
+      "published_ts": 1789617019.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.949
+      "importance": 1.933
     },
     {
-      "id": "qbitai:5a419430db34",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-      "url": "https://www.qbitai.com/2026/09/490098.html",
-      "summary": "任务通过率提升24.2%，token成本最高下降45%",
-      "published_at": "2026-09-16T02:27:20+00:00",
-      "published_ts": 1789525640.0,
+      "id": "tmtpost:96b7004070b0",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "6912颗光模块与一台\"修芯片的机器\"：算力竞争的账，正在算向制造装备",
+      "url": "https://www.tmtpost.com/8140584.html",
+      "summary": "英伟达 40 亿美元锁定的不是芯片厂，是两家激光器厂；红杉 8 月连下两注，买的也是装备——修光芯片良率的机器，和验证国产设备的封装平台。算力的下一个瓶颈，正在从芯片设计移向制造装备。",
+      "published_at": "2026-09-17T03:14:00+00:00",
+      "published_ts": 1789614840.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.859
+      "importance": 1.899
+    },
+    {
+      "id": "tmtpost:a0c4a1d79e02",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "中国电信TeleAgent：要留在办公Agent牌桌上，仍有可为空间 | 钛快讯",
+      "url": "https://www.tmtpost.com/8142808.html",
+      "summary": "IDC测评显示，TeleAgent成本效率表现突出，Token消耗优于同类产品。",
+      "published_at": "2026-09-17T03:01:50+00:00",
+      "published_ts": 1789614110.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.888
     },
     {
       "id": "tmtpost:8ad250c20fc0",
@@ -365,6 +335,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.835
+    },
+    {
+      "id": "qbitai:afed0e2d0f39",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+      "url": "https://www.qbitai.com/2026/09/490950.html",
+      "summary": "奖励曲线、显卡故障全公开",
+      "published_at": "2026-09-17T01:09:25+00:00",
+      "published_ts": 1789607365.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.789
     },
     {
       "id": "qbitai:e05bfb685990",
@@ -440,21 +425,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.649
-    },
-    {
-      "id": "cnbeta:8bc884367209",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI首席执行官Altman“有信心”AI行业能够自行保障安全",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578160.htm",
-      "summary": "<p>OpenAI首席执行官Sam Altman表示，他相信人工智能公司能够安全地开发这项技术，而不会对广大民众造成重大伤害。“我对我们公司——以及整个行业——安全推进这项技术的能力非常有信心，”Altman周二在旧金山举行的Dreamforce大会上与Salesforce Inc．首席执行官Marc Benioff对谈时表示。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-15T22:17:00+00:00",
-      "published_ts": 1789510620.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.648
     },
     {
       "id": "cnbeta:588d969f198a",
