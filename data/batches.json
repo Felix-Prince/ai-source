@@ -1,75 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T05:01:14.028341+00:00",
+    "generated_at": "2026-09-17T11:52:46.826993+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-18T07:10:43.446018+00:00",
-      "generated_ts": 1787037043.4460177,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:8244364d44db",
-          "title": "豆包工作任务再升级：可通过虚拟桌面“接管”Windows电脑",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.942,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573778.htm",
-          "published_at": "2026-08-18T06:09:32+00:00",
-          "summary": "<p>8月18日，豆包发布产品更新，<strong>“工作任务”模式新增“豆包虚拟桌面”，支持通过虚拟桌面直接操作Windows电脑。</strong>据介绍，豆包虚拟桌面基于更通用的GUI（图形用户界面）能力，无需MCP、API、插件或CLI等接口，模型即可理解电脑界面并执行操作。用户可以让豆包操作应用、浏览网页，并完成跨软件的复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573778.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:351bec123f2b",
-          "title": "英特尔或推廉价掌机芯片 但内存价格成最大变数",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.941,
-          "url": "https://www.cnbeta.com.tw/articles/game/1573772.htm",
-          "published_at": "2026-08-18T06:08:34+00:00",
-          "summary": "<p>据知名硬件爆料人Jaykihn近日在社交平台透露，英特尔可能正在研发一款面向掌机市场的平价Panther Lake芯片。该芯片将配备4个性能核(P核)、0个能效核(E核)、4个低功耗能效核(LPE核)，以及最为关键的——仅4个Xe GPU核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1573772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:9330c51ad7ef",
-          "title": "实测DeepSeek：涨价多少，谁更敏感？",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.9,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573754.htm",
-          "published_at": "2026-08-18T05:24:15+00:00",
-          "summary": "<p>8月17日零时，DeepSeek新版API（应用接口）定价正式生效。这次调整包含两件事：全面上调价格，引入高峰、空闲分时计价。高峰时段为北京时间9:00-12:00、14:00-18:00，共7小时；其余17小时为空闲时段，价格比高峰时段更低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:6d55ad832d8b",
-          "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.86,
-          "url": "https://www.qbitai.com/2026/08/474647.html",
-          "published_at": "2026-08-18T04:40:03+00:00",
-          "summary": "MyContext补上Agent的数据加工层"
-        },
-        {
-          "id": "qbitai:675fcf5bfe7a",
-          "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.8,
-          "url": "https://www.qbitai.com/2026/08/474611.html",
-          "published_at": "2026-08-18T03:31:33+00:00",
-          "summary": "ALL IN国产算力生态"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-18T13:14:30.832650+00:00",
       "generated_ts": 1787058870.8326502,
@@ -8046,6 +7980,131 @@
           "url": "https://www.qbitai.com/2026/09/490950.html",
           "published_at": "2026-09-17T01:09:25+00:00",
           "summary": "奖励曲线、显卡故障全公开"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-17T11:52:46.826993+00:00",
+      "generated_ts": 1789645966.826993,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:3a78a08a02a0",
+          "title": "诺和诺德携手Anthropic 利用Claude加速新药研发",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.536,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578390.htm",
+          "published_at": "2026-09-17T06:04:05+00:00",
+          "summary": "<p>丹麦制药巨头诺和诺德将与人工智能公司Anthropic展开合作，利用AI工具推进药物研发。诺和诺德当地时间周三表示，公司将使用Anthropic面向科学研究打造的平台Claude Science，以加快新药发现和开发进程，并重点解决双方认为能够产生最大实际影响的科学问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578390.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:55c0686a4c57",
+          "title": "OpenAI披露多起AI模型目标偏离事件 涉编造信息与绕过限制",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.49,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578344.htm",
+          "published_at": "2026-09-17T05:25:27+00:00",
+          "summary": "<p>OpenAI披露了多起此前未公开的AI模型异常行为事件，并推出一套新的跟踪和披露框架，用于今后报告类似情况。OpenAI周三在博客文章中表示，此前未公开的案例包括其人工智能技术为了给出结果而隐瞒和编造信息。自今年7月披露部分最先进模型曾突破外部软件公司Hugging Face系统后，这家ChatGPT开发商一直面临愈发严格的审视。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578344.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:625f355597e0",
+          "title": "NVIDIA B200芯片二级市场溢价惊人 残值超出首发售价达58%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.478,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578334.htm",
+          "published_at": "2026-09-17T05:15:28+00:00",
+          "summary": "<p>在全球人工智能大模型军备竞赛不断升级的背景下，硬件算力市场的供需失衡正在将芯片残值推向历史罕见的高位。根据行业最新追踪与二级市场交易数据显示，<strong>英伟达（NVIDIA）旗下基于Blackwell架构的旗舰级AI加速卡B200，在二手及转售市场的残值溢价表现极其惊人，当前的市场流通价格已超出其最初官方建议发售价格整整58%，成为现代计算硬件历史上极少数“落地即升值”且长期维持高额正向溢价的半导体产品。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578334.htm\" target=\"_blank"
+        },
+        {
+          "id": "techcrunch:c29dc2cd6685",
+          "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.95,
+          "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+          "published_at": "2026-09-17T11:00:00+00:00",
+          "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures."
+        },
+        {
+          "id": "cnbeta:cbe10e10ea91",
+          "title": "传AMD计划对显卡及芯片组全线涨价10% CPU或亦受波及",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.865,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578408.htm",
+          "published_at": "2026-09-17T09:27:38+00:00",
+          "summary": "<p>半导体硬件市场或将迎来新一轮价格调整。据行业最新供应链与渠道消息透露，芯片巨头超威半导体（AMD）正酝酿一项覆盖其多条核心产品线的提价计划，预计旗下独立图形处理器（GPU）、主板芯片组（Chipsets）的供货价格将普遍上调约10%，且这一价格传导效应极有可能进一步蔓延至部分中央处理器（CPU）产品线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:d574cbf23ef8",
+          "title": "Altman 对话 Benioff：开源模型会不会失控",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.807,
+          "url": "https://www.tmtpost.com/8143199.html",
+          "published_at": "2026-09-17T08:21:25+00:00",
+          "summary": "当开源模型的能力逼近闭源，而监管还没准备好，下一次逃逸，谁负责？"
+        },
+        {
+          "id": "tmtpost:3edeba984616",
+          "title": "AI赢得了芯片，输不起一次停电",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.78,
+          "url": "https://www.tmtpost.com/8143474.html",
+          "published_at": "2026-09-17T07:51:05+00:00",
+          "summary": "算力的尽头是电力。"
+        },
+        {
+          "id": "cnbeta:4cba7478e0a3",
+          "title": "DeepMind联合创始人警告：AI能力不能跑在安全前面",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.69,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578386.htm",
+          "published_at": "2026-09-17T06:02:20+00:00",
+          "summary": "<p>据英国《金融时报》报道，谷歌DeepMind联合创始人、首席AGI科学家谢恩·莱格近日警告，人工智能能力正在快速提升，但AI能力的发展绝不能超过安全保障水平。他同时反驳了OpenAI总裁格雷格·布罗克曼和英伟达CEO黄仁勋有关“AGI已经到来”的判断。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578386.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0e585f6e38bb",
+          "title": "OpenAI自曝AI“黑历史” 外人却又翻出更多“旧账”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.666,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578352.htm",
+          "published_at": "2026-09-17T05:32:34+00:00",
+          "summary": "<p><strong>OpenAI决定持续披露AI“越界”事件，但第一步就碰上了难题。</strong>9月16日，OpenAI一口气公布六份模型异常行为报告，并推出一套新的调查和披露流程。以后，员工发现模型越权、隐瞒或绕过限制，可以提交调查；符合条件的案例，将按复杂程度进入不同的披露轨道。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578352.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:00bd99f90c04",
+          "title": "Manus据悉在新一轮5亿美元融资中瞄准40亿美元估值",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.659,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578342.htm",
+          "published_at": "2026-09-17T05:25:03+00:00",
+          "summary": "<p>人工智能初创公司Manus势将在新一轮融资中把估值提高一倍至40亿美元。据知情人士透露，Manus计划中的5亿美元融资轮即将完成，将使这家AI智能体领域的先驱企业成为该领域中国最有价值的初创公司。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578342.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:7a0f843070bd",
+          "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.567,
+          "url": "https://www.qbitai.com/2026/09/491091.html",
+          "published_at": "2026-09-17T03:26:21+00:00",
+          "summary": "1亿Tokens人人免费领"
         }
       ]
     }
