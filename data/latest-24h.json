@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T11:52:46.826993+00:00",
-    "generated_ts": 1789645966.826993,
+    "generated_at": "2026-09-17T17:09:10.199907+00:00",
+    "generated_ts": 1789664950.199907,
     "window_hours": 24.0,
-    "total": 27
+    "total": 19
   },
   "items": [
-    {
-      "id": "techcrunch:03dfbd973886",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
-      "published_at": "2026-09-16T17:00:00+00:00",
-      "published_ts": 1789578000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.987
-    },
     {
       "id": "tmtpost:a045346d97c4",
       "source": "tmtpost",
@@ -37,34 +22,19 @@
       "importance": 2.983
     },
     {
-      "id": "the_verge:8f637bf4f059",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
-      "published_at": "2026-09-16T16:30:00+00:00",
-      "published_ts": 1789576200.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:8583ad0593c6",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "华为加速布局算力对抗英伟达 计划2027年一季度推出新款AI芯片960DT",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578440.htm",
+      "summary": "<p>中国科技巨头华为近日正式公布了其下一代人工智能处理器的发布路线图，进一步加快了在算力基础设施领域对标英伟达的步伐。华为轮值董事长汪涛在上海举办的华为全联接大会（Huawei Connect）上对外确认，华为计划于2027年推出两款全新AI半导体芯片，其中首款新芯片960DT定于2027年第一季度正式发布，另一款昇腾960PR（Ascend 960PR）则预计将于同年第三季度面世。这一时间节点相较于此前业内预期的2027年第四季度有所提前。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578440.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-17T14:14:59+00:00",
+      "published_ts": 1789654499.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.945
-    },
-    {
-      "id": "openai_blog:6f9044896534",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "published_at": "2026-09-16T16:00:00+00:00",
-      "published_ts": 1789574400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.902
+      "importance": 2.759
     },
     {
       "id": "cnbeta:796dd07c290a",
@@ -80,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.758
-    },
-    {
-      "id": "openai_blog:5062654a3d69",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "published_at": "2026-09-16T13:00:00+00:00",
-      "published_ts": 1789563600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.662
     },
     {
       "id": "cnbeta:3a78a08a02a0",
@@ -142,36 +97,6 @@
       "importance": 2.478
     },
     {
-      "id": "openai_blog:47a79ab04733",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "published_at": "2026-09-16T12:00:00+00:00",
-      "published_ts": 1789560000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.284
-    },
-    {
-      "id": "the_verge:608509ec34fc",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google will now let any AI agent run your smart home",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-      "published_at": "2026-09-16T17:00:00+00:00",
-      "published_ts": 1789578000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.992
-    },
-    {
       "id": "techcrunch:152448b86a1a",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -185,21 +110,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.981
-    },
-    {
-      "id": "techcrunch:12011079aba7",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "published_at": "2026-09-16T16:30:00+00:00",
-      "published_ts": 1789576200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.963
     },
     {
       "id": "techcrunch:c29dc2cd6685",
@@ -307,21 +217,6 @@
       "importance": 1.789
     },
     {
-      "id": "qbitai:e05bfb685990",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "summary": "九大空间测试10B规模通用模型中8项第一",
-      "published_at": "2026-09-16T13:08:20+00:00",
-      "published_ts": 1789564100.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.781
-    },
-    {
       "id": "tmtpost:3edeba984616",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -335,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.78
-    },
-    {
-      "id": "the_verge:e736c28cfef0",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
-      "published_at": "2026-09-16T12:00:00+00:00",
-      "published_ts": 1789560000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.724
     },
     {
       "id": "cnbeta:4cba7478e0a3",
