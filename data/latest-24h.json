@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T11:29:06.976900+00:00",
-    "generated_ts": 1789730946.9768999,
+    "generated_at": "2026-09-18T16:33:38.400759+00:00",
+    "generated_ts": 1789749218.4007595,
     "window_hours": 24.0,
-    "total": 21
+    "total": 25
   },
   "items": [
     {
@@ -37,6 +37,36 @@
       "importance": 2.965
     },
     {
+      "id": "cnbeta:e7d616c227ed",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软高管内部文件曝光 称AI训练或是“人类历史上最大规模劳动窃取”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578624.htm",
+      "summary": "<p>围绕生成式人工智能训练数据合法性的争议近日再度升温。一份在《纽约时报》版权诉讼案中解封的法庭文件显示，微软一名高级研究主管曾在内部讨论中形容当前大型语言模型的训练方式可能是“人类历史上最大规模的劳动窃取”，相关表述引发业界广泛关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578624.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T15:39:54+00:00",
+      "published_ts": 1789745994.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.923
+    },
+    {
+      "id": "the_verge:e3ae2a605c37",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The [&#8230;]",
+      "published_at": "2026-09-18T15:30:16+00:00",
+      "published_ts": 1789745416.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.91
+    },
+    {
       "id": "cnbeta:8fa2ca1f4e9e",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -67,19 +97,19 @@
       "importance": 2.787
     },
     {
-      "id": "cnbeta:8583ad0593c6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "华为加速布局算力对抗英伟达 计划2027年一季度推出新款AI芯片960DT",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578440.htm",
-      "summary": "<p>中国科技巨头华为近日正式公布了其下一代人工智能处理器的发布路线图，进一步加快了在算力基础设施领域对标英伟达的步伐。华为轮值董事长汪涛在上海举办的华为全联接大会（Huawei Connect）上对外确认，华为计划于2027年推出两款全新AI半导体芯片，其中首款新芯片960DT定于2027年第一季度正式发布，另一款昇腾960PR（Ascend 960PR）则预计将于同年第三季度面世。这一时间节点相较于此前业内预期的2027年第四季度有所提前。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578440.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-17T14:14:59+00:00",
-      "published_ts": 1789654499.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "techcrunch:e0ff35ba7d6f",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "published_at": "2026-09-18T14:00:14+00:00",
+      "published_ts": 1789740014.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.759
+      "importance": 2.786
     },
     {
       "id": "cnbeta:cb5779188fbd",
@@ -127,6 +157,21 @@
       "importance": 2.488
     },
     {
+      "id": "cnbeta:a3b3dea3add3",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软苏莱曼：OpenAI最新AI暴露的问题属于“严峻状况”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578632.htm",
+      "summary": "<p>本周早些时候，OpenAI 披露了更多 “模型异常行为” 案例。对此，微软 AI 事业部首席执行官穆斯塔法・苏莱曼着重提出，AI 模型需要始终和人类利益保持对齐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578632.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T15:44:15+00:00",
+      "published_ts": 1789746255.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.953
+    },
+    {
       "id": "techcrunch:7ca1492b470c",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -140,6 +185,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.946
+    },
+    {
+      "id": "cnbeta:b48d899fb139",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Meta AI助手Muse登陆Mac 可直接代替用户执行任务",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578618.htm",
+      "summary": "<p>Meta正在将人工智能助手从“会聊天”推进到“会做事”的新阶段。公司近日宣布，其AI代理产品Muse正式登陆Mac平台。这意味着Muse不再只是回答问题或生成内容，而是能够直接在用户电脑上执行实际操作，帮助完成各种日常工作任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578618.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T15:35:35+00:00",
+      "published_ts": 1789745735.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.945
     },
     {
       "id": "tmtpost:659ec361936a",
@@ -262,6 +322,21 @@
       "importance": 1.765
     },
     {
+      "id": "cnbeta:353f4fd3dbb9",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "SK海力士在硅谷成立创投品牌“SK hynix Ventures”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578586.htm",
+      "summary": "<p>韩国存储芯片巨头SK海力士宣布正式成立企业风险投资品牌“SK hynix Ventures”，总部设于美国硅谷。此举被视为公司在人工智能时代进一步扩大投资布局的重要一步，未来将重点押注AI技术、下一代数据中心基础设施以及相关核心软硬件生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578586.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T12:00:02+00:00",
+      "published_ts": 1789732802.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.753
+    },
+    {
       "id": "tmtpost:94649b2e808e",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -305,21 +380,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.483
-    },
-    {
-      "id": "ars_technica:2e2974e8a169",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "summary": "Model maker commits to new framework for reporting misaligned models.",
-      "published_at": "2026-09-17T16:18:34+00:00",
-      "published_ts": 1789661914.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.39
     }
   ]
 }
