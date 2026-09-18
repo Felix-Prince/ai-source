@@ -1,25 +1,40 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T21:31:03.392022+00:00",
-    "generated_ts": 1789680663.3920224,
+    "generated_at": "2026-09-18T04:54:37.703641+00:00",
+    "generated_ts": 1789707277.703641,
     "window_hours": 24.0,
-    "total": 20
+    "total": 22
   },
   "items": [
     {
-      "id": "tmtpost:a045346d97c4",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Claude 二合一背后，Anthropic 也想锁死你的上下文",
-      "url": "https://www.tmtpost.com/8142541.html",
-      "summary": "上下文越厚，越难搬家。",
-      "published_at": "2026-09-17T04:49:35+00:00",
-      "published_ts": 1789620575.0,
+      "id": "cnbeta:76e631b464da",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "阿里巴巴发布Qwen3.8-Omni-Flash 多项表现逼近Gemini 3.8 Flash",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578484.htm",
+      "summary": "<p><strong>阿里巴巴旗下Qwen团队近日发布新一代原生全模态模型Qwen3.8-Omni-Flash，进一步将音频、视频理解与AI智能体能力结合起来。</strong>该模型支持文本、图像、音频和视频四种输入形式，并提供100万Token上下文窗口。与上一代Qwen3.5-Omni-Plus相比，Qwen官方称其在29项基准测试中的平均成绩提升超过25%，同时大幅降低了音频和音视频处理成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578484.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T04:32:31+00:00",
+      "published_ts": 1789705951.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.983
+      "importance": 2.968
+    },
+    {
+      "id": "cnbeta:2dfc29786643",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI推出法律专属AI平台Astra for Law 覆盖2.3亿个独立法律资料来源",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578480.htm",
+      "summary": "<p>随着人工智能逐步向垂直行业深入渗透，OpenAI正式发布面向法律行业的新产品Astra for Law。这款基于GPT-6 Astra模型打造的专业法律平台，标志着OpenAI继医疗、金融等领域之后，进一步向高专业门槛行业扩张。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578480.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-18T04:30:27+00:00",
+      "published_ts": 1789705827.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.965
     },
     {
       "id": "the_verge:acff2e6b6d13",
@@ -127,21 +142,6 @@
       "importance": 1.946
     },
     {
-      "id": "tmtpost:4f7831e683f5",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
-      "url": "https://www.tmtpost.com/8143131.html",
-      "summary": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。",
-      "published_at": "2026-09-17T03:50:19+00:00",
-      "published_ts": 1789617019.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.933
-    },
-    {
       "id": "techcrunch:32dcdb607f04",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -157,34 +157,19 @@
       "importance": 1.901
     },
     {
-      "id": "tmtpost:96b7004070b0",
+      "id": "tmtpost:fe445d769755",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "6912颗光模块与一台\"修芯片的机器\"：算力竞争的账，正在算向制造装备",
-      "url": "https://www.tmtpost.com/8140584.html",
-      "summary": "英伟达 40 亿美元锁定的不是芯片厂，是两家激光器厂；红杉 8 月连下两注，买的也是装备——修光芯片良率的机器，和验证国产设备的封装平台。算力的下一个瓶颈，正在从芯片设计移向制造装备。",
-      "published_at": "2026-09-17T03:14:00+00:00",
-      "published_ts": 1789614840.0,
+      "title": "从离开OpenAI，到拒绝五角大楼，Anthropic的四个侧面",
+      "url": "https://www.tmtpost.com/8143867.html",
+      "summary": "一家 “high-trust, low-ego” 的公司。",
+      "published_at": "2026-09-18T02:46:45+00:00",
+      "published_ts": 1789699605.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.899
-    },
-    {
-      "id": "tmtpost:a0c4a1d79e02",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "中国电信TeleAgent：要留在办公Agent牌桌上，仍有可为空间 | 钛快讯",
-      "url": "https://www.tmtpost.com/8142808.html",
-      "summary": "IDC测评显示，TeleAgent成本效率表现突出，Token消耗优于同类产品。",
-      "published_at": "2026-09-17T03:01:50+00:00",
-      "published_ts": 1789614110.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.888
+      "importance": 1.881
     },
     {
       "id": "cnbeta:cbe10e10ea91",
@@ -217,21 +202,6 @@
       "importance": 1.807
     },
     {
-      "id": "qbitai:afed0e2d0f39",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "url": "https://www.qbitai.com/2026/09/490950.html",
-      "summary": "奖励曲线、显卡故障全公开",
-      "published_at": "2026-09-17T01:09:25+00:00",
-      "published_ts": 1789607365.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.789
-    },
-    {
       "id": "tmtpost:3edeba984616",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -245,6 +215,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.78
+    },
+    {
+      "id": "qbitai:22e7bba1eb78",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "summary": "Git白学了？？？",
+      "published_at": "2026-09-18T00:34:34+00:00",
+      "published_ts": 1789691674.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.765
+    },
+    {
+      "id": "tmtpost:94649b2e808e",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Agent手机爆发前夜，vivo把答案押在\"个人化智能\"",
+      "url": "https://www.tmtpost.com/8143272.html",
+      "summary": "Agent手机是进入到模型、系统、硬件、应用生态和个人数据共同构成的系统竞争。",
+      "published_at": "2026-09-17T23:28:00+00:00",
+      "published_ts": 1789687680.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.709
     },
     {
       "id": "cnbeta:4cba7478e0a3",
@@ -292,19 +292,49 @@
       "importance": 1.659
     },
     {
-      "id": "qbitai:7a0f843070bd",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "summary": "1亿Tokens人人免费领",
-      "published_at": "2026-09-17T03:26:21+00:00",
-      "published_ts": 1789615581.0,
+      "id": "cnbeta:d81ffe3aaa94",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "联合国携手Google重构全球统计数据库 更加适应AI工具和自然语言交互环境",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578468.htm",
+      "summary": "<p>联合国近日宣布与Google展开合作，计划让庞大的全球统计数据体系更容易被人工智能系统访问和使用。这项合作的目标不仅是帮助人类用户更便捷地获取数据，也是在为不断兴起的AI智能体时代建设可靠的数据基础设施。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578468.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-17T22:08:31+00:00",
+      "published_ts": 1789682911.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.567
+      "importance": 1.645
+    },
+    {
+      "id": "ars_technica:e02733f87c7d",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "published_at": "2026-09-17T18:33:13+00:00",
+      "published_ts": 1789669993.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.483
+    },
+    {
+      "id": "ars_technica:2e2974e8a169",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "published_at": "2026-09-17T16:18:34+00:00",
+      "published_ts": 1789661914.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.39
     }
   ]
 }

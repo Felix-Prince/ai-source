@@ -1,85 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T21:31:03.392022+00:00",
+    "generated_at": "2026-09-18T04:54:37.703641+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-19T01:56:34.336654+00:00",
-      "generated_ts": 1787104594.3366537,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:06b20e3358db",
-          "title": "应对Hugging Face事件与前沿风险 OpenAI 全面升级安全保障体系",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.866,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573854.htm",
-          "published_at": "2026-08-19T00:21:22+00:00",
-          "summary": "<p>OpenAI 于周二宣布了一系列全新的安全政策，重点在于防范和控制模型测试期间可能发生的安全事件。此次出台的新型保障措施不仅包括在开发过程中对模型进行更为详尽的监控，还特别强化了模型在后期训练过程中的对齐与安全标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573854.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "venturebeat:16e10919b821",
-          "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.787,
-          "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
-          "published_at": "2026-08-18T23:23:22+00:00",
-          "summary": "<p><a href=\"https://block.xyz/\">Block</a>, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing <a href=\"https://berd.xyz/\">Berd</a>, a desktop application it originally built to give its own employees a s"
-        },
-        {
-          "id": "openai_blog:87f043a7640b",
-          "title": "Strengthening democratic oversight in national security",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.455,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "published_at": "2026-08-18T19:00:00+00:00",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-        },
-        {
-          "id": "cnbeta:3a7c10c00f93",
-          "title": "Anthropic逼近SpaceX 预测市场押注其争夺2026年最大IPO",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.981,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573872.htm",
-          "published_at": "2026-08-19T01:37:11+00:00",
-          "summary": "<p>人工智能（AI）公司Anthropic尚未正式上市，但市场已经开始预测，它可能击败世界首富埃隆·马斯克旗下的SpaceX，成为2026年规模最大的首次公开募股（IPO）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573872.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:cbbcab5e2e92",
-          "title": "OpenAI第二季度营收67亿美元 增速18%远不及对手Anthropic",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.98,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1573868.htm",
-          "published_at": "2026-08-19T01:36:00+00:00",
-          "summary": "<p>8月19日，据《华尔街日报》报道，<strong>OpenAI向投资者透露，其第二季度营收较第一季度增长了18%，但亏损进一步扩大。</strong>这一业绩令部分股东感到失望，他们此前曾期望这家公司在追赶竞争对手Anthropic方面能展现出更大进展。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1573868.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:18759fee17d7",
-          "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.855,
-          "url": "https://www.tmtpost.com/8107897.html",
-          "published_at": "2026-08-18T23:20:00+00:00",
-          "summary": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-19T07:11:28.582633+00:00",
       "generated_ts": 1787123488.5826335,
@@ -8043,6 +7967,101 @@
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
           "published_at": "2026-09-17T19:46:08+00:00",
           "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-18T04:54:37.703641+00:00",
+      "generated_ts": 1789707277.703641,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:76e631b464da",
+          "title": "阿里巴巴发布Qwen3.8-Omni-Flash 多项表现逼近Gemini 3.8 Flash",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.968,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578484.htm",
+          "published_at": "2026-09-18T04:32:31+00:00",
+          "summary": "<p><strong>阿里巴巴旗下Qwen团队近日发布新一代原生全模态模型Qwen3.8-Omni-Flash，进一步将音频、视频理解与AI智能体能力结合起来。</strong>该模型支持文本、图像、音频和视频四种输入形式，并提供100万Token上下文窗口。与上一代Qwen3.5-Omni-Plus相比，Qwen官方称其在29项基准测试中的平均成绩提升超过25%，同时大幅降低了音频和音视频处理成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578484.htm\" target=\"_blank\"><strong>阅读全文</s"
+        },
+        {
+          "id": "cnbeta:2dfc29786643",
+          "title": "OpenAI推出法律专属AI平台Astra for Law 覆盖2.3亿个独立法律资料来源",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.965,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578480.htm",
+          "published_at": "2026-09-18T04:30:27+00:00",
+          "summary": "<p>随着人工智能逐步向垂直行业深入渗透，OpenAI正式发布面向法律行业的新产品Astra for Law。这款基于GPT-6 Astra模型打造的专业法律平台，标志着OpenAI继医疗、金融等领域之后，进一步向高专业门槛行业扩张。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578480.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:fe445d769755",
+          "title": "从离开OpenAI，到拒绝五角大楼，Anthropic的四个侧面",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.881,
+          "url": "https://www.tmtpost.com/8143867.html",
+          "published_at": "2026-09-18T02:46:45+00:00",
+          "summary": "一家 “high-trust, low-ego” 的公司。"
+        },
+        {
+          "id": "qbitai:22e7bba1eb78",
+          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.765,
+          "url": "https://www.qbitai.com/2026/09/491711.html",
+          "published_at": "2026-09-18T00:34:34+00:00",
+          "summary": "Git白学了？？？"
+        },
+        {
+          "id": "tmtpost:94649b2e808e",
+          "title": "Agent手机爆发前夜，vivo把答案押在\"个人化智能\"",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.709,
+          "url": "https://www.tmtpost.com/8143272.html",
+          "published_at": "2026-09-17T23:28:00+00:00",
+          "summary": "Agent手机是进入到模型、系统、硬件、应用生态和个人数据共同构成的系统竞争。"
+        },
+        {
+          "id": "cnbeta:d81ffe3aaa94",
+          "title": "联合国携手Google重构全球统计数据库 更加适应AI工具和自然语言交互环境",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.645,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578468.htm",
+          "published_at": "2026-09-17T22:08:31+00:00",
+          "summary": "<p>联合国近日宣布与Google展开合作，计划让庞大的全球统计数据体系更容易被人工智能系统访问和使用。这项合作的目标不仅是帮助人类用户更便捷地获取数据，也是在为不断兴起的AI智能体时代建设可靠的数据基础设施。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578468.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:e02733f87c7d",
+          "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.483,
+          "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+          "published_at": "2026-09-17T18:33:13+00:00",
+          "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
+        },
+        {
+          "id": "ars_technica:2e2974e8a169",
+          "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.39,
+          "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+          "published_at": "2026-09-17T16:18:34+00:00",
+          "summary": "Model maker commits to new framework for reporting misaligned models."
         }
       ]
     }
