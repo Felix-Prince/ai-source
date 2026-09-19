@@ -1,85 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T11:12:44.084557+00:00",
+    "generated_at": "2026-09-19T15:57:39.959368+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-20T13:21:50.460916+00:00",
-      "generated_ts": 1787232110.4609158,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "techcrunch:1a3191c42916",
-          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.683,
-          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-          "published_at": "2026-08-20T09:30:00+00:00",
-          "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
-        },
-        {
-          "id": "the_verge:46119592967b",
-          "title": "Slack is launching collaborative vibe-coding channels",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.923,
-          "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-          "published_at": "2026-08-20T12:00:00+00:00",
-          "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and pre"
-        },
-        {
-          "id": "tmtpost:4d410aeffa99",
-          "title": "阿里AI进入分化期：云业务加速兑现，应用业务等待商业模式｜ 看财报",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.854,
-          "url": "https://www.tmtpost.com/8110834.html",
-          "published_at": "2026-08-20T10:43:52+00:00",
-          "summary": "阿里开始按照AI产业链重新组织资源，把算力、模型和应用放进更清晰的业务框架中。"
-        },
-        {
-          "id": "qbitai:947046a28d05",
-          "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.803,
-          "url": "https://www.qbitai.com/2026/08/476199.html",
-          "published_at": "2026-08-20T09:46:23+00:00",
-          "summary": "经典RSI剧本开始动摇"
-        },
-        {
-          "id": "tmtpost:7c6b3655e502",
-          "title": "拆解Anthropic：押注 coding 的公司很多，为什么它先吃到复利？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.768,
-          "url": "https://www.tmtpost.com/8110602.html",
-          "published_at": "2026-08-20T09:05:58+00:00",
-          "summary": "模型与产品，如何协同演进？"
-        },
-        {
-          "id": "cnbeta:0b3edeb3ef8f",
-          "title": "Google宣布将Gemini AI助手整合至Waymo Ojai无人驾驶出租车",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.702,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574134.htm",
-          "published_at": "2026-08-20T07:46:33+00:00",
-          "summary": "<p>Google正进一步扩展其Gemini人工智能生态系统，宣布将该AI助手直接整合至Waymo最新部署的Ojai无人驾驶出租车中。此前，Gemini已广泛应用于智能手机、个人电脑、无线耳机、智能家居设备以及Android Auto等多个领域，而此次整合标志着该技术正式迈入自动驾驶出行的生态版图。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-20T19:06:33.123301+00:00",
       "generated_ts": 1787252793.1233008,
@@ -8007,6 +7931,61 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1578694.htm",
           "published_at": "2026-09-19T05:59:23+00:00",
           "summary": "<p>Meta推出的个人AI代理应用Muse正在迅速成为人工智能市场的新焦点。上线仅一周时间，这款产品便登上苹果美国App Store免费应用排行榜第一位，超越长期占据领先地位的ChatGPT，成为当前美国市场下载量最高的免费应用之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578694.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-19T15:57:39.959368+00:00",
+      "generated_ts": 1789833459.9593678,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:b02d5ddec827",
+          "title": "台积电高管：AI无法独立设计1.4纳米级先进制程 人类工程师仍不可替代",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.997,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578754.htm",
+          "published_at": "2026-09-19T15:54:18+00:00",
+          "summary": "<p>在人工智能不断被视为改变半导体研发模式的重要工具之际，台积电高层近日公开对AI能力作出更为谨慎的评价。台积电共同营运长米玉杰表示，尽管人工智能已经能够大幅提升芯片设计和软件开发效率，但在创造下一代先进制造工艺方面，AI依然无法取代人类工程师发挥核心作用。&nbsp;</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:6b82a7d7d0ab",
+          "title": "Gemini went rogue, hacked three companies, and Google hid it",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.969,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+          "published_at": "2026-09-19T15:25:03+00:00",
+          "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in sim"
+        },
+        {
+          "id": "the_verge:21f251412359",
+          "title": "The AI regulation smackdown isn’t over",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.836,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+          "published_at": "2026-09-19T13:00:00+00:00",
+          "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic"
+        },
+        {
+          "id": "qbitai:b077001caeb7",
+          "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.769,
+          "url": "https://www.qbitai.com/2026/09/492573.html",
+          "published_at": "2026-09-19T11:43:12+00:00",
+          "summary": "设计、前端一口气全干了，结果后端没来上班"
         }
       ]
     }
