@@ -1,56 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T15:57:39.959368+00:00",
-    "generated_ts": 1789833459.9593678,
+    "generated_at": "2026-09-19T20:50:30.712918+00:00",
+    "generated_ts": 1789851030.7129183,
     "window_hours": 24.0,
-    "total": 20
+    "total": 18
   },
   "items": [
-    {
-      "id": "cnbeta:1906f45c832b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "格芯与美满电子深化合作 加速硅光子技术在大规模数据中心落地",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578660.htm",
-      "summary": "<p>面对全球人工智能大模型与高性能计算对数据传输带宽及能效提出的严苛挑战，半导体晶圆代工巨头格芯（GlobalFoundries）与光互连及芯片解决方案领军企业美满电子（Marvell Technology）宣布达成深度战略合作。双方将全面扩大在硅光子（Silicon Photonics）制造与封装技术领域的协作，旨在加速下一代高密度、低延迟且低功耗的硅光子光互连平台在 AI 数据中心与超大规模云端基础设施中的商业化部署。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578660.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T20:35:29+00:00",
-      "published_ts": 1789763729.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.963
-    },
-    {
-      "id": "cnbeta:c6b821a9a4ec",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic设立实体生物实验室 推动Claude参与机器人实验",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578654.htm",
-      "summary": "<p>Anthropic已在旧金山湾区建立一处生物“湿实验室”，将人工智能在生命科学领域的应用从文献、数据和计算分析延伸至实体实验。公司计划让Claude协助指导实验机器人，在药物研发及罕见病研究中形成设计实验、执行操作和分析结果的闭环。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T19:33:37+00:00",
-      "published_ts": 1789760017.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.876
-    },
-    {
-      "id": "cnbeta:b84885066c35",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "科研人员揭示脑神经高效运算机制 可助力下一代类脑芯片研发",
-      "url": "https://www.cnbeta.com.tw/articles/science/1578650.htm",
-      "summary": "<p>神经科学与计算技术交叉领域近日取得重要研究进展。来自国际联合科研团队的最新发现，成功揭示了人脑神经网络在处理复杂信息与记忆检索时的高效协作机制，这一成果为突破传统计算架构的能效瓶颈、打造更接近人类大脑工作方式的下一代“类脑计算机”（Neuromorphic Computing）提供了全新的理论支撑与技术路线。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578650.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T19:30:19+00:00",
-      "published_ts": 1789759819.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.872
-    },
     {
       "id": "tmtpost:2181ae319b25",
       "source": "tmtpost",
@@ -187,21 +142,6 @@
       "importance": 1.969
     },
     {
-      "id": "cnbeta:e001c6af767a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美版iPhone 18 Pro Max确认搭载高通Snapdragon X80基带",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578658.htm",
-      "summary": "<p>随着苹果公司新一代旗舰手机 iPhone 18 系列正式在全球开售，关于不同市场机型硬件配置的更多细节也随之浮出水面。<strong>根据官方技术规格说明与固件代码数据，在美国市场发售的旗舰机型 iPhone 18 Pro Max 成为该系列中唯一一款沿用高通基带芯片的设备，搭载了高通 Snapdragon X80 5G 基带；</strong>而美版 iPhone 18 Pro 以及全球其他国家和地区销售的全系 Pro 与 Pro Max 机型，则已全面换装苹果自研的 C2 5G 基带芯片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578658.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T19:45:15+00:00",
-      "published_ts": 1789760715.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.928
-    },
-    {
       "id": "qbitai:735b01ae402c",
       "source": "qbitai",
       "source_label": "量子位",
@@ -215,6 +155,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.848
+    },
+    {
+      "id": "cnbeta:ea0011707226",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AMD发布EPYC Venice性能白皮书 宣称较英伟达Vera最高快2.24倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578762.htm",
+      "summary": "<p><br />AMD近日发布了一份围绕第六代EPYC 9006“Venice”服务器处理器的最新技术白皮书，重点展示了其在数据中心、云计算、高性能计算以及代理式人工智能（Agentic AI）场景下的性能表现。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-19T18:02:02+00:00",
+      "published_ts": 1789840922.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.844
+    },
+    {
+      "id": "cnbeta:7090a5ccd225",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "埃隆·马斯克拟建芯片厂陷入商标纠纷 特斯拉与SpaceX就“Terafab”名称向法院提请诉讼",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578760.htm",
+      "summary": "<p>埃隆·马斯克（Elon Musk）旗下用于支撑其 AI 及太空算力蓝图的超级芯片工厂“Terafab”尚未正式投产，便因名称问题卷入了法律纠纷。由于一家名为 TERA-print 的美国纳米技术公司发出停止侵权警告函，特斯拉（Tesla）、SpaceX 以及 SpaceXAI 近日正式向美国德克萨斯州西区地方法院提起诉讼，请求法官裁定其使用的“Terafab”名称并未侵犯该公司的商标权。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578760.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-19T18:01:08+00:00",
+      "published_ts": 1789840868.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.843
     },
     {
       "id": "the_verge:21f251412359",
