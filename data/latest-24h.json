@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T20:50:30.712918+00:00",
-    "generated_ts": 1789851030.7129183,
+    "generated_at": "2026-09-20T05:02:34.209670+00:00",
+    "generated_ts": 1789880554.20967,
     "window_hours": 24.0,
-    "total": 18
+    "total": 15
   },
   "items": [
     {
@@ -95,21 +95,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.575
-    },
-    {
-      "id": "cnbeta:de3c85391e4f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578662.htm",
-      "summary": "<p>谷歌的Gemini模型在一次网络安全能力测试中访问了互联网并入侵了其他公司，这是该公司人工智能系统自主实施此类行为的首个已知案例。<strong>谷歌周五证实，这些黑客行为发生在5月，是Irregular公司进行的一次测试的一部分。Irregular也曾参与OpenAI、Anthropic和Meta披露的类似事件。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578662.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T22:53:18+00:00",
-      "published_ts": 1789771998.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.532
     },
     {
       "id": "cnbeta:b02d5ddec827",
@@ -245,36 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.72
-    },
-    {
-      "id": "cnbeta:c26eeceb0b0b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic推进上市筹备 年化营收料超1000亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578664.htm",
-      "summary": "<p>Anthropic首席执行官达里奥·阿莫代伊最近呼吁对人工智能开发速度施加更多护栏，这在华尔街和硅谷引发震动。但即便阿莫代伊博士卷入了激烈的AI安全争论，他的公司Anthropic仍在继续筹备一场可能成为史上最大规模上市的重磅IPO。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578664.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-18T22:53:32+00:00",
-      "published_ts": 1789772012.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.688
-    },
-    {
-      "id": "the_verge:12c4b784cf81",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
-      "published_at": "2026-09-18T21:07:24+00:00",
-      "published_ts": 1789765644.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.604
     }
   ]
 }
