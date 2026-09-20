@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T11:37:00.252344+00:00",
-    "generated_ts": 1789904220.2523444,
+    "generated_at": "2026-09-20T16:17:38.783329+00:00",
+    "generated_ts": 1789921058.783329,
     "window_hours": 24.0,
-    "total": 13
+    "total": 9
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.614
     },
     {
-      "id": "cnbeta:b02d5ddec827",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "台积电高管：AI无法独立设计1.4纳米级先进制程 人类工程师仍不可替代",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578754.htm",
-      "summary": "<p>在人工智能不断被视为改变半导体研发模式的重要工具之际，台积电高层近日公开对AI能力作出更为谨慎的评价。台积电共同营运长米玉杰表示，尽管人工智能已经能够大幅提升芯片设计和软件开发效率，但在创造下一代先进制造工艺方面，AI依然无法取代人类工程师发挥核心作用。&nbsp;</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-19T15:54:18+00:00",
-      "published_ts": 1789833258.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.997
-    },
-    {
       "id": "cnbeta:cfa1fdef1340",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -65,21 +50,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.992
-    },
-    {
-      "id": "the_verge:6b82a7d7d0ab",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "published_at": "2026-09-19T15:25:03+00:00",
-      "published_ts": 1789831503.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.969
     },
     {
       "id": "tmtpost:86fb2ec91b9a",
@@ -127,21 +97,6 @@
       "importance": 1.843
     },
     {
-      "id": "the_verge:21f251412359",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "The AI regulation smackdown isn’t over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
-      "published_at": "2026-09-19T13:00:00+00:00",
-      "published_ts": 1789822800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.836
-    },
-    {
       "id": "qbitai:fc3f47b0c8b0",
       "source": "qbitai",
       "source_label": "量子位",
@@ -155,21 +110,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.828
-    },
-    {
-      "id": "qbitai:b077001caeb7",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-      "url": "https://www.qbitai.com/2026/09/492573.html",
-      "summary": "设计、前端一口气全干了，结果后端没来上班",
-      "published_at": "2026-09-19T11:43:12+00:00",
-      "published_ts": 1789818192.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.769
     },
     {
       "id": "cnbeta:12ed5ba7af5f",
