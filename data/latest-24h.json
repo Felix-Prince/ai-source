@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T16:17:38.783329+00:00",
-    "generated_ts": 1789921058.783329,
+    "generated_at": "2026-09-20T20:56:07.320140+00:00",
+    "generated_ts": 1789937767.3201401,
     "window_hours": 24.0,
-    "total": 9
+    "total": 8
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.866
+    },
+    {
+      "id": "cnbeta:cb67c5e05705",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达显卡底层细节揭秘：包含数十个RISC-V核心 甚至已接管图形驱动执行",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1578884.htm",
+      "summary": "<p>在现代个人电脑中，显卡通常被视为由数千个流处理器组成、专用于高并行度图形渲染与人工智能计算的庞大算力引擎。然而，根据硬件开发社区及底层技术人员的最新深度分析，现代英伟达（NVIDIA）GPU 内部实际上隐匿着数十个基于开放指令集架构的 RISC-V 处理器核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578884.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-20T17:38:33+00:00",
+      "published_ts": 1789925913.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.728
     },
     {
       "id": "cnbeta:fca4f6a28789",
@@ -65,36 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.933
-    },
-    {
-      "id": "cnbeta:ea0011707226",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AMD发布EPYC Venice性能白皮书 宣称较英伟达Vera最高快2.24倍",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578762.htm",
-      "summary": "<p><br />AMD近日发布了一份围绕第六代EPYC 9006“Venice”服务器处理器的最新技术白皮书，重点展示了其在数据中心、云计算、高性能计算以及代理式人工智能（Agentic AI）场景下的性能表现。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-19T18:02:02+00:00",
-      "published_ts": 1789840922.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.844
-    },
-    {
-      "id": "cnbeta:7090a5ccd225",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "埃隆·马斯克拟建芯片厂陷入商标纠纷 特斯拉与SpaceX就“Terafab”名称向法院提请诉讼",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578760.htm",
-      "summary": "<p>埃隆·马斯克（Elon Musk）旗下用于支撑其 AI 及太空算力蓝图的超级芯片工厂“Terafab”尚未正式投产，便因名称问题卷入了法律纠纷。由于一家名为 TERA-print 的美国纳米技术公司发出停止侵权警告函，特斯拉（Tesla）、SpaceX 以及 SpaceXAI 近日正式向美国德克萨斯州西区地方法院提起诉讼，请求法官裁定其使用的“Terafab”名称并未侵犯该公司的商标权。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578760.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-19T18:01:08+00:00",
-      "published_ts": 1789840868.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.843
     },
     {
       "id": "qbitai:fc3f47b0c8b0",
