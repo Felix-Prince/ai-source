@@ -1,65 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T05:02:34.209670+00:00",
+    "generated_at": "2026-09-20T11:37:00.252344+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-21T07:13:50.601862+00:00",
-      "generated_ts": 1787296430.601862,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "tmtpost:7140b38a055e",
-          "title": "「算力」成为新一代「房产」",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.764,
-          "url": "https://www.tmtpost.com/8111576.html",
-          "published_at": "2026-08-21T04:23:35+00:00",
-          "summary": "银行按Token消耗放贷，华尔街把GPU装进SPV吸纳养老金。"
-        },
-        {
-          "id": "tmtpost:46a2e38e4127",
-          "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Ag",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.632,
-          "url": "https://www.tmtpost.com/8111019.html",
-          "published_at": "2026-08-21T02:41:46+00:00",
-          "summary": "模型可替换，工作流难迁移"
-        },
-        {
-          "id": "qbitai:eedc4d56e2fc",
-          "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.613,
-          "url": "https://www.qbitai.com/2026/08/476406.html",
-          "published_at": "2026-08-21T02:26:49+00:00",
-          "summary": ""
-        },
-        {
-          "id": "tmtpost:028efbb66ec0",
-          "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.981,
-          "url": "https://www.tmtpost.com/8108120.html",
-          "published_at": "2026-08-21T06:53:43+00:00",
-          "summary": "一条错误的想法，能不能像病毒一样，在一群AI智能体之间靠“聊天”疯狂传播？Anthropic最新论文给出的答案是：能。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-21T13:17:55.707653+00:00",
       "generated_ts": 1787318275.7076533,
@@ -7825,6 +7769,91 @@
         "cnbeta": 50
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-09-20T11:37:00.252344+00:00",
+      "generated_ts": 1789904220.2523444,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:52810c182cc0",
+          "title": "A20 Pro强大算力让iPhone 18 Pro运行270亿参数模型速度较前代翻倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.866,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578848.htm",
+          "published_at": "2026-09-20T10:02:23+00:00",
+          "summary": "<p>苹果最新推出的A20 Pro芯片正在展示其在端侧人工智能领域的真正潜力。一项最新实测显示，搭载A20 Pro的iPhone 18 Pro能够在本地运行拥有270亿参数的大型AI模型，其生成速度达到上一代iPhone 17 Pro的两倍，引发外界对于手机本地AI能力的新一轮关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:fca4f6a28789",
+          "title": "Google Gemini 4 Pro首测杀回Arena榜单第一",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.614,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578798.htm",
+          "published_at": "2026-09-20T06:51:11+00:00",
+          "summary": "<p>Google真要彻底翻身了！这几天，一个披着“gemini-3.8-flash”马甲的神秘模型，在大模型竞技场Arena上现身。在多轮盲测中，AI圈瞬间沸腾：这绝对是Google“隐藏款”Gemini 4 Pro。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:cfa1fdef1340",
+          "title": "先进成像技术有望解锁被封存两千年的赫库兰尼姆卷轴",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.992,
+          "url": "https://www.cnbeta.com.tw/articles/science/1578852.htm",
+          "published_at": "2026-09-20T11:28:19+00:00",
+          "summary": "<p>公元 79 年维苏威火山的灾难性爆发吞没庞贝古城的同时，也将相邻古城赫库兰尼姆的一座奢华别墅及其内部数量庞大的古代卷轴埋入地下。这些经火山灰与高热炭化、在地下封存了近两千年的纸莎草卷轴极其脆弱，任何物理剥离与展平的尝试都会导致其瞬间化为灰烬。<strong>如今，由多国科学家与计算机专家组成的联合团队利用最前沿的非破坏性成像技术与人工智能算法，正在逐步破解这些卷轴的内部文字，有望在不损伤文物的前提下重新读取这些失传已久的古希腊与古罗马文献。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578852.h"
+        },
+        {
+          "id": "tmtpost:86fb2ec91b9a",
+          "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.933,
+          "url": "https://www.tmtpost.com/8145908.html",
+          "published_at": "2026-09-20T10:25:48+00:00",
+          "summary": "没人开发布会。可硅谷这一周，比任何发布会都热闹。"
+        },
+        {
+          "id": "qbitai:fc3f47b0c8b0",
+          "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.828,
+          "url": "https://www.qbitai.com/2026/09/492939.html",
+          "published_at": "2026-09-20T08:30:32+00:00",
+          "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+        },
+        {
+          "id": "cnbeta:12ed5ba7af5f",
+          "title": "DeepSeek中秋国庆十天全半价 调休的周末不算工作日",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.745,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1578804.htm",
+          "published_at": "2026-09-20T06:53:48+00:00",
+          "summary": "<p>今天20号是周末，但又调休上班，DeepSeek API价格按工作日算？刚刚DeepSeek在规则里明确了：调休的周末不算工作日。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:8040eca85f22",
+          "title": "China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.69,
+          "url": "https://www.tmtpost.com/8146181.html",
+          "published_at": "2026-09-20T05:47:04+00:00",
+          "summary": "ByteDance, Tencent and Alibaba have consolidated their AI office offerings into single branded agents and are pouring resources into enterprise workflows. Early usage data show rapid growth in desktop and native apps, yet the products still struggle with long multi-step tasks while commercial models"
+        }
+      ]
     }
   ]
 }
