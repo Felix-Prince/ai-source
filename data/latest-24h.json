@@ -1,25 +1,55 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T13:02:08.831930+00:00",
-    "generated_ts": 1789995728.8319302,
+    "generated_at": "2026-09-21T22:03:41.157459+00:00",
+    "generated_ts": 1790028221.1574585,
     "window_hours": 24.0,
-    "total": 13
+    "total": 19
   },
   "items": [
     {
-      "id": "cnbeta:cb67c5e05705",
+      "id": "cnbeta:b11de6f936f0",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "英伟达显卡底层细节揭秘：包含数十个RISC-V核心 甚至已接管图形驱动执行",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578884.htm",
-      "summary": "<p>在现代个人电脑中，显卡通常被视为由数千个流处理器组成、专用于高并行度图形渲染与人工智能计算的庞大算力引擎。然而，根据硬件开发社区及底层技术人员的最新深度分析，现代英伟达（NVIDIA）GPU 内部实际上隐匿着数十个基于开放指令集架构的 RISC-V 处理器核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578884.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-20T17:38:33+00:00",
-      "published_ts": 1789925913.0,
+      "title": "xAI发布Grok 4.7：专攻编程与知识工作 价格降至竞品一半",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579080.htm",
+      "summary": "<p>马斯克旗下人工智能公司xAI正式发布新一代大模型Grok 4.7，并将其定位为目前最强大的编程与知识工作模型。公司表示，新模型不仅在复杂任务处理能力上实现提升，同时维持与前代产品相同的运行速度和价格体系，并以更低成本向市场发起竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579080.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-21T20:57:32+00:00",
+      "published_ts": 1790024252.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.728
+      "importance": 2.906
+    },
+    {
+      "id": "cnbeta:7691756cd548",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI敦促美国牵头为人工智能制定全球标准",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579070.htm",
+      "summary": "<p>OpenAI敦促美国牵头与其他国家共同为前沿人工智能（AI）制定标准，以回应对AI潜在危害日益加剧的担忧。OpenAI周一在博客文章中表示，为了安全地发展人工智能，有必要制定国际技术标准，特别是帮助界定涉及AI模型的哪些类事件应当通报，明确各国如何开展AI发展合作，以及改善开发此类技术所需算力的获取。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-21T20:45:29+00:00",
+      "published_ts": 1790023529.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.889
+    },
+    {
+      "id": "techcrunch:73b1bf597a0f",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "published_at": "2026-09-21T17:55:18+00:00",
+      "published_ts": 1790013318.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.662
     },
     {
       "id": "cnbeta:767322688a2b",
@@ -37,6 +67,21 @@
       "importance": 2.568
     },
     {
+      "id": "cnbeta:0594e33fa80a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI与Anthropic曾接近达成协议 互相开展AI压力测试",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579064.htm",
+      "summary": "<p>面对员工及外界对其人工智能潜在风险的担忧，OpenAI正在重新审视一系列安全策略，其中一个可行方案其实在不久前就已被探讨。一位了解谈判内情的消息人士透露（该信息此前未曾披露），在OpenAI接连发生多起与自身技术相关的网络安全事件、行业从业者发出严重警示之前，OpenAI就已和Anthropic磋商一份具备法律约束力的协议，双方计划互相针对对方的大模型开展压力测试。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579064.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-21T14:41:36+00:00",
+      "published_ts": 1790001696.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.425
+    },
+    {
       "id": "cnbeta:760bc47b60f5",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -50,6 +95,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.418
+    },
+    {
+      "id": "cnbeta:f0fee7931a15",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic、OpenAI、Google和SpaceXAI协调减缓AI发展速度的做法遭反垄断诉讼",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579054.htm",
+      "summary": "<p>Anthropic、OpenAI、Google以及SpaceXAI近日遭到美国联邦法院提起的反垄断诉讼。<strong>原告指控这四家人工智能企业通过公开表态和协调行动，就放缓人工智能技术发展速度达成了非法协议，从而限制行业竞争，并降低消费者购买ChatGPT、Claude、Grok和Gemini等AI服务所获得的价值。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579054.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-21T13:02:49+00:00",
+      "published_ts": 1789995769.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.312
     },
     {
       "id": "the_verge:1c690f780807",
@@ -120,6 +180,21 @@
       "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
       "published_at": "2026-09-21T10:18:06+00:00",
       "published_ts": 1789985886.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.848
+    },
+    {
+      "id": "techcrunch:43ccb340ea01",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "published_at": "2026-09-21T19:19:21+00:00",
+      "published_ts": 1790018361.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
@@ -200,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.65
+    },
+    {
+      "id": "openai_blog:41b08bd3ae9b",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "published_ts": 1789948800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 1.586
     }
   ]
 }
