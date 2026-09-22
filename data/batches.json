@@ -1,65 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T05:10:12.625433+00:00",
+    "generated_at": "2026-09-22T11:51:42.297611+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-23T07:07:46.883674+00:00",
-      "generated_ts": 1787468866.883674,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:e696e93f4635",
-          "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.913,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574534.htm",
-          "published_at": "2026-08-23T06:06:26+00:00",
-          "summary": "<p>NVIDIA不仅是全球最赚钱的AI硬件公司，现在也把重点放在大模型开发上了，为此不惜砸了70亿美元招人，要开发全球最强的开源大模型。美国媒体报道，NVIDIA要跟AI初创公司Poolside达成一项合作协议，<strong>会以120亿美元的估值向公司投资10亿美元，同时花费60亿美元购买该公司的技术产权及部分研发人员。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:6d61da212256",
-          "title": "Anthropic把员工入职第一课给公开了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.908,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574526.htm",
-          "published_at": "2026-08-23T06:02:59+00:00",
-          "summary": "<p><strong>Anthropic把自家员工入职培训的那套课程，原样搬到了网上。免费。</strong>就在昨天，Claude Academy正式上线。289个资源：课程、教程、真实用例全在里面，从“AI到底是什么东西”一路到Claude Code、API、MCP、agents和生产级部署。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574526.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:c23cf7bface8",
-          "title": "深度求索宣布即日起DeepSeek API在周六/周日全为谷时 按照更便宜的价格计价",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.952,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574548.htm",
-          "published_at": "2026-08-23T06:17:47+00:00",
-          "summary": "<p>日前深度求索变更 DeepSeek API 页面宣布从 2026 年 8 月 23 日 0 时起变更峰谷时间段，此次变更主要是将周六和周日都划为空闲时间段按照更便宜的价格计费，而周一到周五则是按照峰时和闲时进行区别定价，其中峰时价格更高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:d365ffd9b8df",
-          "title": "英伟达被曝已通知客户 AI芯片价格将普遍上涨超过15%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.76,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574508.htm",
-          "published_at": "2026-08-23T02:41:52+00:00",
-          "summary": "<p>据彭博社当地时间8月22日报道，由于存储芯片成本飙升，英伟达（Nvidia）的一些大客户已被告知，搭载其人工智能（AI）芯片的服务器价格将普遍上涨超过15%。知情人士透露，此次涨价将适用于明年年初发货的系统，其中包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-23T13:07:08.276293+00:00",
       "generated_ts": 1787490428.2762933,
@@ -7931,6 +7875,111 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1579088.htm",
           "published_at": "2026-09-21T22:57:23+00:00",
           "summary": "<p>据彭博社报道，加拿大不列颠哥伦比亚省已在美国加州对OpenAI提起诉讼，指控该公司本可以利用ChatGPT日志向警方发出警告，从而避免今年早些时候发生在该省的一起大规模枪击事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579088.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-22T11:51:42.297611+00:00",
+      "generated_ts": 1790077902.297611,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:bfbee39d4fca",
+          "title": "AI芯片热潮推动产能狂飙 台积电1.4纳米工艺预计2027年首季试产",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.807,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579178.htm",
+          "published_at": "2026-09-22T09:33:41+00:00",
+          "summary": "<p>在全球人工智能算力需求持续爆发的背景下，台积电正在以前所未有的速度推进先进制程布局。最新产业消息显示，台积电1.4纳米A14制程开发进展顺利，最快有望于2027年第一季度启动试产。同时，受AI芯片需求强劲拉动，公司3纳米制程产能正在快速扩张，预计到2027年底单月产能将突破20万片晶圆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3a38c03000a9",
+          "title": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.527,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579150.htm",
+          "published_at": "2026-09-22T05:55:36+00:00",
+          "summary": "<p>2026年2月，伊朗南部小城米纳布的一所小学，在战争爆发首日遭到两枚战斧导弹袭击。这场空袭造成超过150人死亡，其中至少123人是儿童。五角大楼一份内部审查文件显示，一款由Palantir公司开发的人工智能目标系统，在这场悲剧的酿成过程中扮演了关键角色。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579150.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1a1793867b21",
+          "title": "毛利率从50%跌至-50% 美创业公司反思对OpenAI等依赖、转用中国模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.515,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579136.htm",
+          "published_at": "2026-09-22T05:45:16+00:00",
+          "summary": "<p>据彭博社报道，Harvey是一家估值156亿美元的美国法律科技创业公司，其业务核心是训练像OpenAI GPT-4这样的AI模型，为律师完成专业工作。然而，近期不断飙升的AI成本，正促使该公司重新考虑对这些AI巨头的依赖。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579136.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0cd371df2a02",
+          "title": "阿里巴巴：Qwen4和下代视频模型均在训练中",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.475,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579122.htm",
+          "published_at": "2026-09-22T05:11:54+00:00",
+          "summary": "<p>2026云栖大会上，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现出色，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579122.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b3b602a267e7",
+          "title": "苹果宣布将相机新功能下放至更多老款iPhone",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.97,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579184.htm",
+          "published_at": "2026-09-22T11:20:16+00:00",
+          "summary": "<p>苹果公司在一份最新的官方更新声明中改变了先前的立场，宣布将此前仅限最新款设备独占的一项核心相机新功能下放至更多老款iPhone机型。在日前发布的新系统中，苹果曾推出了一项针对影像拍摄的全新算法优化功能，并声称由于该功能需要依赖最新的神经网络引擎（Neural Engine）与高级图像信号处理器（ISP）进行实时硬件加速，因此仅能由最新一代旗舰手机独占。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579184.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:a0b3e716a977",
+          "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.901,
+          "url": "https://www.qbitai.com/2026/09/494120.html",
+          "published_at": "2026-09-22T10:06:34+00:00",
+          "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
+        },
+        {
+          "id": "cnbeta:23c3f1eb8a23",
+          "title": "AI从业者担忧技术对社会构成威胁 坦言承受巨大精神压力",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.753,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579168.htm",
+          "published_at": "2026-09-22T07:17:46+00:00",
+          "summary": "<p>知情人士透露，英国人工智能安全研究所已有多名员工因压力过大休病假，并接受心理咨询。四名知情人士表示，待发布AI模型的测试日程紧张，加之对这类新兴技术快速落地、能力持续增强的忧虑，导致AISI内部士气低落、人员倦怠。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579168.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1530f5f02659",
+          "title": "SpaceXAI最强Grok 4.7发布 价格杀疯，跑分令人失望",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.68,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579142.htm",
+          "published_at": "2026-09-22T05:49:56+00:00",
+          "summary": "<p>今天一早，SpaceXAI 最强模型 Grok 4.7 来了。发布页开头只有一句极具“攻击性”的定位：面向编程与知识工作的最强模型，速度达到可比模型的两倍，价格只有一半。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:01d452b6f49f",
+          "title": "腾讯混元发布Hy Image3.5 preview 支持文生图和图生图",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.672,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579132.htm",
+          "published_at": "2026-09-22T05:39:38+00:00",
+          "summary": "<p>9月22日，腾讯混元正式发布图像生成模型Hy Image3.5 preview，支持文生图、图生图及多轮对话创作。据官方介绍，该模型经腾讯内部数百名专业设计师GSB盲测，效果较Hy Image3.0提升30%，与Seedream 5.0 pro持平，略优于Nano-Banana Pro和Qwen-Image-3.0 Pro。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579132.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

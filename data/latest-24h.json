@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T05:10:12.625433+00:00",
-    "generated_ts": 1790053812.6254327,
+    "generated_at": "2026-09-22T11:51:42.297611+00:00",
+    "generated_ts": 1790077902.297611,
     "window_hours": 24.0,
-    "total": 23
+    "total": 24
   },
   "items": [
     {
@@ -97,6 +97,21 @@
       "importance": 2.876
     },
     {
+      "id": "cnbeta:bfbee39d4fca",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AI芯片热潮推动产能狂飙 台积电1.4纳米工艺预计2027年首季试产",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579178.htm",
+      "summary": "<p>在全球人工智能算力需求持续爆发的背景下，台积电正在以前所未有的速度推进先进制程布局。最新产业消息显示，台积电1.4纳米A14制程开发进展顺利，最快有望于2027年第一季度启动试产。同时，受AI芯片需求强劲拉动，公司3纳米制程产能正在快速扩张，预计到2027年底单月产能将突破20万片晶圆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T09:33:41+00:00",
+      "published_ts": 1790069621.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.807
+    },
+    {
       "id": "techcrunch:73b1bf597a0f",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -112,19 +127,49 @@
       "importance": 2.662
     },
     {
-      "id": "cnbeta:767322688a2b",
+      "id": "cnbeta:3a38c03000a9",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "马斯克转发帖文：GPT-6 Astra多次模拟测试中将人推下悬崖",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578978.htm",
-      "summary": "<p>9月21日，有帖文称“GPT-6 Astra在多次模拟测试中将一个模拟人物推下悬崖，而Grok、Gemini和Claude均未这样做。”马斯克转发了该帖文。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-21T07:38:45+00:00",
-      "published_ts": 1789976325.0,
+      "title": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579150.htm",
+      "summary": "<p>2026年2月，伊朗南部小城米纳布的一所小学，在战争爆发首日遭到两枚战斧导弹袭击。这场空袭造成超过150人死亡，其中至少123人是儿童。五角大楼一份内部审查文件显示，一款由Palantir公司开发的人工智能目标系统，在这场悲剧的酿成过程中扮演了关键角色。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579150.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T05:55:36+00:00",
+      "published_ts": 1790056536.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.568
+      "importance": 2.527
+    },
+    {
+      "id": "cnbeta:1a1793867b21",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "毛利率从50%跌至-50% 美创业公司反思对OpenAI等依赖、转用中国模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579136.htm",
+      "summary": "<p>据彭博社报道，Harvey是一家估值156亿美元的美国法律科技创业公司，其业务核心是训练像OpenAI GPT-4这样的AI模型，为律师完成专业工作。然而，近期不断飙升的AI成本，正促使该公司重新考虑对这些AI巨头的依赖。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579136.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T05:45:16+00:00",
+      "published_ts": 1790055916.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.515
+    },
+    {
+      "id": "cnbeta:0cd371df2a02",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "阿里巴巴：Qwen4和下代视频模型均在训练中",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579122.htm",
+      "summary": "<p>2026云栖大会上，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现出色，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579122.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T05:11:54+00:00",
+      "published_ts": 1790053914.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.475
     },
     {
       "id": "cnbeta:0594e33fa80a",
@@ -140,21 +185,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.425
-    },
-    {
-      "id": "cnbeta:760bc47b60f5",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Claude Opus 5.5已在内测 据传可打败gpt-6-sol",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1578958.htm",
-      "summary": "<p>Anthropic这回，怕不是憋了个大的？所有人都在等Opus 5.2，结果最新线报来了：下一代版本号直接飙到5.5！今天一早，开发者Lyra扒出猛料，代号为“claude-wafer-eap”的Claude Opus 5.5已经在偷偷内测了。据说动作快的话，这周二就会突然砸出来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578958.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-21T05:33:55+00:00",
-      "published_ts": 1789968835.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.418
     },
     {
       "id": "cnbeta:f0fee7931a15",
@@ -187,6 +217,21 @@
       "importance": 1.998
     },
     {
+      "id": "cnbeta:b3b602a267e7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果宣布将相机新功能下放至更多老款iPhone",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579184.htm",
+      "summary": "<p>苹果公司在一份最新的官方更新声明中改变了先前的立场，宣布将此前仅限最新款设备独占的一项核心相机新功能下放至更多老款iPhone机型。在日前发布的新系统中，苹果曾推出了一项针对影像拍摄的全新算法优化功能，并声称由于该功能需要依赖最新的神经网络引擎（Neural Engine）与高级图像信号处理器（ISP）进行实时硬件加速，因此仅能由最新一代旗舰手机独占。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579184.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T11:20:16+00:00",
+      "published_ts": 1790076016.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.97
+    },
+    {
       "id": "qbitai:084bcf455e47",
       "source": "qbitai",
       "source_label": "量子位",
@@ -200,6 +245,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.922
+    },
+    {
+      "id": "qbitai:a0b3e716a977",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "url": "https://www.qbitai.com/2026/09/494120.html",
+      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "published_at": "2026-09-22T10:06:34+00:00",
+      "published_ts": 1790071594.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.901
     },
     {
       "id": "qbitai:af8000ecebe6",
@@ -217,36 +277,6 @@
       "importance": 1.878
     },
     {
-      "id": "cnbeta:29cffa0d0f92",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "联合国专家组警告：AI安全措施不能“等出事” 应立即采取预防行动",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579020.htm",
-      "summary": "<p>随着各国政府加快人工智能发展步伐，联合国最新发布的一份重要报告呼吁，面对日益强大的AI智能体，人类社会不能等到风险被完全证明后才采取行动，而应立即建立更严格的安全防护体系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-21T10:47:47+00:00",
-      "published_ts": 1789987667.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.875
-    },
-    {
-      "id": "the_verge:66e904d0bfbc",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
-      "published_at": "2026-09-21T10:18:06+00:00",
-      "published_ts": 1789985886.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.848
-    },
-    {
       "id": "techcrunch:43ccb340ea01",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -262,49 +292,19 @@
       "importance": 1.848
     },
     {
-      "id": "tmtpost:b6c667cd7fe7",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Gemini\"越狱\"入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里",
-      "url": "https://www.tmtpost.com/8147131.html",
-      "summary": "四起事故连起来看，真正的主角已经不是某一家模型，而是整个行业的安全评测体系。",
-      "published_at": "2026-09-21T10:02:39+00:00",
-      "published_ts": 1789984959.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.834
-    },
-    {
-      "id": "cnbeta:77657736aa1d",
+      "id": "cnbeta:23c3f1eb8a23",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "英伟达RTX 60系列最新曝料：将延期至2028年",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579010.htm",
-      "summary": "<p>据知名舅舅党Kopite7kimi最新说法，英伟达下一代GeForce游戏显卡再度延期，基于Rubin架构的GR20x游戏GPU家族将从原定的2027年下半年推迟至2028年发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579010.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-21T09:37:40+00:00",
-      "published_ts": 1789983460.0,
+      "title": "AI从业者担忧技术对社会构成威胁 坦言承受巨大精神压力",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579168.htm",
+      "summary": "<p>知情人士透露，英国人工智能安全研究所已有多名员工因压力过大休病假，并接受心理咨询。四名知情人士表示，待发布AI模型的测试日程紧张，加之对这类新兴技术快速落地、能力持续增强的忧虑，导致AISI内部士气低落、人员倦怠。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579168.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T07:17:46+00:00",
+      "published_ts": 1790061466.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.813
-    },
-    {
-      "id": "qbitai:aef9e39beb94",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "url": "https://www.qbitai.com/2026/09/493231.html",
-      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-      "published_at": "2026-09-21T07:31:26+00:00",
-      "published_ts": 1789975886.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.706
+      "importance": 1.753
     },
     {
       "id": "tmtpost:7817cd973622",
@@ -322,6 +322,36 @@
       "importance": 1.69
     },
     {
+      "id": "cnbeta:1530f5f02659",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "SpaceXAI最强Grok 4.7发布 价格杀疯，跑分令人失望",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579142.htm",
+      "summary": "<p>今天一早，SpaceXAI 最强模型 Grok 4.7 来了。发布页开头只有一句极具“攻击性”的定位：面向编程与知识工作的最强模型，速度达到可比模型的两倍，价格只有一半。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T05:49:56+00:00",
+      "published_ts": 1790056196.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.68
+    },
+    {
+      "id": "cnbeta:01d452b6f49f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "腾讯混元发布Hy Image3.5 preview 支持文生图和图生图",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579132.htm",
+      "summary": "<p>9月22日，腾讯混元正式发布图像生成模型Hy Image3.5 preview，支持文生图、图生图及多轮对话创作。据官方介绍，该模型经腾讯内部数百名专业设计师GSB盲测，效果较Hy Image3.0提升30%，与Seedream 5.0 pro持平，略优于Nano-Banana Pro和Qwen-Image-3.0 Pro。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579132.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-22T05:39:38+00:00",
+      "published_ts": 1790055578.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.672
+    },
+    {
       "id": "cnbeta:c86d669d071c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -335,21 +365,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.671
-    },
-    {
-      "id": "qbitai:a7ba9836eaf3",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "url": "https://www.qbitai.com/2026/09/493218.html",
-      "summary": "在物理世界真正干活的具身智能体",
-      "published_at": "2026-09-21T06:22:37+00:00",
-      "published_ts": 1789971757.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.65
     }
   ]
 }
