@@ -1,55 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T04:54:12.930049+00:00",
+    "generated_at": "2026-09-23T11:51:25.421167+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-24T07:33:24.114870+00:00",
-      "generated_ts": 1787556804.1148703,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "qbitai:507a242f6a4b",
-          "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.959,
-          "url": "https://www.qbitai.com/2026/08/478469.html",
-          "published_at": "2026-08-24T07:04:36+00:00",
-          "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
-        },
-        {
-          "id": "cnbeta:c7cbaea5ad61",
-          "title": "月之暗面Kimi K2.5本月底退役 2.8万亿参数K3已全面接棒",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.844,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574702.htm",
-          "published_at": "2026-08-24T05:42:34+00:00",
-          "summary": "<p>8月24日，<strong>月之暗面Kimi官方微博今日宣布，其第一代万亿参数多模态模型Kimi K2.5将于本月底正式结束服役</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574702.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:3bd6259561c7",
-          "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.866,
-          "url": "https://www.qbitai.com/2026/08/478427.html",
-          "published_at": "2026-08-24T05:09:27+00:00",
-          "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-24T13:26:36.239367+00:00",
       "generated_ts": 1787577996.2393668,
@@ -8028,6 +7982,121 @@
           "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
           "published_at": "2026-09-22T21:25:18+00:00",
           "summary": "The frontier AI model race has entered its comparison shopping phase."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-23T11:51:25.421167+00:00",
+      "generated_ts": 1790164285.4211667,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:a3ddc8035c60",
+          "title": "企业数据太多，AI知道得太少：千问办公的上下文生意",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.976,
+          "url": "https://www.tmtpost.com/8151019.html",
+          "published_at": "2026-09-23T11:34:32+00:00",
+          "summary": "一家中大型企业内部的数据规模平均约为150PB，而目前最强模型的上下文窗口多为 100 万token左右。"
+        },
+        {
+          "id": "qbitai:f2d7b947098c",
+          "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.645,
+          "url": "https://www.qbitai.com/2026/09/496393.html",
+          "published_at": "2026-09-23T07:29:50+00:00",
+          "summary": "每秒能产生5000+个沙盒"
+        },
+        {
+          "id": "cnbeta:50a40c6d1e70",
+          "title": "OpenAI CEO将出席安理会会议 以“务实中间派”立场推动建立AI安全标准",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.988,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579344.htm",
+          "published_at": "2026-09-23T11:39:19+00:00",
+          "summary": "<p>OpenAI联合创始人兼首席执行官Sam Altman将于周三在联合国发表讲话，主张建立全球人工智能（AI）标准，在“是否应放缓AI发展”的这一问题上，将自己定位为务实中间派。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579344.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e6534996a3c0",
+          "title": "Anthropic、OpenAI等新兴厂商正在挤占传统软件预算",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.987,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579342.htm",
+          "published_at": "2026-09-23T11:38:02+00:00",
+          "summary": "<p>企业正将一部分传统软件开支转向 Anthropic 与 OpenAI。采购软件服务商 Zip 发布的报告《AI 预算究竟流向何方》为此提供了进一步佐证。在截至 8 月的过去 12 个月中，OpenAI、Anthropic、Cursor、Sierra 等 AI 服务商占到 Zip 客户总支出的 8%；而此前 12 个月该占比仅为 1.4%。同期企业软件总预算的中位数上涨 13%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579342.htm\" target=\"_blank\"><strong>阅读全文</strong></a"
+        },
+        {
+          "id": "cnbeta:622f02b8113c",
+          "title": "研究人员发现“AI自治恶意软件”：同时调用四大聊天机器人 自主决定攻击行动",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.986,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579340.htm",
+          "published_at": "2026-09-23T11:36:55+00:00",
+          "summary": "<p>网络安全研究人员近日发现一种不同寻常的新型Windows恶意软件。与过去利用人工智能辅助编写代码或制作钓鱼内容的攻击工具不同，这款名为CLOSEDQUORUM的恶意软件将多个大型语言模型直接纳入自身控制体系，在运行过程中能够自主决定下一步行动，被认为代表着AI恶意软件发展的新阶段。&nbsp;</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579340.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:234bc7bddeb3",
+          "title": "macOS 17将大幅扩充Apple Intelligence资源库 部分Mac设备存储占用达30GB",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.977,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579332.htm",
+          "published_at": "2026-09-23T11:27:52+00:00",
+          "summary": "<p>随着下一代macOS 17测试版的推进，苹果公司正进一步深化其人工智能布局。最新系统固件分析显示，macOS 17中的Apple Intelligence套件将迎来显著的更新与扩充，部分Mac设备上的人工智能模型及相关资源文件占用空间将暴增至约30GB。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579332.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:dfd66719c770",
+          "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.829,
+          "url": "https://www.qbitai.com/2026/09/496471.html",
+          "published_at": "2026-09-23T08:45:22+00:00",
+          "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B"
+        },
+        {
+          "id": "cnbeta:f0646b338761",
+          "title": "Meta个人AI智能体Muse仍存隐私担忧 OpenAI竞品将成拦路虎",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.695,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579284.htm",
+          "published_at": "2026-09-23T06:08:07+00:00",
+          "summary": "<p>据《华尔街日报》报道，Meta似乎已经推出了一款大获成功的AI产品，但要想最终主导消费级AI应用的下一阶段，道路绝非一片坦途。两周前，Meta推出了一款易于使用的新型个人AI智能体Muse。自上周五以来，该应用一直位居苹果美国应用商店榜首，推动Meta股价周一上涨11%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579284.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:57f14516960d",
+          "title": "Anthropic携手OpenEvidence将医疗AI推广至全球 计划覆盖约100个国家",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.672,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579276.htm",
+          "published_at": "2026-09-23T05:39:14+00:00",
+          "summary": "<p>Anthropic与医学知识平台OpenEvidence宣布达成合作，双方计划将基于人工智能的临床决策支持工具免费提供给美国和欧洲以外、医疗资源相对匮乏地区的医生，希望借助AI扩大循证医学知识的获取范围，帮助当地医务人员应对医学文献、专科医生和继续医学教育资源不足等问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579276.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f7e6c9ab332d",
+          "title": "OpenAI组建顶尖数学家独立顾问团 重新审视与数学界的关系",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.669,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579272.htm",
+          "published_at": "2026-09-23T05:35:19+00:00",
+          "summary": "<p>OpenAI近日宣布成立一个由顶尖数学家组成的独立顾问团，负责就人工智能与数学研究之间的关系向OpenAI及其他AI企业提供建议。这个名为“数学与人工智能咨询组”（Advisory Group on Mathematics and Artificial Intelligence，AGMAI）的新组织，将重点关注AI产生的数学成果应该如何审核、发布和传播，以及AI企业应当如何遵循数学研究领域长期形成的学术和职业规范。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579272.htm\" target=\"_blank\"><stro"
         }
       ]
     }
