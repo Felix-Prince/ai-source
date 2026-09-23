@@ -1,45 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T17:15:51.410298+00:00",
+    "generated_at": "2026-09-23T21:36:01.081922+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-24T19:06:51.695632+00:00",
-      "generated_ts": 1787598411.6956315,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 14,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "techcrunch:08758c973ea4",
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.797,
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-          "published_at": "2026-08-24T15:24:18+00:00",
-          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
-        },
-        {
-          "id": "techcrunch:c1308037c07e",
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.776,
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-          "published_at": "2026-08-24T15:00:00+00:00",
-          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-25T01:56:30.735200+00:00",
       "generated_ts": 1787622990.7352002,
@@ -8086,6 +8050,91 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm",
           "published_at": "2026-09-23T12:24:19+00:00",
           "summary": "<p>人工智能巨头OpenAI在纽约联合国大会期间宣布，将向乌克兰政府免费提供其名为“Daybreak”的最新AI网络防御系统，以帮助该国保护包括医院、电网在内的关键民用基础设施免受网络攻击。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-23T21:36:01.081922+00:00",
+      "generated_ts": 1790199361.081922,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:053cbfdf71c0",
+          "title": "Anthropic推出首个生物实验室助手Claude CRISPR 助力基因编辑与生命科学研究",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.78,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579372.htm",
+          "published_at": "2026-09-23T18:57:44+00:00",
+          "summary": "<p>人工智能研究公司Anthropic宣布推出一款专门针对生命科学与生物工程领域优化的AI助手“Claude CRISPR”。该工具基于其先进的Claude模型架构构建，旨在帮助科研人员处理复杂的基因组学数据、设计CRISPR基因编辑方案以及优化分子生物学实验流程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579372.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:285fcfe03bf8",
+          "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.704,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+          "published_at": "2026-09-23T18:00:00+00:00",
+          "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. T"
+        },
+        {
+          "id": "cnbeta:9da9a226adbd",
+          "title": "机构预测硅晶圆价格将在2027年再涨40%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.859,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579376.htm",
+          "published_at": "2026-09-23T19:04:15+00:00",
+          "summary": "<p>随着人工智能基础设施建设的持续扩张，半导体产业链最上游的原材料市场正迎来前所未有的供需失衡。受AI算力需求暴增与长期供货协议（LTSA）到期等叠加因素影响，全球硅晶圆价格预计将在2027年迎来高达40%的剧烈上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:efcd8937dd68",
+          "title": "ChatGPT移动端加入语音智能代理功能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.854,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579374.htm",
+          "published_at": "2026-09-23T18:58:45+00:00",
+          "summary": "<p>OpenAI宣布ChatGPT移动应用开始加入基于语音的智能代理功能，用户今后不只是能够通过语音与ChatGPT聊天，还可以直接用语音指挥它执行更加复杂的实际工作。例如，用户可以要求ChatGPT创建一份文档、起草电子邮件、总结Slack消息，甚至开展一系列需要多个步骤才能完成的任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:9ad5aa6fb6e9",
+          "title": "The old cybersecurity model is breaking",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.789,
+          "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+          "published_at": "2026-09-23T17:44:02+00:00",
+          "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing com"
+        },
+        {
+          "id": "techcrunch:6a3719fe8003",
+          "title": "ChatGPT mobile app gets voice-based agentic features",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.751,
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+          "published_at": "2026-09-23T17:00:00+00:00",
+          "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+        },
+        {
+          "id": "openai_blog:00f636f1dcf5",
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.655,
+          "url": "https://openai.com/index/airbnb-gpt-6-astra",
+          "published_at": "2026-09-23T01:00:00+00:00",
+          "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
         }
       ]
     }
