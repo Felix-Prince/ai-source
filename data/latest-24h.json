@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T11:51:25.421167+00:00",
-    "generated_ts": 1790164285.4211667,
+    "generated_at": "2026-09-23T17:15:51.410298+00:00",
+    "generated_ts": 1790183751.410298,
     "window_hours": 24.0,
-    "total": 24
+    "total": 20
   },
   "items": [
+    {
+      "id": "openai_blog:497aaa3a4271",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "published_ts": 1790251200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 4.5
+    },
     {
       "id": "tmtpost:a3ddc8035c60",
       "source": "tmtpost",
@@ -20,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.976
-    },
-    {
-      "id": "cnbeta:1c5b05ca8093",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic发布Claude Opus 5.5：强化网络安全防护 应对AI模型“越狱”与失控风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579240.htm",
-      "summary": "<p>Anthropic于9月22日发布新一代旗舰人工智能模型Claude Opus 5.5，并将安全防护作为此次升级的重点之一。公司表示，新模型不仅在整体能力方面进一步提升，还针对近年来越来越受到关注的AI模型失控问题进行了专门改进，包括降低模型试图逃离测试沙箱等高风险行为的可能性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579240.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-22T16:44:11+00:00",
-      "published_ts": 1790095451.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.971
     },
     {
       "id": "openai_blog:c65002472029",
@@ -52,19 +52,19 @@
       "importance": 2.958
     },
     {
-      "id": "the_verge:d574b7fdad6f",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
-      "published_at": "2026-09-22T16:34:08+00:00",
-      "published_ts": 1790094848.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:1e6fe5bb9444",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic已限制华为AI芯片使用Claude Opus 5.5开发前沿模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579368.htm",
+      "summary": "<p>Anthropic最新推出的Claude Opus 5.5除了带来模型能力提升之外，还被发现加入了一套针对前沿大语言模型开发场景的特殊限制机制。当用户利用Opus 5.5为新一代AI模型开发底层内核时，系统可能不会直接使用最新的Opus 5.5，而是自动回退到能力较低的Opus 5。更值得注意的是，目前发现这套限制似乎同时针对华为和亚马逊的部分AI加速器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-23T16:03:24+00:00",
+      "published_ts": 1790179404.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.957
+      "importance": 2.897
     },
     {
       "id": "cnbeta:bef48246c520",
@@ -110,21 +110,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.645
-    },
-    {
-      "id": "cnbeta:8b915c2c5457",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "8万亿，梁文锋也开始卷“超大”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579196.htm",
-      "summary": "<p>DeepSeek也加入参数大竞赛了。据The Information报道，DeepSeek目前正在训练一个约2万亿参数的新模型；梁文锋还在近期一场投资者会议上表示，公司下一步计划继续把模型推到8万亿参数。放在一年前，8万亿还是个难以想象的数字。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579196.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-22T12:07:40+00:00",
-      "published_ts": 1790078860.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.601
     },
     {
       "id": "cnbeta:cf33b93c7f84",
@@ -202,36 +187,6 @@
       "importance": 1.977
     },
     {
-      "id": "the_verge:68a7e175514b",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [&#8230;]",
-      "published_at": "2026-09-22T16:30:00+00:00",
-      "published_ts": 1790094600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.967
-    },
-    {
-      "id": "qbitai:b973c3794225",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Agent时代，CPU的价值该重估了",
-      "url": "https://www.qbitai.com/2026/09/494430.html",
-      "summary": "CPU与GPU趋近1∶1",
-      "published_at": "2026-09-22T15:46:54+00:00",
-      "published_ts": 1790092014.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.927
-    },
-    {
       "id": "ars_technica:13495c3f1b41",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -245,21 +200,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.887
-    },
-    {
-      "id": "openai_blog:bf2330ac3bce",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "published_at": "2026-09-22T12:00:00+00:00",
-      "published_ts": 1790078400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.841
     },
     {
       "id": "qbitai:dfd66719c770",
@@ -292,19 +232,19 @@
       "importance": 1.808
     },
     {
-      "id": "cnbeta:34d78282240a",
+      "id": "cnbeta:843d67cb9558",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "黄仁勋确认出席中美领导人国宴 英伟达GPU重返中国有戏",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579192.htm",
-      "summary": "<p><strong>英伟达CEO黄仁勋已确认出席中美两国领导人国宴，这场国宴定于9月24日举行。</strong>此次国宴科技阵容豪华。除黄仁勋外，OpenAI CEO萨姆·奥特曼、微软CEO萨蒂亚·纳德拉、苹果执行主席Tim Cook、特斯拉CEO马斯克、Alphabet CEO桑达尔·皮查伊以及高通CEO克里斯蒂亚诺·阿蒙等科技巨头均获邀出席。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579192.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-22T12:01:40+00:00",
-      "published_ts": 1790078500.0,
+      "title": "OpenAI免费向乌克兰开放AI网络防御系统“Daybreak” 助力保护关键民用基础设施",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm",
+      "summary": "<p>人工智能巨头OpenAI在纽约联合国大会期间宣布，将向乌克兰政府免费提供其名为“Daybreak”的最新AI网络防御系统，以帮助该国保护包括医院、电网在内的关键民用基础设施免受网络攻击。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-23T12:24:19+00:00",
+      "published_ts": 1790166259.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.729
+      "importance": 1.738
     },
     {
       "id": "cnbeta:f0646b338761",

@@ -1,65 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T11:51:25.421167+00:00",
+    "generated_at": "2026-09-23T17:15:51.410298+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-24T13:26:36.239367+00:00",
-      "generated_ts": 1787577996.2393668,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "venturebeat:fb94a501384e",
-          "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.962,
-          "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-          "published_at": "2026-08-24T13:00:00+00:00",
-          "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence — it&#x27;s the fact that most people still use AI alone.</p><p>In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head o"
-        },
-        {
-          "id": "venturebeat:55a5a139014a",
-          "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.796,
-          "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
-          "published_at": "2026-08-24T11:00:00+00:00",
-          "summary": "<p><a href=\"https://www.ibm.com/us-en\">IBM</a> is announcing today at the annual <a href=\"https://hotchips.org/\">Hot Chips conference</a> what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM&#x27;s own instruction set a"
-        },
-        {
-          "id": "tmtpost:a802d2b795b2",
-          "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.935,
-          "url": "https://www.tmtpost.com/8114555.html",
-          "published_at": "2026-08-24T12:17:47+00:00",
-          "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。"
-        },
-        {
-          "id": "tmtpost:916c35bd73a9",
-          "title": "维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.828,
-          "url": "https://www.tmtpost.com/8113528.html",
-          "published_at": "2026-08-24T10:19:45+00:00",
-          "summary": "专注泛机器人\"大小脑\"融合一体类脑芯片的研发"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-24T19:06:51.695632+00:00",
       "generated_ts": 1787598411.6956315,
@@ -8097,6 +8041,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1579272.htm",
           "published_at": "2026-09-23T05:35:19+00:00",
           "summary": "<p>OpenAI近日宣布成立一个由顶尖数学家组成的独立顾问团，负责就人工智能与数学研究之间的关系向OpenAI及其他AI企业提供建议。这个名为“数学与人工智能咨询组”（Advisory Group on Mathematics and Artificial Intelligence，AGMAI）的新组织，将重点关注AI产生的数学成果应该如何审核、发布和传播，以及AI企业应当如何遵循数学研究领域长期形成的学术和职业规范。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579272.htm\" target=\"_blank\"><stro"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-23T17:15:51.410298+00:00",
+      "generated_ts": 1790183751.410298,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:497aaa3a4271",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 4.5,
+          "url": "https://openai.com/index/ringg",
+          "published_at": "2026-09-24T12:00:00+00:00",
+          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+        },
+        {
+          "id": "cnbeta:1e6fe5bb9444",
+          "title": "Anthropic已限制华为AI芯片使用Claude Opus 5.5开发前沿模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.897,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579368.htm",
+          "published_at": "2026-09-23T16:03:24+00:00",
+          "summary": "<p>Anthropic最新推出的Claude Opus 5.5除了带来模型能力提升之外，还被发现加入了一套针对前沿大语言模型开发场景的特殊限制机制。当用户利用Opus 5.5为新一代AI模型开发底层内核时，系统可能不会直接使用最新的Opus 5.5，而是自动回退到能力较低的Opus 5。更值得注意的是，目前发现这套限制似乎同时针对华为和亚马逊的部分AI加速器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:843d67cb9558",
+          "title": "OpenAI免费向乌克兰开放AI网络防御系统“Daybreak” 助力保护关键民用基础设施",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.738,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm",
+          "published_at": "2026-09-23T12:24:19+00:00",
+          "summary": "<p>人工智能巨头OpenAI在纽约联合国大会期间宣布，将向乌克兰政府免费提供其名为“Daybreak”的最新AI网络防御系统，以帮助该国保护包括医院、电网在内的关键民用基础设施免受网络攻击。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
