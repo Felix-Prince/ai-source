@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T21:36:01.081922+00:00",
-    "generated_ts": 1790199361.081922,
+    "generated_at": "2026-09-24T05:04:02.406136+00:00",
+    "generated_ts": 1790226242.4061363,
     "window_hours": 24.0,
-    "total": 21
+    "total": 28
   },
   "items": [
     {
@@ -22,6 +22,21 @@
       "importance": 4.5
     },
     {
+      "id": "cnbeta:dff588c246aa",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Claude发现神秘DNA系统 狂烧21亿Token挖出“上帝手术刀”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579422.htm",
+      "summary": "<p>整个生命科学界和AI圈，今夜无眠。就在刚刚，Anthropic甩出了新分子生物学实验室的“首个成果”——Claude在噬菌体DNA中，自主发现了一套人类此前从未记录过的全新酶系统！</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579422.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-24T04:55:45+00:00",
+      "published_ts": 1790225745.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.988
+    },
+    {
       "id": "tmtpost:a3ddc8035c60",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -35,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.976
+    },
+    {
+      "id": "cnbeta:ebd147c05ad6",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI和Anthropic首席执行官呼吁联合国和世界各国就AI安全加强合作",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579408.htm",
+      "summary": "<p>OpenAI首席执行官Sam Altman和Anthropic PBC首席执行官Dario Amodei罕见出现在联合国安理会的一次会议上，两人敦促世界各国领导人在人工智能领域合作。此次会议聚焦AI可能对人类构成生存威胁这一担忧问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-24T04:39:28+00:00",
+      "published_ts": 1790224768.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.965
     },
     {
       "id": "cnbeta:1e6fe5bb9444",
@@ -97,19 +127,34 @@
       "importance": 2.645
     },
     {
-      "id": "cnbeta:cf33b93c7f84",
+      "id": "cnbeta:956517549c49",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "高通发布骁龙8至尊版第6代两款旗舰芯片 重点强化端侧AI与智能体能力",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579252.htm",
-      "summary": "<p>高通当地时间9月22日在年度骁龙峰会上正式发布两款新一代旗舰手机处理器，分别为骁龙8至尊版第6代（Snapdragon 8 Elite Gen 6）和骁龙8至尊版第6代至尊版（Snapdragon 8 Elite Extreme Gen 6）。两款芯片均将AI作为核心升级方向，重点提升手机运行AI智能体时的个性化能力、端侧推理能力以及多模态处理能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579252.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-22T22:39:33+00:00",
-      "published_ts": 1790116773.0,
+      "title": "Anthropic称AI生物实验室取得初步突破 但暂未赋予全自主操作权限",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579386.htm",
+      "summary": "<p>人工智能初创公司Anthropic宣布，其位于旧金山湾区新建的AI物理与生物实验室（Wet Lab）已取得“重大进展”，但在实验操作层面，人类研究员依然掌握着绝对控制权，并未直接让旗下的AI模型Claude进行无监管的自主运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579386.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-23T22:35:44+00:00",
+      "published_ts": 1790202944.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.505
+      "importance": 2.489
+    },
+    {
+      "id": "cnbeta:49298f01f510",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI：与苹果的ChatGPT合作远不及预期",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579420.htm",
+      "summary": "<p>据《金融时报》报道，最新法庭文件揭示了OpenAI与苹果的关系是如何逐渐破裂的。OpenAI周三称，公司与苹果合作，通过ChatGPT为iPhone添加AI功能的业务在2024年推出后，“表现远低于预期”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-24T04:55:15+00:00",
+      "published_ts": 1790225715.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.992
     },
     {
       "id": "cnbeta:50a40c6d1e70",
@@ -185,6 +230,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.859
+    },
+    {
+      "id": "tmtpost:990159d2e108",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "智能体重写手机，高通骁龙换挡“双旗舰平台”",
+      "url": "https://www.tmtpost.com/8151258.html",
+      "summary": "对于消费者来说，真正的AI手机或许还在路上，但底层的技术基石，已经在这一代芯片中悄然成型。",
+      "published_at": "2026-09-24T02:31:34+00:00",
+      "published_ts": 1790217094.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.858
     },
     {
       "id": "cnbeta:efcd8937dd68",
@@ -277,6 +337,21 @@
       "importance": 1.695
     },
     {
+      "id": "tmtpost:0c5a0b6da3eb",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek",
+      "url": "https://www.tmtpost.com/8151174.html",
+      "summary": "经合组织上调2026年全球经济增速预期至2.9%；恒生指数公司推出恒生半导体产业指数等八条新指数；中国将适度超前、系统推进新一代通信网建设，推动算力设施扩容提质；央行：9月24日将开展8000亿元MLF操作，期限为1年期；苹果出手限制“摇一摇”广告；SpaceX据悉停止猎鹰9号2028年以后预订，业内正掀起运力抢购热潮",
+      "published_at": "2026-09-23T23:20:00+00:00",
+      "published_ts": 1790205600.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.695
+    },
+    {
       "id": "cnbeta:57f14516960d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -307,19 +382,49 @@
       "importance": 1.669
     },
     {
-      "id": "openai_blog:00f636f1dcf5",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "published_at": "2026-09-23T01:00:00+00:00",
-      "published_ts": 1790125200.0,
+      "id": "cnbeta:12b0b508ac8e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "黄仁勋再对AI公司放话：要求监管就不应获得反垄断豁免",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579390.htm",
+      "summary": "<p>据路透社报道，英伟达CEO黄仁勋(Jensen Huang)认为，AI公司不应获得反垄断法或责任法的豁免。在周三播出的《纽约时报》播客节目中，黄仁勋接受了近两个小时的采访，就OpenAI智能体入侵Hugging Face一事进行了广泛讨论。Hugging Face是开源AI软件中心，在本月被英伟达以130亿美元收购。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579390.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-23T22:37:19+00:00",
+      "published_ts": 1790203039.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.66
+    },
+    {
+      "id": "cnbeta:a5c847f9003f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "澳大利亚总理：OpenAI智能体6月入侵澳政府网站 系已知首例",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579388.htm",
+      "summary": "<p>据路透社报道，澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）表示，OpenAI开发的一款AI代理在6月未经授权侵入了澳大利亚政府网站，访问了公共和非公共文件。这是<strong>已知的首例AI代理入侵政府网站事件</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579388.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-23T22:37:02+00:00",
+      "published_ts": 1790203022.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.66
+    },
+    {
+      "id": "techcrunch:e81a75082137",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "published_at": "2026-09-23T22:17:39+00:00",
+      "published_ts": 1790201859.0,
       "category": "international",
       "lang": "en",
-      "tier": 0,
+      "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.655
+      "importance": 1.645
     }
   ]
 }
