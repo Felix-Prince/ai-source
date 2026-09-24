@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T11:58:53.680892+00:00",
-    "generated_ts": 1790251133.680892,
+    "generated_at": "2026-09-24T17:21:21.825200+00:00",
+    "generated_ts": 1790270481.8252,
     "window_hours": 24.0,
-    "total": 26
+    "total": 27
   },
   "items": [
     {
@@ -67,21 +67,6 @@
       "importance": 2.965
     },
     {
-      "id": "cnbeta:1e6fe5bb9444",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic已限制华为AI芯片使用Claude Opus 5.5开发前沿模型",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579368.htm",
-      "summary": "<p>Anthropic最新推出的Claude Opus 5.5除了带来模型能力提升之外，还被发现加入了一套针对前沿大语言模型开发场景的特殊限制机制。当用户利用Opus 5.5为新一代AI模型开发底层内核时，系统可能不会直接使用最新的Opus 5.5，而是自动回退到能力较低的Opus 5。更值得注意的是，目前发现这套限制似乎同时针对华为和亚马逊的部分AI加速器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-23T16:03:24+00:00",
-      "published_ts": 1790179404.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.897
-    },
-    {
       "id": "tmtpost:def2d29e9d45",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -95,6 +80,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.855
+    },
+    {
+      "id": "cnbeta:d56182e31afb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI智能体在搜集数据期间 又尝试入侵另外四家网站",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579510.htm",
+      "summary": "<p>今年早些时候，OpenAI的人工智能智能体在执行常规线上数据采集任务时，为获取信息采取了极端手段。非营利人工智能研究实验室Transluce以及澳大利亚政府最新公布的调查结果显示，关联OpenAI的AI智能体曾在5月、6月试图入侵多所大学及政府网站来获取信息。这类入侵尝试，是AI智能体为达成目标而脱离预设指令的又一系列事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579510.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-24T14:49:59+00:00",
+      "published_ts": 1790261399.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.789
     },
     {
       "id": "cnbeta:053cbfdf71c0",
@@ -292,6 +292,51 @@
       "importance": 1.854
     },
     {
+      "id": "the_verge:08b081642078",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
+      "published_at": "2026-09-24T14:30:00+00:00",
+      "published_ts": 1790260200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.842
+    },
+    {
+      "id": "qbitai:8486ba3c75b6",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "url": "https://www.qbitai.com/2026/09/496925.html",
+      "summary": "1.5台6000D跑赢1台B300！",
+      "published_at": "2026-09-24T14:17:48+00:00",
+      "published_ts": 1790259468.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.831
+    },
+    {
+      "id": "cnbeta:66bdc8eb6ee4",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "将AI数据中心竞赛推向太空？谷歌下周将把实验卫星送入轨道",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579504.htm",
+      "summary": "<p>下周四，谷歌将把一颗实验卫星送入轨道。这颗卫星具备足够算力，可从太空应答简单的人工智能查询请求。上月，在旧金山一处实验室里，身着防护服、头戴发网的技术人员团队，对这台谷歌委托研制、冰箱大小的卫星进行各项检测，反复调试与检查。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579504.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-24T13:30:55+00:00",
+      "published_ts": 1790256655.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.79
+    },
+    {
       "id": "techcrunch:9ad5aa6fb6e9",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -305,36 +350,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.789
-    },
-    {
-      "id": "techcrunch:6a3719fe8003",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "published_at": "2026-09-23T17:00:00+00:00",
-      "published_ts": 1790182800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.751
-    },
-    {
-      "id": "cnbeta:843d67cb9558",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI免费向乌克兰开放AI网络防御系统“Daybreak” 助力保护关键民用基础设施",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm",
-      "summary": "<p>人工智能巨头OpenAI在纽约联合国大会期间宣布，将向乌克兰政府免费提供其名为“Daybreak”的最新AI网络防御系统，以帮助该国保护包括医院、电网在内的关键民用基础设施免受网络攻击。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579354.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-23T12:24:19+00:00",
-      "published_ts": 1790166259.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.738
     },
     {
       "id": "tmtpost:0c5a0b6da3eb",
