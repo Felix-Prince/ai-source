@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T12:00:14.612230+00:00",
-    "generated_ts": 1790337614.61223,
+    "generated_at": "2026-09-25T17:20:34.521549+00:00",
+    "generated_ts": 1790356834.5215495,
     "window_hours": 24.0,
-    "total": 21
+    "total": 23
   },
   "items": [
     {
@@ -22,19 +22,34 @@
       "importance": 2.877
     },
     {
-      "id": "cnbeta:d56182e31afb",
+      "id": "the_verge:a6a0a468b816",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
+      "published_at": "2026-09-25T15:39:48+00:00",
+      "published_ts": 1790350788.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.858
+    },
+    {
+      "id": "cnbeta:7cf72d50a31e",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI智能体在搜集数据期间 又尝试入侵另外四家网站",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579510.htm",
-      "summary": "<p>今年早些时候，OpenAI的人工智能智能体在执行常规线上数据采集任务时，为获取信息采取了极端手段。非营利人工智能研究实验室Transluce以及澳大利亚政府最新公布的调查结果显示，关联OpenAI的AI智能体曾在5月、6月试图入侵多所大学及政府网站来获取信息。这类入侵尝试，是AI智能体为达成目标而脱离预设指令的又一系列事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579510.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T14:49:59+00:00",
-      "published_ts": 1790261399.0,
+      "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
+      "summary": "<p>埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-25T15:06:37+00:00",
+      "published_ts": 1790348797.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.789
+      "importance": 2.813
     },
     {
       "id": "cnbeta:130bf80f3fdf",
@@ -82,6 +97,21 @@
       "importance": 2.709
     },
     {
+      "id": "cnbeta:6d1372aa05d5",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果iPhone已可运行140亿激活参数的AI模型 Mac未来瞄准1.6万亿级系统",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579614.htm",
+      "summary": "<p>苹果正在悄然扩展其设备端人工智能能力，而最新披露的信息显示，公司对于本地大模型的规划规模远超外界此前预期。从iPhone到Mac，苹果正试图建立覆盖不同性能层级的本地AI体系，并逐步将超大规模人工智能模型引入个人设备生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-25T12:00:39+00:00",
+      "published_ts": 1790337639.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.572
+    },
+    {
       "id": "cnbeta:067fe3ae5ba1",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -97,6 +127,51 @@
       "importance": 2.466
     },
     {
+      "id": "techcrunch:f5ca4e5ff891",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "published_at": "2026-09-25T16:16:52+00:00",
+      "published_ts": 1790353012.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.94
+    },
+    {
+      "id": "techcrunch:6967d0f15f65",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "published_at": "2026-09-25T15:48:14+00:00",
+      "published_ts": 1790351294.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.913
+    },
+    {
+      "id": "cnbeta:88ceaebe5ff1",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果新款Apple TV 4K配置曝光：A19芯片加持",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579628.htm",
+      "summary": "<p>苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-25T15:36:17+00:00",
+      "published_ts": 1790350577.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.902
+    },
+    {
       "id": "tmtpost:682ca4582695",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -110,36 +185,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.85
-    },
-    {
-      "id": "the_verge:08b081642078",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
-      "published_at": "2026-09-24T14:30:00+00:00",
-      "published_ts": 1790260200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.842
-    },
-    {
-      "id": "qbitai:8486ba3c75b6",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-      "url": "https://www.qbitai.com/2026/09/496925.html",
-      "summary": "1.5台6000D跑赢1台B300！",
-      "published_at": "2026-09-24T14:17:48+00:00",
-      "published_ts": 1790259468.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.831
     },
     {
       "id": "cnbeta:11a26c113b06",
@@ -187,19 +232,19 @@
       "importance": 1.806
     },
     {
-      "id": "cnbeta:66bdc8eb6ee4",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "将AI数据中心竞赛推向太空？谷歌下周将把实验卫星送入轨道",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579504.htm",
-      "summary": "<p>下周四，谷歌将把一颗实验卫星送入轨道。这颗卫星具备足够算力，可从太空应答简单的人工智能查询请求。上月，在旧金山一处实验室里，身着防护服、头戴发网的技术人员团队，对这台谷歌委托研制、冰箱大小的卫星进行各项检测，反复调试与检查。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579504.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T13:30:55+00:00",
-      "published_ts": 1790256655.0,
+      "id": "qbitai:a4302c20590b",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "url": "https://www.qbitai.com/2026/09/497177.html",
+      "summary": "",
+      "published_at": "2026-09-25T13:15:45+00:00",
+      "published_ts": 1790342145.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.79
+      "importance": 1.778
     },
     {
       "id": "cnbeta:bfae585e3a5e",
@@ -215,21 +260,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.717
-    },
-    {
-      "id": "ars_technica:adc8ae6e22d6",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
-      "published_at": "2026-09-24T16:01:16+00:00",
-      "published_ts": 1790265676.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.702
     },
     {
       "id": "qbitai:c7f9282ec990",

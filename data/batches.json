@@ -1,85 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T12:00:14.612230+00:00",
+    "generated_at": "2026-09-25T17:20:34.521549+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-26T13:29:18.936491+00:00",
-      "generated_ts": 1787750958.9364913,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "qbitai:12d4058cdcb2",
-          "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.722,
-          "url": "https://www.qbitai.com/2026/08/479834.html",
-          "published_at": "2026-08-26T10:07:09+00:00",
-          "summary": "具身智能迈向GPT时刻"
-        },
-        {
-          "id": "cnbeta:ae886029be04",
-          "title": "智谱确认神秘“牛来”模型为GLM系列新版本：将发布权重",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.902,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575056.htm",
-          "published_at": "2026-08-26T11:45:06+00:00",
-          "summary": "<p>据彭博社报道，<strong>一款凭借免费、高性能登顶在线使用排行榜的神秘新AI模型，现在确认是由中国智谱公司开发的</strong>。智谱周三在回应彭博社询问时证实，外界猜测的Ox Alpha模型是其GLM系列的新版本，并表示将于今晚发布其权重。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575056.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:db3ab8aa2235",
-          "title": "为何OpenAI的“墨西哥辣椒”芯片会重创英伟达",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.877,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575052.htm",
-          "published_at": "2026-08-26T11:16:59+00:00",
-          "summary": "<p>到底是 OpenAI 内部哪位人士，决定把公司首款自研芯片命名为<strong>Jalapeño（墨西哥辣椒）</strong>？几个月前，这个名字听上去或许是个不错的点子 ——OpenAI 本想用这个名字暗示，这是一款炙手可热的重磅产品。但放到当下就有些不合时宜：美国食品药品监督管理局正爆发沙门氏菌食品安全事件，受污染的正是墨西哥辣椒，官方要求<strong>不得食用、供应或销售含有该辣椒的食品</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575052.htm\" target=\"_blank\"><str"
-        },
-        {
-          "id": "ars_technica:1143098e159d",
-          "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.871,
-          "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-          "published_at": "2026-08-26T11:10:49+00:00",
-          "summary": "The focus is on agentic capability and predictable enterprise deployment."
-        },
-        {
-          "id": "techcrunch:236c676a58af",
-          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.861,
-          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-          "published_at": "2026-08-26T11:00:00+00:00",
-          "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
-        },
-        {
-          "id": "cnbeta:47b879dc6c67",
-          "title": "ChatGPT Work新增网站登录能力 可代为完成预约、报销与账单处理等任务",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.683,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575032.htm",
-          "published_at": "2026-08-26T07:30:29+00:00",
-          "summary": "<p>OpenAI宣布，ChatGPT Work现已获得一项重要更新：AI代理能够登录需要身份验证的网站，并在用户完成登录后继续执行此前必须由人工接手的网页操作。此前，遇到用户名、密码或安全验证码等认证环节时，ChatGPT无法继续完成任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-26T20:15:14.272896+00:00",
       "generated_ts": 1787775314.2728958,
@@ -8140,6 +8064,91 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1579540.htm",
           "published_at": "2026-09-25T05:10:17+00:00",
           "summary": "<p>微软正在进一步加强Foundry平台的实时语音能力，为开发者提供能够直接进行语音输入和语音输出的原生语音智能体，从而让企业能够更加容易地构建类似Google Gemini Live的实时对话式AI体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-25T17:20:34.521549+00:00",
+      "generated_ts": 1790356834.5215495,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "the_verge:a6a0a468b816",
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.858,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "published_at": "2026-09-25T15:39:48+00:00",
+          "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures"
+        },
+        {
+          "id": "cnbeta:7cf72d50a31e",
+          "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.813,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
+          "published_at": "2026-09-25T15:06:37+00:00",
+          "summary": "<p>埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6d1372aa05d5",
+          "title": "苹果iPhone已可运行140亿激活参数的AI模型 Mac未来瞄准1.6万亿级系统",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.572,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579614.htm",
+          "published_at": "2026-09-25T12:00:39+00:00",
+          "summary": "<p>苹果正在悄然扩展其设备端人工智能能力，而最新披露的信息显示，公司对于本地大模型的规划规模远超外界此前预期。从iPhone到Mac，苹果正试图建立覆盖不同性能层级的本地AI体系，并逐步将超大规模人工智能模型引入个人设备生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:f5ca4e5ff891",
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.94,
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "published_at": "2026-09-25T16:16:52+00:00",
+          "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+        },
+        {
+          "id": "techcrunch:6967d0f15f65",
+          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.913,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "published_at": "2026-09-25T15:48:14+00:00",
+          "summary": "The latest unauthorized agent swarms were discovered by researchers."
+        },
+        {
+          "id": "cnbeta:88ceaebe5ff1",
+          "title": "苹果新款Apple TV 4K配置曝光：A19芯片加持",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.902,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579628.htm",
+          "published_at": "2026-09-25T15:36:17+00:00",
+          "summary": "<p>苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:a4302c20590b",
+          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.778,
+          "url": "https://www.qbitai.com/2026/09/497177.html",
+          "published_at": "2026-09-25T13:15:45+00:00",
+          "summary": ""
         }
       ]
     }
