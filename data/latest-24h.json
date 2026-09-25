@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T17:20:34.521549+00:00",
-    "generated_ts": 1790356834.5215495,
+    "generated_at": "2026-09-25T21:41:18.441301+00:00",
+    "generated_ts": 1790372478.4413013,
     "window_hours": 24.0,
-    "total": 23
+    "total": 21
   },
   "items": [
-    {
-      "id": "cnbeta:d9c39e853721",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Gemini 3.8 Live Live Avatar数字人交互功能 赋予AI实时视频面孔",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579530.htm",
-      "summary": "<p>Google公司宣布，正式在Gemini Enterprise企业级平台中全面上线“Live Avatar”（实时数字人）功能。该技术深度集成了Google最新的Gemini 3.8 Live大模型架构，在原有近乎零延迟的高流畅语音对谈基础上，首次引入了近乎实时的生成式视频生成能力，使对话式人工智能拥有了能够“边听、边看、边说”的动态视觉形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579530.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T20:10:05+00:00",
-      "published_ts": 1790280605.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.877
-    },
     {
       "id": "the_verge:a6a0a468b816",
       "source": "the_verge",
@@ -52,19 +37,19 @@
       "importance": 2.813
     },
     {
-      "id": "cnbeta:130bf80f3fdf",
+      "id": "cnbeta:710649efec47",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm",
-      "summary": "<p>美国与英国在人工智能安全监管领域的协调正面临新的考验。多名知情人士透露，白宫近期已要求OpenAI和Anthropic在美国完成相关评估程序之前，不要将最新一代人工智能模型提供给英国政府指定的测试机构进行提前审查。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T18:20:38+00:00",
-      "published_ts": 1790274038.0,
+      "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579648.htm",
+      "summary": "<p>华盛顿特区联邦上诉法院合议庭周五作出判决，维持五角大楼对 Anthropic 的黑名单认定。这场企业与特朗普政府持续数月的法律博弈中，AI 公司 Anthropic 遭遇重大挫败。合议庭以2 票赞成、1 票反对驳回 Anthropic 的诉求。Anthropic 此前主张，国防部禁用 Claude 大模型的决定属于武断行政行为、缺乏法定授权且违反宪法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579648.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-25T18:24:54+00:00",
+      "published_ts": 1790360694.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.73
+      "importance": 2.729
     },
     {
       "id": "cnbeta:e5cbcd4a61f6",
@@ -82,21 +67,6 @@
       "importance": 2.721
     },
     {
-      "id": "cnbeta:a9e926d6109a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "报道：Google、OpenAI和Anthropic拟组建前沿AI标准机构",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579518.htm",
-      "summary": "<p>The Information援引知情人士报道，谷歌、OpenAI和Anthropic正在推进一项成立人工智能（AI）安全标准机构的计划，该机构将不受政府监督。目标是在今年底前或2027年初启动。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579518.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T18:05:01+00:00",
-      "published_ts": 1790273101.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.709
-    },
-    {
       "id": "cnbeta:6d1372aa05d5",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -110,6 +80,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.572
+    },
+    {
+      "id": "techcrunch:412635b852a1",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is headed for&#160;smart glasses&#160;and [&#8230;]",
+      "published_at": "2026-09-25T16:00:00+00:00",
+      "published_ts": 1790352000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.545
     },
     {
       "id": "cnbeta:067fe3ae5ba1",
@@ -185,21 +170,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.85
-    },
-    {
-      "id": "cnbeta:11a26c113b06",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "1b DRAM单位面积价值现在比台积电2纳米晶圆还高出54%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579526.htm",
-      "summary": "<p>在人工智能带动全球算力需求爆发的背景下，半导体产业正在出现一个过去几乎难以想象的现象：用于制造DDR5内存的先进DRAM晶圆，如今按单位面积计算的市场价值，已经超过了台积电最先进的2纳米逻辑晶圆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579526.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-24T18:22:38+00:00",
-      "published_ts": 1790274158.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.821
     },
     {
       "id": "tmtpost:cb1ed9bb51d8",
