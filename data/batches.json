@@ -1,95 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T05:06:46.176528+00:00",
+    "generated_at": "2026-09-25T12:00:14.612230+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-26T07:14:13.965317+00:00",
-      "generated_ts": 1787728453.9653175,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:db71fc322286",
-          "title": "拒绝贝索斯重金邀约后 他们做出一款绕开Transformer的新AI",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.774,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575000.htm",
-          "published_at": "2026-08-26T04:31:13+00:00",
-          "summary": "<p>8月26日，据路透社报道，曾被邀请加入贝索斯支持的AI公司Project Prometheus的两名研究人员，选择独立创业，并推出了一套不同于主流大语言模型的物理AI系统。其创办的Accelerated Understanding Inc称，该模型一次提示可处理5万亿个数据单元，规模约为Anthropic和Google旗舰模型通常可处理数据量的500万倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575000.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f69879c16fdb",
-          "title": "OpenAI首颗“辣椒”芯片压倒英伟达 GPT-6干崩CUDA",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.702,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574994.htm",
-          "published_at": "2026-08-26T03:36:39+00:00",
-          "summary": "<p>你敢信，OpenAI第一次做芯片，竟然把英伟达全系干趴下了？！就在刚刚，OpenAI首颗自研芯片Jalapeño，交出了首批实测成绩单——AI推理性能，全面反超英伟达GB200和GB300。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574994.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:56da15f56794",
-          "title": "《战争机器》之父称骂游戏DEI是生意 《地平线》女主很漂亮",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.858,
-          "url": "https://www.cnbeta.com.tw/articles/game/1575018.htm",
-          "published_at": "2026-08-26T04:40:44+00:00",
-          "summary": "<p>近日，《战争机器》系列创始人克利夫·布莱辛斯基（Cliff Bleszinski）就现代游戏中女性角色外貌引发的网络争议发表长篇评论。这位资深游戏设计师指出，网上绝大部分针对女性角色模型的攻击性言论，实为人为制造、利用社交媒体算法牟利的手段。网络批评者和博主们已构建起一条“愤怒产业链”——任何有争议的细节都会被无限放大，用以煽动情绪、博取点击量。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1575018.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:74c19ea65200",
-          "title": "OpenAI数据中心负责人离职 高管接连出走引发关注",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.852,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575008.htm",
-          "published_at": "2026-08-26T04:34:08+00:00",
-          "summary": "<p>OpenAI数据中心负责人Chris Malone近日已离开公司，成为这家顶尖AI公司近期接连出现的高管离职事件中的最新一例。据悉，Malone于2025年3月加入OpenAI，此前曾在Meta和Google负责数据中心基础设施工作，担任“杰出工程师”。他曾参与负责OpenAI雄心勃勃的基础设施建设计划，其中包括到2030年在算力方面投入约6000亿美元的目标。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:7aa44eee4c5f",
-          "title": "前谷歌研究人员拟打造AI“裁判”系统 防范模型失控风险",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.799,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574988.htm",
-          "published_at": "2026-08-26T03:34:33+00:00",
-          "summary": "<p>处于人工智能发展的核心位置，以确保这项强大的技术保持安全，并降低其脱离创造者控制的风险。这在某种程度上是对当前科技行业常见做法的回应。在许多情况下，企业正利用人工智能来监管人工智能。自动化方式具有效率优势，而研究也表明，在发现模型漏洞方面，人工智能的表现可能优于人类。随着AI能力持续增强，这一差距可能进一步扩大。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574988.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:82820226b469",
-          "title": "OpenAI自研芯片取得关键突破：响应速度、能效表现击败英伟达GB300",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.798,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1574986.htm",
-          "published_at": "2026-08-26T03:32:31+00:00",
-          "summary": "<p>OpenAI声称其新款“Jalapeno”芯片在测试中的表现优于英伟达当前的产品阵容，凸显出该公司自主研发AI处理器取得的进展。OpenAI芯片业务负责人Richard Ho在接受采访时表示，该芯片与英伟达GB300进行了对比，该测试将GB300视为现有最领先的产品。在测试中，Jalapeno在两个指标上占据优势：单位功耗所能处理的AI工作量，以及响应的速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1574986.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:462ff0700bca",
-          "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.791,
-          "url": "https://www.qbitai.com/2026/08/479631.html",
-          "published_at": "2026-08-26T03:25:00+00:00",
-          "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-26T13:29:18.936491+00:00",
       "generated_ts": 1787750958.9364913,
@@ -8111,6 +8025,121 @@
           "url": "https://www.tmtpost.com/8152168.html",
           "published_at": "2026-09-25T01:35:12+00:00",
           "summary": "大模型卷完参数，终于开始卷价格。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-25T12:00:14.612230+00:00",
+      "generated_ts": 1790337614.61223,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:e5cbcd4a61f6",
+          "title": "谷歌部署太空算力TPU 功率仅1千瓦跑15分钟就得关机降温",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.721,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579598.htm",
+          "published_at": "2026-09-25T08:37:08+00:00",
+          "summary": "<p>当下在马斯克的大力推动下，太空算力是这两年火热的新兴AI市场，谷歌现在也宣布即将部署太空算力，只不过面临的问题还很多。谷歌CEO Sundar Pichai今天在X上宣布要把自家的TPU AI芯片送入太空，Project Suncatcher的第一颗太空算力卫星原型会搭载SpaceX拼车发射任务Transporter-18进行太空部署，预定10月1日由猎鹰9号火箭发射。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579598.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:067fe3ae5ba1",
+          "title": "高通为骁龙X2的GPU扩展Linux内核支持 Adreno X2-85驱动补丁已提交",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.466,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579542.htm",
+          "published_at": "2026-09-25T05:13:21+00:00",
+          "summary": "<p>高通近日进一步推进Snapdragon X2系列处理器的Linux开源支持，为代号“Mahua”的低端Snapdragon X2平台提交了GPU支持补丁。这意味着高通正在把此前针对Snapdragon X2 Elite建立的GPU驱动支持扩展到更多X2系列芯片，为未来搭载这些处理器的Linux笔记本电脑提供更加完整的图形加速能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579542.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:682ca4582695",
+          "title": "阿莫迪偷师姚顺雨，奥特曼偷师梁文锋",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.85,
+          "url": "https://www.tmtpost.com/8152677.html",
+          "published_at": "2026-09-25T09:17:52+00:00",
+          "summary": "Opus 5.5和GPT-6 Luna，就是混元和DeepSeek。"
+        },
+        {
+          "id": "cnbeta:bfae585e3a5e",
+          "title": "黄仁勋称孩子因AI忘基础数学无妨：我记不住地址",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.717,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579594.htm",
+          "published_at": "2026-09-25T06:42:46+00:00",
+          "summary": "<p>英伟达首席执行官黄仁勋的商业版图，极度依赖人工智能产业的持续扩张。他执掌的英伟达是全球核心硬件供应商，为运行绝大多数AI系统与服务的数据中心和计算机设备提供底层算力支撑。因此，对于“AI会侵蚀大脑、让孩子淡忘基础数学，甚至连他自己都记不住手机号和住址”这类观点，他自然毫不在意。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579594.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:c7f9282ec990",
+          "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.699,
+          "url": "https://www.qbitai.com/2026/09/497075.html",
+          "published_at": "2026-09-25T06:20:56+00:00",
+          "summary": "Agent的手越伸越长"
+        },
+        {
+          "id": "cnbeta:ae85cb1f9fac",
+          "title": "116亿美元买CPU算力 Anthropic大单引爆老牌科技股Akamai",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.699,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579582.htm",
+          "published_at": "2026-09-25T06:21:36+00:00",
+          "summary": "<p>北京时间周五清晨，老牌互联网基础设施公司阿克迈（Akamai Technologies）宣布大幅扩大与Anthropic的合作，获得这家AI公司七年期、总额116亿美元的合同承诺。消息公布后，阿克迈美股盘后一度涨逾16%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579582.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:48df2a02970d",
+          "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.693,
+          "url": "https://www.qbitai.com/2026/09/497070.html",
+          "published_at": "2026-09-25T06:14:07+00:00",
+          "summary": "一场物理世界的基模实验"
+        },
+        {
+          "id": "cnbeta:58f688200137",
+          "title": "ChatGPT Pro Max订阅正在准备中 预计为500美元/月 提供50x额度",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.669,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579556.htm",
+          "published_at": "2026-09-25T05:44:15+00:00",
+          "summary": "<p>OpenAI 目前正在为 ChatGPT 准备 Pro Max 订阅，该订阅层级每月 500 美元，预计会提供 50x 额度。该订阅尚未推出，不过已经在前端源代码中可以找到，同时 OpenAI 正在准备升级到 Pro Max 订阅的相关资源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:536544a5fa27",
+          "title": "高通公布Adreno 850开源驱动补丁 新一代旗舰GPU在发布次日即获得Linux支持",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.645,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579544.htm",
+          "published_at": "2026-09-25T05:14:50+00:00",
+          "summary": "<p>高通近日为全新Adreno 850 GPU提交了首批开源Linux内核驱动补丁，而从芯片正式公布到相关代码进入Linux内核开发流程仅仅相隔一天。这意味着高通正在进一步加快新一代Adreno GPU的开源驱动开发速度，甚至开始在硬件正式亮相后立即推进主线Linux支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579544.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a038adaf6932",
+          "title": "微软Foundry加入原生实时语音智能体 正面挑战Google Gemini Live",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.642,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579540.htm",
+          "published_at": "2026-09-25T05:10:17+00:00",
+          "summary": "<p>微软正在进一步加强Foundry平台的实时语音能力，为开发者提供能够直接进行语音输入和语音输出的原生语音智能体，从而让企业能够更加容易地构建类似Google Gemini Live的实时对话式AI体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
