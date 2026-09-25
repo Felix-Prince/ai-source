@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T21:36:53.189505+00:00",
+    "generated_at": "2026-09-25T05:06:46.176528+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-26T02:03:53.965667+00:00",
-      "generated_ts": 1787709833.965667,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 14,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-08-26T07:14:13.965317+00:00",
       "generated_ts": 1787728453.9653175,
@@ -8091,6 +8076,41 @@
           "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
           "published_at": "2026-09-24T16:01:16+00:00",
           "summary": "\"There will obviously be legal consequences,\" prime minister promises."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-25T05:06:46.176528+00:00",
+      "generated_ts": 1790312806.176528,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:cb1ed9bb51d8",
+          "title": "对话高通中国区董事长孟樸：AI正在形成闭环，真正的智能体时代还未到来",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.808,
+          "url": "https://www.tmtpost.com/8152285.html",
+          "published_at": "2026-09-25T01:36:56+00:00",
+          "summary": "过去的芯片竞争逻辑，正在被AI重新改写。"
+        },
+        {
+          "id": "tmtpost:eeb926cf83f4",
+          "title": "美国大模型，也开始打价格战了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.806,
+          "url": "https://www.tmtpost.com/8152168.html",
+          "published_at": "2026-09-25T01:35:12+00:00",
+          "summary": "大模型卷完参数，终于开始卷价格。"
         }
       ]
     }
