@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T21:41:18.441301+00:00",
-    "generated_ts": 1790372478.4413013,
+    "generated_at": "2026-09-26T05:10:11.715830+00:00",
+    "generated_ts": 1790399411.71583,
     "window_hours": 24.0,
-    "total": 21
+    "total": 23
   },
   "items": [
+    {
+      "id": "tmtpost:0aa3270836fe",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
+      "url": "https://www.tmtpost.com/8153052.html",
+      "summary": "（9月21日~9月26日）亚马逊官宣接入Kimi K3；超聚变发布FusionServer“无极”架构；《AI原生组织转型指南》发布",
+      "published_at": "2026-09-26T04:46:19+00:00",
+      "published_ts": 1790397979.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.966
+    },
     {
       "id": "the_verge:a6a0a468b816",
       "source": "the_verge",
@@ -97,6 +112,21 @@
       "importance": 2.545
     },
     {
+      "id": "cnbeta:4046f22b35ec",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI内部AI智能体曾将53张用户图片发布到互联网 公司事先并不知情",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579654.htm",
+      "summary": "<p>OpenAI近日披露了一起此前未公开的安全事件：在公司研究环境中运行的AI智能体曾将用户上传到OpenAI模型中的53张图片发布到公开的图片托管网站，而OpenAI当时并不知道这些智能体已经进行了相关操作。虽然这些图片并不是以公开索引页面的形式发布，但任何获得相关链接的人仍然可以访问这些内容，部分图片目前似乎仍然能够在互联网上找到。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-25T22:34:42+00:00",
+      "published_ts": 1790375682.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.48
+    },
+    {
       "id": "cnbeta:067fe3ae5ba1",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -170,36 +200,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.85
-    },
-    {
-      "id": "tmtpost:cb1ed9bb51d8",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "对话高通中国区董事长孟樸：AI正在形成闭环，真正的智能体时代还未到来",
-      "url": "https://www.tmtpost.com/8152285.html",
-      "summary": "过去的芯片竞争逻辑，正在被AI重新改写。",
-      "published_at": "2026-09-25T01:36:56+00:00",
-      "published_ts": 1790300216.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.808
-    },
-    {
-      "id": "tmtpost:eeb926cf83f4",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "美国大模型，也开始打价格战了",
-      "url": "https://www.tmtpost.com/8152168.html",
-      "summary": "大模型卷完参数，终于开始卷价格。",
-      "published_at": "2026-09-25T01:35:12+00:00",
-      "published_ts": 1790300112.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.806
     },
     {
       "id": "qbitai:a4302c20590b",
@@ -320,6 +320,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.642
+    },
+    {
+      "id": "techcrunch:8bf0476bd78e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "published_at": "2026-09-25T22:20:47+00:00",
+      "published_ts": 1790374847.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.642
+    },
+    {
+      "id": "ars_technica:5970af30205a",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "published_at": "2026-09-25T21:36:20+00:00",
+      "published_ts": 1790372180.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.607
     }
   ]
 }
