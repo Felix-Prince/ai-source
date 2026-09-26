@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T11:35:08.275085+00:00",
+    "generated_at": "2026-09-26T16:31:50.760509+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8094,6 +8094,20 @@
           "summary": "<p>Anthropic官宣Claude拿下了理论物理的一项前沿纪录。它在几乎无人类干预的情况下，连续运行数天，一举攻克了高能物理学界出了名难算的“九圈散射振幅”计算难题！具体来说，它算出了平面N=4超杨-米尔斯理论里六粒子振幅的九圈结果，人类此前的纪录停在八圈。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1579700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-09-26T16:31:50.760509+00:00",
+      "generated_ts": 1790440310.7605088,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": []
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T11:35:08.275085+00:00",
-    "generated_ts": 1790422508.2750852,
+    "generated_at": "2026-09-26T16:31:50.760509+00:00",
+    "generated_ts": 1790440310.7605088,
     "window_hours": 24.0,
-    "total": 20
+    "total": 12
   },
   "items": [
     {
@@ -20,36 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.966
-    },
-    {
-      "id": "the_verge:a6a0a468b816",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
-      "published_at": "2026-09-25T15:39:48+00:00",
-      "published_ts": 1790350788.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.858
-    },
-    {
-      "id": "cnbeta:7cf72d50a31e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
-      "summary": "<p>埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-25T15:06:37+00:00",
-      "published_ts": 1790348797.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.813
     },
     {
       "id": "cnbeta:756734bf091a",
@@ -142,36 +112,6 @@
       "importance": 2.61
     },
     {
-      "id": "cnbeta:6d1372aa05d5",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果iPhone已可运行140亿激活参数的AI模型 Mac未来瞄准1.6万亿级系统",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579614.htm",
-      "summary": "<p>苹果正在悄然扩展其设备端人工智能能力，而最新披露的信息显示，公司对于本地大模型的规划规模远超外界此前预期。从iPhone到Mac，苹果正试图建立覆盖不同性能层级的本地AI体系，并逐步将超大规模人工智能模型引入个人设备生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-25T12:00:39+00:00",
-      "published_ts": 1790337639.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.572
-    },
-    {
-      "id": "techcrunch:412635b852a1",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is headed for&#160;smart glasses&#160;and [&#8230;]",
-      "published_at": "2026-09-25T16:00:00+00:00",
-      "published_ts": 1790352000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.545
-    },
-    {
       "id": "cnbeta:4046f22b35ec",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -185,66 +125,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.48
-    },
-    {
-      "id": "techcrunch:f5ca4e5ff891",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-      "published_at": "2026-09-25T16:16:52+00:00",
-      "published_ts": 1790353012.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.94
-    },
-    {
-      "id": "techcrunch:6967d0f15f65",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-      "published_at": "2026-09-25T15:48:14+00:00",
-      "published_ts": 1790351294.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.913
-    },
-    {
-      "id": "cnbeta:88ceaebe5ff1",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果新款Apple TV 4K配置曝光：A19芯片加持",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579628.htm",
-      "summary": "<p>苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-25T15:36:17+00:00",
-      "published_ts": 1790350577.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.902
-    },
-    {
-      "id": "qbitai:a4302c20590b",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
-      "summary": "",
-      "published_at": "2026-09-25T13:15:45+00:00",
-      "published_ts": 1790342145.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.778
     },
     {
       "id": "cnbeta:033cd7c5c0b5",
