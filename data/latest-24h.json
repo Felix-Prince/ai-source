@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T16:31:50.760509+00:00",
-    "generated_ts": 1790440310.7605088,
+    "generated_at": "2026-09-26T21:18:12.857090+00:00",
+    "generated_ts": 1790457492.8570905,
     "window_hours": 24.0,
     "total": 12
   },
@@ -67,21 +67,6 @@
       "importance": 2.785
     },
     {
-      "id": "cnbeta:710649efec47",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1579648.htm",
-      "summary": "<p>华盛顿特区联邦上诉法院合议庭周五作出判决，维持五角大楼对 Anthropic 的黑名单认定。这场企业与特朗普政府持续数月的法律博弈中，AI 公司 Anthropic 遭遇重大挫败。合议庭以2 票赞成、1 票反对驳回 Anthropic 的诉求。Anthropic 此前主张，国防部禁用 Claude 大模型的决定属于武断行政行为、缺乏法定授权且违反宪法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579648.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-25T18:24:54+00:00",
-      "published_ts": 1790360694.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.729
-    },
-    {
       "id": "qbitai:b189b1829c76",
       "source": "qbitai",
       "source_label": "量子位",
@@ -125,6 +110,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.48
+    },
+    {
+      "id": "the_verge:3cef38d3902f",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+      "published_at": "2026-09-26T16:34:59+00:00",
+      "published_ts": 1790440499.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.745
     },
     {
       "id": "cnbeta:033cd7c5c0b5",
