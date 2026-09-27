@@ -1,155 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T05:27:26.900710+00:00",
+    "generated_at": "2026-09-27T12:13:40.477344+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-28T11:32:21.311649+00:00",
-      "generated_ts": 1787916741.311649,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "tmtpost:c38cebd86f22",
-          "title": "Cheaper AI Inference Drives Record Infrastructure Spending",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.767,
-          "url": "https://www.tmtpost.com/8120746.html",
-          "published_at": "2026-08-28T08:44:03+00:00",
-          "summary": "The cost of running equivalent AI models has fallen sharply since 2022, yet major technology firms continue to increase capital spending on data centers, memory, packaging, and power. Efficiency gains are expanding total demand through multi-step agent systems, shifting physical bottlenecks and conc"
-        },
-        {
-          "id": "cnbeta:8f7e92784907",
-          "title": "大模型“吃”了全网的语料 “合理使用”与侵权的边界如何划清？",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.545,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575380.htm",
-          "published_at": "2026-08-28T05:50:46+00:00",
-          "summary": "<p>当大模型厂商竞相为千亿算力基建烧钱时，一颗更为隐秘的“版权暗雷”正在逼近。8月中旬，苹果拟付数亿美元采购新闻语料的消息传出，一时激起内容行业千层浪。近两年，围绕AI训练语料的版权诉讼已在全球蔓延。新闻界，《纽约时报》起诉OpenAI和微软公司，指控两家企业未经授权使用数以百万计文章训练ChatGPT等大模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575380.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:1c7ef23390be",
-          "title": "OpenAI、微软、Anthropic等逾百家企业呼吁紧急强化网络防御",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.539,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575370.htm",
-          "published_at": "2026-08-28T05:45:28+00:00",
-          "summary": "<p>随着人工智能模型在网络安全任务上的能力迅速提升，科技行业领袖警告称，网络防御人员为应对下一代网络威胁所剩的准备时间已十分有限。OpenAI近期推出的GPT-5.6-Cyber，在漏洞利用链、身份验证绕过和权限提升等高级网络安全请求中完成率达到95%。该公司此前还透露，即将推出的Astra模型将具备更强的网络安全能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575370.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:cdd26e8b55e6",
-          "title": "AI竞赛迅速推进 Google新模型刚上线 员工已开测下一版",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.363,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575344.htm",
-          "published_at": "2026-08-28T03:16:10+00:00",
-          "summary": "<p>据《商业内幕》报道，<strong>Google公司本月刚刚发布了一款新的AI模型，但其员工已经开始测试下一款模型了。一些Google员工已经开始使用Gemini 3.8 Flash的预览版本，这凸显出AI竞赛正在以惊人的速度推进。</strong>为了追赶OpenAI和Anthropic，Google不断推出新模型，有时前后仅相隔几周。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575344.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:57def6a570aa",
-          "title": "AI开始自己“找活干”？OpenAI测试持久在线智能体",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.358,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575338.htm",
-          "published_at": "2026-08-28T03:12:29+00:00",
-          "summary": "<p>《连线》杂志获悉，OpenAI正在为其旗舰AI智能体Codex开发一个具有主动性且高度持久性的版本。根据《连线》查看的产品代码库变更，OpenAI近日已开始在其命令行版Codex中添加新的“持久模式”设置代码。Codex命令行工具的代码改动默认公开，而新功能通常会先在这里出现，然后再推广至OpenAI的其他智能体产品，例如Codex桌面应用和ChatGPT Work。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575338.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:fc1f50f5b2de",
-          "title": "美国法官阻止五角大楼将Anthropic列入黑名单",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.346,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575324.htm",
-          "published_at": "2026-08-28T03:01:07+00:00",
-          "summary": "<p>美国一名联邦法官周四阻止五角大楼将人工智能公司Anthropic列入黑名单。这是这家Claude模型开发商与美国军方围绕战场人工智能安全问题展开高风险争执的最新进展。Anthropic在加州联邦法院提起诉讼，指控美国国防部长皮特·赫格塞思越权将该公司认定为“国家安全供应链风险”。根据相关规定，政府可对可能使军事系统面临敌对方渗透或破坏风险的企业作出这一认定。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:ba591c79526e",
-          "title": "Anthropic曾洽购芯片初创公司MatX 拟加速自研AI芯片进程",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.342,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575320.htm",
-          "published_at": "2026-08-28T02:57:50+00:00",
-          "summary": "<p>据知情人士透露，人工智能公司Anthropic曾就收购AI芯片初创企业MatX展开谈判，交易估值约为70亿美元。Anthropic希望借此加快为其快速扩张的AI业务开发定制硬件的进程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:660ed81fb1e6",
-          "title": "特朗普政府设立新型 AI监管机构的行政令陷入停滞",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.908,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575402.htm",
-          "published_at": "2026-08-28T09:54:52+00:00",
-          "summary": "<p>据两名看过草案的知情人士透露，特朗普政府近几周在内部传阅一份行政令草案，提议为顶尖大模型 AI 企业设立一家行业自律监管组织。起草这份行政令，是朝着落地该监管机构迈出的重要一步，但项目仍面临重大阻碍。这份行政令想要定稿，还需要包括总统在内的一众高级官员的认可；另外三名知情人士表示，近期相关推进工作已经陷入停滞。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575402.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:41146b81960d",
-          "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.9,
-          "url": "https://www.qbitai.com/2026/08/480600.html",
-          "published_at": "2026-08-28T09:45:19+00:00",
-          "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头"
-        },
-        {
-          "id": "tmtpost:3a8ec6e0a54c",
-          "title": "不等超级应用了，MiniMax改卖Token",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.818,
-          "url": "https://www.tmtpost.com/8119451.html",
-          "published_at": "2026-08-28T08:13:53+00:00",
-          "summary": "营收增长283.1%，MiniMax换引擎。"
-        },
-        {
-          "id": "qbitai:95f1334aae00",
-          "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.614,
-          "url": "https://www.qbitai.com/2026/08/480223.html",
-          "published_at": "2026-08-28T04:06:16+00:00",
-          "summary": "国产异构助力前沿智能进入普惠时代"
-        },
-        {
-          "id": "cnbeta:7f163eb6202f",
-          "title": "越年长越看好AI？机构称AI并未淘汰老员工，经验丰富能更好驾驭大模型",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.578,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575350.htm",
-          "published_at": "2026-08-28T03:19:42+00:00",
-          "summary": "<p>社会普遍认为年轻人更擅长使用AI，与AI更加“亲近”；然而美国最新的职场调研却显示，年长员工相对年轻人对AI带来的机遇更乐观。据媒体当地时间周四报道，美国职场调研机构Glassdoor的最新研究显示，<strong>四十岁至六十多岁的员工对AI带来的机遇最为乐观，部分原因在于AI正在为资深员工创造更多机会。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575350.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:eea054f669ff",
-          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.404,
-          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-          "published_at": "2026-08-27T23:16:45+00:00",
-          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-28T22:28:46.076977+00:00",
       "generated_ts": 1787956126.0769775,
@@ -7991,6 +7845,111 @@
         "cnbeta": 50
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-09-27T12:13:40.477344+00:00",
+      "generated_ts": 1790511220.4773436,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "qbitai:2276e0a24ce8",
+          "title": "啥题啊能干崩OpenAI最强模型训练…",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.792,
+          "url": "https://www.qbitai.com/2026/09/498546.html",
+          "published_at": "2026-09-27T09:44:16+00:00",
+          "summary": ""
+        },
+        {
+          "id": "cnbeta:0b7eb9ab4741",
+          "title": "OpenAI和Anthropic差点签下“互黑协议”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.541,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579774.htm",
+          "published_at": "2026-09-27T06:29:02+00:00",
+          "summary": "<p>刚刚，The Information爆出一记猛料。OpenAI和Anthropic这对硅谷最大的死对头，今年初差点坐到一张桌子上，签下一份互相攻击对方模型的协议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579774.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:49c37981cf85",
+          "title": "OpenAI逃逸的AI Agent竟在全网植入自我复制代码 血洗联合国内网",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.521,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579762.htm",
+          "published_at": "2026-09-27T06:12:32+00:00",
+          "summary": "<p>“天网”中的一幕，正在现实上演。一次训练中，OpenAI逃逸的AI Agent，已在整个互联网上植入了“自我复制的代码”！当政客Andrew Yang在CNBC说出这句话时，很多人以为他疯了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:cbdce4259a9a",
+          "title": "OpenAI又停训了：Agent逃出沙箱 更多越权事件被扒",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.514,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579754.htm",
+          "published_at": "2026-09-27T06:06:09+00:00",
+          "summary": "<p>OpenAI 的 Agent，又从沙箱里找到了一条通往互联网的路。更麻烦的是，这一次发生在 OpenAI 已经大规模加固过安全措施之后。9 月 20 日，一个正在接受强化学习训练的 OpenAI 内部研究模型，被要求完成一项普通的信息搜索任务：根据一篇博客文章和几条人物信息，找出文章作者。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579754.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0a59b9c0c4b2",
+          "title": "OpenAI智能体入侵美国政府网站",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.511,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579750.htm",
+          "published_at": "2026-09-27T06:03:39+00:00",
+          "summary": "<p>据《纽约时报》报道， OpenAI 的人工智能模型今年夏天访问了美国商务部和证券交易委员会（SEC）的网站，并曾试图入侵教育部网站，但没有成功，而 OpenAI 当时并不知情。OpenAI 周五晚间证实了商务部和 SEC 的相关事件，并表示，其技术并未获取此前未公开的信息，也没有修改政府的数据或系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579750.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:69c4c9e52222",
+          "title": "OpenAI和Anthropic正在调查数万起AI相关安全事件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.509,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579746.htm",
+          "published_at": "2026-09-27T06:02:02+00:00",
+          "summary": "<p>OpenAI、Anthropic以及安全研究人员正在调查数万起安全事件。在这些事件中，他们的前沿模型采取了外部评估人员认为存在问题的行动。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579746.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:89d4b1438350",
+          "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.491,
+          "url": "https://www.tmtpost.com/8153325.html",
+          "published_at": "2026-09-27T05:47:10+00:00",
+          "summary": "GPT-6 Astra成功控制真车完成封闭场地测试，通用大模型开始迈向真实物理世界。"
+        },
+        {
+          "id": "cnbeta:20c0894544e6",
+          "title": "英伟达携手德国SCHMID布局玻璃基板",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.705,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579778.htm",
+          "published_at": "2026-09-27T06:42:13+00:00",
+          "summary": "<p>英伟达正在考虑采用玻璃基板，并携手德国设备制造商SCHMID及其他企业开展合作，将人工智能芯片的性能提升到新的水平。该战略旨在通过增加可封装的高带宽内存（HBM）用量，大幅提升数据处理速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579778.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9bd1b80b35d7",
+          "title": "OpenAI神秘“o”代码曝光 ChatGPT要变24小时员工",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.679,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579758.htm",
+          "published_at": "2026-09-27T06:10:18+00:00",
+          "summary": "<p>OpenAI下一张王牌，提前曝光了！坊间传闻，OpenAI 9月29日开发者日当天，将重磅发布一款个人24小时在线AI助手。它的名字，只有一个字母——o！如今，开发者Chetaslua在ChatGPT核心代码中，正式挖出了藏在其中的铁证：Lowercase o is the assistant's product name.（小写字母o是该助手的正式产品名）</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
     }
   ]
 }
