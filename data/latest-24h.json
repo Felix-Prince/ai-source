@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T12:13:40.477344+00:00",
-    "generated_ts": 1790511220.4773436,
+    "generated_at": "2026-09-27T17:04:35.148226+00:00",
+    "generated_ts": 1790528675.1482255,
     "window_hours": 24.0,
-    "total": 10
+    "total": 12
   },
   "items": [
+    {
+      "id": "cnbeta:03651b45788a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579828.htm",
+      "summary": "<p>OpenAI近日宣布暂停旗下最强大人工智能模型的训练、评估以及涉及工具调用的推理活动。这是该公司在不到三个月内第二次因为AI智能体在受控研究环境中出现异常行为而暂停前沿模型开发。此次事件中，一款正在接受强化学习训练的内部研究模型突破了原本用于隔离外部网络的安全限制，并通过DNS机制与公开互联网中的聊天机器人建立了通信。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-27T15:52:12+00:00",
+      "published_ts": 1790524332.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.897
+    },
     {
       "id": "qbitai:2276e0a24ce8",
       "source": "qbitai",
@@ -112,19 +127,34 @@
       "importance": 2.491
     },
     {
-      "id": "the_verge:3cef38d3902f",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
-      "published_at": "2026-09-26T16:34:59+00:00",
-      "published_ts": 1790440499.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:3df1f7905441",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm",
+      "summary": "<p>英国政府科学、创新与技术部针对公共部门雇员及采购人员发布了一套最新的人工智能使用与采购指导原则。该准则的核心建议引起了科技界的热烈讨论：政府要求官员在部署任何人工智能工具前，首先严肃自问是否真的需要使用AI；若确有必要，也应主动选择“能够完成任务的最弱、规模最小的模型”，而非一味盲目追求最强大、最先进的尖端前沿系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579826.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-27T15:50:25+00:00",
+      "published_ts": 1790524225.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.745
+      "importance": 1.93
+    },
+    {
+      "id": "qbitai:a1e56ceeff23",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "summary": "",
+      "published_at": "2026-09-27T14:20:35+00:00",
+      "published_ts": 1790518835.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.848
     },
     {
       "id": "cnbeta:20c0894544e6",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T12:13:40.477344+00:00",
+    "generated_at": "2026-09-27T17:04:35.148226+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7948,6 +7948,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1579758.htm",
           "published_at": "2026-09-27T06:10:18+00:00",
           "summary": "<p>OpenAI下一张王牌，提前曝光了！坊间传闻，OpenAI 9月29日开发者日当天，将重磅发布一款个人24小时在线AI助手。它的名字，只有一个字母——o！如今，开发者Chetaslua在ChatGPT核心代码中，正式挖出了藏在其中的铁证：Lowercase o is the assistant's product name.（小写字母o是该助手的正式产品名）</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-27T17:04:35.148226+00:00",
+      "generated_ts": 1790528675.1482255,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:03651b45788a",
+          "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.897,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579828.htm",
+          "published_at": "2026-09-27T15:52:12+00:00",
+          "summary": "<p>OpenAI近日宣布暂停旗下最强大人工智能模型的训练、评估以及涉及工具调用的推理活动。这是该公司在不到三个月内第二次因为AI智能体在受控研究环境中出现异常行为而暂停前沿模型开发。此次事件中，一款正在接受强化学习训练的内部研究模型突破了原本用于隔离外部网络的安全限制，并通过DNS机制与公开互联网中的聊天机器人建立了通信。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3df1f7905441",
+          "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.93,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm",
+          "published_at": "2026-09-27T15:50:25+00:00",
+          "summary": "<p>英国政府科学、创新与技术部针对公共部门雇员及采购人员发布了一套最新的人工智能使用与采购指导原则。该准则的核心建议引起了科技界的热烈讨论：政府要求官员在部署任何人工智能工具前，首先严肃自问是否真的需要使用AI；若确有必要，也应主动选择“能够完成任务的最弱、规模最小的模型”，而非一味盲目追求最强大、最先进的尖端前沿系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579826.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:a1e56ceeff23",
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.848,
+          "url": "https://www.qbitai.com/2026/09/498633.html",
+          "published_at": "2026-09-27T14:20:35+00:00",
+          "summary": ""
         }
       ]
     }
