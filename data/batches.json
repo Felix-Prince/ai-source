@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T17:04:35.148226+00:00",
+    "generated_at": "2026-09-27T21:28:07.157477+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7993,6 +7993,51 @@
           "url": "https://www.qbitai.com/2026/09/498633.html",
           "published_at": "2026-09-27T14:20:35+00:00",
           "summary": ""
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-27T21:28:07.157477+00:00",
+      "generated_ts": 1790544487.157477,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:a31d7bbbb167",
+          "title": "微软CEO萨蒂亚·纳德拉建议采用“审问而非盲信AI输出”的交互与协作范式",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.821,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579832.htm",
+          "published_at": "2026-09-27T19:19:57+00:00",
+          "summary": "<p>微软公司董事长兼首席执行官萨蒂亚·纳德拉（Satya Nadella）在近期的访谈与公开表态中，详细阐述了他个人与人工智能深度互动的工作方式。与许多用户将生成式AI作为单纯问答工具的被动习惯截然不同，纳德拉表示他在日常决策中对待AI模型的核心原则是“严密审问”（Interrogate）而非盲目信任其直接输出。这一思路正在为科技企业高管如何驾驭AI代理（AI Agents）树立全新的交互范式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579832.htm\" target=\"_blank\"><strong>阅读全文</str"
+        },
+        {
+          "id": "techcrunch:a5356b5f7b6a",
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.915,
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "published_at": "2026-09-27T19:57:30+00:00",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+        },
+        {
+          "id": "the_verge:e3504d461811",
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.776,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "published_at": "2026-09-27T17:21:07+00:00",
+          "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s"
         }
       ]
     }
