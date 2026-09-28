@@ -1,11 +1,41 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T21:28:07.157477+00:00",
-    "generated_ts": 1790544487.157477,
+    "generated_at": "2026-09-28T05:35:35.313947+00:00",
+    "generated_ts": 1790573735.3139472,
     "window_hours": 24.0,
-    "total": 15
+    "total": 22
   },
   "items": [
+    {
+      "id": "cnbeta:7abe7c37a926",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "日本正在争夺“光芯片时代”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579870.htm",
+      "summary": "<p>AI算力的下一场产能竞赛，正在从GPU延伸到硅光芯片。晶圆代工厂Tower Semiconductor正在日本大举扩产硅光产能。Tower CEO Russell Ellwanger近日表示，AI数据中心正在推动硅光芯片需求快速增长，公司需要尽快扩大产能，日本将成为Tower全球最重要的光通信半导体生产基地之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579870.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-28T05:24:11+00:00",
+      "published_ts": 1790573051.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.984
+    },
+    {
+      "id": "cnbeta:59dec66fb71c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AI漏洞加剧安全担忧之际 特朗普据悉会见Anthropic首席执行官",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579856.htm",
+      "summary": "<p>随着最新披露的高级AI模型造成更广泛安全事件，全球对人工智能风险的担忧加剧，这也为Anthropic PBC首席执行官Dario Amodei和美国总统唐纳德·特朗普的一场重要会晤奠定基调。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579856.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-28T05:11:18+00:00",
+      "published_ts": 1790572278.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.965
+    },
     {
       "id": "cnbeta:03651b45788a",
       "source": "cnbeta",
@@ -142,6 +172,36 @@
       "importance": 2.491
     },
     {
+      "id": "cnbeta:1678446139c8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI全新订阅方案出炉！5x和20x套餐已删除",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579866.htm",
+      "summary": "<p>各位尊贵的订阅用户们，OpenAI 的套餐订阅定价似乎有哪里不太对劲。9 月 27 日，陆续有用户发现，OpenAI 对 ChatGPT 的定价页面做了一次“静悄悄的手术”。原本的 Pro 订阅似乎变得不一样了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579866.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-28T05:21:31+00:00",
+      "published_ts": 1790572891.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.986
+    },
+    {
+      "id": "cnbeta:d846d7da0efc",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Sonnet 5.5偷跑，实测碾压GPT-6 Sol直逼Astra",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1579862.htm",
+      "summary": "<p>谁能想到，Opus 5.5发布才没几天，Sonnet 5.5也要来了？从昨晚开始，整个X都在流传这个消息：Sonnet 5.5很快就要发布了，或许就是美国时间周二下午。在性能上，Sonnet 5.5更接近Opus 5.5，但却比Opus 5.5便宜得多。现在，Sonnet 5.5已经进入发布前的最后阶段，已经在Claude Code中开启灰度测试。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-09-28T05:19:25+00:00",
+      "published_ts": 1790572765.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.984
+    },
+    {
       "id": "cnbeta:3df1f7905441",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -172,6 +232,21 @@
       "importance": 1.915
     },
     {
+      "id": "tmtpost:1fb436f4fc3a",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "从端侧推理到物理AI，芯片行业正面临新考题",
+      "url": "https://www.tmtpost.com/8153747.html",
+      "summary": "物理AI的时代，比拼的将是谁的落地更稳。",
+      "published_at": "2026-09-28T02:54:55+00:00",
+      "published_ts": 1790564095.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.851
+    },
+    {
       "id": "qbitai:a1e56ceeff23",
       "source": "qbitai",
       "source_label": "量子位",
@@ -185,6 +260,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.848
+    },
+    {
+      "id": "tmtpost:e6d324992480",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
+      "url": "https://www.tmtpost.com/8153628.html",
+      "summary": "当所有玩家挤在办公赛道内卷时，C 端场景仍有值得挖的空间。",
+      "published_at": "2026-09-28T02:33:21+00:00",
+      "published_ts": 1790562801.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.832
     },
     {
       "id": "the_verge:e3504d461811",
@@ -230,6 +320,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.679
+    },
+    {
+      "id": "tmtpost:e6523f39d19f",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
+      "url": "https://www.tmtpost.com/8153534.html",
+      "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言",
+      "published_at": "2026-09-27T23:20:00+00:00",
+      "published_ts": 1790551200.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.669
     }
   ]
 }

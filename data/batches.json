@@ -1,75 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T21:28:07.157477+00:00",
+    "generated_at": "2026-09-28T05:35:35.313947+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-28T22:28:46.076977+00:00",
-      "generated_ts": 1787956126.0769775,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "venturebeat:073276f0dbd1",
-          "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.627,
-          "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-          "published_at": "2026-08-28T17:52:50+00:00",
-          "summary": "<p><i>Presented by Nutanix </i></p><hr /><p>Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete arc"
-        },
-        {
-          "id": "venturebeat:c0f339e2ff1f",
-          "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.528,
-          "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-          "published_at": "2026-08-28T16:33:16+00:00",
-          "summary": "<p>Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, <a href=\"https://ventureb"
-        },
-        {
-          "id": "venturebeat:353030171c3a",
-          "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.452,
-          "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
-          "published_at": "2026-08-28T15:30:05+00:00",
-          "summary": "<p>Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.</p><p><a href=\"https://cohere.com/blog/parse\">Cohere released Parse 5 on Thursday</a>, "
-        },
-        {
-          "id": "ars_technica:a7866a7136dd",
-          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.764,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-          "published_at": "2026-08-28T18:07:55+00:00",
-          "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
-        },
-        {
-          "id": "cnbeta:9ae211acdae8",
-          "title": "华为何庭波入选AI百大 《Time》称她芯片女王",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.631,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575430.htm",
-          "published_at": "2026-08-28T15:24:29+00:00",
-          "summary": "<p>《时代》杂志公布了2026年度全球人工智能领域100位最具影响力人物，华为何庭波入选领导者类别。<strong>《时代》在介绍中称她为中国的“芯片女王”，认为她已成为华为摆脱美国芯片依赖进程中的核心人物。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575430.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-29T07:11:34.796623+00:00",
       "generated_ts": 1787987494.7966235,
@@ -8038,6 +7972,91 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
           "published_at": "2026-09-27T17:21:07+00:00",
           "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-28T05:35:35.313947+00:00",
+      "generated_ts": 1790573735.3139472,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:7abe7c37a926",
+          "title": "日本正在争夺“光芯片时代”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.984,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579870.htm",
+          "published_at": "2026-09-28T05:24:11+00:00",
+          "summary": "<p>AI算力的下一场产能竞赛，正在从GPU延伸到硅光芯片。晶圆代工厂Tower Semiconductor正在日本大举扩产硅光产能。Tower CEO Russell Ellwanger近日表示，AI数据中心正在推动硅光芯片需求快速增长，公司需要尽快扩大产能，日本将成为Tower全球最重要的光通信半导体生产基地之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579870.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:59dec66fb71c",
+          "title": "AI漏洞加剧安全担忧之际 特朗普据悉会见Anthropic首席执行官",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.965,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579856.htm",
+          "published_at": "2026-09-28T05:11:18+00:00",
+          "summary": "<p>随着最新披露的高级AI模型造成更广泛安全事件，全球对人工智能风险的担忧加剧，这也为Anthropic PBC首席执行官Dario Amodei和美国总统唐纳德·特朗普的一场重要会晤奠定基调。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579856.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1678446139c8",
+          "title": "OpenAI全新订阅方案出炉！5x和20x套餐已删除",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.986,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579866.htm",
+          "published_at": "2026-09-28T05:21:31+00:00",
+          "summary": "<p>各位尊贵的订阅用户们，OpenAI 的套餐订阅定价似乎有哪里不太对劲。9 月 27 日，陆续有用户发现，OpenAI 对 ChatGPT 的定价页面做了一次“静悄悄的手术”。原本的 Pro 订阅似乎变得不一样了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579866.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d846d7da0efc",
+          "title": "Sonnet 5.5偷跑，实测碾压GPT-6 Sol直逼Astra",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.984,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1579862.htm",
+          "published_at": "2026-09-28T05:19:25+00:00",
+          "summary": "<p>谁能想到，Opus 5.5发布才没几天，Sonnet 5.5也要来了？从昨晚开始，整个X都在流传这个消息：Sonnet 5.5很快就要发布了，或许就是美国时间周二下午。在性能上，Sonnet 5.5更接近Opus 5.5，但却比Opus 5.5便宜得多。现在，Sonnet 5.5已经进入发布前的最后阶段，已经在Claude Code中开启灰度测试。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:1fb436f4fc3a",
+          "title": "从端侧推理到物理AI，芯片行业正面临新考题",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.851,
+          "url": "https://www.tmtpost.com/8153747.html",
+          "published_at": "2026-09-28T02:54:55+00:00",
+          "summary": "物理AI的时代，比拼的将是谁的落地更稳。"
+        },
+        {
+          "id": "tmtpost:e6d324992480",
+          "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.832,
+          "url": "https://www.tmtpost.com/8153628.html",
+          "published_at": "2026-09-28T02:33:21+00:00",
+          "summary": "当所有玩家挤在办公赛道内卷时，C 端场景仍有值得挖的空间。"
+        },
+        {
+          "id": "tmtpost:e6523f39d19f",
+          "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.669,
+          "url": "https://www.tmtpost.com/8153534.html",
+          "published_at": "2026-09-27T23:20:00+00:00",
+          "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言"
         }
       ]
     }
