@@ -1,45 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T05:53:19.397295+00:00",
+    "generated_at": "2026-09-29T13:07:50.639097+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-30T12:02:03.623401+00:00",
-      "generated_ts": 1788091323.6234007,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:854512560f79",
-          "title": "9亿人免费用 GPT私人秘书来了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.693,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575554.htm",
-          "published_at": "2026-08-30T06:16:21+00:00",
-          "summary": "<p>ChatGPT 有 9 亿周活用户，付费的不到 5000 万，转化率只有 5% 到 6%。8 月 26 日，OpenAI 把定时任务功能（侧栏的“已安排”）向所有免费用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:268724a67ae0",
-          "title": "智能戒指可通过汗液持续监测血糖、酮体等多项生物标志物",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.672,
-          "url": "https://www.cnbeta.com.tw/articles/science/1575534.htm",
-          "published_at": "2026-08-30T05:50:26+00:00",
-          "summary": "<p>智能戒指如今已不再局限于记录语音、连接人工智能或辅助运动训练。市场上已有产品能够监测睡眠质量、接入各种健康应用，甚至通过智能耳环帮助用户了解血流状况。美国加州大学圣迭戈分校的工程师近日开发出一款新型智能戒指。该设备利用渗透作用，能够持续测量酒精、葡萄糖、酮体、乳酸、维生素C（抗坏血酸）和尿酸等多种生物标志物，并将数据传输至智能手机应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1575534.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-30T16:48:53.630537+00:00",
       "generated_ts": 1788108533.6305366,
@@ -8138,6 +8102,161 @@
           "url": "https://www.tmtpost.com/8155221.html",
           "published_at": "2026-09-29T02:49:00+00:00",
           "summary": "科技股扎堆减持近45亿元，叠加美债收益率飙升、节前避险与机构调仓，A股算力芯片板块重挫。产业资本高位兑现释放谨慎信号，短期估值承压，但硬科技长期逻辑未改。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-29T13:07:50.639097+00:00",
+      "generated_ts": 1790687270.6390967,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:ea597a40d2c4",
+          "title": "Anthropic新规：客户用量触及额度上限后将不再享受折扣",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.822,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580050.htm",
+          "published_at": "2026-09-29T11:01:06+00:00",
+          "summary": "<p>Anthropic 正在向企业客户展现强势议价姿态：一旦客户用完合同内购买的全部 Token 额度，折扣待遇将直接取消。这一做法，给了 OpenAI 机会，采取更为灵活的定价策略。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580050.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:bbb5d6ee6f7f",
+          "title": "OpenAI将成立澳大利亚专项工作组 回应AI模型越权访问政府网站事件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.515,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580022.htm",
+          "published_at": "2026-09-29T07:01:08+00:00",
+          "summary": "<p>OpenAI宣布将在澳大利亚成立专项工作组，并向当地政府和企业提供资金及技术支持，以加强针对高能力AI智能体的安全防护。此前，OpenAI披露其模型曾以未经授权的方式访问多个澳大利亚政府网站，引发外界对AI智能体越权操作风险的关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580022.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e05463ffa7ea",
+          "title": "Manus创始人肖弘：Manus早于Codex和Claude cowork出现",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.504,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580010.htm",
+          "published_at": "2026-09-29T06:52:19+00:00",
+          "summary": "<p>9月29日消息，Manus创始人肖弘在即刻发布长文，肖弘直言，Manus被做出来的时候，世界上是没有Codex和Claude cowork这类产品的。肖弘表示，Manus一直定位“通用智能体(generaagent)”。他认为，manus像是一个卖电脑的生意，可能大家买电脑主要是为了工作，但是如果不能看视频、打游戏的电脑应该是有点无聊的。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580010.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:d23fb88d8805",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.978,
+          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+          "published_at": "2026-09-29T12:45:05+00:00",
+          "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+        },
+        {
+          "id": "the_verge:6998532cfe22",
+          "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.925,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+          "published_at": "2026-09-29T11:48:27+00:00",
+          "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as"
+        },
+        {
+          "id": "tmtpost:511613d49d0e",
+          "title": "ARR真的是大模型企业的黄金指标吗？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.892,
+          "url": "https://www.tmtpost.com/8154376.html",
+          "published_at": "2026-09-29T11:13:01+00:00",
+          "summary": "快速上涨的ARR，要花多少钱才能维持。"
+        },
+        {
+          "id": "tmtpost:7a6034e08b01",
+          "title": "Agent进入企业核心业务，模型之外还有多少难题？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.829,
+          "url": "https://www.tmtpost.com/8155430.html",
+          "published_at": "2026-09-29T10:01:57+00:00",
+          "summary": "企业在把任务交给 Agent的那一刻，也交出了一部分决策权。"
+        },
+        {
+          "id": "tmtpost:a3ba94d863ad",
+          "title": "Muse企服版刚成立，百亿美金上市企业CEO就跳槽加入",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.813,
+          "url": "https://www.tmtpost.com/8155944.html",
+          "published_at": "2026-09-29T09:44:09+00:00",
+          "summary": "MongoDB CEO离职加入Meta：大模型公司开始争夺生意操盘手。"
+        },
+        {
+          "id": "qbitai:5cb5dc5cc830",
+          "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.724,
+          "url": "https://www.qbitai.com/2026/09/499188.html",
+          "published_at": "2026-09-29T07:59:46+00:00",
+          "summary": ""
+        },
+        {
+          "id": "qbitai:bd7d6ad920d8",
+          "title": "OpenAI因新模型太强叫停发布",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.716,
+          "url": "https://www.qbitai.com/2026/09/499140.html",
+          "published_at": "2026-09-29T07:49:20+00:00",
+          "summary": "AGI计划暂停。"
+        },
+        {
+          "id": "cnbeta:ead639b97c14",
+          "title": "Meta旗下AI智能体Muse被曝越权读取苹果信息应用数十万条数据",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.683,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580030.htm",
+          "published_at": "2026-09-29T07:09:14+00:00",
+          "summary": "<p>Meta近期推出的全新人工智能智能体“Muse”陷入严重隐私侵犯争议。相关测试发现，该AI工具在未获得用户明确授权、甚至在相关权限被明确禁用的情况下，擅自读取并同步了苹果设备系统级“信息”（Messages）数据库中的大量聊天记录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580030.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f8ff590eca79",
+          "title": "Anthropic招股书曝光：去年营收暴涨12倍 三分之一篇幅用来警告风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.677,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580024.htm",
+          "published_at": "2026-09-29T07:01:28+00:00",
+          "summary": "<p>Anthropic近日向一小部分合作方传阅了期待已久的IPO招股说明书，在文件中正式向投资者发出警示：该公司技术或将带来“关乎人类生存的风险”。这家由达里奥・阿莫代伊（Dario Amodei）执掌、估值接近1万亿美元的AI初创企业在篇幅冗长的S‑1上市文件中，用接近三分之一的内容罗列“风险因素”。其中提及，持续迭代升级的<strong>AI模型有可能实施操纵、勒索，以及表现出其他不可预测行为</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580024.htm\" target=\"_blank\"><stron"
+        },
+        {
+          "id": "cnbeta:1bd9b6a6471b",
+          "title": "日本Rapidus计划2040年上月球建厂制造芯片",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.673,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580014.htm",
+          "published_at": "2026-09-29T06:56:22+00:00",
+          "summary": "<p><strong>日本先进半导体企业Rapidus社长小池淳义近日在美国华盛顿出席活动时正式宣布，计划2040年前后在月球表面建设半导体工厂。他直言：“这不是玩笑，而是认真的计划。”</strong>小池淳义给出的理由是，月球存在芯片生产所需的水资源。月球两极永久阴影区域被探测到存在较高浓度的水冰，若能被开采处理，理论上可提纯出芯片制造所需的超纯水，从而省去从地球长途运输的巨额成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580014.htm\" target=\"_blank\"><strong>阅读全文</strong><"
+        },
+        {
+          "id": "cnbeta:9ed6d38b3ef2",
+          "title": "澜起科技启动新一代DDR5时钟驱动芯片量产 最高速率达9200 MT/s",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.64,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580002.htm",
+          "published_at": "2026-09-29T06:15:57+00:00",
+          "summary": "<p>在内存供应持续紧张、价格上涨以及人工智能应用推高内存需求的背景下，中国芯片厂商澜起科技宣布，其新一代DDR5时钟驱动芯片已进入量产阶段，面向消费级平台的产品最高支持9200 MT/s，面向企业级服务器的产品最高支持8000 MT/s。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
