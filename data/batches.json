@@ -1,50 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T13:07:50.639097+00:00",
+    "generated_at": "2026-09-29T22:25:09.228788+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-08-30T16:48:53.630537+00:00",
-      "generated_ts": 1788108533.6305366,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-08-30T21:15:23.472267+00:00",
-      "generated_ts": 1788124523.472267,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "venturebeat:cff33d1a44c7",
-          "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.914,
-          "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
-          "published_at": "2026-08-30T20:15:00+00:00",
-          "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetic"
-        }
-      ]
-    },
     {
       "generated_at": "2026-08-31T05:48:04.997865+00:00",
       "generated_ts": 1788155284.9978647,
@@ -8257,6 +8216,261 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1580002.htm",
           "published_at": "2026-09-29T06:15:57+00:00",
           "summary": "<p>在内存供应持续紧张、价格上涨以及人工智能应用推高内存需求的背景下，中国芯片厂商澜起科技宣布，其新一代DDR5时钟驱动芯片已进入量产阶段，面向消费级平台的产品最高支持9200 MT/s，面向企业级服务器的产品最高支持8000 MT/s。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-29T22:25:09.228788+00:00",
+      "generated_ts": 1790720709.2287881,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:96d1b3e060c1",
+          "title": "Introducing GPT-6.1 Sol",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.144,
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+        },
+        {
+          "id": "openai_blog:ee3d1a0d15ae",
+          "title": "DevDay 2026 Recap",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.144,
+          "url": "https://openai.com/index/devday-2026-recap",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+        },
+        {
+          "id": "techcrunch:ffb5b908e31b",
+          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.994,
+          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+          "published_at": "2026-09-29T22:20:59+00:00",
+          "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+        },
+        {
+          "id": "techcrunch:c0e4e8ff498e",
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.819,
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "published_at": "2026-09-29T20:15:47+00:00",
+          "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+        },
+        {
+          "id": "cnbeta:7067272091bb",
+          "title": "OpenAI推出ChatGPT Spaces团队协作空间 并将服务接入Slack和Teams",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.732,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580110.htm",
+          "published_at": "2026-09-29T19:10:57+00:00",
+          "summary": "<p>OpenAI在开发者日活动上公布多项面向工作的功能，其中包括ChatGPT Spaces共享空间，供同事、ChatGPT和OpenAI新推出的个人智能体Dots共同使用团队资料。用户和同事上传的文件，以及通过ChatGPT生成的内容，都可以集中整理在团队空间中，便于查找和协作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c0205b351432",
+          "title": "OpenAI进军身份验证市场 推出“用ChatGPT一键登录”功能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.732,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580108.htm",
+          "published_at": "2026-09-29T19:10:33+00:00",
+          "summary": "<p>随着人工智能工具深度嵌入互联网日常应用，OpenAI正依托其庞大的用户基数开辟全新业务版图。该公司日前正式推出“使用ChatGPT登录”（Sign in with ChatGPT）身份验证服务，允许第三方开发者和企业将ChatGPT账号作为其应用的统一认证入口。这一举措标志着OpenAI正式涉足数字身份验证领域，直接与长期主导这一市场的Google、苹果及微软等科技巨头展开正面竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580108.htm\" target=\"_blank\"><strong>阅读全文</strong>"
+        },
+        {
+          "id": "cnbeta:e58130ce47fa",
+          "title": "OpenAI推出Dots智能体 将AI助手变成可长期自主工作的“数字伙伴”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.592,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580098.htm",
+          "published_at": "2026-09-29T17:21:32+00:00",
+          "summary": "<p>OpenAI在当地时间9月29日举行的Dev Day活动上正式推出名为Dots的新型个人智能体助手。Dots由GPT-6 Astra驱动，与传统的ChatGPT以及面向编程任务的Codex不同，它被设计为能够脱离特定硬件和固定交互界面，在后台持续运行，根据用户设定的目标自主推进任务，并尽可能减少人工监督。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580098.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:71b1139aeb27",
+          "title": "OpenAI发布GPT-6.1 Sol 性能逼近GPT-6 Astra 标准API输入输出价格降至五分之一",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.591,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580096.htm",
+          "published_at": "2026-09-29T17:20:41+00:00",
+          "summary": "<p>OpenAI在当地时间9月29日举行的DevDay活动上正式发布GPT-6.1 Sol。距离GPT-6 Sol发布仅过去一周，新模型便再次迎来升级。OpenAI表示，GPT-6.1 Sol在智能体编程、计算机操作以及专业工作等任务上的能力已经接近旗舰级GPT-6 Astra，但标准输入和输出Token价格仅为后者的五分之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580096.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:ba7efcffbfc5",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.584,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. "
+        },
+        {
+          "id": "ars_technica:c1366656b4b5",
+          "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 2.364,
+          "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+          "published_at": "2026-09-29T14:10:00+00:00",
+          "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+        },
+        {
+          "id": "cnbeta:a00a05880fe0",
+          "title": "特朗普会晤人工智能业界领袖 反对新增联邦安全监管",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.98,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580118.htm",
+          "published_at": "2026-09-29T22:03:51+00:00",
+          "summary": "<p>在全球对人工智能威胁的担忧日益加剧之际，美国总统唐纳德·特朗普在白宫与人工智能行业高管会面后，否定了针对人工智能出台新联邦法规的想法。特朗普周二与二十多位硅谷领袖共进午餐后表示，现有法律足以保护美国人免受AI潜在风险的影响。与会者包括Anthropic首席执行官Dario Amodei和英伟达首席执行官黄仁勋。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580118.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9ac702a25d78",
+          "title": "ASML称人工智能对芯片制造的影响将持续10至15年",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.856,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580112.htm",
+          "published_at": "2026-09-29T19:49:50+00:00",
+          "summary": "<p>全球唯一能够制造极紫紫外光刻设备的企业ASML表示，人工智能热潮对社会和芯片产业的影响不会在短期内结束，而是可能在未来10至15年持续展开。ASML首席执行官克里斯托夫·福凯表示，目前人工智能带来的变化“只是冰山一角”。满足未来需求不仅需要更多AI加速器，还需要改进光学系统、发展垂直芯片设计，并扩大全球专业供应商网络。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:2c21b48e9567",
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.79,
+          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "published_at": "2026-09-29T18:35:00+00:00",
+          "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+        },
+        {
+          "id": "ars_technica:62c33531fe42",
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.77,
+          "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+          "published_at": "2026-09-29T18:11:09+00:00",
+          "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+        },
+        {
+          "id": "techcrunch:ae84fee40d00",
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.748,
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "published_at": "2026-09-29T17:45:51+00:00",
+          "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
+        },
+        {
+          "id": "the_verge:b92f6b6f1e91",
+          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.739,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+          "published_at": "2026-09-29T17:35:03+00:00",
+          "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, w"
+        },
+        {
+          "id": "cnbeta:7ffcc2991cf6",
+          "title": "OpenAI扩展ChatGPT插件能力 新增应用式界面与事件自动化",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.728,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580100.htm",
+          "published_at": "2026-09-29T17:21:56+00:00",
+          "summary": "<p>OpenAI正在扩大ChatGPT插件的功能范围，试图让更多应用直接融入聊天体验。在周二举行的开发者日活动上，公司宣布，开发者今后可以通过插件扩展，在ChatGPT内打造类似独立应用的交互体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580100.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:bf56d3900ced",
+          "title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.727,
+          "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+          "published_at": "2026-09-29T17:20:00+00:00",
+          "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+        },
+        {
+          "id": "techcrunch:5a4baf89bb35",
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.724,
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "published_at": "2026-09-29T17:17:15+00:00",
+          "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+        },
+        {
+          "id": "techcrunch:f7a0641c27ce",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.723,
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+        },
+        {
+          "id": "techcrunch:0bb62edce704",
+          "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.723,
+          "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+        },
+        {
+          "id": "the_verge:dd92a63bcc9b",
+          "title": "OpenAI DevDay 2026: The biggest news and announcements",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.662,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+          "published_at": "2026-09-29T16:00:00+00:00",
+          "summary": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched M"
+        },
+        {
+          "id": "cnbeta:01dd35ea21c5",
+          "title": "消息人士：OpenAI年度经常性收入接近700亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.656,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580084.htm",
+          "published_at": "2026-09-29T15:53:10+00:00",
+          "summary": "<p>媒体援引掌握财务数据的消息人士称，OpenAI年度经常性收入逼近7000亿美元；自7月以来，其企业端销售额增长超一倍。竞品Anthropic此前在企业AI落地市场占据优势，但OpenAI正在快速追赶。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580084.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:e7fb97c4dc5f",
+          "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.585,
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+          "published_at": "2026-09-29T14:22:31+00:00",
+          "summary": "Similar performance, security trade-offs also seen in current public models."
         }
       ]
     }
