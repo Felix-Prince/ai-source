@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T22:25:09.228788+00:00",
+    "generated_at": "2026-09-30T05:44:00.787890+00:00",
     "max_days": 30
   },
   "batches": [
@@ -8471,6 +8471,131 @@
           "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
           "published_at": "2026-09-29T14:22:31+00:00",
           "summary": "Similar performance, security trade-offs also seen in current public models."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-09-30T05:44:00.787890+00:00",
+      "generated_ts": 1790747040.78789,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:d9c066973fdc",
+          "title": "OpenAI推出500美元ChatGPT Pro套餐 并带来Codex与API升级",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.981,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580160.htm",
+          "published_at": "2026-09-30T05:30:41+00:00",
+          "summary": "<p>OpenAI在9月29日举行的DevDay 2026开发者大会上公布了一系列面向开发者、企业和高强度用户的新产品与功能，其中最受关注的变化之一，是推出每月500美元的ChatGPT Pro 500套餐。与此同时，原有每月200美元的Pro 200套餐使用额度将被下调，OpenAI还对Codex、Agents API以及API平台进行了大规模升级。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d0ae1d9c03d0",
+          "title": "DeepSeek与华为合作开发昇腾编程工具 开源软件基础设施以减少对NVIDIA的依赖",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.974,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580156.htm",
+          "published_at": "2026-09-30T05:25:52+00:00",
+          "summary": "<p>中国人工智能公司DeepSeek周三表示，已与华为合作开发针对昇腾芯片优化的编程工具。DeepSeek在官方微信公众号宣布，将开源面向华为昇腾平台的编程基础设施，其中包括计算库和通信库。这是中国科技企业深化合作、寻求英伟达生态替代方案的最新迹象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580156.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:748e5cf37240",
+          "title": "Anthropic或向SpaceX支付845亿美元AI算力费用 马斯克数据中心业务迎来巨额订单",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.96,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580146.htm",
+          "published_at": "2026-09-30T05:16:20+00:00",
+          "summary": "<p>随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未来将向SpaceX支付巨额费用，以获取其数据中心提供的AI计算能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580146.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a132085d20d5",
+          "title": "OpenAI上市计划再度推迟，萨姆·奥尔特曼称只有确保AI安全后才会考虑IPO",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.958,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580144.htm",
+          "published_at": "2026-09-30T05:15:01+00:00",
+          "summary": "<p>OpenAI首席执行官萨姆·奥尔特曼当地时间9月29日在公司年度开发者大会DevDay后的问答环节中表示，OpenAI不会在无法对先进人工智能模型的安全性作出足够保证之前推进首次公开募股（IPO）。这意味着，尽管OpenAI已经成为全球估值最高的人工智能公司之一，但上市仍不会成为公司近期的优先事项。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580144.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:65d9d43f2e34",
+          "title": "OpenAI推出Dots引关注 xAI被指提前买下dot.com“恶搞”竞争对手",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.953,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580138.htm",
+          "published_at": "2026-09-30T05:11:19+00:00",
+          "summary": "<p>OpenAI当地时间9月29日在年度开发者大会上推出了全新的AI智能体产品Dots。这款产品被设计为能够长期保持运行、主动执行任务，并通过一个圆润、类似气泡的卡通形象与用户互动。不过，Dots正式亮相后，互联网用户很快发现了一个颇为巧合的细节：埃隆·马斯克旗下xAI已经拥有dot.com域名，而该域名目前会直接跳转至Grok应用的下载页面。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580138.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:13d26a83b2f3",
+          "title": "一文速览OpenAI DevDay，欢迎来到Agent时代",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.674,
+          "url": "https://www.tmtpost.com/8156660.html",
+          "published_at": "2026-09-30T01:44:46+00:00",
+          "summary": "一个时刻在线的Agent、一间人机共用的Space，再加更快的GPT-6.1 Sol。"
+        },
+        {
+          "id": "cnbeta:26b3222476b9",
+          "title": "微软发布Quine生物学“世界模型” AI有望将药物研发周期从数月缩短至数天",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.985,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580158.htm",
+          "published_at": "2026-09-30T05:28:14+00:00",
+          "summary": "<p>微软研究院近日正式发布名为Quine的人工智能科研系统，并将其定义为面向生命科学领域的“生物学世界模型”。该系统旨在帮助科学家理解复杂生物机制、加速药物发现过程，并推动癌症等重大疾病研究取得突破。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580158.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:71fb4e7b1f8c",
+          "title": "Dots 上场这天，OpenAI 把自家最强模型拦在门外",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.854,
+          "url": "https://www.tmtpost.com/8156899.html",
+          "published_at": "2026-09-30T03:06:07+00:00",
+          "summary": "一边登台，一边缺席。"
+        },
+        {
+          "id": "qbitai:a2089cb9dca0",
+          "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.842,
+          "url": "https://www.qbitai.com/2026/09/499263.html",
+          "published_at": "2026-09-30T02:53:17+00:00",
+          "summary": ""
+        },
+        {
+          "id": "qbitai:62d855e060f4",
+          "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.647,
+          "url": "https://www.qbitai.com/2026/09/499246.html",
+          "published_at": "2026-09-29T23:01:05+00:00",
+          "summary": "今年devday牙膏挤爆"
+        },
+        {
+          "id": "ars_technica:2a064887889e",
+          "title": "Protests against OpenAI get increasingly creative",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.594,
+          "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+          "published_at": "2026-09-29T21:52:58+00:00",
+          "summary": "New sculpture depicts AI leaders escaping a sinking ship."
         }
       ]
     }
