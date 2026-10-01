@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T06:10:20.231572+00:00",
-    "generated_ts": 1790835020.2315717,
+    "generated_at": "2026-10-01T13:33:21.971393+00:00",
+    "generated_ts": 1790861601.971393,
     "window_hours": 24.0,
-    "total": 15
+    "total": 18
   },
   "items": [
     {
@@ -67,19 +67,34 @@
       "importance": 2.721
     },
     {
-      "id": "cnbeta:9852088d6af9",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic点名智谱GLM-5.3：漏洞利用能力增强，安全防护仍有缺口",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580196.htm",
-      "summary": "<p>9月30日，Claude开发商Anthropic 29日发布报告，称智谱GLM-5.3已具备较强的漏洞利用能力，但安全防护仍有缺口，可能降低恶意攻击者使用这类能力的门槛。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580196.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-09-30T08:11:25+00:00",
-      "published_ts": 1790755885.0,
+      "id": "tmtpost:c6b37810da57",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+      "url": "https://www.tmtpost.com/8157828.html",
+      "summary": "AI公司活成了它们最讨厌的样子。",
+      "published_at": "2026-10-01T08:16:17+00:00",
+      "published_ts": 1790842577.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.626
+      "importance": 2.575
+    },
+    {
+      "id": "cnbeta:0ecc2062e498",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic宣布Claude for Government正式上线 为美国联邦和州政府机构特别打造",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580302.htm",
+      "summary": "<p>人工智能公司Anthropic宣布，面向美国联邦和州政府机构打造的Claude for Government正式结束公开测试阶段并全面投入使用。该平台自今年7月启动公测以来，已逐步向公共部门提供Claude的代码开发、智能代理和办公自动化能力，如今正式进入全面商用阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-01T06:35:20+00:00",
+      "published_ts": 1790836520.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.453
     },
     {
       "id": "qbitai:1491bd90ee29",
@@ -112,36 +127,6 @@
       "importance": 2.339
     },
     {
-      "id": "openai_blog:6bbf82aa27fc",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "published_at": "2026-09-30T10:30:00+00:00",
-      "published_ts": 1790764200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.128
-    },
-    {
-      "id": "openai_blog:53eebd037d85",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "published_at": "2026-09-30T10:00:00+00:00",
-      "published_ts": 1790762400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.097
-    },
-    {
       "id": "techcrunch:ed1e18f2a0c7",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -155,21 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.884
-    },
-    {
-      "id": "qbitai:f144a6e8a917",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Anthropic，你是来给智谱打广告的吧！",
-      "url": "https://www.qbitai.com/2026/09/499597.html",
-      "summary": "实测说GLM-5.3很强",
-      "published_at": "2026-09-30T10:04:12+00:00",
-      "published_ts": 1790762652.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.849
     },
     {
       "id": "the_verge:f11ad0ccc31d",
@@ -202,6 +172,21 @@
       "importance": 1.711
     },
     {
+      "id": "tmtpost:7e7f1f6cec82",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
+      "url": "https://www.tmtpost.com/8157833.html",
+      "summary": "当AI开始生成“世界”，影音游内容正在被颠覆。",
+      "published_at": "2026-10-01T08:04:42+00:00",
+      "published_ts": 1790841882.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.707
+    },
+    {
       "id": "tmtpost:8eaf86d4b3e0",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -215,6 +200,66 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.704
+    },
+    {
+      "id": "cnbeta:c0c16e9fc92f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "“大空头”伯里：股市应该崩盘以阻止OpenAI、Anthropic上市",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580318.htm",
+      "summary": "<p>10月1日，据《商业内幕》报道，电影《大空头》原型人物迈克尔·伯里(Michael Burry)表示，<strong>如果股市崩盘导致两家头部AI公司无法上市，这对人类来说反而是件好事。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-01T06:56:40+00:00",
+      "published_ts": 1790837800.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.652
+    },
+    {
+      "id": "cnbeta:9d8e69f004e3",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "黄仁勋等科技领袖私下游说Anthropic CEO 质疑其发出的AI警告过于极端",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580314.htm",
+      "summary": "<p>10月1日，据《华尔街日报》报道，周二，在同意签署一份旨在保障AI模型安全的原则声明后，多位AI公司CEO簇拥在总统特朗普周围，在白宫外展示出一个团结应对公众担忧的行业形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580314.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-01T06:53:59+00:00",
+      "published_ts": 1790837639.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.65
+    },
+    {
+      "id": "cnbeta:7589e8192dea",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google终于推出旗舰AI模型 但实战性能却遭员工质疑",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580312.htm",
+      "summary": "<p>10月1日，据彭博社报道，<strong>Google公司已开始逐步推出外界期待已久的旗舰AI模型Gemini 4 Argon，</strong>但公司内部对于该模型在编程等关键领域的表现仍存在质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580312.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-01T06:53:36+00:00",
+      "published_ts": 1790837616.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.65
+    },
+    {
+      "id": "cnbeta:b4be962fbc73",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
+      "summary": "<p>全球存储芯片巨头美光科技日前在公布2026财年第四季度业绩后表示，即便未来人工智能热潮降温，内存市场也未必会迎来显著降价。公司认为，以人形机器人为代表的“物理AI”正在成为新的需求增长引擎，并可能推动行业长期维持供需紧张状态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-01T06:15:53+00:00",
+      "published_ts": 1790835353.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.62
     },
     {
       "id": "techcrunch:96bac0c27925",

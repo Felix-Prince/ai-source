@@ -1,65 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T06:10:20.231572+00:00",
+    "generated_at": "2026-10-01T13:33:21.971393+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-01T11:48:57.376190+00:00",
-      "generated_ts": 1788263337.3761904,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:007561e9ca98",
-          "title": "DeepSeek-V4首款多模态模型权重开放“睁眼”后追上Opus-4.8",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.751,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575922.htm",
-          "published_at": "2026-09-01T08:48:36+00:00",
-          "summary": "<p>在连续强化了推理、代码和Agent能力之后，DeepSeek终于为V4补上了视觉输入。8月31日上午，DeepSeek在Hugging Face开放了DeepSeek-V4-Flash-Vision-Exp模型权重，开发者可以直接下载模型权重并自行部署。而官方仓库除了模型文件，还包括视觉编码器和Aligner等组件的参考推理实现，并覆盖DFlash Attention、MoE、Hyper-Connections和DSpark等部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575922.htm\" target=\"_bla"
-        },
-        {
-          "id": "cnbeta:50759f48dda5",
-          "title": "发生模型逃逸并发起真实攻击后 Anthropic宣布全面加固安全体系提升模型安全性",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.709,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575888.htm",
-          "published_at": "2026-09-01T08:17:15+00:00",
-          "summary": "<p>Anthropic日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目标而采取高危行动的对齐风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:ba78da74bb6f",
-          "title": "NVIDIA GPU帧插值功能正式加入FFmpeg 可将视频帧率提升一倍",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.818,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575902.htm",
-          "published_at": "2026-09-01T08:30:29+00:00",
-          "summary": "<p>据项目开发者消息，英伟达基于GPU加速的帧插值功能已经通过Vulkan API集成进FFmpeg。FFmpeg是一套广泛使用的软件工具，支持包括YouTube在内的大量现代多媒体处理平台、服务和应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:01df58d5c6a5",
-          "title": "百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.753,
-          "url": "https://www.tmtpost.com/8123419.html",
-          "published_at": "2026-09-01T07:14:34+00:00",
-          "summary": "企业首先应该谈的是业务如何运营、如何管理。你把业务标准化、数据标准化，体系做出来之后，模型和算力其实只是底座。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-01T16:45:51.039917+00:00",
       "generated_ts": 1788281151.0399165,
@@ -8517,6 +8461,91 @@
           "url": "https://www.tmtpost.com/8157335.html",
           "published_at": "2026-10-01T00:38:06+00:00",
           "summary": "OpenAI想摘走Meta的“大结果”。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-01T13:33:21.971393+00:00",
+      "generated_ts": 1790861601.971393,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:c6b37810da57",
+          "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.575,
+          "url": "https://www.tmtpost.com/8157828.html",
+          "published_at": "2026-10-01T08:16:17+00:00",
+          "summary": "AI公司活成了它们最讨厌的样子。"
+        },
+        {
+          "id": "cnbeta:0ecc2062e498",
+          "title": "Anthropic宣布Claude for Government正式上线 为美国联邦和州政府机构特别打造",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.453,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580302.htm",
+          "published_at": "2026-10-01T06:35:20+00:00",
+          "summary": "<p>人工智能公司Anthropic宣布，面向美国联邦和州政府机构打造的Claude for Government正式结束公开测试阶段并全面投入使用。该平台自今年7月启动公测以来，已逐步向公共部门提供Claude的代码开发、智能代理和办公自动化能力，如今正式进入全面商用阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:7e7f1f6cec82",
+          "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.707,
+          "url": "https://www.tmtpost.com/8157833.html",
+          "published_at": "2026-10-01T08:04:42+00:00",
+          "summary": "当AI开始生成“世界”，影音游内容正在被颠覆。"
+        },
+        {
+          "id": "cnbeta:c0c16e9fc92f",
+          "title": "“大空头”伯里：股市应该崩盘以阻止OpenAI、Anthropic上市",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.652,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580318.htm",
+          "published_at": "2026-10-01T06:56:40+00:00",
+          "summary": "<p>10月1日，据《商业内幕》报道，电影《大空头》原型人物迈克尔·伯里(Michael Burry)表示，<strong>如果股市崩盘导致两家头部AI公司无法上市，这对人类来说反而是件好事。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9d8e69f004e3",
+          "title": "黄仁勋等科技领袖私下游说Anthropic CEO 质疑其发出的AI警告过于极端",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.65,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580314.htm",
+          "published_at": "2026-10-01T06:53:59+00:00",
+          "summary": "<p>10月1日，据《华尔街日报》报道，周二，在同意签署一份旨在保障AI模型安全的原则声明后，多位AI公司CEO簇拥在总统特朗普周围，在白宫外展示出一个团结应对公众担忧的行业形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580314.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7589e8192dea",
+          "title": "Google终于推出旗舰AI模型 但实战性能却遭员工质疑",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.65,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580312.htm",
+          "published_at": "2026-10-01T06:53:36+00:00",
+          "summary": "<p>10月1日，据彭博社报道，<strong>Google公司已开始逐步推出外界期待已久的旗舰AI模型Gemini 4 Argon，</strong>但公司内部对于该模型在编程等关键领域的表现仍存在质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580312.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b4be962fbc73",
+          "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.62,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
+          "published_at": "2026-10-01T06:15:53+00:00",
+          "summary": "<p>全球存储芯片巨头美光科技日前在公布2026财年第四季度业绩后表示，即便未来人工智能热潮降温，内存市场也未必会迎来显著降价。公司认为，以人形机器人为代表的“物理AI”正在成为新的需求增长引擎，并可能推动行业长期维持供需紧张状态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
