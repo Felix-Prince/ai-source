@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T05:53:34.416819+00:00",
-    "generated_ts": 1790920414.416819,
+    "generated_at": "2026-10-02T12:51:58.559468+00:00",
+    "generated_ts": 1790945518.5594683,
     "window_hours": 24.0,
-    "total": 22
+    "total": 17
   },
   "items": [
     {
@@ -22,44 +22,14 @@
       "importance": 3.699
     },
     {
-      "id": "cnbeta:b03ae28b854e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI模型被曝自主入侵澳大利亚政府系统 引发AI安全风险新担忧",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580276.htm",
-      "summary": "<p>澳大利亚政府日前披露，一款由OpenAI运营的人工智能模型在未经授权的情况下访问了该国医疗系统数据，引发外界对先进AI自主行为和安全控制能力的广泛关注。这一事件被认为可能是全球首例由人工智能系统实施的政府网络入侵事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580276.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:03:12+00:00",
-      "published_ts": 1790834592.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.99
-    },
-    {
-      "id": "cnbeta:6fd9c4cab12c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Gemini 4 Argon模型 挑战GPT-6 Astra与Claude Opus 5.5 定价大幅下探",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580272.htm",
-      "summary": "<p>在OpenAI和Anthropic持续推出新一代前沿模型之际，Google正式发布全新旗舰级人工智能模型Gemini 4 Argon，希望凭借更强的长程推理能力和更具竞争力的价格重新参与高端模型市场竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T05:53:40+00:00",
-      "published_ts": 1790834020.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.976
-    },
-    {
-      "id": "tmtpost:c6b37810da57",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
-      "url": "https://www.tmtpost.com/8157828.html",
-      "summary": "AI公司活成了它们最讨厌的样子。",
-      "published_at": "2026-10-01T08:16:17+00:00",
-      "published_ts": 1790842577.0,
+      "id": "qbitai:8a3aed5c47a2",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "published_at": "2026-10-02T07:34:15+00:00",
+      "published_ts": 1790926455.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -80,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.464
-    },
-    {
-      "id": "cnbeta:0ecc2062e498",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic宣布Claude for Government正式上线 为美国联邦和州政府机构特别打造",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580302.htm",
-      "summary": "<p>人工智能公司Anthropic宣布，面向美国联邦和州政府机构打造的Claude for Government正式结束公开测试阶段并全面投入使用。该平台自今年7月启动公测以来，已逐步向公共部门提供Claude的代码开发、智能代理和办公自动化能力，如今正式进入全面商用阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:35:20+00:00",
-      "published_ts": 1790836520.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.453
     },
     {
       "id": "the_verge:653212c43da9",
@@ -140,6 +95,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.99
+    },
+    {
+      "id": "cnbeta:6aa349009dd6",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "三星Exynos 2700或已进入量产阶段 有望让Galaxy产品线进一步减少对骁龙依赖",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580492.htm",
+      "summary": "<p>三星下一代旗舰移动处理器Exynos 2700的开发进度近日再次传出新消息。有爆料称，这款芯片已经接近或进入大规模量产阶段，并有望成为三星Galaxy S27系列扩大自研芯片使用比例的重要产品。与此同时，三星近期内部测试据称显示，Exynos 2700在CPU、GPU、AI以及能效等多个项目上均具备与高通下一代旗舰骁龙平台竞争的能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-02T12:22:21+00:00",
+      "published_ts": 1790943741.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.972
     },
     {
       "id": "cnbeta:5c57cd3290b7",
@@ -217,64 +187,34 @@
       "importance": 1.812
     },
     {
-      "id": "tmtpost:7e7f1f6cec82",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
-      "url": "https://www.tmtpost.com/8157833.html",
-      "summary": "当AI开始生成“世界”，影音游内容正在被颠覆。",
-      "published_at": "2026-10-01T08:04:42+00:00",
-      "published_ts": 1790841882.0,
+      "id": "qbitai:eb295060cfc7",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "summary": "44年前被亲自列入问题清单",
+      "published_at": "2026-10-02T07:27:03+00:00",
+      "published_ts": 1790926023.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.707
+      "importance": 1.71
     },
     {
-      "id": "cnbeta:c0c16e9fc92f",
+      "id": "cnbeta:4ecd6162a305",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "“大空头”伯里：股市应该崩盘以阻止OpenAI、Anthropic上市",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580318.htm",
-      "summary": "<p>10月1日，据《商业内幕》报道，电影《大空头》原型人物迈克尔·伯里(Michael Burry)表示，<strong>如果股市崩盘导致两家头部AI公司无法上市，这对人类来说反而是件好事。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:56:40+00:00",
-      "published_ts": 1790837800.0,
+      "title": "Anthropic下一代旗舰Fable 5.5上线 真超级智能来了",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580458.htm",
+      "summary": "<p>Fable 5.5，曝光了！今早，一大批开发者意外发现，Claude网页端悄悄灰度到了Anthropic下一代旗舰Fable 5.5。界面明明还标着“Fable 5.1”，但回答的风格、速度、能力，完全不一样了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580458.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-02T06:07:27+00:00",
+      "published_ts": 1790921247.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.652
-    },
-    {
-      "id": "cnbeta:7589e8192dea",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google终于推出旗舰AI模型 但实战性能却遭员工质疑",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580312.htm",
-      "summary": "<p>10月1日，据彭博社报道，<strong>Google公司已开始逐步推出外界期待已久的旗舰AI模型Gemini 4 Argon，</strong>但公司内部对于该模型在编程等关键领域的表现仍存在质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580312.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:53:36+00:00",
-      "published_ts": 1790837616.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.65
-    },
-    {
-      "id": "cnbeta:9d8e69f004e3",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "黄仁勋等科技领袖私下游说Anthropic CEO 质疑其发出的AI警告过于极端",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580314.htm",
-      "summary": "<p>10月1日，据《华尔街日报》报道，周二，在同意签署一份旨在保障AI模型安全的原则声明后，多位AI公司CEO簇拥在总统特朗普周围，在白宫外展示出一个团结应对公众担忧的行业形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580314.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:53:59+00:00",
-      "published_ts": 1790837639.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.65
+      "importance": 1.646
     },
     {
       "id": "cnbeta:f7b357d4804e",
@@ -290,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.643
-    },
-    {
-      "id": "cnbeta:b4be962fbc73",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
-      "summary": "<p>全球存储芯片巨头美光科技日前在公布2026财年第四季度业绩后表示，即便未来人工智能热潮降温，内存市场也未必会迎来显著降价。公司认为，以人形机器人为代表的“物理AI”正在成为新的需求增长引擎，并可能推动行业长期维持供需紧张状态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T06:15:53+00:00",
-      "published_ts": 1790835353.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.62
     },
     {
       "id": "qbitai:a176bc8721d5",
