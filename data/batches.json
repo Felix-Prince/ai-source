@@ -1,85 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T22:47:27.431638+00:00",
+    "generated_at": "2026-10-02T05:53:34.416819+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-02T04:47:15.198036+00:00",
-      "generated_ts": 1788324435.198036,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:faaee48a32d6",
-          "title": "Claude最强Fable 5.1发布 8项屠榜，最高降价45%，反蒸馏机制上线",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.993,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576004.htm",
-          "published_at": "2026-09-02T04:42:05+00:00",
-          "summary": "<p>Fable 5.1和Mythos 5.1发布！8项公开基准测试全部第一，价格最高降45%。尤其是在科学研究和代码这两项上，明显甩开了Fable 5和隔壁GPT-5.6 Sol。换个更直观的视角，现在用中、低推理程度跑Fable 5.1，表现基本相当于老版Mythos 5开到极高甚至最高推理程度。这一波属于是“牢Fable”干掉了“Mythos圣”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:2ca260f9a925",
-          "title": "大模型厂商，正忙着自备“干粮”",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.923,
-          "url": "https://www.tmtpost.com/8124383.html",
-          "published_at": "2026-09-02T03:53:25+00:00",
-          "summary": "当模型公司开始用AI设计AI芯片，会对行业格局带来哪些影响？"
-        },
-        {
-          "id": "qbitai:5cc6615d157a",
-          "title": "李飞飞发布：全球首个多模态世界模型",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.699,
-          "url": "https://www.qbitai.com/2026/09/482586.html",
-          "published_at": "2026-09-02T01:07:13+00:00",
-          "summary": "一张图补全3D世界，还能给机器人造训练场"
-        },
-        {
-          "id": "the_verge:0b212053df8e",
-          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.468,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-          "published_at": "2026-09-01T22:01:36+00:00",
-          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less"
-        },
-        {
-          "id": "cnbeta:606e65746062",
-          "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.444,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1575976.htm",
-          "published_at": "2026-09-01T21:41:36+00:00",
-          "summary": "<p>OpenAI周二表示，其即将推出的人工智能模型Astra是首个超越其“关键”网络安全能力阈值的产品。该公司表示，Astra能够发现此前未知的安全漏洞，并在无需人类逐步指导的情况下加以利用，这意味着该模型属于其所谓的“准备框架”中最先进的类别。OpenAI表示仍计划“很快”推出Astra，但对其网络安全能力的访问将更加受限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1575976.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:9926e5b747b7",
-          "title": "Fable 5.1来了！Anthropic再秀肌肉",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.929,
-          "url": "https://www.tmtpost.com/8125252.html",
-          "published_at": "2026-09-02T03:32:42+00:00",
-          "summary": "赶在IPO之前的“模型路演”。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-02T11:29:37.162099+00:00",
       "generated_ts": 1788348577.1620991,
@@ -8499,6 +8423,61 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1580374.htm",
           "published_at": "2026-10-01T14:11:06+00:00",
           "summary": "<p>人工智能能力的获取成本正在以前所未有的速度下降。研究人员发现，自2023年以来，实现相同AI性能水平所需的成本平均每季度下降约47%，相当于每年降低约13倍，其降幅超过计算机算力、DNA测序、电池技术以及电力等历史上多项具有变革意义的技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-02T05:53:34.416819+00:00",
+      "generated_ts": 1790920414.416819,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:57666492a83c",
+          "title": "Anthropic据悉计划最早感恩节假期前进行大规模IPO",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.464,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580420.htm",
+          "published_at": "2026-10-01T23:05:05+00:00",
+          "summary": "<p>知情人士称，人工智能模型开发商Anthropic寻求最快11月中旬进行首次公开募股（IPO）。该公司最快可能在11月9日当周正式启动IPO推介，有望感恩节前开始交易。今年感恩节是11月26日，通常节日前后几天交易活动会明显放缓。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:17c589912698",
+          "title": "博通着手筹集600亿美元 为Anthropic采购芯片提供资金",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.999,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580452.htm",
+          "published_at": "2026-10-02T05:52:40+00:00",
+          "summary": "<p>据知情人士透露，博通公司的华尔街承销团正着手筹集600亿美元全新AI芯片融资，受益方包括Anthropic以及其他企业。知情人士称，这笔巨额债务方案涉及的多家银行即将发放420亿美元A类优先担保债的承销邀约函。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a2ab09cb19f3",
+          "title": "OpenAI通报并建议100家调查AI智能体“失控”行为 已启动大规模审查",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.99,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580450.htm",
+          "published_at": "2026-10-02T05:43:19+00:00",
+          "summary": "<p>OpenAI近日披露，公司已经向超过100家外部机构发出通知，告知这些机构其AI智能体在运行过程中可能出现了未经授权的行为。这些行为包括绕过部分安全机制、以非预期方式使用互联网网站，以及对第三方系统造成影响。不过，OpenAI特别强调，收到通知并不意味着相关机构的系统一定遭到入侵，也不意味着其中的数据已经被窃取。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f7b357d4804e",
+          "title": "特朗普称喜欢Anthropic首席执行官 或预示关系有所缓和",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.643,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580418.htm",
+          "published_at": "2026-10-01T23:04:52+00:00",
+          "summary": "<p>美国总统特朗普表示，在最近一次共进晚餐后，他喜欢Anthropic首席执行官Dario Amodei，这一表态暗示白宫与这家被国防部列为供应链风险的人工智能公司关系可能缓和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580418.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
