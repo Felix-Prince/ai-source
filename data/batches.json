@@ -1,201 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T22:22:11.335979+00:00",
+    "generated_at": "2026-10-03T11:49:56.776434+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-03T04:43:25.543003+00:00",
-      "generated_ts": 1788410605.5430033,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "cnbeta:a6b02c1cad12",
-          "title": "OpenAI新模型陷入失控争议 首席科学家回应",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.955,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576178.htm",
-          "published_at": "2026-09-03T04:11:42+00:00",
-          "summary": "<p>9月2日，OpenAI首席科学家雅库布・帕乔基（Jakub Pachocki）在社交平台发文，就近日围绕新模型Astra“不可监控”的争议作出回应。这场争议源于此前一天，有消息称OpenAI即将发布的Astra模型采用了一种名为循环深度（Recurrent Depth）的推理技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:eaba0dbb9baf",
-          "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.912,
-          "url": "https://www.tmtpost.com/8126479.html",
-          "published_at": "2026-09-03T03:41:52+00:00",
-          "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。"
-        },
-        {
-          "id": "tmtpost:91e6e382ad10",
-          "title": "人形机器人的天花板不在算法，在热力学",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.912,
-          "url": "https://www.tmtpost.com/8126785.html",
-          "published_at": "2026-09-03T03:41:35+00:00",
-          "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。"
-        },
-        {
-          "id": "cnbeta:2277a4b543cf",
-          "title": "Meta推出Muse Spark 1.3 编程能力与智能代理性能进一步提升",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.908,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576148.htm",
-          "published_at": "2026-09-03T03:38:46+00:00",
-          "summary": "<p>Meta近日推出旗舰人工智能模型Muse Spark 1.3。该模型主要面向编程和智能代理任务，目前已通过Muse Code及Meta API提供使用。Meta首席执行官马克·扎克伯格还表示，未来公司将推出采用开放权重形式发布的Muse Spark版本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:35545104ae7b",
-          "title": "美国政府向法庭提交意见称AI训练中的版权限制可能阻碍创新",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.9,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576142.htm",
-          "published_at": "2026-09-03T03:33:00+00:00",
-          "summary": "<p>美国政府近日向法院提交意见，支持人工智能公司在未经许可的情况下使用受版权保护的内容训练大型语言模型。文件认为，如果美国企业因版权规则面临更高的数据获取成本，可能会在人工智能竞争中落后于不受同等约束的外国竞争者，并对国家安全造成影响。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "venturebeat:c2b3961400ca",
-          "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.62,
-          "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-          "published_at": "2026-09-03T00:02:18+00:00",
-          "summary": "<p>Google keeps cranking out Flash models: the company on Wednesday announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">two versions of a new 3.8 Flash</a>. </p><p>The variants include a standard Flash, a “workhorse” model for ag"
-        },
-        {
-          "id": "venturebeat:b45460fd34b0",
-          "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.439,
-          "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-          "published_at": "2026-09-02T21:32:59+00:00",
-          "summary": "<p>Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just $0.18 per hour of proc"
-        },
-        {
-          "id": "cnbeta:b272697a8e79",
-          "title": "高通公布新一代Adreno GPU：矩阵核心强化AI算力、更高频率更低功耗",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.98,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576204.htm",
-          "published_at": "2026-09-03T04:22:52+00:00",
-          "summary": "<p><strong>高通公布了下一代骁龙顶级移动平台所搭载的新一代Adreno GPU的部分技术细节。</strong>新GPU在延续三切片架构的基础上，进一步提升了运行频率，并首次引入片上高性能缓存、Matrix Cores专用AI计算单元及Adreno Neural Fusion融合架构，旨在从架构层面优化持续图形性能与功耗效率。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576204.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:5206eb0c7282",
-          "title": "中国团队在自主超导量子计算机上实现新突破 传输效率高达98%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.976,
-          "url": "https://www.cnbeta.com.tw/articles/science/1576190.htm",
-          "published_at": "2026-09-03T04:18:24+00:00",
-          "summary": "<p>记者2日从安徽省量子计算芯片重点实验室获悉，本源量子联合中国科学技术大学、合肥综合性国家科学中心人工智能研究院等科研团队，在“本源悟空”自主超导量子计算机上成功研发出面向桶式量子随机存储器（QRAM）的“相干量子路由系统”，相当于为数据中心架设了“快速路”，有效解决了QRAM扩展的行业难题。相关论文日前发表于国际物理期刊《物理评论X》。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1576190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:56ba882b7d07",
-          "title": "解决模型失控 OpenAI称正开发AI系统自动终止功能",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.969,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576176.htm",
-          "published_at": "2026-09-03T04:11:11+00:00",
-          "summary": "<p>据路透社看到的一封公司信件，OpenAI告诉两名众议院民主党议员，其工程师正在为AI系统开发“自动终止功能”。就在几周前，该公司披露，其一款AI工具在一次安全测试中逃出了测试环境。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576176.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:64713d631b65",
-          "title": "A20 Pro GPU核心数量或创新高 封装升级 拓宽内存总线",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.955,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576166.htm",
-          "published_at": "2026-09-03T03:56:01+00:00",
-          "summary": "<p>苹果即将在9月9日举办发布会，届时预计将展示其首款采用2纳米工艺打造的iPhone芯片A20 Pro。此前曝光的芯片封装信息显示，苹果将从旧有的InFO_PoP方案转向WMCM（晶圆级多芯片模块）技术。如今，A20 Pro的首张正面裸晶照片也已流出，图中展现了更高的GPU核心数量以及其他改进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:82aa9cf9fd0d",
-          "title": "最强模型Fable 5.1发布，Anthropic要用降价换IPO",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.928,
-          "url": "https://www.tmtpost.com/8126540.html",
-          "published_at": "2026-09-03T03:27:27+00:00",
-          "summary": "最强模型不等于最好卖。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-03T11:26:34.649372+00:00",
-      "generated_ts": 1788434794.649372,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "qbitai:c1b8c523d9aa",
-          "title": "陈大年复出，入局大模型",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.896,
-          "url": "https://www.qbitai.com/2026/09/483600.html",
-          "published_at": "2026-09-03T10:13:24+00:00",
-          "summary": "首秀逼近DeepSeek万亿旗舰"
-        },
-        {
-          "id": "tmtpost:9df3cfeba268",
-          "title": "“大”模型向左，“Flash”向右：国内外开卷轻量化背后的商业清算",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.878,
-          "url": "https://www.tmtpost.com/8127474.html",
-          "published_at": "2026-09-03T10:00:32+00:00",
-          "summary": "大模型向左，继续探索通用人工智能的智力极限；Flash向右，向下扎根进入千行百业的生产线。"
-        },
-        {
-          "id": "cnbeta:69c7e5335cdc",
-          "title": "黄仁勋、奥特曼亮相G20 呼吁各国拥抱AI",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.844,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576260.htm",
-          "published_at": "2026-09-03T08:38:10+00:00",
-          "summary": "<p>当地时间周三，包括英伟达首席执行官黄仁勋、OpenAI山姆·奥特曼在内的美国科技巨头高管敦促G20各国部长接纳人工智能，并建设支撑AI运行的数据中心。这场G20会议在北卡罗来纳州举办，会议进入第二天。特朗普政府召集AI行业头部企业代表，向全球主要经济体的部长们阐述行业愿景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576260.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a56dea0107cc",
-          "title": "英伟达市值超越标普500五大板块总和 相当于美国GDP的16.3%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.738,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
-          "published_at": "2026-09-03T06:34:28+00:00",
-          "summary": "<p>英伟达目前已占到标普500指数总市值的约8%。这一压倒性体量几乎完全由人工智能热潮造就，这家芯片巨头的市值，甚至超过了该指数11个行业板块当中5个板块的市值总和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-03T16:33:16.198004+00:00",
       "generated_ts": 1788453196.1980038,
@@ -8320,6 +8128,31 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1580500.htm",
           "published_at": "2026-10-02T13:57:48+00:00",
           "summary": "<p>亚马逊据报正与投资者洽谈一项资产融资安排，计划将价值约80亿美元的英伟达先进芯片转入特殊目的实体，再从该实体租回设备，以继续用于自身数据中心，同时让资产负担和部分融资风险由外部投资者承担。方案仍处于讨论阶段，尚未成为已完成交易。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-03T11:49:56.776434+00:00",
+      "generated_ts": 1791028196.7764344,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:475ef4657614",
+          "title": "大模型一体机，开始缩水了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.49,
+          "url": "https://www.tmtpost.com/8158443.html",
+          "published_at": "2026-10-03T01:38:50+00:00",
+          "summary": "大模型一体机市场，劈成了两半。"
         }
       ]
     }

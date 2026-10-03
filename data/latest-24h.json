@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T22:22:11.335979+00:00",
-    "generated_ts": 1790979731.335979,
+    "generated_at": "2026-10-03T11:49:56.776434+00:00",
+    "generated_ts": 1791028196.7764344,
     "window_hours": 24.0,
-    "total": 13
+    "total": 6
   },
   "items": [
     {
@@ -20,81 +20,6 @@
       "tier": 0,
       "ai_score": 3.0,
       "importance": 3.771
-    },
-    {
-      "id": "qbitai:8a3aed5c47a2",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-      "published_at": "2026-10-02T07:34:15+00:00",
-      "published_ts": 1790926455.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.575
-    },
-    {
-      "id": "cnbeta:57666492a83c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic据悉计划最早感恩节假期前进行大规模IPO",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580420.htm",
-      "summary": "<p>知情人士称，人工智能模型开发商Anthropic寻求最快11月中旬进行首次公开募股（IPO）。该公司最快可能在11月9日当周正式启动IPO推介，有望感恩节前开始交易。今年感恩节是11月26日，通常节日前后几天交易活动会明显放缓。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T23:05:05+00:00",
-      "published_ts": 1790895905.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.464
-    },
-    {
-      "id": "openai_blog:dbb6fcfc8bc1",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "published_ts": 1790899200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 2.358
-    },
-    {
-      "id": "cnbeta:17c589912698",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "博通着手筹集600亿美元 为Anthropic采购芯片提供资金",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580452.htm",
-      "summary": "<p>据知情人士透露，博通公司的华尔街承销团正着手筹集600亿美元全新AI芯片融资，受益方包括Anthropic以及其他企业。知情人士称，这笔巨额债务方案涉及的多家银行即将发放420亿美元A类优先担保债的承销邀约函。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-02T05:52:40+00:00",
-      "published_ts": 1790920360.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.999
-    },
-    {
-      "id": "cnbeta:a2ab09cb19f3",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI通报并建议100家调查AI智能体“失控”行为 已启动大规模审查",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580450.htm",
-      "summary": "<p>OpenAI近日披露，公司已经向超过100家外部机构发出通知，告知这些机构其AI智能体在运行过程中可能出现了未经授权的行为。这些行为包括绕过部分安全机制、以非预期方式使用互联网网站，以及对第三方系统造成影响。不过，OpenAI特别强调，收到通知并不意味着相关机构的系统一定遭到入侵，也不意味着其中的数据已经被窃取。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-02T05:43:19+00:00",
-      "published_ts": 1790919799.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.99
     },
     {
       "id": "cnbeta:6aa349009dd6",
@@ -142,51 +67,6 @@
       "importance": 1.753
     },
     {
-      "id": "qbitai:eb295060cfc7",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "summary": "44年前被亲自列入问题清单",
-      "published_at": "2026-10-02T07:27:03+00:00",
-      "published_ts": 1790926023.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.71
-    },
-    {
-      "id": "cnbeta:4ecd6162a305",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic下一代旗舰Fable 5.5上线 真超级智能来了",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580458.htm",
-      "summary": "<p>Fable 5.5，曝光了！今早，一大批开发者意外发现，Claude网页端悄悄灰度到了Anthropic下一代旗舰Fable 5.5。界面明明还标着“Fable 5.1”，但回答的风格、速度、能力，完全不一样了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580458.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-02T06:07:27+00:00",
-      "published_ts": 1790921247.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.646
-    },
-    {
-      "id": "cnbeta:f7b357d4804e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "特朗普称喜欢Anthropic首席执行官 或预示关系有所缓和",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580418.htm",
-      "summary": "<p>美国总统特朗普表示，在最近一次共进晚餐后，他喜欢Anthropic首席执行官Dario Amodei，这一表态暗示白宫与这家被国防部列为供应链风险的人工智能公司关系可能缓和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580418.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-01T23:04:52+00:00",
-      "published_ts": 1790895892.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.643
-    },
-    {
       "id": "cnbeta:e3ca43f73af5",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -200,6 +80,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.569
+    },
+    {
+      "id": "tmtpost:475ef4657614",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "大模型一体机，开始缩水了",
+      "url": "https://www.tmtpost.com/8158443.html",
+      "summary": "大模型一体机市场，劈成了两半。",
+      "published_at": "2026-10-03T01:38:50+00:00",
+      "published_ts": 1790991530.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.49
     }
   ]
 }
