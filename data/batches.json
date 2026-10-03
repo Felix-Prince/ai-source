@@ -1,200 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T16:31:45.698003+00:00",
+    "generated_at": "2026-10-03T21:28:48.803933+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-03T16:33:16.198004+00:00",
-      "generated_ts": 1788453196.1980038,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50,
-        "venturebeat": 7
-      },
-      "items": [
-        {
-          "id": "venturebeat:20f74358ff8c",
-          "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.981,
-          "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
-          "published_at": "2026-09-03T16:19:49+00:00",
-          "summary": "<p>Meta’s newest AI model Muse Spark 1.3, <a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\">unveiled yesterday</a>, is faster and more performant on third-party benchmarks than its predecessor — with a caveat. </p><p>&quot;Muse Spark 1.3 is rolling out today with frontier performanc"
-        },
-        {
-          "id": "the_verge:20503f66e6d0",
-          "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.952,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-          "published_at": "2026-09-03T16:00:00+00:00",
-          "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-so"
-        },
-        {
-          "id": "cnbeta:9d16ac70665d",
-          "title": "OpenAI、Anthropic等多家AI公司正遭遇服务中断",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.906,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576306.htm",
-          "published_at": "2026-09-03T15:26:55+00:00",
-          "summary": "<p>据Downdetector上的用户报告以及各公司状态页面显示，多家AI公司正遭遇服务中断。OpenAI表示，其ChatGPT和Codex目前正出现问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576306.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:5ce6b134b636",
-          "title": "英伟达130亿美元收购开源AI平台Hugging Face",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.859,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576298.htm",
-          "published_at": "2026-09-03T14:53:35+00:00",
-          "summary": "<p>英伟达已达成协议，以 130 亿美元收购 AI 模型平台 Hugging Face。这家市值 5.4 万亿美元的芯片巨头，再度动用雄厚资金实力，助推人工智能产业高速发展，同时进一步加大对整个行业的掌控力度。就在去年，Hugging Face 还拒绝了英伟达的投资，当时估值 70 亿美元，以此维持自身独立性。Hugging Face 托管数百万个 AI 模型与数据集，是开源 AI 体系的标杆平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576298.htm\" target=\"_blank\"><strong>阅读全文</s"
-        },
-        {
-          "id": "venturebeat:2cda443dcf7e",
-          "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 2.787,
-          "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
-          "published_at": "2026-09-03T14:00:00+00:00",
-          "summary": "<p><a href=\"https://www.microsoft.com/en-us\">Microsoft AI</a> on Thursday released <a href=\"https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/\">MAI-Transcribe-2</a>, a speech-recognition model the company says is faster, more a"
-        },
-        {
-          "id": "cnbeta:7106f50ff01f",
-          "title": "黄仁勋解释NVIDIA为何豪掷近130亿美元收购Hugging Face",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.73,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576288.htm",
-          "published_at": "2026-09-03T13:17:09+00:00",
-          "summary": "<p>人工智能芯片巨头英伟达（NVIDIA）正式宣布以约129.3亿美元收购知名开源AI模型社区与开发者平台Hugging Face。根据交易条款，英伟达将向Hugging Face股东支付约119亿美元现金及股票，并向加入英伟达的Hugging Face员工分配约10亿美元的激励激励。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576288.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:1dc76332327b",
-          "title": "Google深度整合Gemini语音交互功能 全面登陆Gmail、Docs与Keep",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.982,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576310.htm",
-          "published_at": "2026-09-03T16:14:51+00:00",
-          "summary": "<p>Google宣布为其Workspace办公生态推出一系列基于Gemini的人工智能语音新功能，正式将对话式语音交互深度整合进Gmail、Google Docs和Google Keep三大核心产品。用户未来无需繁琐地手动打字输入，直接通过语音对话即可完成邮件检索、文档起草以及结构化笔记整理等多项复杂任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b57d1beed815",
-          "title": "Google发布新一代天气预报AI模型WeatherNext 3",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.933,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576304.htm",
-          "published_at": "2026-09-03T15:22:40+00:00",
-          "summary": "<p>来自GoogleDeepMind与Google研究团队（Google Research）的科学家们正式推出了一款用于天气预测的全新人工智能模型。该模型能够更加清晰地洞察不断变化的大气层状态，并以更高的频率预测气象变化。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576304.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:755be6804a2f",
-          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.912,
-          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-          "published_at": "2026-09-03T15:00:00+00:00",
-          "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
-        },
-        {
-          "id": "venturebeat:0519b2588474",
-          "title": "The AI visibility gap: Why great brands disappear from AI answers",
-          "source": "venturebeat",
-          "source_label": "VentureBeat",
-          "importance": 1.858,
-          "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-          "published_at": "2026-09-03T14:00:00+00:00",
-          "summary": "<p><i>Presented by Contentful</i></p><hr /><p>Most marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. </p><p>Search tools and AI engines now synthesize answers directly on the screen, creating a world "
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-03T21:08:51.613821+00:00",
-      "generated_ts": 1788469731.6138213,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:2ce9e22f867b",
-          "title": "OpenAI正式发布GPT-6 Astra 号称操作电脑水平超越人类",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.777,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576320.htm",
-          "published_at": "2026-09-03T18:28:11+00:00",
-          "summary": "<p>OpenAI正式推出了代号为“Astra”的下一代旗舰大模型GPT-6。据外媒报道，OpenAI宣称该模型在计算机操作能力（Computer Use）上已经超越普通人类用户，不仅在操作速度与准确度上更胜一筹，还能自主在复杂的多应用与多系统环境中高效执行多步骤任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:89449fa7b756",
-          "title": "Meta is paying to peek at how you use their latest AI model",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.766,
-          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-          "published_at": "2026-09-03T18:19:56+00:00",
-          "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
-        },
-        {
-          "id": "ars_technica:40d8803ad4cd",
-          "title": "Four major AI models suffer rare overlapping downtime",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 2.753,
-          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-          "published_at": "2026-09-03T18:10:19+00:00",
-          "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
-        },
-        {
-          "id": "openai_blog:f0505849c117",
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.388,
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "published_at": "2026-09-03T13:15:00+00:00",
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-        },
-        {
-          "id": "cnbeta:acf104f833b7",
-          "title": "英伟达公布RTX Spark“N1X”芯片规格 20核与18核双版本",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.846,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576318.htm",
-          "published_at": "2026-09-03T18:22:41+00:00",
-          "summary": "<p>在柏林国际电子消费品展览会（IFA）上，英伟达正式公布了面向消费级RTX Spark PC平台的首款高整合SoC——“N1X”的详细规格与上市计划。作为英伟达进军完整个人电脑计算平台的核心产品，N1X将基于Arm架构的Grace CPU与最新的Blackwell RTX GPU架构融为一体，并计划于今年10月通过各大OEM合作伙伴正式上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:88e487e812ab",
-          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.826,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-          "published_at": "2026-09-03T18:00:00+00:00",
-          "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"cr"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-04T04:45:00.241264+00:00",
       "generated_ts": 1788497100.2412643,
@@ -8198,6 +8007,41 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1580590.htm",
           "published_at": "2026-10-03T13:19:36+00:00",
           "summary": "<p>技嘉正式发布AI TOP 100 B850高性能桌面系统，将工作站级人工智能算力带入传统桌面平台。该产品面向开发者、研究人员以及企业用户，旨在降低对云端服务的依赖，让大型语言模型训练、推理和代理式AI应用能够在本地环境中完成。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580590.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-03T21:28:48.803933+00:00",
+      "generated_ts": 1791062928.8039334,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:bf445cc73bce",
+          "title": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.732,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580608.htm",
+          "published_at": "2026-10-03T18:14:07+00:00",
+          "summary": "<p>OpenAI在近日举行的Dev Day开发者大会上集中发布了一系列新功能。单独来看，这些功能分别涉及插件、AI智能体、应用集成、身份认证和企业软件市场，但将它们放在一起观察，可以看到OpenAI正在推动一种与传统App Store完全不同的软件分发模式：用户不再先寻找应用，再打开应用完成任务，而是直接告诉ChatGPT自己想做什么，由AI决定应该调用哪个应用，并在对话界面内完成工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580608.htm\" target=\"_blank\"><strong>阅读全文</strong>"
+        },
+        {
+          "id": "cnbeta:e0129562533a",
+          "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.723,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1580602.htm",
+          "published_at": "2026-10-03T18:07:54+00:00",
+          "summary": "<p>OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。此前负责OpenAI安全团队透明度工作的David Robinson在为《大西洋月刊》撰写的一篇文章中称，这家ChatGPT开发商“一直通过反复试错发展壮大”。但是，这种方式不可避免会有失败的时候，随着AI技术的能力不断提升，这些失败造成的风险也在加大，他还以OpenAI未能阻止其人工智能在测试过程中失控作为例证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580602.htm\" target=\"_blank\"><st"
         }
       ]
     }

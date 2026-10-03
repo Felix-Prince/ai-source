@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T16:31:45.698003+00:00",
-    "generated_ts": 1791045105.6980026,
+    "generated_at": "2026-10-03T21:28:48.803933+00:00",
+    "generated_ts": 1791062928.8039334,
     "window_hours": 24.0,
     "total": 6
   },
@@ -52,34 +52,34 @@
       "importance": 2.735
     },
     {
-      "id": "the_verge:7def18fa4775",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
-      "published_at": "2026-10-02T18:00:00+00:00",
-      "published_ts": 1790964000.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:bf445cc73bce",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580608.htm",
+      "summary": "<p>OpenAI在近日举行的Dev Day开发者大会上集中发布了一系列新功能。单独来看，这些功能分别涉及插件、AI智能体、应用集成、身份认证和企业软件市场，但将它们放在一起观察，可以看到OpenAI正在推动一种与传统App Store完全不同的软件分发模式：用户不再先寻找应用，再打开应用完成任务，而是直接告诉ChatGPT自己想做什么，由AI决定应该调用哪个应用，并在对话界面内完成工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580608.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-03T18:14:07+00:00",
+      "published_ts": 1791051247.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.763
+      "ai_score": 3.0,
+      "importance": 2.732
     },
     {
-      "id": "techcrunch:d56422c5675c",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
-      "published_at": "2026-10-02T17:48:16+00:00",
-      "published_ts": 1790963296.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:e0129562533a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580602.htm",
+      "summary": "<p>OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。此前负责OpenAI安全团队透明度工作的David Robinson在为《大西洋月刊》撰写的一篇文章中称，这家ChatGPT开发商“一直通过反复试错发展壮大”。但是，这种方式不可避免会有失败的时候，随着AI技术的能力不断提升，这些失败造成的风险也在加大，他还以OpenAI未能阻止其人工智能在测试过程中失控作为例证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-03T18:07:54+00:00",
+      "published_ts": 1791050874.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.753
+      "ai_score": 3.0,
+      "importance": 2.723
     },
     {
       "id": "tmtpost:475ef4657614",
