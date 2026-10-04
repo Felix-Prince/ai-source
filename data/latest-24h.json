@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T21:28:48.803933+00:00",
-    "generated_ts": 1791062928.8039334,
+    "generated_at": "2026-10-04T06:03:38.129845+00:00",
+    "generated_ts": 1791093818.1298447,
     "window_hours": 24.0,
     "total": 6
   },
@@ -82,19 +82,19 @@
       "importance": 2.723
     },
     {
-      "id": "tmtpost:475ef4657614",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "大模型一体机，开始缩水了",
-      "url": "https://www.tmtpost.com/8158443.html",
-      "summary": "大模型一体机市场，劈成了两半。",
-      "published_at": "2026-10-03T01:38:50+00:00",
-      "published_ts": 1790991530.0,
+      "id": "qbitai:4a53bf9bed56",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "summary": "专业3D模型反而更稀缺了",
+      "published_at": "2026-10-04T00:53:29+00:00",
+      "published_ts": 1791075209.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.49
+      "importance": 1.723
     }
   ]
 }
