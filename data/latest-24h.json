@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T06:03:38.129845+00:00",
-    "generated_ts": 1791093818.1298447,
+    "generated_at": "2026-10-04T12:35:21.410798+00:00",
+    "generated_ts": 1791117321.4107976,
     "window_hours": 24.0,
-    "total": 6
+    "total": 12
   },
   "items": [
     {
@@ -80,6 +80,96 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.723
+    },
+    {
+      "id": "cnbeta:149abc579f4c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
+      "url": "https://www.cnbeta.com.tw/articles/game/1580668.htm",
+      "summary": "<p>早在当前这波AI热潮兴起的数十年前，程序员们就已在《星际争霸》中让AI程序相互对战。随着OpenAI与Anthropic的新款大语言模型陆续推出，一个粉丝自制的对战平台决定让AI生成的程序同台竞技，还加入了部分人工开发的程序。有意思的是，OpenAI的GPT-6 Astra眼看不敌对手，居然在赛事中途改换策略，选择作弊。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580668.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-04T07:07:05+00:00",
+      "published_ts": 1791097625.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.562
+    },
+    {
+      "id": "cnbeta:3cff2604948a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI CEO萨姆·奥特曼称将宗教力量赋予AI同样会是安全问题",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580640.htm",
+      "summary": "<p>OpenAI首席执行官萨姆·奥特曼10月3日在社交平台发文称，他“非常不安于有人试图把宗教力量赋予AI模型，或让人放弃自己的判断”，并认为这是真正的安全问题。奥特曼没有在帖文中点名任何公司，但发言时间紧随一篇有关Anthropic与梵蒂冈讨论AI意识的报道，因此被部分媒体视为对Anthropic的间接批评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580640.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-04T06:30:51+00:00",
+      "published_ts": 1791095451.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.517
+    },
+    {
+      "id": "cnbeta:7e3957175dae",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "10月9日起Gemini免费用户仅可使用Flash-Lite模型 高阶模型均需开会员",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580616.htm",
+      "summary": "<p>Google正在调整 Gemini 应用的模型访问权限，根据Google官方文档所说，从 2026 年 10 月 9 日起，使用个人账号且未开通Google AI 订阅方案的用户，将只能使用 Gemini Flash-Lite 模型，其他模型例如 Gemini Flash 和 Gemini Pro 等模型不再面向免费版用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580616.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-04T06:10:15+00:00",
+      "published_ts": 1791094215.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.492
+    },
+    {
+      "id": "tmtpost:a8845c561282",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……",
+      "url": "https://www.tmtpost.com/8158700.html",
+      "summary": "（9月28日-10月3日）美国拟限制中国光模块进入国家安全系统；Manus将重新开拓中国市场；谷歌发布Gemini 4模型；Anthropic据悉计划在感恩节假期前进行大规模IPO； 博通筹集600亿美元，用于为Anthropic供应芯片……",
+      "published_at": "2026-10-04T03:16:19+00:00",
+      "published_ts": 1791083779.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.292
+    },
+    {
+      "id": "tmtpost:b68d023fd521",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
+      "url": "https://www.tmtpost.com/8158976.html",
+      "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。",
+      "published_at": "2026-10-04T08:32:03+00:00",
+      "published_ts": 1791102723.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.779
+    },
+    {
+      "id": "cnbeta:234d4d8e9602",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6 Astra盲打魔兽世界 40分钟刷穿新手村",
+      "url": "https://www.cnbeta.com.tw/articles/game/1580674.htm",
+      "summary": "<p>GPT-6 Astra打完了“魔兽世界”兽人新手村，40分钟，零死亡。关键是<strong>它没有看到过游戏画面，一帧都没看到</strong>。一个叫agent-wow的开源项目，把它接进了一台魔兽私服。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-04T08:16:18+00:00",
+      "published_ts": 1791101778.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.766
     },
     {
       "id": "qbitai:4a53bf9bed56",
