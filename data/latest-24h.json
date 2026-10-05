@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T05:55:32.272228+00:00",
-    "generated_ts": 1791179732.2722278,
+    "generated_at": "2026-10-05T14:59:30.279545+00:00",
+    "generated_ts": 1791212370.2795453,
     "window_hours": 24.0,
     "total": 10
   },
   "items": [
+    {
+      "id": "cnbeta:2a1e2ea7df76",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic、OpenAI、谷歌与Meta高管将出席纽约市议会AI风险听证会",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580816.htm",
+      "summary": "<p>在围绕高级 AI 模型风险展开长达一个月的激烈讨论之后，上述四家企业的高管将于周一出席纽约市议会听证会，就人工智能潜在危害宣誓作证。根据纽约市议会议长朱莉・梅宁发布的新闻稿，本次听证会为罕见的全体委员会听证会，预计市议会全部 51 名议员均会到场。议会将要求各家企业说明 AI 带来的威胁，并对拟议立法方案给出看法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580816.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-05T14:58:35+00:00",
+      "published_ts": 1791212315.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.999
+    },
     {
       "id": "cnbeta:662135b7cf32",
       "source": "cnbeta",
@@ -22,34 +37,34 @@
       "importance": 2.965
     },
     {
-      "id": "cnbeta:149abc579f4c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
-      "url": "https://www.cnbeta.com.tw/articles/game/1580668.htm",
-      "summary": "<p>早在当前这波AI热潮兴起的数十年前，程序员们就已在《星际争霸》中让AI程序相互对战。随着OpenAI与Anthropic的新款大语言模型陆续推出，一个粉丝自制的对战平台决定让AI生成的程序同台竞技，还加入了部分人工开发的程序。有意思的是，OpenAI的GPT-6 Astra眼看不敌对手，居然在赛事中途改换策略，选择作弊。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580668.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T07:07:05+00:00",
-      "published_ts": 1791097625.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.562
+      "id": "openai_blog:2e03222fba67",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "published_ts": 1791194400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.597
     },
     {
-      "id": "cnbeta:3cff2604948a",
+      "id": "cnbeta:6a95ea43aab6",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI CEO萨姆·奥特曼称将宗教力量赋予AI同样会是安全问题",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580640.htm",
-      "summary": "<p>OpenAI首席执行官萨姆·奥特曼10月3日在社交平台发文称，他“非常不安于有人试图把宗教力量赋予AI模型，或让人放弃自己的判断”，并认为这是真正的安全问题。奥特曼没有在帖文中点名任何公司，但发言时间紧随一篇有关Anthropic与梵蒂冈讨论AI意识的报道，因此被部分媒体视为对Anthropic的间接批评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580640.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T06:30:51+00:00",
-      "published_ts": 1791095451.0,
+      "title": "Anthropic请宗教学者“教Claude做人”：从AI安全一路走到机器意识争议",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580780.htm",
+      "summary": "<p>Anthropic过去一年一直在秘密邀请宗教学者、哲学家和伦理学者参与一系列闭门会议，试图把人类数千年来形成的道德传统用于Claude的训练，并讨论一个更具争议的问题：如果AI模型未来真的出现某种意识，人类是否需要给予它道德地位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580780.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-05T08:47:36+00:00",
+      "published_ts": 1791190056.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.517
+      "importance": 2.508
     },
     {
       "id": "the_verge:902874156c22",
@@ -65,21 +80,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.501
-    },
-    {
-      "id": "cnbeta:7e3957175dae",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "10月9日起Gemini免费用户仅可使用Flash-Lite模型 高阶模型均需开会员",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580616.htm",
-      "summary": "<p>Google正在调整 Gemini 应用的模型访问权限，根据Google官方文档所说，从 2026 年 10 月 9 日起，使用个人账号且未开通Google AI 订阅方案的用户，将只能使用 Gemini Flash-Lite 模型，其他模型例如 Gemini Flash 和 Gemini Pro 等模型不再面向免费版用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580616.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T06:10:15+00:00",
-      "published_ts": 1791094215.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.492
     },
     {
       "id": "cnbeta:72bc3cc1f28e",
@@ -112,49 +112,49 @@
       "importance": 1.979
     },
     {
-      "id": "tmtpost:b68d023fd521",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
-      "url": "https://www.tmtpost.com/8158976.html",
-      "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。",
-      "published_at": "2026-10-04T08:32:03+00:00",
-      "published_ts": 1791102723.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "the_verge:86181e1dc456",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
+      "published_at": "2026-10-05T13:09:48+00:00",
+      "published_ts": 1791205788.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.779
+      "importance": 1.897
     },
     {
-      "id": "cnbeta:234d4d8e9602",
+      "id": "cnbeta:c22de2fb2606",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "GPT-6 Astra盲打魔兽世界 40分钟刷穿新手村",
-      "url": "https://www.cnbeta.com.tw/articles/game/1580674.htm",
-      "summary": "<p>GPT-6 Astra打完了“魔兽世界”兽人新手村，40分钟，零死亡。关键是<strong>它没有看到过游戏画面，一帧都没看到</strong>。一个叫agent-wow的开源项目，把它接进了一台魔兽私服。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T08:16:18+00:00",
-      "published_ts": 1791101778.0,
+      "title": "OpenAI将在ChatGPT生成图片时测试视觉广告 不会影响生成结果",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580800.htm",
+      "summary": "<p>OpenAI宣布，将在ChatGPT中测试一种新的视觉广告形式。用户生成图片时，界面可能出现展示商品灵感、产品使用方式或服务体验的广告。OpenAI称，广告会明确标注，并与正在生成的图片分开，不会直接嵌入或改变用户创作的图像；公司也重申，广告不会影响ChatGPT给出的回答。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-05T10:48:51+00:00",
+      "published_ts": 1791197331.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.766
+      "importance": 1.773
     },
     {
-      "id": "cnbeta:a76d620aa85c",
+      "id": "cnbeta:22786b19e437",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "佛州女子把Claude当日记 Anthropic审核记录发现其遭遇枪击威胁后报警",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580684.htm",
-      "summary": "<p>美国佛罗里达州李县一名30岁女子因涉嫌以文字威胁暴力而被捕。警方称，邦尼塔斯普林斯居民卡莉·米歇尔·赫勒在Anthropic旗下聊天机器人Claude的对话中写下针对李县警长办公室的枪击威胁。Anthropic的安全系统标记相关内容，经人工审核后通知执法部门。赫勒告诉调查人员，她把Claude当作“日记”使用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580684.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T14:00:56+00:00",
-      "published_ts": 1791122456.0,
+      "title": "华为与高通达成多年期专利许可协议 覆盖5G、计算、人工智能及网络领域",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580772.htm",
+      "summary": "<p>10月5日，华为与高通宣布达成一项多年期、广泛的专利许可协议，涵盖5G、计算、人工智能（AI）及网络等多个技术领域。据《南华早报》报道，<strong>这是美国通信芯片巨头高通首次同意向华为付费许可并购买专利</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-05T08:10:00+00:00",
+      "published_ts": 1791187800.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.604
+      "importance": 1.642
     }
   ]
 }
