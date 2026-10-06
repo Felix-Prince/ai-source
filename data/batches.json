@@ -1,54 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T00:10:12.850720+00:00",
+    "generated_at": "2026-10-06T06:33:31.690367+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-06T04:50:15.718391+00:00",
-      "generated_ts": 1788670215.7183907,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:099ccce46b45",
-          "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.924,
-          "url": "https://www.tmtpost.com/8129268.html",
-          "published_at": "2026-09-06T03:57:09+00:00",
-          "summary": "OpenAI 高管称已完成通用人工智能（AGI）80% 的进程，预计 2026 年底前推出内部 AGI 系统。"
-        },
-        {
-          "id": "tmtpost:e2217610d2bd",
-          "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.917,
-          "url": "https://www.tmtpost.com/8129798.html",
-          "published_at": "2026-09-06T03:22:30+00:00",
-          "summary": "会刷题不算什么，能干活才真有用"
-        },
-        {
-          "id": "tmtpost:e6692cff97d2",
-          "title": "中国大模型简史02：一张突然值钱的船票",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.846,
-          "url": "https://www.tmtpost.com/8129912.html",
-          "published_at": "2026-09-06T02:03:50+00:00",
-          "summary": "一个骤然加速的时代，一群雕琢未来的人"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-06T11:07:06.043655+00:00",
       "generated_ts": 1788692826.043655,
@@ -7800,6 +7755,41 @@
           "url": "https://www.tmtpost.com/8159477.html",
           "published_at": "2026-10-05T07:32:07+00:00",
           "summary": "大模型从哪家强到哪家合适的转变。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-06T06:33:31.690367+00:00",
+      "generated_ts": 1791268411.6903667,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:c98a34ab23e8",
+          "title": "世界模型赛道：谁在收编，谁在突围？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.886,
+          "url": "https://www.tmtpost.com/8159876.html",
+          "published_at": "2026-10-06T04:31:56+00:00",
+          "summary": "芯片巨头们开抢模型"
+        },
+        {
+          "id": "tmtpost:090bc7a4bd4e",
+          "title": "卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.729,
+          "url": "https://www.tmtpost.com/8159557.html",
+          "published_at": "2026-10-06T01:31:00+00:00",
+          "summary": "四大科技巨头今年砸下7300亿美元建AI，直接收入却只有250亿，当股价与芯片股彻底脱钩、1.65万亿表外债务浮出水面，市场终于开始追问：花掉的钱，什么时候赚得回来？"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T00:10:12.850720+00:00",
-    "generated_ts": 1791245412.8507197,
+    "generated_at": "2026-10-06T06:33:31.690367+00:00",
+    "generated_ts": 1791268411.6903667,
     "window_hours": 24.0,
     "total": 17
   },
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.999
-    },
-    {
-      "id": "cnbeta:662135b7cf32",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic一直在积极游说梵蒂冈考虑人工智能意识",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580730.htm",
-      "summary": "<p>世界上没有哪家人工智能公司比Anthropic更痴迷于他们的模型可能具有意识的想法。据《纽约时报》的最新报道，几个月来，该公司一直在与世界各地的宗教学者举行秘密的、由美国国防部长保密的会议，以说服他们人工智能模型也会思考和感受。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580730.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-05T05:31:07+00:00",
-      "published_ts": 1791178267.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.965
     },
     {
       "id": "cnbeta:99cf16f3de3b",
@@ -97,21 +82,6 @@
       "importance": 2.508
     },
     {
-      "id": "cnbeta:93a0c2aaa060",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "彭博：DeepSeek新模型发力 中美顶尖AI跑分差距缩至3%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580732.htm",
-      "summary": "<p>据彭博社报道，彭博行业研究称，过去几个月，随着DeepSeek等中国AI实验室的模型不断进步，美国AI公司相对中国同行的性能领先优势急剧缩小，降至历史最低水平，这让美国的科技主导地位面临威胁。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-05T05:33:09+00:00",
-      "published_ts": 1791178389.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.979
-    },
-    {
       "id": "ars_technica:9de89256afbc",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -140,6 +110,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.897
+    },
+    {
+      "id": "tmtpost:c98a34ab23e8",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "世界模型赛道：谁在收编，谁在突围？",
+      "url": "https://www.tmtpost.com/8159876.html",
+      "summary": "芯片巨头们开抢模型",
+      "published_at": "2026-10-06T04:31:56+00:00",
+      "published_ts": 1791261116.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.886
     },
     {
       "id": "techcrunch:e6846dba1c19",
@@ -185,6 +170,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.747
+    },
+    {
+      "id": "tmtpost:090bc7a4bd4e",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链",
+      "url": "https://www.tmtpost.com/8159557.html",
+      "summary": "四大科技巨头今年砸下7300亿美元建AI，直接收入却只有250亿，当股价与芯片股彻底脱钩、1.65万亿表外债务浮出水面，市场终于开始追问：花掉的钱，什么时候赚得回来？",
+      "published_at": "2026-10-06T01:31:00+00:00",
+      "published_ts": 1791250260.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.729
     },
     {
       "id": "the_verge:2990768ca806",
