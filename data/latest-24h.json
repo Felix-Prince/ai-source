@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T14:59:30.279545+00:00",
-    "generated_ts": 1791212370.2795453,
+    "generated_at": "2026-10-06T00:10:12.850720+00:00",
+    "generated_ts": 1791245412.8507197,
     "window_hours": 24.0,
-    "total": 10
+    "total": 17
   },
   "items": [
     {
@@ -37,6 +37,21 @@
       "importance": 2.965
     },
     {
+      "id": "cnbeta:99cf16f3de3b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI将在欧盟为ChatGPT文本加入隐形水印 无需特殊字符 改写后可能失效",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1580828.htm",
+      "summary": "<p>OpenAI正在欧盟地区为ChatGPT和Codex生成的文本逐步加入隐形水印，以满足欧盟《人工智能法案》对AI生成内容可识别性的要求。OpenAI表示，这项名为textGrain的文本水印技术不会在文章中加入隐藏字符、不可见空格或特殊标点，而是通过调整模型生成文本时的词语选择方式，在整段文字中形成一种人眼无法直接察觉、但机器可以识别的统计特征。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-05T21:36:18+00:00",
+      "published_ts": 1791236178.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.786
+    },
+    {
       "id": "openai_blog:2e03222fba67",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -50,6 +65,21 @@
       "tier": 0,
       "ai_score": 2.0,
       "importance": 2.597
+    },
+    {
+      "id": "the_verge:a770ed796e80",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+      "published_at": "2026-10-05T18:08:39+00:00",
+      "published_ts": 1791223719.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.521
     },
     {
       "id": "cnbeta:6a95ea43aab6",
@@ -67,36 +97,6 @@
       "importance": 2.508
     },
     {
-      "id": "the_verge:902874156c22",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]",
-      "published_at": "2026-10-04T15:21:59+00:00",
-      "published_ts": 1791127319.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.501
-    },
-    {
-      "id": "cnbeta:72bc3cc1f28e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "萨姆·奥特曼称AI发展应容忍部分负面后果 但拒绝接受灾难性风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1580706.htm",
-      "summary": "<p>OpenAI首席执行官萨姆·奥特曼在接受Politico旗下Decoded采访时表示，人工智能带来的收益和公众使用技术的自主权，意味着社会应当接受发展过程中出现“某些坏事”。他称，OpenAI与竞争对手Anthropic在AI治理理念上仍存在明显分歧，主张对技术采取较轻的监管方式，并反对把最先进AI的开发权限制在硅谷少数机构手中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580706.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-04T22:18:33+00:00",
-      "published_ts": 1791152313.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.408
-    },
-    {
       "id": "cnbeta:93a0c2aaa060",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -110,6 +110,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.979
+    },
+    {
+      "id": "ars_technica:9de89256afbc",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "published_at": "2026-10-05T22:26:35+00:00",
+      "published_ts": 1791239195.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.903
     },
     {
       "id": "the_verge:86181e1dc456",
@@ -127,6 +142,21 @@
       "importance": 1.897
     },
     {
+      "id": "techcrunch:e6846dba1c19",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "published_at": "2026-10-05T20:36:48+00:00",
+      "published_ts": 1791232608.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.805
+    },
+    {
       "id": "cnbeta:c22de2fb2606",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -142,6 +172,36 @@
       "importance": 1.773
     },
     {
+      "id": "the_verge:fcdaf050fd9e",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+      "published_at": "2026-10-05T19:28:59+00:00",
+      "published_ts": 1791228539.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.747
+    },
+    {
+      "id": "the_verge:2990768ca806",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+      "published_at": "2026-10-05T19:05:19+00:00",
+      "published_ts": 1791227119.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.727
+    },
+    {
       "id": "cnbeta:22786b19e437",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -155,6 +215,51 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.642
+    },
+    {
+      "id": "the_verge:24404f483d1c",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
+      "published_at": "2026-10-05T16:55:42+00:00",
+      "published_ts": 1791219342.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.623
+    },
+    {
+      "id": "tmtpost:5634b8f6df59",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "快手的视频Agent，会不会来晚了？",
+      "url": "https://www.tmtpost.com/8159522.html",
+      "summary": "视频模型厂商，正集体从\"生成一段画面\"走向\"交付一部成片\"。",
+      "published_at": "2026-10-05T09:36:30+00:00",
+      "published_ts": 1791192990.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.313
+    },
+    {
+      "id": "tmtpost:586ea96585d6",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "硅谷AI，正在开源",
+      "url": "https://www.tmtpost.com/8159477.html",
+      "summary": "大模型从哪家强到哪家合适的转变。",
+      "published_at": "2026-10-05T07:32:07+00:00",
+      "published_ts": 1791185527.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.237
     }
   ]
 }
