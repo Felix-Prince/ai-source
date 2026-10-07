@@ -1,54 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T13:37:43.043129+00:00",
+    "generated_at": "2026-10-07T23:12:03.544754+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-07T21:36:28.265235+00:00",
-      "generated_ts": 1788816988.2652354,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:751305d75d67",
-          "title": "英国AI政策核心奠基人Matt Clifford因利益冲突争议从Anthropic离职",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.899,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576830.htm",
-          "published_at": "2026-09-07T19:49:14+00:00",
-          "summary": "<p style=\"white-space: normal;\">曾主导设计英国开创性人工智能监管框架的关键政策架构师Matt Clifford在加入前沿人工智能企业Anthropic不久后正式离职。引发这一突发人事变动的主要原因，是其迅速从政府核心监管角色转入受其政策深刻影响的顶级商业科技巨头，在英国政界及公共伦理监督领域引发了极其强烈的利益冲突担忧与舆论风暴。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576830.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:59d7fe4806de",
-          "title": "SK海力士加速先进1c DRAM量产布局 预计明年成为公司最大规模存储工艺",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.897,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576828.htm",
-          "published_at": "2026-09-07T19:46:17+00:00",
-          "summary": "<p>随着人工智能、高性能计算和下一代移动设备对先进内存需求持续增长，韩国存储芯片巨头SK海力士正加快向最新一代1c DRAM工艺转型。最新产业消息显示，公司正在大规模调整产能结构，计划将越来越多的DRAM产品迁移至第六代10纳米级1c工艺节点生产，并有望在未来数个季度内确立该工艺的主导地位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:30f4369b158b",
-          "title": "字节跳动新AI模型曝光：可实时生成空间视频 张一鸣亲自负责",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.633,
-          "url": "https://www.cnbeta.com.tw/articles/movie/1576798.htm",
-          "published_at": "2026-09-07T14:34:56+00:00",
-          "summary": "<p>据彭博社报道，字节跳动正准备推出一款面向实时空间视频生成的AI模型，在机器人和自主系统应用领域与Meta、Google母公司Alphabet展开竞争。据知情人士透露，字节跳动创始人张一鸣正在亲自监督这款新模型的开发工作，该模型最快将于下个月发布。知情人士称，张一鸣一直在协调公司旗下各业务部门的相关工作，并为这一项目调配AI资源和算力。该模型的发布时间尚不确定，计划可能会有所变动。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1576798.htm\" target=\"_blank\"><strong>阅读全文</strong><"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-08T04:52:04.084056+00:00",
       "generated_ts": 1788843124.0840561,
@@ -7830,6 +7785,151 @@
           "url": "https://www.qbitai.com/2026/10/501791.html",
           "published_at": "2026-10-07T06:39:36+00:00",
           "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-07T23:12:03.544754+00:00",
+      "generated_ts": 1791414723.544754,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:8f60f237b217",
+          "title": "ChatGPT迈向“可视化时代”：全新智能界面上线 交互式图表与工具融入对话",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.625,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581090.htm",
+          "published_at": "2026-10-07T18:34:31+00:00",
+          "summary": "<p>OpenAI宣布为ChatGPT推出全新的“Intelligent UI（智能界面）”，并随GPT-6模型一同向用户开放。这项更新将显著改变ChatGPT以文字为主的传统交互方式，在对话过程中引入大量可视化元素和交互组件，使用户能够通过图形、图表以及可操作工具获取信息和完成任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581090.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:47dfa4c3da71",
+          "title": "OpenAI称青少年平均每天使用ChatGPT不足15分钟 但安全风险担忧仍在升温",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.49,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581084.htm",
+          "published_at": "2026-10-07T16:45:11+00:00",
+          "summary": "<p>OpenAI公布了首份有关青少年使用ChatGPT情况的报告。数据显示，青少年用户平均每天使用ChatGPT的时间不足15分钟，连续使用超过3小时的用户比例不到2%。OpenAI希望以此说明，大多数青少年并没有长时间沉浸在聊天机器人中，但与此同时，围绕人工智能可能对未成年人心理健康和成长造成影响的担忧仍在持续升温。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581084.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d4fee65e7b57",
+          "title": "更多美国地方媒体起诉微软与OpenAI 指控数万篇新闻作品被用于AI训练",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.458,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581062.htm",
+          "published_at": "2026-10-07T16:18:18+00:00",
+          "summary": "<p>美国科技企业微软与OpenAI再次面临新的版权诉讼。以埃默里奇报业集团（Emmerich Newspapers）为首的多家地方新闻机构近日向法院提起诉讼，指控两家公司长期且系统性地未经授权使用其受版权保护的新闻内容训练人工智能模型，并在商业化过程中从中获利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581062.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:10ea9571d48e",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.879,
+          "url": "https://openai.com/index/radisson",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+        },
+        {
+          "id": "the_verge:7f2bb41b9c73",
+          "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.781,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+          "published_at": "2026-10-07T19:10:42+00:00",
+          "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, a"
+        },
+        {
+          "id": "cnbeta:2f5d93b961b4",
+          "title": "微软发布Surface RTX Spark Dev Box 面向AI开发者的小型工作站",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.751,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581094.htm",
+          "published_at": "2026-10-07T18:36:07+00:00",
+          "summary": "<p>微软正式推出全新AI开发设备Surface RTX Spark Dev Box，并已开放预订。这款产品定位于面向人工智能开发者、研究人员以及需要本地运行大型AI模型的专业用户，被视为微软围绕RTX Spark平台扩展生态的重要一步。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581094.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:b42451c1a993",
+          "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.747,
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+          "published_at": "2026-10-07T18:30:57+00:00",
+          "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+        },
+        {
+          "id": "cnbeta:937ba42f566a",
+          "title": "微软Surface Laptop Ultra开启预售：搭载RTX Spark 本地可运行1200亿参数AI模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.747,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581086.htm",
+          "published_at": "2026-10-07T18:30:30+00:00",
+          "summary": "<p>微软正式公布旗下新一代高性能笔记本Surface Laptop Ultra的更多产品细节，并宣布该设备已在美国市场开启预售，起售价为2599美元。作为微软迄今性能最强大的Surface笔记本产品，Surface Laptop Ultra围绕全新的NVIDIA RTX Spark平台打造，重点瞄准本地人工智能运算、高性能创作以及大型游戏应用场景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581086.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:a6583c6c26a1",
+          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.734,
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+          "published_at": "2026-10-07T18:15:28+00:00",
+          "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
+        },
+        {
+          "id": "techcrunch:a5bcf38a5806",
+          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.721,
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+          "published_at": "2026-10-07T18:00:19+00:00",
+          "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+        },
+        {
+          "id": "cnbeta:4055ea1af8d1",
+          "title": "传Anthropic拟与三星、Broadcom打造2纳米AI芯片 关键规格尚未获确认",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.654,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581070.htm",
+          "published_at": "2026-10-07T16:37:52+00:00",
+          "summary": "<p>Anthropic正推进定制AI加速器项目，计划由Broadcom负责芯片设计，再交由三星晶圆代工部门采用SF2 2纳米制程生产。传闻中的首批产量约为20万颗，规模相对有限；项目仍需配套网络、机柜、电源和冷却系统，Anthropic据称会先评估整套基础设施的可行性。Anthropic、三星和Broadcom均未公开确认这项代工安排或相关数字。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3429fe92113e",
+          "title": "日本图书批发商承认向Anthropic售书",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.607,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581040.htm",
+          "published_at": "2026-10-07T15:37:35+00:00",
+          "summary": "<p>据出版行业消息人士透露，日本一家大型图书批发商承认，已向美国人工智能企业Anthropic出售大量图书。日本出版贩卖株式会社母公司日贩集团控股，在回复日本书籍出版协会的信函中，近期确认了这笔交易。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581040.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d8b6ee9b3969",
+          "title": "马斯克称台积电不会运营Terafab人工智能芯片工厂综合体",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.604,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581038.htm",
+          "published_at": "2026-10-07T15:33:26+00:00",
+          "summary": "<p>Terafab是特斯拉与SpaceX计划落地于得克萨斯州的项目，目标是打造一座“巨型芯片工厂”，用于生产人工智能芯片。有网友在X平台发帖称，该工厂最有可能由台积电持有并运营。马斯克对此帖回复写道：“不会，工厂将由我们建造并运营。这一点毋庸置疑。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581038.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
