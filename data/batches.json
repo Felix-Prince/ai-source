@@ -1,134 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T06:19:48.914462+00:00",
+    "generated_at": "2026-10-08T13:46:00.601983+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-08T11:29:24.164915+00:00",
-      "generated_ts": 1788866964.1649148,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:4c62b5a8257a",
-          "title": "DeepSeek V4.1 Flash内测：采用新结构 原生多模态支持",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.9,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576944.htm",
-          "published_at": "2026-09-08T10:19:02+00:00",
-          "summary": "<p>9月8日，DeepSeek今日在官方交流群内发布通知，DeepSeek V4.1 Flash的中间版本内测。据介绍，模型采用了新的模型结构，原生多模态支持、能力更强、速度更快、且成本更低。模型的base_url不变，将模型名设置为deepseek-v4.1-flash-expires-on-0910即可调用。当前计费与deepseek-v4-flash相同，每账号限流20并发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576944.htm\" target=\"_blank\"><strong>阅读全文</strong></a"
-        },
-        {
-          "id": "cnbeta:b5c3107bc14f",
-          "title": "三星领投欧洲AI龙头Mistral 公司估值达240亿美元",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.898,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576940.htm",
-          "published_at": "2026-09-08T10:17:28+00:00",
-          "summary": "<p>在存储芯片巨头三星的领投下，Mistral完成 30 亿欧元全新一轮融资。这家法国 AI 初创企业希望打造欧洲本土 AI 力量，对标 OpenAI、Anthropic 等竞争对手。本轮投资还有 EQT 管理、欧盟支持的欧洲规模化基金，以及老股东 PSG Equity 参与。Mistral 称，本轮融资完成后，公司投后估值超过 210 亿欧元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:4d977c42525c",
-          "title": "大模型的Token生意，终究没绕过天猫",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.877,
-          "url": "https://www.tmtpost.com/8132584.html",
-          "published_at": "2026-09-08T10:02:28+00:00",
-          "summary": "模型能力被放上同一张价签。"
-        },
-        {
-          "id": "cnbeta:e8ed06e775ed",
-          "title": "黄仁勋：GPT-6 Astra 让AGI更近了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.722,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576930.htm",
-          "published_at": "2026-09-08T08:07:12+00:00",
-          "summary": "<p>英伟达首席执行官黄仁勋再次宣扬通用人工智能（AGI）的到来。他在OpenAI发布最新AI模型后表示：“AGI已经到来。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576930.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:c861c8a3a08c",
-          "title": "确定的智谱，不确定的MiniMax",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.918,
-          "url": "https://www.tmtpost.com/8131557.html",
-          "published_at": "2026-09-08T10:02:34+00:00",
-          "summary": "市值是模型在商业层面的延伸。"
-        },
-        {
-          "id": "tmtpost:62e88566faa9",
-          "title": "从AI PC到个人AI，联想敲定新赛道｜IFA 2026",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.915,
-          "url": "https://www.tmtpost.com/8132045.html",
-          "published_at": "2026-09-08T09:58:51+00:00",
-          "summary": "携手英伟达，联想将千亿参数大模型装进笔记本。"
-        },
-        {
-          "id": "cnbeta:8cc6f9a81dcd",
-          "title": "全球科技巨头考察阿根廷巴塔哥尼亚以兴建巨型数据中心",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.884,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576934.htm",
-          "published_at": "2026-09-08T09:25:45+00:00",
-          "summary": "<p>面对全球人工智能算力需求的激增以及在欧美多地遭遇的电网负荷与环保抵制阻力，全球科技巨头与超大规模数据中心投资者正将目光投向南美洲最南端的阿根廷巴塔哥尼亚地区。凭借寒冷干燥的气候、充沛的可再生风能、廉价的瓦卡穆埃尔塔页岩气资源以及广袤无垠的未开发荒漠土地，这片常年强风肆虐的高原正成为国际资本眼中的大型算力枢纽新高地。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576934.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:54e1dba65a52",
-          "title": "Anthropic 放弃 60 亿美元收购 Decart 交易",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.826,
-          "url": "https://www.tmtpost.com/8132095.html",
-          "published_at": "2026-09-08T08:20:00+00:00",
-          "summary": "这原本将是 Claude 规模最大的一笔收购，但 IPO 前的特殊阶段，正在抑制前沿 AI 并购热潮。"
-        },
-        {
-          "id": "cnbeta:6e51b99dc83d",
-          "title": "DeepSeek招150人，全部押注工程岗",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.732,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576912.htm",
-          "published_at": "2026-09-08T06:30:19+00:00",
-          "summary": "<p>DeepSeek的人才扩张还在继续，但枪口已经调转方向。9月8日，DeepSeek启动新一轮招聘，计划招募约150名工程师，岗位全部集中于服务端开发工程师与Agent弹性计算研发工程师两个方向，重点面向2至10年经验的资深后端工程师，未设AI研究类岗位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576912.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:12983432bbca",
-          "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.711,
-          "url": "https://www.qbitai.com/2026/09/485854.html",
-          "published_at": "2026-09-08T06:05:30+00:00",
-          "summary": "Blender也不用学了"
-        },
-        {
-          "id": "cnbeta:f155ab99dd05",
-          "title": "Arm发布新一代Neoverse CSS N4平台 单芯片最高128核",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.659,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576908.htm",
-          "published_at": "2026-09-08T05:00:42+00:00",
-          "summary": "<p>Arm正式推出新一代Neoverse CSS N4“Ranger”计算子系统平台，进一步强化其在云计算和人工智能基础设施市场的布局。作为Arm半定制芯片战略的重要组成部分，Neoverse CSS N4基于台积电N3P工艺打造，单颗芯片最高可集成128个Neoverse N4核心，成为目前Arm Neoverse家族中配置最灵活、规模最大的计算子系统之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576908.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-08T16:44:13.861089+00:00",
       "generated_ts": 1788885853.8610885,
@@ -8040,6 +7915,41 @@
           "url": "https://www.tmtpost.com/8160689.html",
           "published_at": "2026-10-08T01:51:00+00:00",
           "summary": "成本压下来之后，下一个阶段比什么？"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-08T13:46:00.601983+00:00",
+      "generated_ts": 1791467160.6019828,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:2ac911a5353b",
+          "title": "AI没有假期 我们刚开工，三巨头已经杀疯了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.425,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581188.htm",
+          "published_at": "2026-10-08T06:24:12+00:00",
+          "summary": "<p>国内7天长假刚结束开工，海外AI三巨头可没闲着，这两天可是疯狂输出……OpenAI推出“不更新，就重置”的28天计划，连续3天推出重磅更新。Anthropic上线Claude Haiku 5.5，补齐5.5系列最后一块拼图，价格对齐对手家的Luna，也开始送“福利”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581188.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:7a21503afc1d",
+          "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.901,
+          "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital."
         }
       ]
     }

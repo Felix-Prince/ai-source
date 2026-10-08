@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T06:19:48.914462+00:00",
-    "generated_ts": 1791440388.914462,
+    "generated_at": "2026-10-08T13:46:00.601983+00:00",
+    "generated_ts": 1791467160.6019828,
     "window_hours": 24.0,
-    "total": 32
+    "total": 29
   },
   "items": [
     {
@@ -187,6 +187,21 @@
       "importance": 2.451
     },
     {
+      "id": "cnbeta:2ac911a5353b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AI没有假期 我们刚开工，三巨头已经杀疯了",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581188.htm",
+      "summary": "<p>国内7天长假刚结束开工，海外AI三巨头可没闲着，这两天可是疯狂输出……OpenAI推出“不更新，就重置”的28天计划，连续3天推出重磅更新。Anthropic上线Claude Haiku 5.5，补齐5.5系列最后一块拼图，价格对齐对手家的Luna，也开始送“福利”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581188.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-08T06:24:12+00:00",
+      "published_ts": 1791440652.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.425
+    },
+    {
       "id": "cnbeta:2ec87099956c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -232,19 +247,19 @@
       "importance": 1.952
     },
     {
-      "id": "openai_blog:10ea9571d48e",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "published_ts": 1791356400.0,
+      "id": "techcrunch:7a21503afc1d",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "published_ts": 1791460800.0,
       "category": "international",
       "lang": "en",
-      "tier": 0,
+      "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.879
+      "importance": 1.901
     },
     {
       "id": "tmtpost:f83a61d95980",
@@ -277,21 +292,6 @@
       "importance": 1.802
     },
     {
-      "id": "tmtpost:d8927cbc704f",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "谁在捧杀Utopai X？",
-      "url": "https://www.tmtpost.com/8160338.html",
-      "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
-      "published_at": "2026-10-07T09:42:07+00:00",
-      "published_ts": 1791366127.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.786
-    },
-    {
       "id": "the_verge:7f2bb41b9c73",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -305,21 +305,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.781
-    },
-    {
-      "id": "cnbeta:5b87097b53ff",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "​OpenAI青少年版ChatGPT遭质疑：Common Sense Media称其存在“不可接受的风险”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581028.htm",
-      "summary": "<p>OpenAI面向青少年推出的ChatGPT版本刚刚上线不久，就遭到了儿童与青少年数字安全机构的严厉质疑。当地时间10月7日，非营利组织Common Sense Media发布评估报告，认为OpenAI推出的ChatGPT for Teens存在“不可接受的风险”，其针对未成年人的安全保护措施没有达到公司此前承诺的水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581028.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-07T09:14:27+00:00",
-      "published_ts": 1791364467.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.762
     },
     {
       "id": "tmtpost:569bf038c6b4",
@@ -350,21 +335,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.751
-    },
-    {
-      "id": "the_verge:96d772f94c8e",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "published_ts": 1791363600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.75
     },
     {
       "id": "cnbeta:937ba42f566a",
@@ -440,21 +410,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.654
-    },
-    {
-      "id": "qbitai:6211df7bbebf",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "url": "https://www.qbitai.com/2026/10/501791.html",
-      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-      "published_at": "2026-10-07T06:39:36+00:00",
-      "published_ts": 1791355176.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.635
     },
     {
       "id": "cnbeta:3429fe92113e",
