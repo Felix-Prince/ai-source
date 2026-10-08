@@ -1,64 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T23:12:03.544754+00:00",
+    "generated_at": "2026-10-08T06:19:48.914462+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-08T04:52:04.084056+00:00",
-      "generated_ts": 1788843124.0840561,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:c37a21a2c326",
-          "title": "联发科官宣天玑旗舰芯片首款Pro版本 定档9月15日发布",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.993,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576884.htm",
-          "published_at": "2026-09-08T04:45:17+00:00",
-          "summary": "<p>9月8日，联发科技官方微博宣布，天玑旗舰芯片系列将迎来首款Pro版本，并于9月15日正式发布。预热信息显示，该芯片将在能效、游戏、影像三大维度实现Pro级升级：能效方面采用DTCO（设计-技术协同优化）制程深度共研并重构芯片架构；游戏方面带来AI深度融合的GPU图形渲染技术与星速引擎全面进化；影像方面宣称重塑Android视频拍摄体验，支持4K 240fps超高速慢动作及专业创作玩法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576884.htm\" target=\"_blank\"><strong>阅读全文</strong"
-        },
-        {
-          "id": "cnbeta:d1bc6440d911",
-          "title": "华为Mate XT2亮出全自研核心芯片 日媒称已摆脱美国限制",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.986,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576872.htm",
-          "published_at": "2026-09-08T04:37:44+00:00",
-          "summary": "<p>据《日经亚洲》报道，华为正式发布最新三折叠屏手机Mate XT2。新机搭载自研麒麟9050 Pro芯片，其CPU、GPU、NPU和通信基带均由华为开发。外媒据此称，这是华为首款采用“不受美国供应限制”核心芯片的三折叠屏手机。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576872.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:ddc5390dbe67",
-          "title": "Chinese Tech Giants Race to Monetize AI Office Agents After Free-Usage Era",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.878,
-          "url": "https://www.tmtpost.com/8132164.html",
-          "published_at": "2026-09-08T02:41:03+00:00",
-          "summary": "ByteDance, Alibaba, Tencent and Baidu have launched or expanded AI productivity agents in mid-2026, shifting from free consumer chatbots toward paid office workflows. Differing strategies—subscriptions, transaction embedding, desktop agents and product matrices—reflect the shared challenge of conver"
-        },
-        {
-          "id": "qbitai:9fe611b849a0",
-          "title": "王云鹤创业后交出首个模型",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.854,
-          "url": "https://www.qbitai.com/2026/09/485555.html",
-          "published_at": "2026-09-08T02:14:47+00:00",
-          "summary": "把多模型执行经验用到了模型训练"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-08T11:29:24.164915+00:00",
       "generated_ts": 1788866964.1649148,
@@ -7930,6 +7875,171 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1581038.htm",
           "published_at": "2026-10-07T15:33:26+00:00",
           "summary": "<p>Terafab是特斯拉与SpaceX计划落地于得克萨斯州的项目，目标是打造一座“巨型芯片工厂”，用于生产人工智能芯片。有网友在X平台发帖称，该工厂最有可能由台积电持有并运营。马斯克对此帖回复写道：“不会，工厂将由我们建造并运营。这一点毋庸置疑。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581038.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-08T06:19:48.914462+00:00",
+      "generated_ts": 1791440388.914462,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:c30a8ca83254",
+          "title": "DeepSeek被曝拟融资超800亿元 OpenAI立下连更28天承诺",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.958,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581166.htm",
+          "published_at": "2026-10-08T05:50:11+00:00",
+          "summary": "<p>国庆假期，国内AI公司的几笔大动作接连曝光：DeepSeek新一轮融资规模据称将超过800亿元，Kimi母公司月之暗面被曝完成新一轮融资，估值约500亿美元。腾讯则被曝签下约70亿美元的海外算力租约。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5cbc339df40b",
+          "title": "不满Mistral表现 德国搜索引擎Ecosia押注中国开源大模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.916,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581134.htm",
+          "published_at": "2026-10-08T05:20:42+00:00",
+          "summary": "<p>德国搜索引擎和浏览器运营商Ecosia宣布调整其人工智能战略，结束与法国AI企业Mistral的合作关系，转而采用包括中国开源模型在内的多种开源人工智能解决方案。这一决定引发欧洲科技界关注，因为Ecosia此前曾将Mistral视为摆脱美国科技巨头依赖的重要合作伙伴。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581134.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:048175162d2a",
+          "title": "OpenAI在AI价格战中扩大领先优势 行业竞争迈入盈利能力考验阶段",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.909,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581130.htm",
+          "published_at": "2026-10-08T05:15:44+00:00",
+          "summary": "<p>随着生成式人工智能市场竞争持续升温，全球主要AI企业之间的新一轮价格战正在展开。其中，OpenAI正逐步扩大对竞争对手Anthropic的领先优势，而两家公司也都面临来自资本市场的共同压力，即证明自身业务具备可持续盈利能力，并为未来可能进行的首次公开募股（IPO）做好准备。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581130.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:fc8d8928a3b6",
+          "title": "Anthropic发布Claude Haiku 5.5：价格大幅下调 但新分词器会消耗更多Token",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.856,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581110.htm",
+          "published_at": "2026-10-08T04:37:59+00:00",
+          "summary": "<p>Anthropic正式发布Claude Haiku 5.5，这是Claude 5.5系列的第三款模型，也是继Claude Haiku 4.5近一年之后推出的新一代Haiku模型。Anthropic将其定位为面向高并发、低延迟和成本敏感型任务的轻量级模型，并通过大幅降低API价格，让Haiku 5.5直接进入当前低成本AI模型的竞争行列。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581110.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:2852fc6037ec",
+          "title": "数据中心，正在拆掉Token时代的旧围墙",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.829,
+          "url": "https://www.tmtpost.com/8160868.html",
+          "published_at": "2026-10-08T04:17:36+00:00",
+          "summary": "AI算力竞争开始告别堆硬件，从比拼训练爆发力转向Token产出效率。"
+        },
+        {
+          "id": "qbitai:a9b97b68814f",
+          "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.667,
+          "url": "https://www.qbitai.com/2026/10/501915.html",
+          "published_at": "2026-10-08T02:15:37+00:00",
+          "summary": ""
+        },
+        {
+          "id": "tmtpost:77b51c2a1b22",
+          "title": "Haiku 5.5发布，Anthropic开始撒钱",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.609,
+          "url": "https://www.tmtpost.com/8160574.html",
+          "published_at": "2026-10-08T01:29:52+00:00",
+          "summary": "模型砍到一折，API额度直接白送。"
+        },
+        {
+          "id": "qbitai:568697e18591",
+          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.577,
+          "url": "https://www.qbitai.com/2026/10/501832.html",
+          "published_at": "2026-10-08T01:04:00+00:00",
+          "summary": "小模型新守门员"
+        },
+        {
+          "id": "tmtpost:6d840badbc1a",
+          "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.451,
+          "url": "https://www.tmtpost.com/8160058.html",
+          "published_at": "2026-10-07T23:20:00+00:00",
+          "summary": "GLM-5.3上架Amazon，智谱打开海外收入分成通道；华为与高通宣布达成广泛专利许可协议；抖音7.5亿收购案终止；英伟达宣布将推出DGX SPARK 64GB，可在本地运行最高1000亿参数AI模型；软银完成对OpenAI追加投资最后一笔100亿美元，累计投资达646亿美元；国家税务总局发布全国统一的税务行政处罚裁量基准；中国推进7项天然气国际标准成功立项；财政部部长蓝佛安：要研究制定针对性强的增量政策，更加注重扩大国内有效需求；国庆假期后首个交易日，20只基金将集中开启认购；月之暗面据悉即将完成IPO前融资，估值将达500亿美元；Anthropic据悉计划在感恩节假期前进行大规模IPO；"
+        },
+        {
+          "id": "cnbeta:2ec87099956c",
+          "title": "三星电子利润再创新高 AI热潮带来持续旺盛的芯片需求",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.97,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581162.htm",
+          "published_at": "2026-10-08T05:48:41+00:00",
+          "summary": "<p>三星电子利润再创新高，得益于内存芯片价格上涨以及全球对人工智能（AI）基础设施的持续投入。截至9月的三个月，该公司营业利润攀升至约107.4万亿韩元（801亿美元），是去年同期的八倍多。分析师此前平均预测的营业利润为108.7万亿韩元。周四公布的初步数据显示，当季营收195万亿韩元，低于预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581162.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0ebfa06d9d1b",
+          "title": "微软重申Copilot+ PC战略未终结 年出货量达数千万台 将成为“混合智能”核心平台",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.955,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581144.htm",
+          "published_at": "2026-10-08T05:32:50+00:00",
+          "summary": "<p>过去一年，随着微软逐步淡化Copilot品牌在Windows产品中的存在感，外界一度猜测Copilot+ PC战略可能已经失去重要地位。尤其是在今年6月首次公布Surface Laptop Ultra，以及随后发布搭载Snapdragon X2 Plus芯片的Surface Pro和Surface Laptop新品时，微软几乎没有主动强调Copilot+ PC品牌，这进一步加深了市场的相关猜测。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581144.htm\" target=\"_blank\"><strong>阅读全文</s"
+        },
+        {
+          "id": "cnbeta:279d47561a56",
+          "title": "微软宣称Surface Laptop Ultra最高快苹果6.2倍 但对比重点仅限AI任务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.952,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581142.htm",
+          "published_at": "2026-10-08T05:29:43+00:00",
+          "summary": "<p>微软在最新Windows活动上正式发布Surface Laptop Ultra，并借此机会将新产品与苹果最新搭载M5 Pro芯片的MacBook Pro进行了直接对比。不过，微软给出的“最高快6.2倍”性能宣传主要集中在人工智能工作负载，而并未展示双方在传统计算任务中的正面较量。&nbsp;</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:f83a61d95980",
+          "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.838,
+          "url": "https://www.tmtpost.com/8160841.html",
+          "published_at": "2026-10-08T03:24:52+00:00",
+          "summary": "这个行业究竟在卖什么？"
+        },
+        {
+          "id": "tmtpost:67a164e90be4",
+          "title": "90后站上C位：姚顺雨、罗福莉、刘大一恒、陈宇森、周畅们接管国产大模型",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.802,
+          "url": "https://www.tmtpost.com/8160735.html",
+          "published_at": "2026-10-08T02:43:42+00:00",
+          "summary": "国产大模型迎来90后接管时代。"
+        },
+        {
+          "id": "tmtpost:569bf038c6b4",
+          "title": "GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.757,
+          "url": "https://www.tmtpost.com/8160689.html",
+          "published_at": "2026-10-08T01:51:00+00:00",
+          "summary": "成本压下来之后，下一个阶段比什么？"
         }
       ]
     }
