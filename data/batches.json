@@ -1,149 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T13:46:00.601983+00:00",
+    "generated_at": "2026-10-08T23:27:15.022569+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-08T16:44:13.861089+00:00",
-      "generated_ts": 1788885853.8610885,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:19298139b79e",
-          "title": "Adobe大幅升级Premiere Pro AI工具 让视频生成从“写提示词”变成“直接剪片”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.711,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576984.htm",
-          "published_at": "2026-09-08T13:14:02+00:00",
-          "summary": "<p>Adobe近日公布新一轮视频创作工具更新，其核心目标并非单纯提升AI生成质量，而是让人工智能功能更自然地融入专业剪辑流程之中。公司希望将原本复杂的提示词操作、模型选择和参数调整隐藏在幕后，使视频编辑人员能够像使用传统剪辑工具一样使用生成式AI。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a923991d3773",
-          "title": "Google发布AlphaGenome Atlas 用AI预测人类基因组全部单碱基突变影响",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.989,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577008.htm",
-          "published_at": "2026-09-08T16:33:12+00:00",
-          "summary": "<p>Google DeepMind 于今日(2026年9月8日)宣布推出全新数据库&quot;AlphaGenome Atlas&quot;，该数据库利用人工智能模型对人类基因组中每一种可能发生的单核苷酸变异所产生的影响进行了预测，被称为迄今为止关于基因突变如何影响分子生物学的最全面目录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577008.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f9c506ffdc51",
-          "title": "高通宣布与亚马逊AWS 建立数据中心基础设施合作伙伴关系",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.982,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577002.htm",
-          "published_at": "2026-09-08T16:25:48+00:00",
-          "summary": "<p>高通股价周二上涨4%，此前该公司宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系。这家芯片制造商试图在人工智能市场挑战英伟达，此举是一次重大胜利。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "openai_blog:08c72474410d",
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.85,
-          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "published_at": "2026-09-08T00:00:00+00:00",
-          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
-        },
-        {
-          "id": "cnbeta:acfaa9dcaa08",
-          "title": "NVIDIA或为RTX 5070引入全新核心版本 GB203芯片有望下放至主流市场",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.741,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1576954.htm",
-          "published_at": "2026-09-08T11:56:24+00:00",
-          "summary": "<p>英伟达正在为GeForce RTX 5070准备一个新的硬件版本。与目前采用GB205核心的标准型号不同，新版本可能改用面积更大、定位更高的GB203图形核心。这意味着RTX 5070未来可能出现两种不同GPU版本并行销售的情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1576954.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-08T21:16:10.865335+00:00",
-      "generated_ts": 1788902170.8653347,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "techcrunch:0539d968644e",
-          "title": "Hackers are stealing Claude tokens from subscribers",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.992,
-          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-          "published_at": "2026-09-08T21:10:27+00:00",
-          "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
-        },
-        {
-          "id": "cnbeta:ff4347264e5e",
-          "title": "OpenAI未发布内部AI模型据称攻克纳维-斯托克斯方程难题",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.824,
-          "url": "https://www.cnbeta.com.tw/articles/science/1577024.htm",
-          "published_at": "2026-09-08T19:10:21+00:00",
-          "summary": "<p>OpenAI未发布内部AI模型据称攻克纳维–斯托克斯方程难题，相关结果已由机器验证。报道还称，该公司动用了约1万个并发自主代理完成推理与形式化验证，但这项成果目前仍未被克雷数学研究所正式认定为千禧年大奖难题的已解答案。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577024.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "openai_blog:46c006ca8d59",
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.652,
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "published_at": "2026-09-08T17:00:00+00:00",
-          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-        },
-        {
-          "id": "cnbeta:13d6369ffe3f",
-          "title": "OpenAI推出ChatGPT Images 2.5 新增草图生图功能",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.953,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577032.htm",
-          "published_at": "2026-09-08T20:26:41+00:00",
-          "summary": "<p>OpenAI 推出 ChatGPT Images 2.5，并新增 Sketch 功能，允许用户先在聊天框里画草图，再让系统根据草图生成更细致的图像。OpenAI 于周二宣布更新 ChatGPT 的图像生成工具，核心变化是加入名为 Sketch 的新方式，让用户可以直接在 ChatGPT 内部绘制涂鸦，再说明希望它把这张草图变成什么样的图片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:3a7d99f7ce07",
-          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.943,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-          "published_at": "2026-09-08T20:16:09+00:00",
-          "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]"
-        },
-        {
-          "id": "cnbeta:23eedf196f88",
-          "title": "全球PC出货量下滑 厂商却靠更昂贵的AI电脑赚得更多",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.768,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577014.htm",
-          "published_at": "2026-09-08T17:00:10+00:00",
-          "summary": "<p>全球个人电脑市场正在出现一种看似矛盾的现象：电脑出货量开始下降，但主要厂商的收入却在增长。推动这一变化的关键因素，是人工智能基础设施建设引发的内存芯片短缺，以及由此带来的整机价格上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577014.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-09T04:53:46.821822+00:00",
       "generated_ts": 1788929626.8218217,
@@ -7950,6 +7810,91 @@
           "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
           "published_at": "2026-10-08T12:00:00+00:00",
           "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-08T23:27:15.022569+00:00",
+      "generated_ts": 1791502035.022569,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:96d0421a234c",
+          "title": "USA Today母公司起诉OpenAI索赔超2.5亿美元 指控其未经许可使用新闻",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.572,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581270.htm",
+          "published_at": "2026-10-08T18:07:44+00:00",
+          "summary": "<p>美国媒体集团今日美国（USA Today）及其多家关联报刊所属公司已向纽约联邦法院提起诉讼，指控人工智能公司OpenAI在未经授权的情况下，大规模使用其受版权保护的新闻报道训练和运营生成式人工智能模型，并通过ChatGPT等产品重新呈现和传播这些内容。原告要求获得超过2.5亿美元赔偿，并寻求法院采取进一步措施限制相关模型的使用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581270.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4298e3d8761a",
+          "title": "Google发布Gemini Agent 从聊天助手迈向“数字员工”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.331,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581256.htm",
+          "published_at": "2026-10-08T14:43:07+00:00",
+          "summary": "<p>Google在“Gemini at Work 2026”活动上正式推出全新的Gemini Agent，并将其定义为面向企业用户的“通用工作代理”。与传统AI聊天机器人主要负责回答问题不同，Gemini Agent被设计为能够自主规划任务、调用工具、连接企业系统并直接交付成果的智能代理，标志着Google正试图将人工智能从辅助工具升级为能够承担实际工作的数字员工。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581256.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:40eb00d9c78b",
+          "title": "Google推出本地优先AI会议助手 直接挑战Granola笔记应用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.273,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581246.htm",
+          "published_at": "2026-10-08T13:50:47+00:00",
+          "summary": "<p>Google进一步扩大本地人工智能产品布局。继今年4月推出基于本地模型运行的AI语音记录工具后，Google团队最新发布了一款名为Google AI Edge Foresight的新应用，正式进军竞争激烈的AI会议记录市场，并将目标直指近年来迅速走红的会议笔记工具Granola。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:f3d61d96aab3",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.155,
+          "url": "https://openai.com/index/pollo-ai",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+        },
+        {
+          "id": "techcrunch:324cc55f6807",
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.725,
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "published_at": "2026-10-08T18:20:32+00:00",
+          "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+        },
+        {
+          "id": "techcrunch:17350866d743",
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.723,
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "published_at": "2026-10-08T18:18:00+00:00",
+          "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+        },
+        {
+          "id": "techcrunch:97126b604776",
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.722,
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "published_at": "2026-10-08T18:16:24+00:00",
+          "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
         }
       ]
     }
