@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T13:33:20.760476+00:00",
-    "generated_ts": 1791552800.760476,
+    "generated_at": "2026-10-09T22:45:13.397753+00:00",
+    "generated_ts": 1791585913.397753,
     "window_hours": 24.0,
     "total": 19
   },
@@ -37,21 +37,6 @@
       "importance": 2.666
     },
     {
-      "id": "cnbeta:96d0421a234c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "USA Today母公司起诉OpenAI索赔超2.5亿美元 指控其未经许可使用新闻",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581270.htm",
-      "summary": "<p>美国媒体集团今日美国（USA Today）及其多家关联报刊所属公司已向纽约联邦法院提起诉讼，指控人工智能公司OpenAI在未经授权的情况下，大规模使用其受版权保护的新闻报道训练和运营生成式人工智能模型，并通过ChatGPT等产品重新呈现和传播这些内容。原告要求获得超过2.5亿美元赔偿，并寻求法院采取进一步措施限制相关模型的使用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581270.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-08T18:07:44+00:00",
-      "published_ts": 1791482864.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.572
-    },
-    {
       "id": "qbitai:6b4fe1f65595",
       "source": "qbitai",
       "source_label": "量子位",
@@ -67,36 +52,6 @@
       "importance": 2.517
     },
     {
-      "id": "cnbeta:4298e3d8761a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Gemini Agent 从聊天助手迈向“数字员工”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581256.htm",
-      "summary": "<p>Google在“Gemini at Work 2026”活动上正式推出全新的Gemini Agent，并将其定义为面向企业用户的“通用工作代理”。与传统AI聊天机器人主要负责回答问题不同，Gemini Agent被设计为能够自主规划任务、调用工具、连接企业系统并直接交付成果的智能代理，标志着Google正试图将人工智能从辅助工具升级为能够承担实际工作的数字员工。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581256.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-08T14:43:07+00:00",
-      "published_ts": 1791470587.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.331
-    },
-    {
-      "id": "cnbeta:40eb00d9c78b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google推出本地优先AI会议助手 直接挑战Granola笔记应用",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581246.htm",
-      "summary": "<p>Google进一步扩大本地人工智能产品布局。继今年4月推出基于本地模型运行的AI语音记录工具后，Google团队最新发布了一款名为Google AI Edge Foresight的新应用，正式进军竞争激烈的AI会议记录市场，并将目标直指近年来迅速走红的会议笔记工具Granola。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-08T13:50:47+00:00",
-      "published_ts": 1791467447.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.273
-    },
-    {
       "id": "cnbeta:3f28cd6e22ce",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -110,6 +65,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.96
+    },
+    {
+      "id": "techcrunch:1bafea2579eb",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "published_at": "2026-10-09T21:41:29+00:00",
+      "published_ts": 1791582089.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.94
     },
     {
       "id": "cnbeta:2e2bac3f206f",
@@ -157,6 +127,21 @@
       "importance": 1.921
     },
     {
+      "id": "the_verge:e6eb84b7ba6c",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+      "published_at": "2026-10-09T21:15:38+00:00",
+      "published_ts": 1791580538.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.916
+    },
+    {
       "id": "cnbeta:0b2c4094d868",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -170,6 +155,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.91
+    },
+    {
+      "id": "openai_blog:10e7b1aed9d9",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "published_ts": 1791529200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 1.903
+    },
+    {
+      "id": "techcrunch:7c3f9129a7a9",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "published_at": "2026-10-09T19:36:56+00:00",
+      "published_ts": 1791574616.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.827
     },
     {
       "id": "qbitai:3df2747ab3a6",
@@ -202,6 +217,21 @@
       "importance": 1.775
     },
     {
+      "id": "cnbeta:9ba97a490880",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "尼康显微摄影比赛冠军因使用AI被取消资格 研究人员承认借助神经网络处理图像",
+      "url": "https://www.cnbeta.com.tw/articles/movie/1581438.htm",
+      "summary": "<p>尼康近日取消了原本获得其 Small World in Motion 显微摄影竞赛第一名的作品的获奖资格，原因是该作品不符合比赛关于生成式人工智能使用的规定。随着作品真实性受到越来越多质疑，尼康对参赛视频展开审查，最终决定撤销其冠军头衔，并调整了比赛排名。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1581438.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-09T18:28:32+00:00",
+      "published_ts": 1791570512.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.768
+    },
+    {
       "id": "qbitai:04a5a8e9bd0e",
       "source": "qbitai",
       "source_label": "量子位",
@@ -215,51 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.767
-    },
-    {
-      "id": "techcrunch:324cc55f6807",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "published_at": "2026-10-08T18:20:32+00:00",
-      "published_ts": 1791483632.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.725
-    },
-    {
-      "id": "techcrunch:17350866d743",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "published_at": "2026-10-08T18:18:00+00:00",
-      "published_ts": 1791483480.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.723
-    },
-    {
-      "id": "techcrunch:97126b604776",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "published_at": "2026-10-08T18:16:24+00:00",
-      "published_ts": 1791483384.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.722
     },
     {
       "id": "cnbeta:fa013eee6de1",
@@ -290,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.665
+    },
+    {
+      "id": "cnbeta:df3596d08893",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581424.htm",
+      "summary": "<p>韩国GF证券分析师Jeff Pu认为，英伟达或将在2028年下半年采用Foveros封装技术。该消息仍需审慎看待：目前尚未公布任何相关合同或具体产品。该推测与DigiTimes今年1月的一则早期爆料相呼应。当时报道提及，英伟达未来Feynman系列GPU的配套组件或采用英特尔18A或14A工艺，而GPU主体芯片的生产仍将交由台积电先进制程完成。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581424.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-09T15:31:26+00:00",
+      "published_ts": 1791559886.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.623
     }
   ]
 }
