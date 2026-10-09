@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T06:21:40.694604+00:00",
-    "generated_ts": 1791526900.6946037,
+    "generated_at": "2026-10-09T13:33:20.760476+00:00",
+    "generated_ts": 1791552800.760476,
     "window_hours": 24.0,
-    "total": 18
+    "total": 19
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.792
+    },
+    {
+      "id": "cnbeta:a53f903b881a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581408.htm",
+      "summary": "<p>据三位了解该交易的知情人士透露，英伟达计划投资 d‑Matrix。这家成立 7 年的企业主打面向人工智能的服务器芯片研发，产品目标就是与英伟达展开竞争。这笔拟议投资，是英伟达推进的一项举措：推动自家技术与竞品芯片设计商实现兼容，把对手纳入自己占据主导地位的硬件生态，即便当下英伟达在 AI 推理芯片市场的份额还在持续走高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-09T09:27:50+00:00",
+      "published_ts": 1791538070.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.666
     },
     {
       "id": "cnbeta:96d0421a234c",
@@ -52,21 +67,6 @@
       "importance": 2.517
     },
     {
-      "id": "cnbeta:2ac911a5353b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI没有假期 我们刚开工，三巨头已经杀疯了",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581188.htm",
-      "summary": "<p>国内7天长假刚结束开工，海外AI三巨头可没闲着，这两天可是疯狂输出……OpenAI推出“不更新，就重置”的28天计划，连续3天推出重磅更新。Anthropic上线Claude Haiku 5.5，补齐5.5系列最后一块拼图，价格对齐对手家的Luna，也开始送“福利”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581188.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-08T06:24:12+00:00",
-      "published_ts": 1791440652.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.425
-    },
-    {
       "id": "cnbeta:4298e3d8761a",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,21 +95,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.273
-    },
-    {
-      "id": "openai_blog:f3d61d96aab3",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "published_ts": 1791460800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.155
     },
     {
       "id": "cnbeta:3f28cd6e22ce",
@@ -187,21 +172,6 @@
       "importance": 1.91
     },
     {
-      "id": "techcrunch:7a21503afc1d",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "published_ts": 1791460800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.901
-    },
-    {
       "id": "qbitai:3df2747ab3a6",
       "source": "qbitai",
       "source_label": "量子位",
@@ -215,6 +185,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.795
+    },
+    {
+      "id": "cnbeta:f943f24c8005",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI解雇了三名从事人工智能安全研究的员工",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581404.htm",
+      "summary": "<p>OpenAI近日解雇了三名从事人工智能安全研究的员工，事件迅速引发外界对公司内部安全文化以及员工能否自由提出风险警告的关注。三名研究人员认为，他们的离职可能与长期提出AI安全担忧、以及同外部安全机构合作有关，并警告称，这一事件可能让仍在公司工作的研究人员不敢继续公开讨论潜在风险。OpenAI则坚称，解雇决定与员工提出安全问题无关，而是因为内部调查发现他们违反了公司关于访问和处理敏感信息的规定。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581404.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-09T09:25:02+00:00",
+      "published_ts": 1791537902.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.775
     },
     {
       "id": "qbitai:04a5a8e9bd0e",
@@ -275,6 +260,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.722
+    },
+    {
+      "id": "cnbeta:fa013eee6de1",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI预计年底年化收入达到700亿美元 9月底仅500亿美元的消息一度引发美股科技股抛售",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581390.htm",
+      "summary": "<p>OpenAI预计，到2026年底，其年化收入将达到或超过700亿美元，增长主要由企业业务推动。此前数小时，有消息称OpenAI截至9月底的年化收入约为500亿美元，明显低于此前市场获悉的700亿美元目标，一度引发投资者对人工智能巨额投资回报的担忧，拖累美股尤其是科技股大幅下跌。最新消息显示，OpenAI仍有望实现此前向投资者传达的收入目标，带动纳斯达克100指数期货反弹约0.5%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581390.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-09T07:49:07+00:00",
+      "published_ts": 1791532147.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.695
+    },
+    {
+      "id": "qbitai:abe69588ea4a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "summary": "答不答得对，得看Token站位",
+      "published_at": "2026-10-09T07:11:55+00:00",
+      "published_ts": 1791529915.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.665
     }
   ]
 }
