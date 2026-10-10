@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T22:45:13.397753+00:00",
-    "generated_ts": 1791585913.397753,
+    "generated_at": "2026-10-10T06:03:37.124439+00:00",
+    "generated_ts": 1791612217.1244388,
     "window_hours": 24.0,
-    "total": 19
+    "total": 12
   },
   "items": [
-    {
-      "id": "qbitai:543ac71d2341",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
-      "published_at": "2026-10-09T03:52:21+00:00",
-      "published_ts": 1791517941.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.792
-    },
     {
       "id": "cnbeta:a53f903b881a",
       "source": "cnbeta",
@@ -37,34 +22,19 @@
       "importance": 2.666
     },
     {
-      "id": "qbitai:6b4fe1f65595",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "url": "https://www.qbitai.com/2026/10/502083.html",
-      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
-      "published_at": "2026-10-09T00:16:56+00:00",
-      "published_ts": 1791505016.0,
+      "id": "tmtpost:09394f23672b",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+      "url": "https://www.tmtpost.com/8163462.html",
+      "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
+      "published_at": "2026-10-10T01:10:22+00:00",
+      "published_ts": 1791594622.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.517
-    },
-    {
-      "id": "cnbeta:3f28cd6e22ce",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic使用政策更新 无端辱骂或虐待Claude都可能会被主动结束会话且无法恢复",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581362.htm",
-      "summary": "<p>Anthropic日前发布适用于 Claude AI 的新版使用政策，该政策将在 2026 年 11 月 12 日生效。新版政策主要新增禁止无端虐待 Claude 条款，同时适用于选举、武器开发、监控等相关条款也同步变更。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T05:39:34+00:00",
-      "published_ts": 1791524374.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.96
+      "importance": 2.605
     },
     {
       "id": "techcrunch:1bafea2579eb",
@@ -82,51 +52,6 @@
       "importance": 1.94
     },
     {
-      "id": "cnbeta:2e2bac3f206f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic联合天文学家完成了第一张完整的全天紫外地图",
-      "url": "https://www.cnbeta.com.tw/articles/science/1581332.htm",
-      "summary": "<p>Anthropic 发了一篇科学博客：约翰斯·霍普金斯大学的天体物理学家 Brice Ménard（同时也是 Anthropic 的研究员），用自家的科研工作台 Claude Science，做出了第一张完整的全天紫外地图，这张图里，<strong>大约三分之一的天空从来没被任何紫外望远镜看过，是 Claude 预测出来的</strong>，并且给每个像素标明“实测/预测”，并附上误差估计。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1581332.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T05:11:33+00:00",
-      "published_ts": 1791522693.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.934
-    },
-    {
-      "id": "cnbeta:b6130b25a3fd",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "菲尔兹奖得主陶哲轩点名批评OpenAI",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581324.htm",
-      "summary": "<p>OpenAI与数学界的紧张关系再度升级。菲尔兹奖得主陶哲轩近日在个人博客转载了一份由人类数学协会（AHM）发布的声明，批评OpenAI无视数学界研究规范，并呼吁数学家停止与其合作。争议源于OpenAI公开的一批数学研究手稿，其内部模型尝试解决约4000道数学问题，最终整理出涉及372组成果的研究材料，并公开了部分Lean形式化证明代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T05:02:00+00:00",
-      "published_ts": 1791522120.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.925
-    },
-    {
-      "id": "cnbeta:240207739cae",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google Gemini 4 Argon已对部分用户开放",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581316.htm",
-      "summary": "<p>就在刚刚，海外科技圈爆料：<strong>谷歌下一代重磅模型 Gemini 4 Argon 已密集现身多个平台，甚至已经对部分 Pro 用户开放！</strong>这不是捕风捉影的画大饼，也不是停留在实验室里的测试数据，而是实实在在的「入侵」。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581316.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T04:57:50+00:00",
-      "published_ts": 1791521870.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.921
-    },
-    {
       "id": "the_verge:e6eb84b7ba6c",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -140,21 +65,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.916
-    },
-    {
-      "id": "cnbeta:0b2c4094d868",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic据悉组建专门团队对接2028年总统候选人 为后特朗普时代做准备",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581310.htm",
-      "summary": "<p>据报道，美国人工智能初创公司Anthropic 正着手设立一个针对2028年大选的“总统级对接”计划，组建一支内部团队，直接就人工智能相关议题与美国两党总统候选人展开对接，协助公司高层制定政治策略，并负责运营公司的政治资助项目。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T04:45:36+00:00",
-      "published_ts": 1791521136.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.91
     },
     {
       "id": "openai_blog:10e7b1aed9d9",
@@ -187,21 +97,6 @@
       "importance": 1.827
     },
     {
-      "id": "qbitai:3df2747ab3a6",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "url": "https://www.qbitai.com/2026/10/502106.html",
-      "summary": "多Agent协同还能自我进化",
-      "published_at": "2026-10-09T02:37:22+00:00",
-      "published_ts": 1791513442.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.795
-    },
-    {
       "id": "cnbeta:f943f24c8005",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -232,21 +127,6 @@
       "importance": 1.768
     },
     {
-      "id": "qbitai:04a5a8e9bd0e",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "url": "https://www.qbitai.com/2026/10/502096.html",
-      "summary": "让AI反复试错的“练兵场”来了",
-      "published_at": "2026-10-09T02:03:48+00:00",
-      "published_ts": 1791511428.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.767
-    },
-    {
       "id": "cnbeta:fa013eee6de1",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -260,6 +140,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.695
+    },
+    {
+      "id": "techcrunch:65954354f74d",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "published_at": "2026-10-10T00:18:32+00:00",
+      "published_ts": 1791591512.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.694
     },
     {
       "id": "qbitai:abe69588ea4a",
