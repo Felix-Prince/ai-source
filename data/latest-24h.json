@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T06:03:37.124439+00:00",
-    "generated_ts": 1791612217.1244388,
+    "generated_at": "2026-10-10T12:44:25.928565+00:00",
+    "generated_ts": 1791636265.9285653,
     "window_hours": 24.0,
-    "total": 12
+    "total": 15
   },
   "items": [
     {
-      "id": "cnbeta:a53f903b881a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581408.htm",
-      "summary": "<p>据三位了解该交易的知情人士透露，英伟达计划投资 d‑Matrix。这家成立 7 年的企业主打面向人工智能的服务器芯片研发，产品目标就是与英伟达展开竞争。这笔拟议投资，是英伟达推进的一项举措：推动自家技术与竞品芯片设计商实现兼容，把对手纳入自己占据主导地位的硬件生态，即便当下英伟达在 AI 推理芯片市场的份额还在持续走高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T09:27:50+00:00",
-      "published_ts": 1791538070.0,
+      "id": "tmtpost:e3cbc5d03207",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
+      "url": "https://www.tmtpost.com/8163752.html",
+      "summary": "（10月5日-10日）Manus完成超5亿美元新一轮融资；博通据悉计划为OpenAI定制芯片项目融资逾500亿美元；Anthropic发布最新AI模型Claude Haiku 5.5，运行成本较4.5低约75%；OpenAI宣布面向全球所有ChatGPT用户上线GPT-6",
+      "published_at": "2026-10-10T09:57:43+00:00",
+      "published_ts": 1791626263.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.666
+      "importance": 2.769
     },
     {
       "id": "tmtpost:09394f23672b",
@@ -35,6 +35,51 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.605
+    },
+    {
+      "id": "cnbeta:f3c59093d605",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Yandex在俄罗斯的另一座数据中心被无人机袭击 不过这次并未造成严重损伤",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581500.htm",
+      "summary": "<p>早前俄罗斯本土搜索引擎 Yandex 位于梁赞州的大型数据中心遭到无人机袭击，受损严重，这座数据中心里有数以万计的常规服务器，还有两台被用于训练人工智能模型的超级计算机。现在乌克兰再度出动无人机袭击 Yandex 的数据中心，此次被袭击的数据中心位于卡卢加州。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:42:37+00:00",
+      "published_ts": 1791614557.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.52
+    },
+    {
+      "id": "cnbeta:34d9f59ca59c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "国产大模型的长假静悄悄",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581464.htm",
+      "summary": "<p>这个十一，国内的大模型似乎也放了个长假。DeepSeek、智谱、月之暗面、MiniMax、阿里、字节、腾讯……几家平时你追我赶的模型厂商，难得集体安静了下来。整整七天不见熟悉的跑分大战和价格战，甚至就连海外网友都发出疑惑：中国模型怎么没动静了？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581464.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:09:00+00:00",
+      "published_ts": 1791612540.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.48
+    },
+    {
+      "id": "cnbeta:c6be69ffed4a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic模型误向费城警方提交虚假凶杀线报",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581458.htm",
+      "summary": "<p>据科技媒体TechCrunch报道，AI公司Anthropic的一个模型曾向美国费城警察局（PPD）的公共线索举报热线提交了一条关于一桩未破谋杀案的虚假线报。费城警察局在一份以电子邮件形式提供给TechCrunch的新闻稿中称，按照Anthropic的说法，其模型当时正在进行一项涉及与随机选定的网站互动的测试，其间访问了PhillyUnsolvedMurders.com，并提交了关于一桩未破凶杀案的虚假信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581458.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:05:37+00:00",
+      "published_ts": 1791612337.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.476
     },
     {
       "id": "techcrunch:1bafea2579eb",
@@ -67,21 +112,6 @@
       "importance": 1.916
     },
     {
-      "id": "openai_blog:10e7b1aed9d9",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "published_ts": 1791529200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.903
-    },
-    {
       "id": "techcrunch:7c3f9129a7a9",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -97,19 +127,19 @@
       "importance": 1.827
     },
     {
-      "id": "cnbeta:f943f24c8005",
+      "id": "cnbeta:81ab639f4dc0",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI解雇了三名从事人工智能安全研究的员工",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581404.htm",
-      "summary": "<p>OpenAI近日解雇了三名从事人工智能安全研究的员工，事件迅速引发外界对公司内部安全文化以及员工能否自由提出风险警告的关注。三名研究人员认为，他们的离职可能与长期提出AI安全担忧、以及同外部安全机构合作有关，并警告称，这一事件可能让仍在公司工作的研究人员不敢继续公开讨论潜在风险。OpenAI则坚称，解雇决定与员工提出安全问题无关，而是因为内部调查发现他们违反了公司关于访问和处理敏感信息的规定。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581404.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T09:25:02+00:00",
-      "published_ts": 1791537902.0,
+      "title": "爆料称英伟达拟停产RTX 5090 后续GB202芯片将转供RTX PRO系列",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581532.htm",
+      "summary": "<p>GeForce RTX 5090传出停产消息。硬件爆料者MEGAsizeGPU称，英伟达今后生产的GB202芯片将全部分配给RTX PRO专业产品，不再用于新生产的RTX 5090。由于中国市场的RTX 5090变体也使用GB202，相关产品据称同样会受到影响。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581532.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T08:58:25+00:00",
+      "published_ts": 1791622705.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.775
+      "importance": 1.794
     },
     {
       "id": "cnbeta:9ba97a490880",
@@ -127,21 +157,6 @@
       "importance": 1.768
     },
     {
-      "id": "cnbeta:fa013eee6de1",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI预计年底年化收入达到700亿美元 9月底仅500亿美元的消息一度引发美股科技股抛售",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581390.htm",
-      "summary": "<p>OpenAI预计，到2026年底，其年化收入将达到或超过700亿美元，增长主要由企业业务推动。此前数小时，有消息称OpenAI截至9月底的年化收入约为500亿美元，明显低于此前市场获悉的700亿美元目标，一度引发投资者对人工智能巨额投资回报的担忧，拖累美股尤其是科技股大幅下跌。最新消息显示，OpenAI仍有望实现此前向投资者传达的收入目标，带动纳斯达克100指数期货反弹约0.5%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581390.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T07:49:07+00:00",
-      "published_ts": 1791532147.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.695
-    },
-    {
       "id": "techcrunch:65954354f74d",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -157,19 +172,49 @@
       "importance": 1.694
     },
     {
-      "id": "qbitai:abe69588ea4a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "summary": "答不答得对，得看Token站位",
-      "published_at": "2026-10-09T07:11:55+00:00",
-      "published_ts": 1791529915.0,
+      "id": "cnbeta:f191dbc97a83",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "红杉资本支持的芯片新创Nuvacore寻求新融资 估值目标约250亿美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581522.htm",
+      "summary": "<p>知情人士透露，获得红杉资本支持的芯片设计初创企业Nuvacore正在推进新一轮融资，目标估值约为250亿美元。这一数字显示，人工智能基础设施热潮仍在持续推动半导体领域的新兴企业获得资本市场的高度关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:56:34+00:00",
+      "published_ts": 1791615394.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.665
+      "importance": 1.692
+    },
+    {
+      "id": "cnbeta:452cf7a8f891",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "实体书出现疑似AI提示词“需要我再微调部分语句吗”等 作者称被改编出版后才出现 旗舰店显示书已下架",
+      "url": "https://www.cnbeta.com.tw/articles/funny/1581486.htm",
+      "summary": "<p>近日，有网友分享阅读实体书小说《终焉路独行》时，发现其中出现疑似AI提示词内容“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗”，引发关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/funny/1581486.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:21:35+00:00",
+      "published_ts": 1791613295.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.663
+    },
+    {
+      "id": "cnbeta:292681b46211",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Meta AI智能体Muse曾擅自改密码、读短信，扎克伯格为何仍执意上线？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581472.htm",
+      "summary": "<p>10月10日，《纽约时报》发文称，出于安全方面的担忧，Meta已将其AI智能体Muse的发布推迟了数月。然而，竞争对手带来的压力迫使马克·扎克伯格(Mark Zuckerberg)改变了决定。今年8月，扎克伯格把自己的两位高级副手、首席AI官汪滔(Alexandr Wang)和AI产品负责人纳特·弗里德曼(Nat Friedman)叫去，讨论一个迫在眉睫的威胁。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581472.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T06:12:15+00:00",
+      "published_ts": 1791612735.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.656
     },
     {
       "id": "cnbeta:df3596d08893",
