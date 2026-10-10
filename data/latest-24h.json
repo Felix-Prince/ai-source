@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T12:44:25.928565+00:00",
-    "generated_ts": 1791636265.9285653,
+    "generated_at": "2026-10-10T21:52:38.491173+00:00",
+    "generated_ts": 1791669158.4911733,
     "window_hours": 24.0,
-    "total": 15
+    "total": 14
   },
   "items": [
+    {
+      "id": "cnbeta:e50bef89d44a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软CEO呼吁针对先进人工智能建立“紧急制动”机制",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581578.htm",
+      "summary": "<p>微软首席执行官Satya Nadella表示，企业应将强大的人工智能模型视为潜在的内部威胁，要假定这些模型可能遭入侵，并建立一套“紧急制动”机制，以防止智能体模型失控。Nadella表示，部署先进人工智能的企业不应仅仅依赖模型开发商作出的保证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581578.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T21:30:07+00:00",
+      "published_ts": 1791667807.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.968
+    },
     {
       "id": "tmtpost:e3cbc5d03207",
       "source": "tmtpost",
@@ -82,49 +97,19 @@
       "importance": 2.476
     },
     {
-      "id": "techcrunch:1bafea2579eb",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "published_at": "2026-10-09T21:41:29+00:00",
-      "published_ts": 1791582089.0,
-      "category": "international",
-      "lang": "en",
+      "id": "cnbeta:0909ca93cd9a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581576.htm",
+      "summary": "<p>英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-10T21:29:49+00:00",
+      "published_ts": 1791667789.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.94
-    },
-    {
-      "id": "the_verge:e6eb84b7ba6c",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
-      "published_at": "2026-10-09T21:15:38+00:00",
-      "published_ts": 1791580538.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.916
-    },
-    {
-      "id": "techcrunch:7c3f9129a7a9",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "published_at": "2026-10-09T19:36:56+00:00",
-      "published_ts": 1791574616.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.827
+      "importance": 1.978
     },
     {
       "id": "cnbeta:81ab639f4dc0",
@@ -140,21 +125,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.794
-    },
-    {
-      "id": "cnbeta:9ba97a490880",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "尼康显微摄影比赛冠军因使用AI被取消资格 研究人员承认借助神经网络处理图像",
-      "url": "https://www.cnbeta.com.tw/articles/movie/1581438.htm",
-      "summary": "<p>尼康近日取消了原本获得其 Small World in Motion 显微摄影竞赛第一名的作品的获奖资格，原因是该作品不符合比赛关于生成式人工智能使用的规定。随着作品真实性受到越来越多质疑，尼康对参赛视频展开审查，最终决定撤销其冠军头衔，并调整了比赛排名。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1581438.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T18:28:32+00:00",
-      "published_ts": 1791570512.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.768
     },
     {
       "id": "techcrunch:65954354f74d",
@@ -217,19 +187,34 @@
       "importance": 1.656
     },
     {
-      "id": "cnbeta:df3596d08893",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581424.htm",
-      "summary": "<p>韩国GF证券分析师Jeff Pu认为，英伟达或将在2028年下半年采用Foveros封装技术。该消息仍需审慎看待：目前尚未公布任何相关合同或具体产品。该推测与DigiTimes今年1月的一则早期爆料相呼应。当时报道提及，英伟达未来Feynman系列GPU的配套组件或采用英特尔18A或14A工艺，而GPU主体芯片的生产仍将交由台积电先进制程完成。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581424.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-09T15:31:26+00:00",
-      "published_ts": 1791559886.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "the_verge:291712698f8b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "published_at": "2026-10-10T14:41:16+00:00",
+      "published_ts": 1791643276.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.623
+      "importance": 1.625
+    },
+    {
+      "id": "the_verge:b024031c077e",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+      "published_at": "2026-10-10T13:00:00+00:00",
+      "published_ts": 1791637200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.548
     }
   ]
 }

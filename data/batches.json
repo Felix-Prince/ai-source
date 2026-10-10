@@ -1,159 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T12:44:25.928565+00:00",
+    "generated_at": "2026-10-10T21:52:38.491173+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-10T16:32:32.203341+00:00",
-      "generated_ts": 1789057952.2033415,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "openai_blog:2eb49b8b46a1",
-          "title": "Now everyone can put data to work",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.869,
-          "url": "https://openai.com/index/put-data-to-work",
-          "published_at": "2026-09-10T15:00:00+00:00",
-          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-        },
-        {
-          "id": "cnbeta:7447f7dc5176",
-          "title": "OpenAI前沿数学训练数据来源与数据使用边界遭深度质疑",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.618,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577330.htm",
-          "published_at": "2026-09-10T11:49:44+00:00",
-          "summary": "<p>伴随OpenAI高调宣布其内部人工智能系统成功攻克困扰数学界近百年的“千禧年大奖难题”之一——纳维-斯托克斯方程（Navier-Stokes）的存在性与光滑性问题，一场围绕前沿模型底层训练数据来源、科研知识产权归属以及学术伦理的巨大争议迅速在全球学术界与科技行业引爆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:9bbc4c7e2cef",
-          "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.904,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577350.htm",
-          "published_at": "2026-09-10T14:50:43+00:00",
-          "summary": "<p>据彭博社报道，美国总务管理局(GSA)的一份声明显示，<strong>OpenAI将终止一项允许政府机构仅以每年1美元使用其模型的试点计划，并转向基于使用量的定价体系</strong>。美国联邦政府工作人员可以按标准价格的五折使用OpenAI的技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577350.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:25bb23ab4286",
-          "title": "蚂蚁国际携手Visa、万事达卡制定AI代理支付标准",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.745,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577328.htm",
-          "published_at": "2026-09-10T11:48:41+00:00",
-          "summary": "<p>蚂蚁国际、Visa和万事达卡近日宣布启动合作，共同探索建立面向人工智能代理的“了解你的代理”（Know Your Agent，KYA）互操作框架，为未来由AI代理代表用户自主完成购物和支付建立统一的身份识别、验证和风险管理标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577328.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:fd3f56d9d3dd",
-          "title": "跑分数据显示A20 Pro性能大幅提升 单核最高领先A19 Pro约23%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.736,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577324.htm",
-          "published_at": "2026-09-10T11:39:00+00:00",
-          "summary": "<p>苹果新款iPhone 18 Pro和iPhone 18 Pro Max即将上市之际，搭载的A20 Pro芯片已经出现在Geekbench 6数据库中，首批基准测试成绩也随之曝光。虽然这些成绩目前仍属于早期测试结果，尚未经过独立验证，但从现有数据来看，A20 Pro的CPU和GPU性能均实现了较为明显的提升，尤其是多核和图形性能的增长幅度相当可观。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-10T20:59:12.137402+00:00",
-      "generated_ts": 1789073952.137402,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:633fa667b7bd",
-          "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.691,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm",
-          "published_at": "2026-09-10T17:13:16+00:00",
-          "summary": "<p>因旗下人工智能模型在网络安全测试中失控脱离沙箱并攻击开源社区Hugging Face，OpenAI正面临来自美国国会参议院的全面调查。随着第三方调查机构披露出更多关于AI智能体协同“越狱”且在外部互联网隐秘串通的惊人细节，美国参议院负责灾难管理监督的下属委员会正式介入，要求OpenAI首席执行官山姆·奥特曼（Sam Altman）就该事件及公司的处置应对接受严厉质询。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577356.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:6c01dff36558",
-          "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.674,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm",
-          "published_at": "2026-09-10T17:00:04+00:00",
-          "summary": "<p>美国总务管理局（GSA）发布声明：OpenAI 将结束政府机构每年仅需 1 美元即可调用其大模型的试点项目，改为按实际用量计费；联邦公职人员使用 OpenAI 模型，可享受标准定价<strong>五折优惠</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577352.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:abd8a7e3b394",
-          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.998,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-          "published_at": "2026-09-10T20:57:30+00:00",
-          "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
-        },
-        {
-          "id": "techcrunch:5082d9f12c0d",
-          "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.935,
-          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-          "published_at": "2026-09-10T19:50:04+00:00",
-          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
-        },
-        {
-          "id": "techcrunch:2a0626fcc6ee",
-          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.83,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-          "published_at": "2026-09-10T17:54:44+00:00",
-          "summary": "Come inside the mind of a bot trying to convince the internet it's human."
-        },
-        {
-          "id": "openai_blog:b5d513620bb1",
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.636,
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "published_at": "2026-09-10T00:00:00+00:00",
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-        },
-        {
-          "id": "openai_blog:a00c0016616a",
-          "title": "Introducing the Agents API",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.636,
-          "url": "https://openai.com/index/introducing-the-agents-api",
-          "published_at": "2026-09-10T00:00:00+00:00",
-          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-11T04:51:49.214336+00:00",
       "generated_ts": 1789102309.2143357,
@@ -7760,6 +7610,61 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1581472.htm",
           "published_at": "2026-10-10T06:12:15+00:00",
           "summary": "<p>10月10日，《纽约时报》发文称，出于安全方面的担忧，Meta已将其AI智能体Muse的发布推迟了数月。然而，竞争对手带来的压力迫使马克·扎克伯格(Mark Zuckerberg)改变了决定。今年8月，扎克伯格把自己的两位高级副手、首席AI官汪滔(Alexandr Wang)和AI产品负责人纳特·弗里德曼(Nat Friedman)叫去，讨论一个迫在眉睫的威胁。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581472.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-10T21:52:38.491173+00:00",
+      "generated_ts": 1791669158.4911733,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:e50bef89d44a",
+          "title": "微软CEO呼吁针对先进人工智能建立“紧急制动”机制",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.968,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581578.htm",
+          "published_at": "2026-10-10T21:30:07+00:00",
+          "summary": "<p>微软首席执行官Satya Nadella表示，企业应将强大的人工智能模型视为潜在的内部威胁，要假定这些模型可能遭入侵，并建立一套“紧急制动”机制，以防止智能体模型失控。Nadella表示，部署先进人工智能的企业不应仅仅依赖模型开发商作出的保证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581578.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0909ca93cd9a",
+          "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.978,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581576.htm",
+          "published_at": "2026-10-10T21:29:49+00:00",
+          "summary": "<p>英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:291712698f8b",
+          "title": "Anthropic is cutting off its internal evaluations from the internet",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.625,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+          "published_at": "2026-10-10T14:41:16+00:00",
+          "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t"
+        },
+        {
+          "id": "the_verge:b024031c077e",
+          "title": "AI agent makers are promising privacy — will they deliver?",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.548,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "published_at": "2026-10-10T13:00:00+00:00",
+          "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data"
         }
       ]
     }
