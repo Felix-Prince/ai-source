@@ -1,124 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T06:01:11.139071+00:00",
+    "generated_at": "2026-10-11T13:07:13.455136+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-11T11:33:22.515187+00:00",
-      "generated_ts": 1789126402.5151865,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:11bcd7aa139a",
-          "title": "Anthropic指控中国多家AI公司大规模蒸馏 阿里巴巴、月之暗面和DeepSeek被指涉数千万次交互",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.96,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577500.htm",
-          "published_at": "2026-09-11T11:05:18+00:00",
-          "summary": "<p>美国人工智能公司Anthropic近日发布威胁情报报告，指控包括阿里巴巴、Moonshot AI、DeepSeek、小米以及另外数家中国AI实验室在内的机构，曾通过大规模调用Claude的方式提取其模型能力，并将生成结果用于训练和改进自己的人工智能模型。Anthropic将这种行为称为未经授权的“蒸馏攻击”（distillation attack）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:535fb71a0753",
-          "title": "YC总裁呼吁对AI“蒸馏”少点监管：与其限制复制技术不如保持开放与竞争平衡",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.924,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577492.htm",
-          "published_at": "2026-09-11T10:39:53+00:00",
-          "summary": "<p>在OpenAI、Anthropic等美国人工智能企业持续指责中国公司通过“模型蒸馏”复制先进技术之际，美国知名创业加速器Y Combinator首席执行官Garry Tan却公开表达了截然不同的观点。他表示，如果由自己决定，对于蒸馏问题“什么都不会做”，并认为当前监管重点不应放在打击蒸馏行为上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577492.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:2059a17ca9e4",
-          "title": "AI回答如何毁灭人类 杀手机器人被排在最后",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.715,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577454.htm",
-          "published_at": "2026-09-11T08:06:08+00:00",
-          "summary": "<p>据《商业内幕》报道，该媒体向OpenAI的ChatGPT、GoogleGemini、Anthropic的Claude以及xAI的Grok提出同一个问题，让它们分析人工智能可能如何导致人类灭绝，并按照可能性排列相关情景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577454.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:fb3956de3b90",
-          "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.579,
-          "url": "https://www.qbitai.com/2026/09/487273.html",
-          "published_at": "2026-09-11T06:19:03+00:00",
-          "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
-        },
-        {
-          "id": "cnbeta:2063c209be3f",
-          "title": "OpenAI将ChatGPT同款GPT-Live-1语音模型开放给开发者 API价格为每分钟0.05美元",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.579,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577420.htm",
-          "published_at": "2026-09-11T06:18:58+00:00",
-          "summary": "<p>OpenAI近日宣布，将目前用于ChatGPT语音功能的GPT-Live-1正式开放给开发者使用。开发者现在可以通过API把这一语音模型集成到自己的应用和业务流程中，构建能够实时听取用户讲话、同时进行回应的全双工语音助手。该模型的语音前端价格为每分钟0.05美元，后台用于复杂推理的模型则需要按照相应的模型价格另外计费。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:927c0912aa0e",
-          "title": "高通详解下一代骁龙旗舰NPU升级：更强AI推理能力将降低对内存的依赖",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.504,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577414.htm",
-          "published_at": "2026-09-11T05:18:01+00:00",
-          "summary": "<p>高通近日进一步公布了骁龙8 Elite Gen 6 Pro的AI处理能力细节，其中最值得关注的是全新Hexagon NPU的升级。与过去单纯追求AI算力增长不同，高通此次更加重视AI模型运行效率、内存访问以及功耗控制，希望让下一代旗舰手机能够在本地运行规模更大的生成式AI模型和AI智能体。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577414.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:624946b02924",
-          "title": "32天就下架 DeepSeek为何对自家旗舰下狠手",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.877,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577486.htm",
-          "published_at": "2026-09-11T09:21:16+00:00",
-          "summary": "<p><strong>从正式发布到被Flash接替，DeepSeek只给V4 Pro正式版留了32天。</strong>9月10日，DeepSeek发布V4.1 Flash，同时宣布：从北京时间9月14日中午12点起，官方API中发给V4 Pro的请求，将全部由Flash接手，并按更低的Flash价格收费。这项安排会一直持续到V4.1 Pro推出。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577486.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:108925236521",
-          "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.875,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm",
-          "published_at": "2026-09-11T09:19:02+00:00",
-          "summary": "<p>据彭博社报道，<strong>“国产GPU四小龙”之一的燧原科技今天正式在上交所科创板上市‌，首日大涨，推动该公司两位创始人赵立东、张亚林成为亿万富翁</strong>。燧原科技目前员工不到900人，只有一个大客户，而且自2018年成立以来从未盈利。但是，这并未阻止该公司创始人赵立东和张亚林成为亿万富翁，因为渴望抓住AI机遇的投资者纷纷向该公司注资。除这两人外，腾讯是燧原科技的最大股东，同时也是该公司的最大客户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577482.htm\" target=\"_blank\"><stron"
-        },
-        {
-          "id": "cnbeta:98c17b985d4d",
-          "title": "Anthropic披露AI相亲骗局：2.5万人聊天 75%匹配对象是机器人",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.823,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577474.htm",
-          "published_at": "2026-09-11T08:21:17+00:00",
-          "summary": "<p>9月11日，Anthropic发布最新AI滥用报告称，App开发工作室利用Claude开发并运营超过20款交友软件。平台宣称用户均为真人，但普通用户刷到的匹配对象中，约75%是AI角色。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577474.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:c1f6f032a50c",
-          "title": "OpenAI退出数学活动赞助 此前被批抢功制造“垃圾数学”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.816,
-          "url": "https://www.cnbeta.com.tw/articles/science/1577470.htm",
-          "published_at": "2026-09-11T08:12:49+00:00",
-          "summary": "<p>9月11日，据《商业内幕》报道，OpenAI眼下试图解决的最新数学难题，是一群愤怒的数学家。OpenAI一名研究员周四表示，该公司不再赞助加州理工学院的“数学黑客马拉松”。该活动让参与者使用大语言模型解决研究问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577470.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-11T16:37:00.774816+00:00",
       "generated_ts": 1789144620.7748163,
@@ -7615,6 +7500,111 @@
           "url": "https://www.tmtpost.com/8164264.html",
           "published_at": "2026-10-11T04:21:41+00:00",
           "summary": "模型越卖越便宜，算力投资却越烧越猛。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-11T13:07:13.455136+00:00",
+      "generated_ts": 1791724033.4551358,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:09c01d8dd305",
+          "title": "英伟达洽谈收购Reflection AI 已投资8亿美元 后者估值达250亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.531,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581622.htm",
+          "published_at": "2026-10-11T07:14:18+00:00",
+          "summary": "<p>英伟达正与美国人工智能初创企业Reflection AI就潜在收购或进一步扩大投资展开初步谈判，交易可能采取全面收购、追加股权投资、提供更多芯片及算力支持，或通过聘用员工并获得技术授权等多种形式。英伟达此前已向Reflection AI投资8亿美元，是其最大股东之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581622.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b9294ce64046",
+          "title": "高通CEO暗示到2028年或将出现能够运行1000亿参数的大型语言模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.992,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581644.htm",
+          "published_at": "2026-10-11T12:58:26+00:00",
+          "summary": "<p>部分领先的人工智能企业正在推动手机行业开发能够持续运行1000亿参数大语言模型的设备，目标时间指向2028年。不过，这一设想面临两项现实挑战：一是运行如此庞大的模型需要大量内存，二是人工智能数据中心正在争夺全球内存产能，导致消费级内存供应紧张、价格持续上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4e8bbe6d3a50",
+          "title": "CUDA生态优势推动RTX Spark笔记本热销 微软128GB版Surface Laptop开始缺货",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.823,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581642.htm",
+          "published_at": "2026-10-11T09:54:34+00:00",
+          "summary": "<p>随着人工智能应用持续升温，围绕高性能AI计算硬件的市场需求正在快速增长。业内人士指出，英伟达长期打造的CUDA软件生态系统正在成为其最重要的竞争壁垒之一，而这一优势也开始直接反映在新一代AI电脑和开发设备的市场表现上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581642.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d6cb26d98238",
+          "title": "马斯克称给信用卡拍照就能用Grok购物 OpenAI高管回复：干脆把卡发网上得了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.659,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581606.htm",
+          "published_at": "2026-10-11T06:39:08+00:00",
+          "summary": "<p>埃隆・马斯克发文称，“买东西时，你只需拍一张信用卡照片发到聊天框，Grok机器人就会全网搜索你想要商品的最优价格并完成下单。”对此，OpenAI高管Tibo回复称：“那我干脆直接把卡放这得了。”同时，他发布了一张虚构的信用卡的照片，暗示该功能的安全风险。（注：持卡人名字就是发帖人THIBAULT SOTTIAUX，“NOVA”只是这张道具卡的虚构卡面标识。）</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581606.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6e7673b4dd61",
+          "title": "AI投资热潮降温 韩国股市散户交易降温、企业回购逐步结束",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.658,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581602.htm",
+          "published_at": "2026-10-11T06:37:57+00:00",
+          "summary": "<p>随着人工智能投资热潮降温，韩国股市正面临外国投资者大规模撤资和市场交易活跃度急剧下降的双重压力。交易所数据显示，今年以来，外国投资者累计从韩国股市撤出1310亿美元，流出规模居亚洲主要市场之首。韩国股市总市值约4.3万亿美元，市场成交额较5月底高点萎缩70%，基准KOSPI指数2026年下半年以来累计下跌22%。此前，受AI存储芯片需求推动，KOSPI曾在上半年成为全球表现最好的主要股指。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581602.htm\" target=\"_blank\"><strong>阅读全文</stro"
+        },
+        {
+          "id": "cnbeta:893511726afe",
+          "title": "AI反而拖累了PC市场：内存涨价让全球PC出货量暴跌了20%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.649,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1581592.htm",
+          "published_at": "2026-10-11T06:26:05+00:00",
+          "summary": "<p>人工智能原本被视为推动个人电脑市场增长的重要引擎，但最新数据却呈现出截然相反的局面。2026年第三季度，全球PC出货量同比下降约20%，创下自2023年第一季度以来最严重的年度跌幅之一。与此同时，人工智能数据中心对内存和存储芯片的巨大需求推高了电脑制造成本，而微软力推的Windows 11人工智能功能，也尚未充分证明自己能够成为消费者升级设备的有力理由。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581592.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:7b2a0ed51f9f",
+          "title": "硅谷AI现状：谁有算力谁是爹",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.599,
+          "url": "https://www.qbitai.com/2026/10/502585.html",
+          "published_at": "2026-10-11T05:22:38+00:00",
+          "summary": "马斯克连横A社，硅谷VC开始囤GPU"
+        },
+        {
+          "id": "qbitai:7c7b65355f1f",
+          "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.596,
+          "url": "https://www.qbitai.com/2026/10/502550.html",
+          "published_at": "2026-10-11T05:18:04+00:00",
+          "summary": "初代4o的API快照进入停用倒计时"
+        },
+        {
+          "id": "qbitai:4e7491debf2f",
+          "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.513,
+          "url": "https://www.qbitai.com/2026/10/502544.html",
+          "published_at": "2026-10-11T03:27:08+00:00",
+          "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
         }
       ]
     }
