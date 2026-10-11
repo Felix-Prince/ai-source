@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T13:07:13.455136+00:00",
-    "generated_ts": 1791724033.4551358,
+    "generated_at": "2026-10-11T22:08:43.082102+00:00",
+    "generated_ts": 1791756523.0821023,
     "window_hours": 24.0,
-    "total": 14
+    "total": 12
   },
   "items": [
-    {
-      "id": "cnbeta:e50bef89d44a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "微软CEO呼吁针对先进人工智能建立“紧急制动”机制",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581578.htm",
-      "summary": "<p>微软首席执行官Satya Nadella表示，企业应将强大的人工智能模型视为潜在的内部威胁，要假定这些模型可能遭入侵，并建立一套“紧急制动”机制，以防止智能体模型失控。Nadella表示，部署先进人工智能的企业不应仅仅依赖模型开发商作出的保证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581578.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-10T21:30:07+00:00",
-      "published_ts": 1791667807.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.968
-    },
     {
       "id": "tmtpost:def701688e6c",
       "source": "tmtpost",
@@ -67,21 +52,6 @@
       "importance": 1.992
     },
     {
-      "id": "cnbeta:0909ca93cd9a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581576.htm",
-      "summary": "<p>英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-10T21:29:49+00:00",
-      "published_ts": 1791667789.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.978
-    },
-    {
       "id": "tmtpost:27585c461c8a",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -110,6 +80,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.823
+    },
+    {
+      "id": "cnbeta:4164225d9ab3",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "开发者让Googlebook OS在Apple Silicon Mac虚拟机中运行 但仍不适合日常使用",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581668.htm",
+      "summary": "<p>开发者Skylar Taylor-Barrick开源了名为gbos-vm的项目，可在搭载Apple Silicon芯片的Mac上通过虚拟机启动Google的Googlebook OS，并实现GPU加速和运行Chrome。该方案使用QEMU虚拟机加载Google提供的戴尔Googlebook恢复映像，不是通用Android镜像，也不是把系统原生安装到Mac上；项目与Google和戴尔均无官方关联。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581668.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-11T18:16:52+00:00",
+      "published_ts": 1791742612.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.789
     },
     {
       "id": "cnbeta:d6cb26d98238",
@@ -155,21 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.649
-    },
-    {
-      "id": "the_verge:291712698f8b",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
-      "published_at": "2026-10-10T14:41:16+00:00",
-      "published_ts": 1791643276.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.625
     },
     {
       "id": "qbitai:7b2a0ed51f9f",
