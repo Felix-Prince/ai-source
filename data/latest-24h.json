@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T22:08:43.082102+00:00",
-    "generated_ts": 1791756523.0821023,
+    "generated_at": "2026-10-12T06:11:40.145503+00:00",
+    "generated_ts": 1791785500.1455033,
     "window_hours": 24.0,
-    "total": 12
+    "total": 11
   },
   "items": [
-    {
-      "id": "tmtpost:def701688e6c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
-      "url": "https://www.tmtpost.com/8164268.html",
-      "summary": "agent底座之争，OpenAI又被针对了。",
-      "published_at": "2026-10-11T04:50:00+00:00",
-      "published_ts": 1791694200.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.899
-    },
     {
       "id": "cnbeta:09c01d8dd305",
       "source": "cnbeta",
@@ -52,19 +37,64 @@
       "importance": 1.992
     },
     {
-      "id": "tmtpost:27585c461c8a",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "中国AI，开始为算力算账",
-      "url": "https://www.tmtpost.com/8164264.html",
-      "summary": "模型越卖越便宜，算力投资却越烧越猛。",
-      "published_at": "2026-10-11T04:21:41+00:00",
-      "published_ts": 1791692501.0,
+      "id": "cnbeta:81234e4ebc3b",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "亚马逊拟70亿美元收购AI公司Decart 看中AI芯片切换软件",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581718.htm",
+      "summary": "<p>据《华尔街日报》报道，据知情人士透露，亚马逊正在洽谈AI创业公司Decart，交易估值可能达到大约70亿美元。Decart总部位于旧金山，其软件可以让开发者更轻松地在不同AI芯片之间切换。随着各家公司竞相争夺更多算力，这项能力正变得越来越重要。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581718.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T05:48:25+00:00",
+      "published_ts": 1791784105.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.906
+      "importance": 1.978
+    },
+    {
+      "id": "cnbeta:7b8242deb8f8",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "华盛顿邮报调查：美国AI产业依赖中国模型、设备与零部件 数据揭示深度联系",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581704.htm",
+      "summary": "<p>10月12日，据《华盛顿邮报》报道，尽管美国政府和科技企业经常将人工智能发展描述为一场赢家通吃的竞争，美国AI产业却与中国保持着深厚联系。从美国企业采用的低成本中国模型，到数据中心设备、智能眼镜和机器人零部件，中国企业正在为美国AI的发展提供重要支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581704.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T05:28:35+00:00",
+      "published_ts": 1791782915.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.959
+    },
+    {
+      "id": "cnbeta:0180e9b4baf9",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "特朗普拟以法律责任约束AI行业 失控模型谁担责成焦点",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581700.htm",
+      "summary": "<p><span style=\"text-decoration: underline;\">特朗普政府试图通过法律责任来保障人工智能（AI）安全，这为未来围绕AI模型失控后应由谁承担损失埋下争议：究竟是开发这些系统的公司，还是部署相关技术的使用者。</span><br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T05:24:26+00:00",
+      "published_ts": 1791782666.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.955
+    },
+    {
+      "id": "cnbeta:c39a4abe4a28",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Linus Torvalds借助Claude Code优化Linux内核 多线程文件读取性能有望大幅提升",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581690.htm",
+      "summary": "<p>Linux内核创始人林纳斯·托瓦兹（Linus Torvalds）正在借助人工智能编程工具Claude Code开发一项Linux内核性能优化方案。<strong>这项工作针对Linux内核内存管理机制中的一个性能瓶颈，目标是在多个线程同时读取同一个文件时，减少因内存页引用计数产生的竞争，从而提高文件读取效率。</strong>托瓦兹不仅使用AI辅助编写代码，还借助这一工具编写测试程序、开展代码审查，并起草了相关补丁说明。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581690.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T04:34:31+00:00",
+      "published_ts": 1791779671.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.909
     },
     {
       "id": "cnbeta:4e8bbe6d3a50",
@@ -140,51 +170,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.649
-    },
-    {
-      "id": "qbitai:7b2a0ed51f9f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-      "published_at": "2026-10-11T05:22:38+00:00",
-      "published_ts": 1791696158.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.599
-    },
-    {
-      "id": "qbitai:7c7b65355f1f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "url": "https://www.qbitai.com/2026/10/502550.html",
-      "summary": "初代4o的API快照进入停用倒计时",
-      "published_at": "2026-10-11T05:18:04+00:00",
-      "published_ts": 1791695884.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.596
-    },
-    {
-      "id": "qbitai:4e7491debf2f",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "url": "https://www.qbitai.com/2026/10/502544.html",
-      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "published_at": "2026-10-11T03:27:08+00:00",
-      "published_ts": 1791689228.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.513
     }
   ]
 }
