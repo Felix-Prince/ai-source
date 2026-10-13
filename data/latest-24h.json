@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T15:45:52.925889+00:00",
-    "generated_ts": 1791819952.9258895,
+    "generated_at": "2026-10-13T00:51:17.842885+00:00",
+    "generated_ts": 1791852677.842885,
     "window_hours": 24.0,
-    "total": 16
+    "total": 21
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.78
     },
     {
-      "id": "the_verge:488b61db2c5a",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
-      "published_at": "2026-10-12T13:00:00+00:00",
-      "published_ts": 1791810000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.77
-    },
-    {
       "id": "cnbeta:fb112d649e75",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -62,6 +47,21 @@
       "published_ts": 1791809995.0,
       "category": "domestic",
       "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.77
+    },
+    {
+      "id": "the_verge:488b61db2c5a",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "published_ts": 1791810000.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.77
@@ -97,6 +97,21 @@
       "importance": 2.59
     },
     {
+      "id": "ars_technica:08af627378bd",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "published_at": "2026-10-12T18:21:36+00:00",
+      "published_ts": 1791829296.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.487
+    },
+    {
       "id": "cnbeta:10ae79c00d1b",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -125,6 +140,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.412
+    },
+    {
+      "id": "cnbeta:185e86bfc64d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "黄仁勋：Kimi等中国AI模型表现足够优秀 看好开源推动AI效率提升",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581844.htm",
+      "summary": "<p><strong>在星展银行今日举办的一场论坛上，英伟达黄仁勋表示，中国AI模型包括DeepSeek、Kimi和GLM的表现“已经足够优秀”。</strong>黄仁勋称自己是开源的坚定支持者，这是推动效率提升的最佳方式。他还补充称，市场将决定哪些模型最适合不同应用场景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581844.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T16:37:16+00:00",
+      "published_ts": 1791823036.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.365
+    },
+    {
+      "id": "cnbeta:0dfa2e36073f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AMD推出Helion机架级AI计算方案：单机架最多容纳32768个Zen 6 CPU核心 专为AI智能体设计",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581830.htm",
+      "summary": "<p>随着人工智能从传统的聊天机器人向能够自主规划任务、调用工具和执行复杂工作流的智能体（AI Agent）发展，数据中心的计算需求也正在发生变化。AMD于2026年10月12日正式发布Helion机架级AI计算参考设计，提出一种以CPU为核心、可根据需求搭配GPU的全新基础设施方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581830.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T16:22:04+00:00",
+      "published_ts": 1791822124.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.348
     },
     {
       "id": "qbitai:f28ff02335eb",
@@ -202,19 +247,34 @@
       "importance": 1.909
     },
     {
-      "id": "cnbeta:4164225d9ab3",
+      "id": "cnbeta:c064cb7d0277",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "开发者让Googlebook OS在Apple Silicon Mac虚拟机中运行 但仍不适合日常使用",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1581668.htm",
-      "summary": "<p>开发者Skylar Taylor-Barrick开源了名为gbos-vm的项目，可在搭载Apple Silicon芯片的Mac上通过虚拟机启动Google的Googlebook OS，并实现GPU加速和运行Chrome。该方案使用QEMU虚拟机加载Google提供的戴尔Googlebook恢复映像，不是通用Android镜像，也不是把系统原生安装到Mac上；项目与Google和戴尔均无官方关联。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581668.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-11T18:16:52+00:00",
-      "published_ts": 1791742612.0,
+      "title": "Meta推出最新AI模型Muse Wonder",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581854.htm",
+      "summary": "<p>Meta推出了其最新人工智能模型Muse Wonder，并称它是驱动数字助手的最先进选项。但它并非免费。要使用该模型，Muse个人代理应用的用户需要注册每月20美元或100美元的订阅服务。此次发布凸显了Meta在其核心在线广告业务之外创造新的AI衍生收入来源的努力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581854.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T18:27:26+00:00",
+      "published_ts": 1791829646.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.789
+      "importance": 1.663
+    },
+    {
+      "id": "cnbeta:9dc5a466f45c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "扎克伯格：Meta在人工智能前沿已赶上竞争对手",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581852.htm",
+      "summary": "<p>Meta首席执行官马克·扎克伯格在采访中表示，随着新模型Muse Wonder发布，Meta已经追上处于AI“前沿”的竞争对手。扎克伯格补充称，新系统“将能够完成复杂得多的任务，达到目前AI领域所能做到的前沿水平”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581852.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T18:26:48+00:00",
+      "published_ts": 1791829608.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.662
     },
     {
       "id": "cnbeta:7313ff5d500e",
@@ -230,6 +290,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.618
+    },
+    {
+      "id": "cnbeta:19bc10f4aa93",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软将加大自研AI芯片使用 降低对英伟达依赖",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1581842.htm",
+      "summary": "<p>历经多年依赖英伟达图形处理器之后，微软将扩大自研人工智能芯片的使用规模，这家软件巨头意在强化自身全栈 AI 能力。微软于周一正式发布第三代 Maia AI 加速芯片，并表示后续处理业务请求将主要依靠自家芯片硬件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581842.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-12T16:35:44+00:00",
+      "published_ts": 1791822944.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.576
     },
     {
       "id": "qbitai:fb97f774cfee",
