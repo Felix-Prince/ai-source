@@ -1,69 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T14:24:14.487434+00:00",
+    "generated_at": "2026-10-13T22:55:59.535751+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-13T16:28:25.144649+00:00",
-      "generated_ts": 1789316905.144649,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:f17d01cb74c3",
-          "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.775,
-          "url": "https://www.tmtpost.com/8138378.html",
-          "published_at": "2026-09-13T12:20:20+00:00",
-          "summary": "OpenAI把安全摆到IPO之前，Meta暂时站在另一边。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-13T20:57:36.237678+00:00",
-      "generated_ts": 1789333056.2376776,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:b3fa98996a0f",
-          "title": "Anthropic敲定纳斯达克上市计划",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.66,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577762.htm",
-          "published_at": "2026-09-13T16:47:55+00:00",
-          "summary": "<p>人工智能公司Anthropic正朝着公开上市迈出关键一步。最新消息显示，这家以Claude系列模型闻名的AI企业已经选择纳斯达克作为未来首次公开募股（IPO）的上市地点，在人工智能产业高速扩张与安全争议持续升温的背景下，其上市计划正受到全球资本市场高度关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:ceb6c92807d8",
-          "title": "Anthropic掌门人称“中国因素”是放缓AI竞赛的最大难题",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.931,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577766.htm",
-          "published_at": "2026-09-13T19:45:02+00:00",
-          "summary": "<p>人工智能行业围绕“是否应该放缓发展速度”的争论正在迅速升温，而中国则被推到了这场讨论的核心位置。Anthropic首席执行官达里奥·阿莫代伊近日公开表示，如果全球试图对人工智能发展设定速度限制，那么最大的现实难题并不在技术本身，而在于如何应对中国等竞争对手可能继续加速推进的问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-14T05:08:30.751470+00:00",
       "generated_ts": 1789362510.7514696,
@@ -7480,6 +7420,71 @@
           "url": "https://www.qbitai.com/2026/10/502767.html",
           "published_at": "2026-10-13T04:01:15+00:00",
           "summary": "算力、模型、行业，三层生意一起做"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-13T22:55:59.535751+00:00",
+      "generated_ts": 1791932159.535751,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:2028ca503e95",
+          "title": "FBI逮捕OpenAI工程师 涉嫌在高管会议室安装隐藏录音设备 试图窃听机密谈话",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.968,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582042.htm",
+          "published_at": "2026-10-13T22:33:34+00:00",
+          "summary": "<p>美国联邦调查局（FBI）近日逮捕了一名曾在OpenAI工作的工程师。美国联邦检察官指控，这名员工涉嫌在OpenAI位于旧金山的办公室内秘密安装录音设备，试图窃听公司高管会议室中的谈话。调查人员认为，相关会议可能涉及公司的高度机密技术、商业战略和人工智能研发计划。OpenAI发现可疑设备后，利用自身的人工智能模型协助分析设备及追查来源，并向FBI报告了事件。目前，该员工已被解雇，并因涉嫌非法截取他人谈话而受到刑事指控。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582042.htm\" target=\"_blank\"><str"
+        },
+        {
+          "id": "cnbeta:81209a689925",
+          "title": "Facebook推出“你的算法”功能 允许用户用自然语言直接定制内容推荐",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.54,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582028.htm",
+          "published_at": "2026-10-13T17:10:09+00:00",
+          "summary": "<p>Meta宣布在Facebook上线全新的“Your Algorithm（你的算法）”功能，通过引入人工智能和大语言模型技术，用户今后可以直接用自然语言告诉平台自己想看什么内容，从而实时调整动态消息流（Feed）和短视频（Reels）的推荐结果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582028.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:5c62082107a5",
+          "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.878,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "published_at": "2026-10-13T20:45:25+00:00",
+          "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral commu"
+        },
+        {
+          "id": "cnbeta:10d7ba0ec5c6",
+          "title": "Google推出Gemini 4 Argon 主攻长流程编程、企业工作与网络安全",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.658,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582020.htm",
+          "published_at": "2026-10-13T16:25:49+00:00",
+          "summary": "<p>Google推出新一代前沿模型Gemini 4 Argon，这是公司自2025年底发布Gemini 3以来的又一次重要模型更新。Argon面向复杂、多步骤任务，重点覆盖真实软件工程、企业知识工作及网络安全防御。Google称，它能减少回答中的模棱两可、重复和套话，并在编程、科学、金融、法律和网络安全等测试中与行业领先模型竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:7ddf226fe7e5",
+          "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.637,
+          "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+          "published_at": "2026-10-13T16:00:02+00:00",
+          "summary": "Developers will get 50 percent discounted API rates through November."
         }
       ]
     }
