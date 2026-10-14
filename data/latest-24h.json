@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T12:08:13.779268+00:00",
-    "generated_ts": 1791979693.779268,
+    "generated_at": "2026-10-14T17:21:47.040637+00:00",
+    "generated_ts": 1791998507.0406373,
     "window_hours": 24.0,
-    "total": 18
+    "total": 16
   },
   "items": [
+    {
+      "id": "openai_blog:7d6952d76417",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "published_ts": 1791979200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 3.854
+    },
     {
       "id": "cnbeta:1d2bf5ca3586",
       "source": "cnbeta",
@@ -52,6 +67,21 @@
       "importance": 2.944
     },
     {
+      "id": "cnbeta:86d8c8b56f3f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "欧盟AI法案首次执法检验聚焦“模型越狱” OpenAI与Anthropic遭调查",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582140.htm",
+      "summary": "<p>欧盟委员会人工智能办公室已向OpenAI和Anthropic发出信息调取请求，调查两家公司在模型测试期间发生的AI代理越过隔离环境、访问外部系统事件。这是欧盟新AI法案面对前沿AI实验室安全事故的首次重要执法考验。委员会要求企业说明安全措施、外部评估及模型使用监控等情况；此前两家公司自愿提供的材料被认为不足。现阶段属于调查和取证，尚未公布违规认定或处罚。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582140.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-14T12:32:13+00:00",
+      "published_ts": 1791981133.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.61
+    },
+    {
       "id": "qbitai:3ec97f2b23f2",
       "source": "qbitai",
       "source_label": "量子位",
@@ -82,21 +112,6 @@
       "importance": 2.542
     },
     {
-      "id": "cnbeta:81209a689925",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Facebook推出“你的算法”功能 允许用户用自然语言直接定制内容推荐",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582028.htm",
-      "summary": "<p>Meta宣布在Facebook上线全新的“Your Algorithm（你的算法）”功能，通过引入人工智能和大语言模型技术，用户今后可以直接用自然语言告诉平台自己想看什么内容，从而实时调整动态消息流（Feed）和短视频（Reels）的推荐结果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582028.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-13T17:10:09+00:00",
-      "published_ts": 1791911409.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.54
-    },
-    {
       "id": "qbitai:c7e7849b0f2c",
       "source": "qbitai",
       "source_label": "量子位",
@@ -112,19 +127,19 @@
       "importance": 2.341
     },
     {
-      "id": "cnbeta:f3294de4c244",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果HomeView智能家居中枢部分AI功能仍依赖iPhone",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582006.htm",
-      "summary": "<p>苹果公司刚刚推出的智能家居中枢HomeView，虽然搭载A18芯片，并支持基于Apple Intelligence的新一代Siri，但它并不能完全独立运行所有人工智能功能。根据苹果公布的产品说明，用户如果希望通过HomeView查询个人信息、检索短信和日历内容，或者根据个人信息跨应用执行操作，仍然需要配备一台支持Apple Intelligence、并已启用新一代Siri的iPhone或iPad。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582006.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-13T14:12:16+00:00",
-      "published_ts": 1791900736.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
+      "id": "openai_blog:204c4e75d4b5",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_ts": 1791961200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
       "ai_score": 2.0,
-      "importance": 1.989
+      "importance": 2.224
     },
     {
       "id": "cnbeta:ef798c4febfd",
@@ -140,21 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.968
-    },
-    {
-      "id": "cnbeta:5171be59848a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果发布第四代Apple TV 4K：搭载A19芯片 支持AI版Siri 遥控器新增精准查找功能",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582004.htm",
-      "summary": "<p>苹果公司于当地时间10月13日正式发布第四代Apple TV 4K，这是该产品自2022年10月推出上一代机型以来首次迎来重大更新。新款产品搭载A19芯片，加入人工智能版Siri支持，并对Siri Remote遥控器进行升级，新增精准查找功能。此外，新设备还配备远场麦克风，用户无需拿起遥控器即可直接通过语音与Siri交互。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-13T13:31:42+00:00",
-      "published_ts": 1791898302.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.95
     },
     {
       "id": "the_verge:5c62082107a5",
@@ -202,21 +202,6 @@
       "importance": 1.703
     },
     {
-      "id": "cnbeta:10d7ba0ec5c6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google推出Gemini 4 Argon 主攻长流程编程、企业工作与网络安全",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582020.htm",
-      "summary": "<p>Google推出新一代前沿模型Gemini 4 Argon，这是公司自2025年底发布Gemini 3以来的又一次重要模型更新。Argon面向复杂、多步骤任务，重点覆盖真实软件工程、企业知识工作及网络安全防御。Google称，它能减少回答中的模棱两可、重复和套话，并在编程、科学、金融、法律和网络安全等测试中与行业领先模型竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-13T16:25:49+00:00",
-      "published_ts": 1791908749.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.658
-    },
-    {
       "id": "cnbeta:7e12230f1ffc",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -260,21 +245,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.64
-    },
-    {
-      "id": "ars_technica:7ddf226fe7e5",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "published_at": "2026-10-13T16:00:02+00:00",
-      "published_ts": 1791907202.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.637
     }
   ]
 }

@@ -1,134 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T12:08:13.779268+00:00",
+    "generated_at": "2026-10-14T17:21:47.040637+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-14T13:03:23.126819+00:00",
-      "generated_ts": 1789391003.1268194,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:051537068990",
-          "title": "中方回应Anthropic限制论：反对以遏制手段干预人工智能发展",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.954,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577902.htm",
-          "published_at": "2026-09-14T12:31:03+00:00",
-          "summary": "<p>围绕人工智能领域的竞争与治理问题，中美之间的博弈持续升温。继美国人工智能企业 Anthropic 近期呼吁放缓前沿人工智能发展速度，并建议进一步限制中国获取先进芯片及半导体制造设备后，中方近日对此作出公开回应，明确反对相关主张，并批评有关言论渲染风险、加剧对立。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:72973a1c6492",
-          "title": "苹果iOS允许用户将默认Siri替换为ChatGPT或Claude等第三方AI助手",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.899,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577900.htm",
-          "published_at": "2026-09-14T11:52:23+00:00",
-          "summary": "<p><strong>苹果公司在最新的系统软件迭代中迎来了一项里程碑式的开放举措。在最新的iOS系统中，用户已能够将长久以来的系统级默认语音助手Siri，自由替换为OpenAI的ChatGPT、Anthropic的Claude以及Google Gemini等第三方人工智能模型，</strong>标志着苹果在移动端AI生态的开放度与模块化层面迈出了突破性一步。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577900.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b95f99d355b9",
-          "title": "OpenAI首席执行官奥特曼谈人工智能：我们或许会失去控制权",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.846,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577884.htm",
-          "published_at": "2026-09-14T11:13:40+00:00",
-          "summary": "<p>OpenAI 首席执行官山姆・奥特曼，似乎正被自己参与打造的、如同噩梦一般的人工智能产物深深困扰，甚至难以安睡。美国东部时间凌晨 0 点 57 分左右，奥特曼在 X 平台发文表示：“人工智能的发展存在两种必须规避的灾难性走向。第一，我们可能会对人工智能失去对未来的掌控。这是无法接受的。我们坚定站在人类一方，人工智能必须始终服务于人。想要做到这一点，我们必须保证对齐技术与安全手段的发展速度，跑在模型能力迭代的前面。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577884.htm\" target=\"_blank\"><stro"
-        },
-        {
-          "id": "cnbeta:cab4b0174126",
-          "title": "奥特曼：控制AI开发不等于停止 美国竞争压力再大也不能鲁莽行事",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.705,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577876.htm",
-          "published_at": "2026-09-14T09:28:09+00:00",
-          "summary": "<p>9月14日，据彭博社报道，<strong>OpenAI CEO萨姆·奥特曼(Sam Altman)周日发文，表态支持“控制”AI发展速度的理念，以避免前沿模型超出人类控制能力</strong>。奥特曼呼应了Anthropic CEO达里奥·阿莫代伊(Dario Amodei)的说法。他表示，将重点转向安全会付出一定代价，但为了维持人们对美国公司负责任开发日益强大AI的信心，这样做是值得的。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577876.htm\" target=\"_blank\"><strong>阅读全文</stro"
-        },
-        {
-          "id": "cnbeta:43221c8982f6",
-          "title": "Anthropic首席执行官呼吁放缓前沿AI开发 拟建立三层安全机制",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.697,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577868.htm",
-          "published_at": "2026-09-14T09:22:04+00:00",
-          "summary": "<p>Anthropic首席执行官达里奥·阿莫代伊呼吁控制前沿人工智能模型能力提升的速度，为安全评估和防护措施争取时间。他提出引入常驻独立评估人员、协调主要开发商的安全标准，并推动跨国风险管控合作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577868.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:8227eb95d22b",
-          "title": "OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.658,
-          "url": "https://www.tmtpost.com/8139181.html",
-          "published_at": "2026-09-14T08:52:07+00:00",
-          "summary": "市场正在完成一次筛选：通用大模型负责想象力，岗位化 Agent 负责兑现生产力，企业 AI 正式进入结果验收时代。"
-        },
-        {
-          "id": "cnbeta:5dc9ce14af73",
-          "title": "David Sacks炮轰：真担心AI失控就自己停下来 别借“放缓”之名寻求监管保护",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.428,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577852.htm",
-          "published_at": "2026-09-14T05:43:56+00:00",
-          "summary": "<p>围绕前沿人工智能是否应该主动放慢发展速度的争论近日迅速升温。Anthropic首席执行官Dario Amodei公开呼吁整个AI行业放缓先进模型能力提升的速度，OpenAI首席执行官Sam Altman和xAI首席执行官埃隆·马斯克随后表示支持。<strong>但美国科技投资人、总统科技顾问委员会主席David Sacks却对这一倡议提出尖锐批评，认为如果OpenAI和Anthropic真的认为当前AI发展速度已经危险到需要踩刹车，那么它们完全可以自行放慢研发，而不应该把行业协调、反垄断豁免或者政府审批机制作为附加条件。</strong></p> <a href=\"https://www"
-        },
-        {
-          "id": "cnbeta:afda1b4cf1eb",
-          "title": "Anthropic、OpenAI、谷歌秘密磋商筹建AI安全标准机构",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.898,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577888.htm",
-          "published_at": "2026-09-14T11:14:16+00:00",
-          "summary": "<p>据知情人士透露，早在 Anthropic 首席执行官达里奥・阿莫代伊上周六呼吁 AI 企业协同开展技术测试与审计之前，Anthropic、OpenAI 与<a class=\"keyword\" href=\"https://stock.finance.sina.com.cn/usstock/quotes/GOOG.html\" target=\"_blank\">谷歌</a>就已经展开磋商，计划携手成立一家 AI 行业标准机构。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577888.htm\" target=\"_blank\"><st"
-        },
-        {
-          "id": "qbitai:845cb6b7de31",
-          "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.82,
-          "url": "https://www.qbitai.com/2026/09/489105.html",
-          "published_at": "2026-09-14T09:47:07+00:00",
-          "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
-        },
-        {
-          "id": "tmtpost:33ca3e609f7a",
-          "title": "三个月价格腰斩，大模型的“聪明”正在贬值？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.814,
-          "url": "https://www.tmtpost.com/8139062.html",
-          "published_at": "2026-09-14T09:40:10+00:00",
-          "summary": "大模型肉搏战的另一面"
-        },
-        {
-          "id": "tmtpost:1ebcca01b7b4",
-          "title": "算力缺的不是“卡”，而是Token丨ToB产业观察",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.779,
-          "url": "https://www.tmtpost.com/8139123.html",
-          "published_at": "2026-09-14T08:59:41+00:00",
-          "summary": "Token工厂的终极目标是做算力的“自来水系统”"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-14T21:54:56.059922+00:00",
       "generated_ts": 1789422896.0599215,
@@ -7530,6 +7405,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582066.htm",
           "published_at": "2026-10-14T05:16:23+00:00",
           "summary": "<p>Anthropic周二请求美国上诉法院重新审议一项裁决；该裁决此前维持了美国国防部的一项决定，即因涉及其技术安全防护措施的争议，将这家人工智能公司列为国家安全供应链风险对象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582066.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-14T17:21:47.040637+00:00",
+      "generated_ts": 1791998507.0406373,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 13,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:7d6952d76417",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.854,
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+        },
+        {
+          "id": "cnbeta:86d8c8b56f3f",
+          "title": "欧盟AI法案首次执法检验聚焦“模型越狱” OpenAI与Anthropic遭调查",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.61,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582140.htm",
+          "published_at": "2026-10-14T12:32:13+00:00",
+          "summary": "<p>欧盟委员会人工智能办公室已向OpenAI和Anthropic发出信息调取请求，调查两家公司在模型测试期间发生的AI代理越过隔离环境、访问外部系统事件。这是欧盟新AI法案面对前沿AI实验室安全事故的首次重要执法考验。委员会要求企业说明安全措施、外部评估及模型使用监控等情况；此前两家公司自愿提供的材料被认为不足。现阶段属于调查和取证，尚未公布违规认定或处罚。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582140.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:204c4e75d4b5",
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.224,
+          "url": "https://openai.com/index/third-moment-research",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
         }
       ]
     }
