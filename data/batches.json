@@ -1,104 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T05:04:07.887712+00:00",
+    "generated_at": "2026-10-14T12:08:13.779268+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-14T05:08:30.751470+00:00",
-      "generated_ts": 1789362510.7514696,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "qbitai:5015b8c80eb1",
-          "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.625,
-          "url": "https://www.qbitai.com/2026/09/488694.html",
-          "published_at": "2026-09-14T00:30:56+00:00",
-          "summary": "模型、论文都还没出，没想到先从财务公告上剧透了"
-        },
-        {
-          "id": "tmtpost:86c47917f25c",
-          "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.537,
-          "url": "https://www.tmtpost.com/8138491.html",
-          "published_at": "2026-09-13T23:20:00+00:00",
-          "summary": "DeepSeek灰度测试语音对话；图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3；现代汽车将于2029年推出自研驾驶辅助系统；特斯拉Semi卡车将进军欧洲，满载续航最高550公里；英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判；国务院国资委：统筹用好国内国际两个市场，优化海外投资布局；李强签署国务院令，公布《市场监督管理所条例》；中国证监会发布《期货公司监督管理办法》及配套实施；三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》；纳斯达克100指数将提高SpaceX权重，数十亿美元基金料将买入；伊朗称霍尔木兹海峡或将开新通道；中"
-        },
-        {
-          "id": "cnbeta:70ae2ab01bcb",
-          "title": "84GB GDDR7 英伟达RTX PRO 5500 Blackwell专业显卡登场",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.996,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577814.htm",
-          "published_at": "2026-09-14T05:04:27+00:00",
-          "summary": "<p>英伟达官网正式发布RTX PRO 5500 Blackwell专业工作站显卡。<strong>RTX PRO 5500采用Blackwell架构，最引人注目的特性是84GB GDDR7显存。该显存支持错误校正码(ECC)，带宽高达1398 GB/秒，</strong>可运行更大AI模型、支持更长上下文窗口，并同时运行多个模型而无需卸载到系统内存。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577814.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a2e7d692df3d",
-          "title": "《新科学家》：数学难题证明不再稀缺 AI让数学进入混乱时代",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.994,
-          "url": "https://www.cnbeta.com.tw/articles/science/1577806.htm",
-          "published_at": "2026-09-14T05:02:46+00:00",
-          "summary": "<p>人工智能正在进入数学最核心的领地。过去，人们习惯把计算机视为高速计算器或证明检查器，如今，新一代模型已经能够提出证明思路、搜索反例、形式化复杂论证，甚至直接参与开放问题研究，这让数学界第一次认真面对一个令人不安的问题：如果机器也能“做数学”，人类数学家的价值将转移到哪里？</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1577806.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:4420574c2a48",
-          "title": "【Fintech 周报】信用卡日均“销卡”超10万张；OpenAI推出金融版ChatGPT",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.9,
-          "url": "https://www.tmtpost.com/8138755.html",
-          "published_at": "2026-09-14T03:21:44+00:00",
-          "summary": "保险法时隔11年再迎大修；金融监管总局丛林：大力整治“价格战”；5家支付机构同日被罚3661万元；中互金发布7条自律举措规范互联网贷款营销行为；9家银行AIC上半年净利润同比增长约1.4倍；四大国有行今年“秋招”缩招7000余人；年内多家银行拟停办个人贵金属代理业务；信用卡日均“销卡”超10万张；头部寿险公司营销员止跌，7年减少700万人；招商银行行长助理辞任；广州农商行收缩异地布局；6家上市助贷公司上半年“放款”少1789亿。"
-        },
-        {
-          "id": "tmtpost:c2bf209fa11e",
-          "title": "Anthropic为安全踩刹车：减硅谷的速，断中企的路",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.803,
-          "url": "https://www.tmtpost.com/8138511.html",
-          "published_at": "2026-09-14T01:32:42+00:00",
-          "summary": "Anthropic吹警笛，OpenAI推迟 IPO，马斯克点赞：硅谷AI大厂齐踩刹车。"
-        },
-        {
-          "id": "techcrunch:7193936e8eaf",
-          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.604,
-          "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-          "published_at": "2026-09-13T21:30:00+00:00",
-          "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified."
-        },
-        {
-          "id": "the_verge:6429a4df1528",
-          "title": "Trump and Mike Johnson think the AI industry is overreacting",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.523,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-          "published_at": "2026-09-13T19:41:48+00:00",
-          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-14T13:03:23.126819+00:00",
       "generated_ts": 1789391003.1268194,
@@ -7520,6 +7425,111 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582048.htm",
           "published_at": "2026-10-14T04:30:56+00:00",
           "summary": "<p>加密货币交易所币安发布公告宣布，将在 2026 年 11 月 10 日 15:00 (UTC+8) 停止币安矿池及其相关服务。受影响的项目包括币安矿池宝、云算力、交易加速以及矿池 API、Telegram 算力提醒以及邮件通知等功能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-14T12:08:13.779268+00:00",
+      "generated_ts": 1791979693.779268,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 13,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:1d2bf5ca3586",
+          "title": "Anthropic国际业务主管：开源模型风险更高",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.983,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582132.htm",
+          "published_at": "2026-10-14T11:56:11+00:00",
+          "summary": "<p>10月14日，据彭博社报道，A<strong>nthropic负责美国以外市场的最高销售主管表示，与该公司的AI模型相比，开放模型在网络安全事件或其他危险方面存在“更高风险”</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582132.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:84f56c5ebcce",
+          "title": "破解后的PS5变身本地AI服务器 成功运行270亿参数大模型 每秒生成约20个Token",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.944,
+          "url": "https://www.cnbeta.com.tw/articles/game/1582122.htm",
+          "published_at": "2026-10-14T11:29:14+00:00",
+          "summary": "<p>索尼PlayStation 5原本是为电子游戏设计的主机，但一项开源开发项目正在尝试挖掘这台游戏设备的另一种用途：运行本地人工智能大语言模型。开发者通过破解PS5的系统限制，将开源推理引擎llama.cpp移植到主机上，并进一步利用其GPU运行大模型。最新演示显示，一台破解后的普通PS5已经能够运行拥有270亿参数的Qwen 3.8模型，在采用低比特量化的情况下，文本生成速度达到每秒约20个Token。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582122.htm\" target=\"_blank\"><strong>阅读全"
+        },
+        {
+          "id": "qbitai:3ec97f2b23f2",
+          "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.569,
+          "url": "https://www.qbitai.com/2026/10/503201.html",
+          "published_at": "2026-10-14T06:45:38+00:00",
+          "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
+        },
+        {
+          "id": "qbitai:c7e7849b0f2c",
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.341,
+          "url": "https://www.qbitai.com/2026/10/503165.html",
+          "published_at": "2026-10-14T03:32:48+00:00",
+          "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
+        },
+        {
+          "id": "cnbeta:bd23e1484c3c",
+          "title": "苹果iPhone 15 Pro及后续机型国行版备案大模型编号：Apple智能、通义千问等在列",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.732,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582102.htm",
+          "published_at": "2026-10-14T07:08:47+00:00",
+          "summary": "<p>10月14日，苹果多款iPhone于9月29日进行国行备案换证，新增搭载的大模型备案编号，包括Apple智能（Shanghai-AppleZhiNeng-202506160057）、通义万象（Shanghai-TongYiWanXiang-202410090024）及通义千问（ZheJiang-TongYiQianWen-20230901）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582102.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:af233b99d882",
+          "title": "AI设备订单涌入 ASML称2027至2028年产能仍难满足客户需求",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.703,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582096.htm",
+          "published_at": "2026-10-14T06:34:22+00:00",
+          "summary": "<p>荷兰光刻设备制造商ASML表示，人工智能带来的芯片制造设备需求持续升温，按目前规划，公司2027年和2028年的供应能力都不足以完全满足客户需求，正研究进一步扩大产能。首席执行官克里斯托夫·富凯称，客户讨论已逐渐从2027年延伸至更远年份，公司不仅看到大量面向2028年的订单需求，也有客户开始询问2029年甚至2030年的供货安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582096.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7e12230f1ffc",
+          "title": "刚刚上线的Google新旗舰Gemini 4 Argon可能是目前最适合普通人的AI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.645,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582076.htm",
+          "published_at": "2026-10-14T05:22:24+00:00",
+          "summary": "<p>在网上已经讨论了两周的，Google AI 新旗舰 Gemini 4 Argon 终于正式上线。要知道，上一次 Gemini 进行大版本更新，而非搞些 Flash/Flash-Lite 这种轻量化版本更新，还是遥远的 Gemini 3.1Pro。当时的我们还在过春节，而如今，我们甚至已经过完了 2026 年的所有法定假日……<br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582076.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3b27271cdbdf",
+          "title": "Google Gemini 4发布 性价比“斩杀”GPT-6和Opus 5.5 重回御三家",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.643,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582072.htm",
+          "published_at": "2026-10-14T05:20:17+00:00",
+          "summary": "<p>接连更新 Flash 3.5 至 3.8 系列后，迟迟未兑现旗舰 Pro 版本的Google，急需一款重磅产品稳住市场预期。两周前悄然开启小范围测试的 Gemini 4 Argon，便承担着这一角色。Argon 意为氩气，无色无味且性质稳定，常在焊接与半导体制造等关键工艺中提供保护屏障。以此命名，恰好呼应了Google当下的需求：不要更多噱头，而是用一次扎实的发布稳住局面。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582072.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:15ca68be7f38",
+          "title": "Anthropic寻求就五角大楼将其认定为“安全风险”一案进行重审",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.64,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582066.htm",
+          "published_at": "2026-10-14T05:16:23+00:00",
+          "summary": "<p>Anthropic周二请求美国上诉法院重新审议一项裁决；该裁决此前维持了美国国防部的一项决定，即因涉及其技术安全防护措施的争议，将这家人工智能公司列为国家安全供应链风险对象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582066.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
