@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T22:55:59.535751+00:00",
-    "generated_ts": 1791932159.535751,
+    "generated_at": "2026-10-14T05:04:07.887712+00:00",
+    "generated_ts": 1791954247.8877122,
     "window_hours": 24.0,
-    "total": 14
+    "total": 15
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.968
+    },
+    {
+      "id": "tmtpost:1acc10bd45a7",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
+      "url": "https://www.tmtpost.com/8167674.html",
+      "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
+      "published_at": "2026-10-13T23:20:00+00:00",
+      "published_ts": 1791933600.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.542
     },
     {
       "id": "cnbeta:81209a689925",
@@ -112,6 +127,21 @@
       "importance": 1.989
     },
     {
+      "id": "cnbeta:ef798c4febfd",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "币安将在11月10日关闭矿池及相关服务",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582048.htm",
+      "summary": "<p>加密货币交易所币安发布公告宣布，将在 2026 年 11 月 10 日 15:00 (UTC+8) 停止币安矿池及其相关服务。受影响的项目包括币安矿池宝、云算力、交易加速以及矿池 API、Telegram 算力提醒以及邮件通知等功能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-14T04:30:56+00:00",
+      "published_ts": 1791952256.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.968
+    },
+    {
       "id": "cnbeta:5171be59848a",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -200,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.637
-    },
-    {
-      "id": "qbitai:2baef088c3d8",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-      "url": "https://www.qbitai.com/2026/10/502767.html",
-      "summary": "算力、模型、行业，三层生意一起做",
-      "published_at": "2026-10-13T04:01:15+00:00",
-      "published_ts": 1791864075.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.482
     }
   ]
 }
