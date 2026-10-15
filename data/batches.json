@@ -1,169 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T11:44:38.406981+00:00",
+    "generated_at": "2026-10-15T17:11:13.679196+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-15T11:53:55.116273+00:00",
-      "generated_ts": 1789473235.116273,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:c0da9fd7ac21",
-          "title": "OpenAI着手修复GPT-6 Astra降智问题 中文用户受伤最深",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.739,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578068.htm",
-          "published_at": "2026-09-15T08:45:07+00:00",
-          "summary": "<p>OpenAI的旗舰大模型GPT-6 Astra发布有几天了，最初全网都在夸它的强大令人震撼，这几天很多都变成吐槽了，因为降智严重。每次有新版大模型发布，使用没几天之后降智问题多少都会出现，这里面原因也很复杂，有可能是算力不够，也有可能故意限制，从国内外论坛网友的吐槽来看，<strong>GPT-6 Astra降智让中文区用户受伤最严重，很多人甚至被路由到了低端模型</strong>，性能严重下滑，花了钱也要被虐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578068.htm\" target=\"_blank\"><stron"
-        },
-        {
-          "id": "cnbeta:4b19873e56c4",
-          "title": "拉加德警告欧洲面临AI“断供”风险 呼吁扩建本土算力",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.738,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578066.htm",
-          "published_at": "2026-09-15T08:44:20+00:00",
-          "summary": "<p>欧洲央行行长拉加德表示，欧洲在人工智能模型、算力和基础设施方面高度依赖外部供应商，未来若服务访问被撤回或使用条件发生变化，影响可能同时波及海关、税务、交通、医疗及银行支付等领域。她呼吁欧洲加快建设数据中心，发展能够在本土基础设施上运行的模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578066.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:bedbeb0a5a0c",
-          "title": "DeepSeek Harness官方桌面端即将就绪",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.604,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578046.htm",
-          "published_at": "2026-09-15T06:59:27+00:00",
-          "summary": "<p>8月中旬V4 Pro正式版发布的时候，DeepSeek还顺带着推出了DeepSeek Harness（简称DSH），这是官方配套的客户端，但之前是Web界面，现在终于能等到官方桌面客户端了。相比大模型，DeepSeek Harness这一个月来获得的热度更高，几天时间就获得了10万以上的Github Star，一切皆插件的理念也给与开发者极大的自由，初期官方没有自己的桌面客户端，社区就开发了多个第三方桌面客户端。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578046.htm\" target=\"_blank\"><stron"
-        },
-        {
-          "id": "cnbeta:844a2b5b60d7",
-          "title": "谷歌向全体工程师开放Anthropic Claude使用权限 AI编程赛道竞争进一步升温",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.572,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578022.htm",
-          "published_at": "2026-09-15T06:34:09+00:00",
-          "summary": "<p>据Business Insider等多家媒体援引内部消息人士与官方信息报道，谷歌近期调整内部政策，通过自研的内部开发平台Antigravity，向全体工程师开放了Anthropic旗下的顶级编码大模型Opus 5的使用权限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578022.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:670d4f77f53f",
-          "title": "欧盟网络安全局警告前沿AI大幅压缩漏洞利用窗口 防御体系遭遇重大压力",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.518,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578018.htm",
-          "published_at": "2026-09-15T05:49:56+00:00",
-          "summary": "<p>欧盟网络安全局（ENISA）近日发布政策警示报告指出，新一代前沿人工智能（Frontier AI）大模型正在彻底颠覆传统的网络安全防御范式。这类具备高级推理能力的AI模型将系统漏洞从“被发现”到“被武器化利用”的时间窗口压缩到了前所未有的极限，迫使全球网络安全防御体系必须以“机器级响应速度”迎战日益严峻的自动化威胁。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578018.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:4c83fec879bd",
-          "title": "对话比尔·盖茨：中美大模型各有4家 能够保持最先进水平",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.468,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578002.htm",
-          "published_at": "2026-09-15T05:08:12+00:00",
-          "summary": "<p>今日，盖茨基金会掏出 10 亿美元“砸”向人工智能，宣布将在未来两年花费重金，推动这项前沿技术不只为富人服务，也能帮最贫困的人改变命运。在交流中，盖茨不仅高度评价“中国大模型表现非常出色”，剖析开源技术对于全球贫困地区的重要意义，还就外界关心的“数据中心耗电与环保焦虑”“AI 对就业市场的冲击”以及“中国人形机器人发展”等热点话题分享了观点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578002.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b9f6077ec444",
-          "title": "荷兰AI芯片初创公司Euclyd获2.3亿美元融资",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.463,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1577998.htm",
-          "published_at": "2026-09-15T05:04:20+00:00",
-          "summary": "<p>荷兰人工智能芯片初创公司Euclyd近日完成一轮规模达2亿欧元、约合2.3亿美元的A轮融资。此次融资由三星、Somerset Capital Partners、由EQT管理的Scaleup Europe Fund以及Innovation Industries共同领投，使这家成立于2024年的年轻公司获得了进一步挑战英伟达AI芯片市场地位所需的资金支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1577998.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:8f1620c1af3e",
-          "title": "《时代》2026全球最佳公司榜：英伟达蝉联榜首 联想首次上榜",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.976,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578078.htm",
-          "published_at": "2026-09-15T11:28:24+00:00",
-          "summary": "<p>人工智能热潮持续重塑全球商业格局，英伟达在《时代》与Statista联合编制的2026年度全球最佳企业榜单中再度登顶。这份年度榜单从员工满意度、营收增长、可持续发展透明度三大维度评估企业，今年榜单显示，AI经济的影响力早已跳出芯片厂商，延伸至制造业、保险以及防务领域。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578078.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:01e6f2ec9e47",
-          "title": "白宫科技顾问抨击美AI巨头：你们自己得保证产品安全 别老想着靠政府",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.735,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578044.htm",
-          "published_at": "2026-09-15T06:58:46+00:00",
-          "summary": "<p>9月15日，据彭博社报道，美国总统科学技术顾问委员会联合主席大卫·萨克斯(David Sacks)周一在接受采访时表示，<strong>Anthropic和OpenAI等顶尖AI公司应该自己确保产品安全，并在必要时自行放缓发展速度，而不是需要政府介入。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578044.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:f25820763e09",
-          "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.67,
-          "url": "https://www.qbitai.com/2026/09/489288.html",
-          "published_at": "2026-09-15T05:39:10+00:00",
-          "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-15T17:08:47.649738+00:00",
-      "generated_ts": 1789492127.6497378,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:7b85e79f0500",
-          "title": "台积电COO：AI像三岁超人 在尖端芯片设计上不太实用",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.664,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578110.htm",
-          "published_at": "2026-09-15T13:02:16+00:00",
-          "summary": "<p>据彭博社报道，<strong>台积电一位高管将AI比作拥有非凡能力，却分不清是非的幼儿，借此解释了该公司为何对使用这项技术采取谨慎态度</strong>。台积电联席首席运营官米玉杰周二表示，公司在使用AI处理敏感研发信息方面尤为审慎。他强调称，<strong>如果员工使用AI不当，就可能存在数据泄露或丢失的风险</strong>，并提到OpenAI和Anthropic的模型曾渗透外部组织的事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578110.htm\" target=\"_blank\"><strong>阅读全文</s"
-        },
-        {
-          "id": "techcrunch:d7ecc978efca",
-          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.661,
-          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-          "published_at": "2026-09-15T13:00:00+00:00",
-          "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
-        },
-        {
-          "id": "techcrunch:c224dcde794a",
-          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.923,
-          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-          "published_at": "2026-09-15T15:47:03+00:00",
-          "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-15T21:31:13.926343+00:00",
       "generated_ts": 1789507873.9263434,
@@ -7535,6 +7375,101 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582254.htm",
           "published_at": "2026-10-15T06:49:49+00:00",
           "summary": "<p>台积电第三季度利润超出预期，在人工智能（AI）基础设施建设长远前景日益引发担忧之际，保持了高速增长。这家全球芯片制造关键企业表示，净利润增长69%至7631亿元台币（236亿美元），高于分析师平均预期。之前该公司公布当季销售额增长51%，达到470亿美元，也超出预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582254.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-15T17:11:13.679196+00:00",
+      "generated_ts": 1792084273.6791964,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:08a3a9e10fba",
+          "title": "​传闻称英特尔GPU D系列将推出512GB超大显存版本 面向AI推理市场竞争升级",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.936,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582398.htm",
+          "published_at": "2026-10-15T16:26:06+00:00",
+          "summary": "<p>最新供应链消息显示，英特尔合作伙伴正在准备基于GPU D系列加速卡打造拥有512GB显存容量的定制版本。如果消息属实，这将成为目前市场上显存容量最高的一类AI加速产品之一，并进一步强化英特尔在人工智能推理领域的布局。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582398.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:177f10494713",
+          "title": "英伟达发布Nemotron 3.5系列模型 1200亿参数旗舰与轻量级边缘AI同步亮相",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.88,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582392.htm",
+          "published_at": "2026-10-15T15:46:24+00:00",
+          "summary": "<p>英伟达宣布扩展Nemotron 3.5人工智能模型家族，正式推出面向智能体（AI Agent）应用的大型视觉语言模型Nemotron 3.5 Super VL，同时发布两款专为边缘设备打造的轻量级模型，进一步完善从数据中心到终端设备的AI部署体系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582392.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5f7846dd7ff9",
+          "title": "德国计划与英伟达开展大规模合作 西门子、奥迪等12家企业参与",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.857,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582374.htm",
+          "published_at": "2026-10-15T15:29:35+00:00",
+          "summary": "<p>媒体从知情人士处获悉，德国联邦政府计划与美国芯片厂商英伟达开展大规模合作，推动人工智能（AI）在工业领域实现突破，在全球技术竞赛中追上差距。这项合作计划有两大目标：其一，为实体人工智能的落地奠定基础，这类AI可用于机器人、自动驾驶车辆的训练；其二，训练具备国际竞争力的高性能工业大模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a626902694dd",
+          "title": "Anthropic弃用Git 自行开发版本控制系统应对AI生成的代码洪流",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.737,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582362.htm",
+          "published_at": "2026-10-15T14:00:47+00:00",
+          "summary": "<p>人工智能公司Anthropic近日披露，由于Claude生成代码的速度过快，传统软件开发基础设施已经成为新的瓶颈。为解决这一问题，公司在短短五个月内完成了一项大胆改革：放弃Git作为核心版本控制系统，自主开发并全面迁移至名为Scion的新平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4c2282fcc65e",
+          "title": "Cursor员工调查机密数据是否流入SpaceX用于AI训练",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.715,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582348.htm",
+          "published_at": "2026-10-15T13:44:10+00:00",
+          "summary": "<p>SpaceX人工智能部门在8月推出个人AI智能体产品Grok Bot的数周前，Cursor的工程师发现了一个潜在隐患。当时SpaceX正收购AI代码初创公司Cursor，而Grok Bot正是由Cursor负责开发。在开发过程中，Cursor全体员工大量使用该工具开展测试与日常工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582348.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:593697a9cb7d",
+          "title": "传英特尔代工业务获多家科技公司订单 客户名单与金额尚未获官方证实",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.921,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582396.htm",
+          "published_at": "2026-10-15T15:47:48+00:00",
+          "summary": "<p>KeyBanc近期亚洲调研相关消息称，尔代工服务已取得多家科技公司的项目进展，涉及博通、Google、苹果、AMD、微软和英伟达。项目包括为博通制造网络交换芯片、为Google和微软生产服务器CPU、为苹果制造A系列与M系列处理器、为AMD生产客户端处理器计算模块，以及为英伟达Rubin游戏显卡代工芯片。亚马逊AWS、Anthropic和SpaceX/Tesla旗下Terafab则据称仍在评估英特尔14A与18A-P工艺。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582396.htm\" target=\"_blank\"><"
+        },
+        {
+          "id": "ars_technica:1c0f3fe125e1",
+          "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.917,
+          "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+          "published_at": "2026-10-15T15:43:24+00:00",
+          "summary": "FTC may fine AI firms on par with companies that delay data breach reports."
+        },
+        {
+          "id": "cnbeta:8ecded7dc4e8",
+          "title": "Google正式推出AI通用购物车：跨电商平台集中管理商品 自动追踪降价",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.806,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582336.htm",
+          "published_at": "2026-10-15T13:39:13+00:00",
+          "summary": "<p>Google正式推出名为Universal Cart（通用购物车）的AI购物工具，试图借助人工智能改变消费者在线购物的方式。当地时间10月15日，Google宣布该功能开始在美国市场推出，首批覆盖Google搜索和Gemini应用。用户可以将来自不同零售商的商品集中保存到同一个购物车中，由AI协助追踪价格变化、监测库存、寻找促销优惠，并根据银行卡的奖励政策推荐更合适的支付方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582336.htm\" target=\"_blank\"><strong>阅读全文</strong></a"
         }
       ]
     }
