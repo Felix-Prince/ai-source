@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T21:48:50.559663+00:00",
-    "generated_ts": 1792014530.5596626,
+    "generated_at": "2026-10-15T04:53:17.583156+00:00",
+    "generated_ts": 1792039997.5831556,
     "window_hours": 24.0,
-    "total": 24
+    "total": 21
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.983
     },
     {
-      "id": "cnbeta:2028ca503e95",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "FBI逮捕OpenAI工程师 涉嫌在高管会议室安装隐藏录音设备 试图窃听机密谈话",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582042.htm",
-      "summary": "<p>美国联邦调查局（FBI）近日逮捕了一名曾在OpenAI工作的工程师。美国联邦检察官指控，这名员工涉嫌在OpenAI位于旧金山的办公室内秘密安装录音设备，试图窃听公司高管会议室中的谈话。调查人员认为，相关会议可能涉及公司的高度机密技术、商业战略和人工智能研发计划。OpenAI发现可疑设备后，利用自身的人工智能模型协助分析设备及追查来源，并向FBI报告了事件。目前，该员工已被解雇，并因涉嫌非法截取他人谈话而受到刑事指控。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582042.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-13T22:33:34+00:00",
-      "published_ts": 1791930814.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.968
-    },
-    {
       "id": "cnbeta:84f56c5ebcce",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -65,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.944
+    },
+    {
+      "id": "tmtpost:e6e9bef29b3a",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "中国科学家首次以书生科学多模态大模型攻克世界级数学难题",
+      "url": "https://www.tmtpost.com/8169589.html",
+      "summary": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。",
+      "published_at": "2026-10-15T04:02:07+00:00",
+      "published_ts": 1792036927.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.927
     },
     {
       "id": "cnbeta:84da269e40c1",
@@ -127,36 +127,6 @@
       "importance": 2.569
     },
     {
-      "id": "tmtpost:1acc10bd45a7",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
-      "url": "https://www.tmtpost.com/8167674.html",
-      "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
-      "published_at": "2026-10-13T23:20:00+00:00",
-      "published_ts": 1791933600.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.542
-    },
-    {
-      "id": "qbitai:c7e7849b0f2c",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-      "published_at": "2026-10-14T03:32:48+00:00",
-      "published_ts": 1791948768.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.341
-    },
-    {
       "id": "openai_blog:204c4e75d4b5",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -170,21 +140,6 @@
       "tier": 0,
       "ai_score": 2.0,
       "importance": 2.224
-    },
-    {
-      "id": "cnbeta:ef798c4febfd",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "币安将在11月10日关闭矿池及相关服务",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582048.htm",
-      "summary": "<p>加密货币交易所币安发布公告宣布，将在 2026 年 11 月 10 日 15:00 (UTC+8) 停止币安矿池及其相关服务。受影响的项目包括币安矿池宝、云算力、交易加速以及矿池 API、Telegram 算力提醒以及邮件通知等功能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-14T04:30:56+00:00",
-      "published_ts": 1791952256.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.968
     },
     {
       "id": "the_verge:727cb7588e63",
@@ -202,21 +157,6 @@
       "importance": 1.964
     },
     {
-      "id": "cnbeta:d4504bf212cc",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "GlobalFoundries将在纽约新增两座晶圆厂 美国本土芯片制造能力进一步扩张",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582184.htm",
-      "summary": "<p>美国晶圆代工企业格罗方德（GlobalFoundries）宣布，将在纽约州建设并运营两座新的半导体制造工厂，以扩大美国本土芯片生产能力，并满足汽车、工业控制、航空航天、国防以及人工智能等领域不断增长的需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582184.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-14T21:05:15+00:00",
-      "published_ts": 1792011915.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.958
-    },
-    {
       "id": "cnbeta:b6e9f660c561",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -225,6 +165,21 @@
       "summary": "<p>惠普（HP）正式推出第二代键盘电脑EliteBoard G2a，将一台完整的Windows电脑集成在标准尺寸的键盘内部。新产品搭载AMD Ryzen AI PRO 400系列处理器，最高支持64GB DDR5内存和2TB固态硬盘，并配备专门用于人工智能运算的神经网络处理器（NPU）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582182.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-10-14T21:04:20+00:00",
       "published_ts": 1792011860.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.958
+    },
+    {
+      "id": "cnbeta:d4504bf212cc",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GlobalFoundries将在纽约新增两座晶圆厂 美国本土芯片制造能力进一步扩张",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582184.htm",
+      "summary": "<p>美国晶圆代工企业格罗方德（GlobalFoundries）宣布，将在纽约州建设并运营两座新的半导体制造工厂，以扩大美国本土芯片生产能力，并满足汽车、工业控制、航空航天、国防以及人工智能等领域不断增长的需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582184.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-14T21:05:15+00:00",
+      "published_ts": 1792011915.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
