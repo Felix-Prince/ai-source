@@ -1,54 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T04:53:17.583156+00:00",
+    "generated_at": "2026-10-15T11:44:38.406981+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-15T05:03:11.323203+00:00",
-      "generated_ts": 1789448591.3232026,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "qbitai:4a319eb7bb5b",
-          "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.77,
-          "url": "https://www.qbitai.com/2026/09/489227.html",
-          "published_at": "2026-09-15T02:17:34+00:00",
-          "summary": "几百个Agent参与研发，AI开始造AI"
-        },
-        {
-          "id": "tmtpost:cf6ce5d9682b",
-          "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.925,
-          "url": "https://www.tmtpost.com/8140111.html",
-          "published_at": "2026-09-15T03:43:45+00:00",
-          "summary": "争霸战的赢家，属于那个先让利润追上故事的人。"
-        },
-        {
-          "id": "the_verge:67e4c192a008",
-          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.679,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "published_at": "2026-09-14T22:59:41+00:00",
-          "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-15T11:53:55.116273+00:00",
       "generated_ts": 1789473235.116273,
@@ -7465,6 +7420,121 @@
           "url": "https://www.tmtpost.com/8169589.html",
           "published_at": "2026-10-15T04:02:07+00:00",
           "summary": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-15T11:44:38.406981+00:00",
+      "generated_ts": 1792064678.4069805,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:03362e8cce76",
+          "title": "OpenAI数学突破震动密码学界",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.927,
+          "url": "https://www.cnbeta.com.tw/articles/science/1582320.htm",
+          "published_at": "2026-10-15T10:53:38+00:00",
+          "summary": "<p>上周二，OpenAI 对外公布，其内部模型攻克了多项悬而未决的数学难题，这一消息引发全球顶尖密码学家的担忧。密码学家专门研究信息编码技术，以此保障信息私密与安全。他们担心，AI 在数学领域持续取得进展，未来或许能找出新算法，攻破各类加密服务 —— 小到线上支付，大到 WhatsApp 这类即时通讯平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:67d2a8cbacd7",
+          "title": "Llama for Windows发布 支持一键下载模型 无需命令行或管理员权限",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.788,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582308.htm",
+          "published_at": "2026-10-15T09:12:21+00:00",
+          "summary": "<p>对于希望在自己的电脑上运行人工智能模型的Windows用户而言，安装和配置本地AI工具一直存在一定门槛。用户不仅需要寻找合适的模型文件，还要考虑模型格式、硬件兼容性、推理引擎安装以及启动参数等问题。如今，由Hugging Face与llama.cpp团队相关开发者推出的开源应用Llama for Windows，试图将这一过程简化为几个简单的操作，让用户无需使用命令行，也能在Windows电脑上下载并运行本地大语言模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582308.htm\" target=\"_blank\"><s"
+        },
+        {
+          "id": "cnbeta:40d4e57de49f",
+          "title": "中国科学家首次用国产大模型破解三维Ghys猜想 人机协同证明并获形式化验证",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.628,
+          "url": "https://www.cnbeta.com.tw/articles/science/1582280.htm",
+          "published_at": "2026-10-15T07:09:20+00:00",
+          "summary": "<p>10月15日，上海人工智能实验室发文称，困扰数学界30余年的世界级难题——三维Ghys猜想近日迎来了破解。上海人工智能实验室（上海AI实验室）访问学者、大湾区大学教授许地生团队依托<strong>书生科学多模态大模型S2（书生-S2）</strong>，基于“通专融合”技术路径，通过人机协同完成了三维Ghys猜想证明。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582280.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8b01e2c75eb2",
+          "title": "OpenAI因ChatGPT儿童安全担忧被8个州起诉",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.615,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582264.htm",
+          "published_at": "2026-10-15T06:58:57+00:00",
+          "summary": "<p>美国八个州周三对OpenAI提起诉讼，指控这家人工智能公司的ChatGPT聊天机器人是不安全产品，伤害了儿童并欺骗了家长。爱荷华州总检察长布伦娜·伯德在一份新闻稿中表示，爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州和蒙大拿州已分别在各自州法院起诉OpenAI。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b13902939dec",
+          "title": "DeepSeek致歉：抱歉带来不便与困扰 将以赠金形式返还7日消耗金额",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.95,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582314.htm",
+          "published_at": "2026-10-15T10:52:13+00:00",
+          "summary": "<p>针对服务器异常一事，DeepSeek发布“服务恢复及补偿通知”称，北京时间2026年10月15日8：11至13：04期间，我们的服务系统出现故障，导致该时段内API服务无法正常使用。对于此次故障给您带来的不便与困扰，我们深表歉意。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582314.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:81188ad7be47",
+          "title": "Agent热潮带火端侧AI，“奇点时刻”还有多远？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.913,
+          "url": "https://www.tmtpost.com/8170161.html",
+          "published_at": "2026-10-15T10:12:11+00:00",
+          "summary": "AI从云端向边端转移的背后，是算力的下沉，以及由此带来的行业格局之变。"
+        },
+        {
+          "id": "cnbeta:493180771502",
+          "title": "AI耗资1.4万就能设计出RISC-V芯片 功耗仅20毫瓦",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.843,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582298.htm",
+          "published_at": "2026-10-15T08:54:26+00:00",
+          "summary": "<p><strong>近日半导体专家@bubbleboi利用Meta旗下的Muse AI智能体，成功设计出一款基于RISC-V架构的加密专用SoC。</strong>更离谱的是，整个设计过程的计算成本仅为2000美元左右（快科技注：约1.42万元人民币）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e296971f246d",
+          "title": "黄仁勋与奥特曼唱反调：不应容忍AI引发的任何网络安全事件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.743,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582266.htm",
+          "published_at": "2026-10-15T06:59:24+00:00",
+          "summary": "<p>英伟达首席执行官黄仁勋表示，人工智能行业不应容忍由该技术引发的任何网络安全事件。这一观点与OpenAI首席执行官萨姆·奥特曼的看法相左，后者最近曾声称，一些黑客攻击和诈骗行为或许是人类社会获取人工智能所带来的益处时，不得不付出的代价。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582266.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:79c0b401987a",
+          "title": "美国FBI称OpenAI被捕员工利用妻子的ChatGPT账号研究如何安装窃听设备",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.74,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582256.htm",
+          "published_at": "2026-10-15T06:55:38+00:00",
+          "summary": "<p>美国联邦调查局（FBI）表示，一名OpenAI工程师利用其妻子的ChatGPT账号，研究如何在公司办公室内安装秘密录音设备。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582256.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5853e2bf9830",
+          "title": "台积电第三季度利润超出预期 保持高速增长",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.735,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582254.htm",
+          "published_at": "2026-10-15T06:49:49+00:00",
+          "summary": "<p>台积电第三季度利润超出预期，在人工智能（AI）基础设施建设长远前景日益引发担忧之际，保持了高速增长。这家全球芯片制造关键企业表示，净利润增长69%至7631亿元台币（236亿美元），高于分析师平均预期。之前该公司公布当季销售额增长51%，达到470亿美元，也超出预期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582254.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
