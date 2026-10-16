@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T21:32:14.298758+00:00",
+    "generated_at": "2026-10-16T04:43:59.875487+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7460,6 +7460,81 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582416.htm",
           "published_at": "2026-10-15T19:46:46+00:00",
           "summary": "<p>随着人工智能模型规模不断扩大，数据中心对网络带宽的需求正在快速增长。英伟达与思科于2026年10月12日宣布联合开发新一代高密度可插拔光模块Ultra-Dense Small Form Factor Pluggable（USFP），旨在提升AI数据中心内部的网络连接能力，在有限的设备空间内传输更多数据，同时降低网络通信的能耗。该技术未来的总带宽最高可达12.8Tbps，相比采用每通道200Gbps技术的现有光模块，带宽密度有望提高至四倍，能效则提升约30%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582416.htm\""
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-16T04:43:59.875487+00:00",
+      "generated_ts": 1792125839.8754866,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:ad40d72ce9f2",
+          "title": "【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.567,
+          "url": "https://www.tmtpost.com/8170437.html",
+          "published_at": "2026-10-15T23:20:00+00:00",
+          "summary": "Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调查结果；交通运输部：重点推动内河电池、甲醇动力等新能源船舶发展；央行500亿元人民币3个月国库现金定期存款定于10月20日招投标；《大公报》严正声明"
+        },
+        {
+          "id": "tmtpost:c79bbd2cc1c3",
+          "title": "看懂 WorkBuddy 打通企微，上下文只是前菜",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.842,
+          "url": "https://www.tmtpost.com/8170374.html",
+          "published_at": "2026-10-16T01:52:56+00:00",
+          "summary": "到了 2026 年，全球科技巨头纷纷将 Agent 带入既有的协作网络。"
+        },
+        {
+          "id": "the_verge:784932d2453c",
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.681,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "published_at": "2026-10-15T22:43:23+00:00",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app"
+        },
+        {
+          "id": "qbitai:89287ff6c018",
+          "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.155,
+          "url": "https://www.qbitai.com/2026/10/503640.html",
+          "published_at": "2026-10-15T09:43:29+00:00",
+          "summary": "Siri AI这次不包括在内"
+        },
+        {
+          "id": "qbitai:f8f4e21603e9",
+          "title": "这个双十一，百灵新模型干起活来不烧心",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.086,
+          "url": "https://www.qbitai.com/2026/10/503532.html",
+          "published_at": "2026-10-15T07:35:24+00:00",
+          "summary": "大模型好不好用，百灵拿成品说话"
+        },
+        {
+          "id": "qbitai:0a1c1712a294",
+          "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.055,
+          "url": "https://www.qbitai.com/2026/10/503446.html",
+          "published_at": "2026-10-15T06:35:46+00:00",
+          "summary": ""
         }
       ]
     }

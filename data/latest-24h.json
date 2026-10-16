@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T21:32:14.298758+00:00",
-    "generated_ts": 1792099934.2987576,
+    "generated_at": "2026-10-16T04:43:59.875487+00:00",
+    "generated_ts": 1792125839.8754866,
     "window_hours": 24.0,
-    "total": 21
+    "total": 26
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.936
-    },
-    {
-      "id": "tmtpost:e6e9bef29b3a",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "中国科学家首次以书生科学多模态大模型攻克世界级数学难题",
-      "url": "https://www.tmtpost.com/8169589.html",
-      "summary": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。",
-      "published_at": "2026-10-15T04:02:07+00:00",
-      "published_ts": 1792036927.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.927
     },
     {
       "id": "cnbeta:03362e8cce76",
@@ -172,6 +157,21 @@
       "importance": 2.615
     },
     {
+      "id": "tmtpost:ad40d72ce9f2",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
+      "url": "https://www.tmtpost.com/8170437.html",
+      "summary": "Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调查结果；交通运输部：重点推动内河电池、甲醇动力等新能源船舶发展；央行500亿元人民币3个月国库现金定期存款定于10月20日招投标；《大公报》严正声明",
+      "published_at": "2026-10-15T23:20:00+00:00",
+      "published_ts": 1792106400.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.567
+    },
+    {
       "id": "cnbeta:b13902939dec",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -262,6 +262,21 @@
       "importance": 1.843
     },
     {
+      "id": "tmtpost:c79bbd2cc1c3",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "看懂 WorkBuddy 打通企微，上下文只是前菜",
+      "url": "https://www.tmtpost.com/8170374.html",
+      "summary": "到了 2026 年，全球科技巨头纷纷将 Agent 带入既有的协作网络。",
+      "published_at": "2026-10-16T01:52:56+00:00",
+      "published_ts": 1792115576.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.842
+    },
+    {
       "id": "cnbeta:8ecded7dc4e8",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -320,6 +335,66 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.735
+    },
+    {
+      "id": "the_verge:784932d2453c",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+      "published_at": "2026-10-15T22:43:23+00:00",
+      "published_ts": 1792104203.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.681
+    },
+    {
+      "id": "qbitai:89287ff6c018",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "summary": "Siri AI这次不包括在内",
+      "published_at": "2026-10-15T09:43:29+00:00",
+      "published_ts": 1792057409.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.155
+    },
+    {
+      "id": "qbitai:f8f4e21603e9",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
+      "summary": "大模型好不好用，百灵拿成品说话",
+      "published_at": "2026-10-15T07:35:24+00:00",
+      "published_ts": 1792049724.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.086
+    },
+    {
+      "id": "qbitai:0a1c1712a294",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "url": "https://www.qbitai.com/2026/10/503446.html",
+      "summary": "",
+      "published_at": "2026-10-15T06:35:46+00:00",
+      "published_ts": 1792046146.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.055
     }
   ]
 }
