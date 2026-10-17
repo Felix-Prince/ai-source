@@ -1,34 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T15:44:14.407606+00:00",
+    "generated_at": "2026-10-17T20:44:57.895284+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-17T17:09:10.199907+00:00",
-      "generated_ts": 1789664950.199907,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:8583ad0593c6",
-          "title": "华为加速布局算力对抗英伟达 计划2027年一季度推出新款AI芯片960DT",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.759,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578440.htm",
-          "published_at": "2026-09-17T14:14:59+00:00",
-          "summary": "<p>中国科技巨头华为近日正式公布了其下一代人工智能处理器的发布路线图，进一步加快了在算力基础设施领域对标英伟达的步伐。华为轮值董事长汪涛在上海举办的华为全联接大会（Huawei Connect）上对外确认，华为计划于2027年推出两款全新AI半导体芯片，其中首款新芯片960DT定于2027年第一季度正式发布，另一款昇腾960PR（Ascend 960PR）则预计将于同年第三季度面世。这一时间节点相较于此前业内预期的2027年第四季度有所提前。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578440.htm\" target=\"_"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-17T21:31:03.392022+00:00",
       "generated_ts": 1789680663.3920224,
@@ -7360,6 +7335,31 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
           "published_at": "2026-10-17T15:25:10+00:00",
           "summary": "<p>英特尔确认，下一代 Razor Lake-AX 系统级芯片将于 2028 年推出，其 AI 算力将达到 700 TOPS，约为现有 Panther Lake 平台的 3.88 倍。英特尔高级副总裁 Cho Min-sung 在韩国首尔三成洞举行的“半导体驱动人形机器人”研讨会上透露了这一路线图。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582688.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-17T20:44:57.895284+00:00",
+      "generated_ts": 1792269897.895284,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:79fc38ad7b2b",
+          "title": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.988,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582696.htm",
+          "published_at": "2026-10-17T20:36:32+00:00",
+          "summary": "<p>据韩国媒体The Elec报道，美光正与主要客户讨论面向物理AI的新型内存产品，开发名为“边缘推理内存”（Edge Inference Memory，EIM）的方案，重点应用包括人形机器人、自主驾驶以及AR、VR设备。美光高管李哲在韩国半导体展SEDEX 2026相关活动上表示，物理AI市场正在快速发展，公司正与客户推进适配新市场的产品开发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
