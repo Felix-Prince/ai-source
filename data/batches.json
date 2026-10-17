@@ -1,74 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T04:41:49.495324+00:00",
+    "generated_at": "2026-10-17T10:58:04.923187+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-17T05:01:14.028341+00:00",
-      "generated_ts": 1789621274.0283413,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:a045346d97c4",
-          "title": "Claude 二合一背后，Anthropic 也想锁死你的上下文",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.983,
-          "url": "https://www.tmtpost.com/8142541.html",
-          "published_at": "2026-09-17T04:49:35+00:00",
-          "summary": "上下文越厚，越难搬家。"
-        },
-        {
-          "id": "tmtpost:4f7831e683f5",
-          "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.933,
-          "url": "https://www.tmtpost.com/8143131.html",
-          "published_at": "2026-09-17T03:50:19+00:00",
-          "summary": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。"
-        },
-        {
-          "id": "tmtpost:96b7004070b0",
-          "title": "6912颗光模块与一台\"修芯片的机器\"：算力竞争的账，正在算向制造装备",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.899,
-          "url": "https://www.tmtpost.com/8140584.html",
-          "published_at": "2026-09-17T03:14:00+00:00",
-          "summary": "英伟达 40 亿美元锁定的不是芯片厂，是两家激光器厂；红杉 8 月连下两注，买的也是装备——修光芯片良率的机器，和验证国产设备的封装平台。算力的下一个瓶颈，正在从芯片设计移向制造装备。"
-        },
-        {
-          "id": "tmtpost:a0c4a1d79e02",
-          "title": "中国电信TeleAgent：要留在办公Agent牌桌上，仍有可为空间 | 钛快讯",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.888,
-          "url": "https://www.tmtpost.com/8142808.html",
-          "published_at": "2026-09-17T03:01:50+00:00",
-          "summary": "IDC测评显示，TeleAgent成本效率表现突出，Token消耗优于同类产品。"
-        },
-        {
-          "id": "qbitai:afed0e2d0f39",
-          "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.789,
-          "url": "https://www.qbitai.com/2026/09/490950.html",
-          "published_at": "2026-09-17T01:09:25+00:00",
-          "summary": "奖励曲线、显卡故障全公开"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-17T11:52:46.826993+00:00",
       "generated_ts": 1789645966.826993,
@@ -7420,6 +7355,91 @@
           "url": "https://www.qbitai.com/2026/10/503843.html",
           "published_at": "2026-10-16T08:00:31+00:00",
           "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-17T10:58:04.923187+00:00",
+      "generated_ts": 1792234684.9231865,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:1f3aad0b0505",
+          "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.868,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
+          "published_at": "2026-10-17T09:24:19+00:00",
+          "summary": "<p>DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582656.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:aa494aba5ae8",
+          "title": "要么不用工具，要么交出内容？Meta新条款引争议",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.655,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582634.htm",
+          "published_at": "2026-10-17T06:44:35+00:00",
+          "summary": "<p>Gizmodo报道，社交巨头Meta更新Meta Business Suite商业账号服务条款，新规将于10月30日正式落地。企业只要使用Meta商业账号开展广告、店铺运营业务，即视作默许Meta爬虫抓取自身官网公开网页内容，供 Meta AI大模型训练使用，该条款在行业引发巨大争议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582634.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:93f85209c1ab",
+          "title": "Claude半小时解开二十多年密码学谜题",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.651,
+          "url": "https://www.cnbeta.com.tw/articles/science/1582630.htm",
+          "published_at": "2026-10-17T06:41:31+00:00",
+          "summary": "<p>10 月 16 日，Anthropic 公布了一项特殊的研究成果。一名员工将一道困扰密码学界二十多年的问题交给 Claude 内部研究模型，在没有提供关键线索的情况下，Claude 用了不到半小时，追溯出五条 NIST 椭圆曲线种子的生成方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582630.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:243cd21ac684",
+          "title": "大模型公司迎来“利润大考”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.628,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582602.htm",
+          "published_at": "2026-10-17T06:22:45+00:00",
+          "summary": "<p>近日，Anthropic在旧金山面向潜在IPO投资者披露最新经营数据，2026年第三季度收入168亿美元，环比增长45%，一季度、二季度分别为47亿美元和116亿美元；公司同时称，三季度已实现“调整后盈利”，并录得正向现金流。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:19d1b0e27623",
+          "title": "国产大模型攻克世界级数学难题 AI正在改写数学研究",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.623,
+          "url": "https://www.cnbeta.com.tw/articles/science/1582598.htm",
+          "published_at": "2026-10-17T06:19:24+00:00",
+          "summary": "<p>近日，困扰数学界30余年的世界级难题三维Ghys猜想宣告破解。这是AI攻克世界级数学难题的又一案例，但这次破解难题的不是海外模型，而是中国团队和国产大模型的配合。据上海人工智能实验室消息，实验室访问学者、大湾区大学教授许地生团队基于书生科学多模态大模型S2，通过人机协同完成了三维Ghys猜想证明。而北京大学董彬教授、刘若川院士团队利用其开发的SHEAF框架对本次证明完成形式化验证。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582598.htm\" target=\"_blank\"><strong>阅读全文</stron"
+        },
+        {
+          "id": "cnbeta:c894020e470b",
+          "title": "Anthropic已私下向美国国会部分议员推荐其AI监管法案草案",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.619,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582596.htm",
+          "published_at": "2026-10-17T06:16:11+00:00",
+          "summary": "<p>美国人工智能公司Anthropic正在推动一项针对先进人工智能系统的安全监管法案，希望为前沿AI模型的开发、测试和部署建立明确的法律规则。根据美国政治新闻网站Politico于2026年10月16日的报道，Anthropic已私下向美国国会山的部分议员介绍这项法案草案。方案试图在防范先进AI可能造成的严重危害与避免政府过度干预技术研发之间建立界限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582596.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:77c9336d1d7d",
+          "title": "通用大模型正在重做机器人的研发与交付",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.916,
+          "url": "https://www.tmtpost.com/8171971.html",
+          "published_at": "2026-10-17T09:29:15+00:00",
+          "summary": "VLA没有死，死的是旧分工。"
         }
       ]
     }
