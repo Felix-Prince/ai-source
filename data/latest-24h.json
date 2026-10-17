@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T16:47:26.745961+00:00",
-    "generated_ts": 1792169246.745961,
+    "generated_at": "2026-10-17T04:41:49.495324+00:00",
+    "generated_ts": 1792212109.495324,
     "window_hours": 24.0,
-    "total": 22
+    "total": 21
   },
   "items": [
     {
@@ -22,19 +22,19 @@
       "importance": 2.986
     },
     {
-      "id": "cnbeta:abeec2fb3246",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Meta携手苹果将8160亿参数AI模型引入Mac Studio",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582406.htm",
-      "summary": "<p><strong>Meta于10月15日发布开放权重人工智能模型Muse Spark Open，并与苹果合作，针对Mac Studio优化该模型的本地运行方案。</strong>Meta表示，该模型拥有8160亿个总参数，其中每次推理实际激活的参数约为420亿，支持长达100万Token的上下文窗口，重点面向编程、复杂推理和AI代理任务。通过两台搭载M5 Ultra芯片、各配备512GB统一内存的Mac Studio，用户可以在桌面环境中运行这一规模庞大的模型，而不必完全依赖云端AI服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582406.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-15T19:37:07+00:00",
-      "published_ts": 1792093027.0,
+      "id": "tmtpost:ff3ef0be7826",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】 英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门",
+      "url": "https://www.tmtpost.com/8171854.html",
+      "summary": "（10月12日~10月17日）英伟达与思科推出新型光模块，以扩展AI工厂；英国机构呼吁加强前沿AI安全管理；OpenAI宣称攻克数百未解数学难题；Anthropic据悉第三季度营收跃升至168亿美元；Meta推出“最强”开源权重大模型",
+      "published_at": "2026-10-17T02:34:16+00:00",
+      "published_ts": 1792204456.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.838
+      "importance": 2.821
     },
     {
       "id": "tmtpost:f5d3f1b4e1dd",
@@ -127,21 +127,6 @@
       "importance": 2.574
     },
     {
-      "id": "tmtpost:ad40d72ce9f2",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
-      "url": "https://www.tmtpost.com/8170437.html",
-      "summary": "Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调查结果；交通运输部：重点推动内河电池、甲醇动力等新能源船舶发展；央行500亿元人民币3个月国库现金定期存款定于10月20日招投标；《大公报》严正声明",
-      "published_at": "2026-10-15T23:20:00+00:00",
-      "published_ts": 1792106400.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.567
-    },
-    {
       "id": "cnbeta:034657446db8",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -202,21 +187,6 @@
       "importance": 1.956
     },
     {
-      "id": "cnbeta:5abb5808a9ca",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达与思科推出新一代高速光模块USFP 单通道速率达400Gbps",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582416.htm",
-      "summary": "<p>随着人工智能模型规模不断扩大，数据中心对网络带宽的需求正在快速增长。英伟达与思科于2026年10月12日宣布联合开发新一代高密度可插拔光模块Ultra-Dense Small Form Factor Pluggable（USFP），旨在提升AI数据中心内部的网络连接能力，在有限的设备空间内传输更多数据，同时降低网络通信的能耗。该技术未来的总带宽最高可达12.8Tbps，相比采用每通道200Gbps技术的现有光模块，带宽密度有望提高至四倍，能效则提升约30%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582416.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-15T19:46:46+00:00",
-      "published_ts": 1792093606.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.901
-    },
-    {
       "id": "cnbeta:7fb8013f24d4",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -245,21 +215,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.845
-    },
-    {
-      "id": "tmtpost:c79bbd2cc1c3",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "看懂 WorkBuddy 打通企微，上下文只是前菜",
-      "url": "https://www.tmtpost.com/8170374.html",
-      "summary": "到了 2026 年，全球科技巨头纷纷将 Agent 带入既有的协作网络。",
-      "published_at": "2026-10-16T01:52:56+00:00",
-      "published_ts": 1792115576.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.842
     },
     {
       "id": "cnbeta:93c282034589",
@@ -322,19 +277,49 @@
       "importance": 1.719
     },
     {
-      "id": "the_verge:784932d2453c",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
-      "published_at": "2026-10-15T22:43:23+00:00",
-      "published_ts": 1792104203.0,
+      "id": "techcrunch:6a594409974e",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "published_ts": 1792185748.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.681
+      "importance": 1.619
+    },
+    {
+      "id": "qbitai:4b7d714ebc33",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "url": "https://www.qbitai.com/2026/10/503701.html",
+      "summary": "谷歌就是季节性气候模型公司",
+      "published_at": "2026-10-16T05:04:59+00:00",
+      "published_ts": 1792127099.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 1.517
+    },
+    {
+      "id": "qbitai:f51d35c2df4b",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "url": "https://www.qbitai.com/2026/10/503843.html",
+      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "published_at": "2026-10-16T08:00:31+00:00",
+      "published_ts": 1792137631.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.1
     }
   ]
 }

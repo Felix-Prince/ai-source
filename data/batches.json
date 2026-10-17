@@ -1,149 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T16:47:26.745961+00:00",
+    "generated_at": "2026-10-17T04:41:49.495324+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-16T17:08:42.949734+00:00",
-      "generated_ts": 1789578522.9497344,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "techcrunch:03dfbd973886",
-          "title": "Your AI agents can now control your Google Home devices",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.987,
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-          "published_at": "2026-09-16T17:00:00+00:00",
-          "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language."
-        },
-        {
-          "id": "the_verge:8f637bf4f059",
-          "title": "Claude comes for Gemini with its own take on Docs and Slides",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.945,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-          "published_at": "2026-09-16T16:30:00+00:00",
-          "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C"
-        },
-        {
-          "id": "openai_blog:6f9044896534",
-          "title": "Helping older adults use AI in everyday life",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.902,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "published_at": "2026-09-16T16:00:00+00:00",
-          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-        },
-        {
-          "id": "openai_blog:5062654a3d69",
-          "title": "Reimagining advertising with AI",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.662,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "published_at": "2026-09-16T13:00:00+00:00",
-          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-        },
-        {
-          "id": "the_verge:608509ec34fc",
-          "title": "Google will now let any AI agent run your smart home",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.992,
-          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-          "published_at": "2026-09-16T17:00:00+00:00",
-          "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor you"
-        },
-        {
-          "id": "techcrunch:12011079aba7",
-          "title": "Anthropic merges Claude chat and Cowork in one interface",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.963,
-          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-          "published_at": "2026-09-16T16:30:00+00:00",
-          "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
-        },
-        {
-          "id": "qbitai:e05bfb685990",
-          "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.781,
-          "url": "https://www.qbitai.com/2026/09/490839.html",
-          "published_at": "2026-09-16T13:08:20+00:00",
-          "summary": "九大空间测试10B规模通用模型中8项第一"
-        },
-        {
-          "id": "the_verge:e736c28cfef0",
-          "title": "A brief history of AI executives calling for regulation",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.724,
-          "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-          "published_at": "2026-09-16T12:00:00+00:00",
-          "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, "
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-16T21:26:48.538613+00:00",
-      "generated_ts": 1789594008.5386128,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:796dd07c290a",
-          "title": "Anthropic整合Claude产品线：聊天、协作与文档创作板块全面合并",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.758,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578298.htm",
-          "published_at": "2026-09-16T18:32:13+00:00",
-          "summary": "<p>人工智能公司Anthropic近日宣布对Claude产品体系进行重大调整。原本独立存在的Claude Cowork将不再作为单独功能入口存在，而是直接并入Claude聊天界面。未来用户无需再判断某项任务应该交给聊天模式还是协作模式处理，Claude将根据任务内容自动选择最合适的工作方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "openai_blog:47a79ab04733",
-          "title": "How to connect AI usage to business value",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.284,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "published_at": "2026-09-16T12:00:00+00:00",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-        },
-        {
-          "id": "techcrunch:152448b86a1a",
-          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.981,
-          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-          "published_at": "2026-09-16T21:07:24+00:00",
-          "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-17T05:01:14.028341+00:00",
       "generated_ts": 1789621274.0283413,
@@ -7505,6 +7365,61 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582542.htm",
           "published_at": "2026-10-16T13:01:06+00:00",
           "summary": "<p>Google宣布，正在向付费版 Google Workspace 用户推出全新的 Gmail Live 功能。这项基于 Gemini 模型的语音交互服务已于10月15日开始分阶段发布，覆盖 Android 和 iOS 平台，预计整个部署过程将持续最多两周时间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582542.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-17T04:41:49.495324+00:00",
+      "generated_ts": 1792212109.495324,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:ff3ef0be7826",
+          "title": "【数智周报】 英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.821,
+          "url": "https://www.tmtpost.com/8171854.html",
+          "published_at": "2026-10-17T02:34:16+00:00",
+          "summary": "（10月12日~10月17日）英伟达与思科推出新型光模块，以扩展AI工厂；英国机构呼吁加强前沿AI安全管理；OpenAI宣称攻克数百未解数学难题；Anthropic据悉第三季度营收跃升至168亿美元；Meta推出“最强”开源权重大模型"
+        },
+        {
+          "id": "techcrunch:6a594409974e",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.619,
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "published_at": "2026-10-16T21:22:28+00:00",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+        },
+        {
+          "id": "qbitai:4b7d714ebc33",
+          "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.517,
+          "url": "https://www.qbitai.com/2026/10/503701.html",
+          "published_at": "2026-10-16T05:04:59+00:00",
+          "summary": "谷歌就是季节性气候模型公司"
+        },
+        {
+          "id": "qbitai:f51d35c2df4b",
+          "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.1,
+          "url": "https://www.qbitai.com/2026/10/503843.html",
+          "published_at": "2026-10-16T08:00:31+00:00",
+          "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
         }
       ]
     }
