@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T15:59:31.094239+00:00",
+    "generated_at": "2026-10-18T20:54:28.905139+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-18T16:33:38.400759+00:00",
-      "generated_ts": 1789749218.4007595,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:e7d616c227ed",
-          "title": "微软高管内部文件曝光 称AI训练或是“人类历史上最大规模劳动窃取”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.923,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578624.htm",
-          "published_at": "2026-09-18T15:39:54+00:00",
-          "summary": "<p>围绕生成式人工智能训练数据合法性的争议近日再度升温。一份在《纽约时报》版权诉讼案中解封的法庭文件显示，微软一名高级研究主管曾在内部讨论中形容当前大型语言模型的训练方式可能是“人类历史上最大规模的劳动窃取”，相关表述引发业界广泛关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578624.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:e3ae2a605c37",
-          "title": "Security researchers used Claude to help them hack into OpenAI",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.91,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-          "published_at": "2026-09-18T15:30:16+00:00",
-          "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reported"
-        },
-        {
-          "id": "techcrunch:e0ff35ba7d6f",
-          "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.786,
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-          "published_at": "2026-09-18T14:00:14+00:00",
-          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
-        },
-        {
-          "id": "cnbeta:a3b3dea3add3",
-          "title": "微软苏莱曼：OpenAI最新AI暴露的问题属于“严峻状况”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.953,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578632.htm",
-          "published_at": "2026-09-18T15:44:15+00:00",
-          "summary": "<p>本周早些时候，OpenAI 披露了更多 “模型异常行为” 案例。对此，微软 AI 事业部首席执行官穆斯塔法・苏莱曼着重提出，AI 模型需要始终和人类利益保持对齐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578632.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b48d899fb139",
-          "title": "Meta AI助手Muse登陆Mac 可直接代替用户执行任务",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.945,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578618.htm",
-          "published_at": "2026-09-18T15:35:35+00:00",
-          "summary": "<p>Meta正在将人工智能助手从“会聊天”推进到“会做事”的新阶段。公司近日宣布，其AI代理产品Muse正式登陆Mac平台。这意味着Muse不再只是回答问题或生成内容，而是能够直接在用户电脑上执行实际操作，帮助完成各种日常工作任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578618.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:353f4fd3dbb9",
-          "title": "SK海力士在硅谷成立创投品牌“SK hynix Ventures”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.753,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578586.htm",
-          "published_at": "2026-09-18T12:00:02+00:00",
-          "summary": "<p>韩国存储芯片巨头SK海力士宣布正式成立企业风险投资品牌“SK hynix Ventures”，总部设于美国硅谷。此举被视为公司在人工智能时代进一步扩大投资布局的重要一步，未来将重点押注AI技术、下一代数据中心基础设施以及相关核心软硬件生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578586.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-18T21:00:58.658723+00:00",
       "generated_ts": 1789765258.658723,
@@ -7292,6 +7217,20 @@
           "summary": "<p>随着人工智能市场对高带宽内存（HBM）的需求不断攀升，英伟达正在推动一项前所未有的供应链整合计划。根据最新消息，英伟达为下一代AI加速器开发的定制高带宽内存NVHBM，将促使长期竞争的三星电子和台积电展开合作，共同打造基于3纳米工艺的基底芯片（Base Die）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-10-18T20:54:28.905139+00:00",
+      "generated_ts": 1792356868.905139,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": []
     }
   ]
 }

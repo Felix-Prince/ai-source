@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T15:59:31.094239+00:00",
-    "generated_ts": 1792339171.0942392,
+    "generated_at": "2026-10-18T20:54:28.905139+00:00",
+    "generated_ts": 1792356868.905139,
     "window_hours": 24.0,
-    "total": 13
+    "total": 11
   },
   "items": [
-    {
-      "id": "cnbeta:79fc38ad7b2b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582696.htm",
-      "summary": "<p>据韩国媒体The Elec报道，美光正与主要客户讨论面向物理AI的新型内存产品，开发名为“边缘推理内存”（Edge Inference Memory，EIM）的方案，重点应用包括人形机器人、自主驾驶以及AR、VR设备。美光高管李哲在韩国半导体展SEDEX 2026相关活动上表示，物理AI市场正在快速发展，公司正与客户推进适配新市场的产品开发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T20:36:32+00:00",
-      "published_ts": 1792269392.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.988
-    },
     {
       "id": "tmtpost:5818114a50e7",
       "source": "tmtpost",
@@ -65,21 +50,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.595
-    },
-    {
-      "id": "techcrunch:3487b0a62953",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "published_at": "2026-10-17T18:48:08+00:00",
-      "published_ts": 1792262888.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.249
     },
     {
       "id": "tmtpost:af7acff5a6b6",
