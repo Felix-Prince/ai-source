@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T04:47:04.431257+00:00",
-    "generated_ts": 1792298824.4312572,
+    "generated_at": "2026-10-18T11:24:14.727457+00:00",
+    "generated_ts": 1792322654.7274568,
     "window_hours": 24.0,
-    "total": 16
+    "total": 12
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.988
-    },
-    {
-      "id": "cnbeta:1f3aad0b0505",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
-      "summary": "<p>DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582656.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T09:24:19+00:00",
-      "published_ts": 1792229059.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.868
     },
     {
       "id": "the_verge:4c252f0ad0ec",
@@ -67,79 +52,34 @@
       "importance": 2.696
     },
     {
-      "id": "cnbeta:aa494aba5ae8",
+      "id": "cnbeta:70fc9013f763",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "要么不用工具，要么交出内容？Meta新条款引争议",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582634.htm",
-      "summary": "<p>Gizmodo报道，社交巨头Meta更新Meta Business Suite商业账号服务条款，新规将于10月30日正式落地。企业只要使用Meta商业账号开展广告、店铺运营业务，即视作默许Meta爬虫抓取自身官网公开网页内容，供 Meta AI大模型训练使用，该条款在行业引发巨大争议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582634.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T06:44:35+00:00",
-      "published_ts": 1792219475.0,
+      "title": "DeepSeek V4.1 Flash成本低到发指：1美元13亿Token",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582746.htm",
+      "summary": "<p>DeepSeek 发布 V4.1 Flash-1017 大模型。在市场普遍期待国产 AI 大模型更新之际，DeepSeek 率先推出新版本，本次升级带来大幅性能提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582746.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-18T06:34:18+00:00",
+      "published_ts": 1792305258.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.655
+      "importance": 2.609
     },
     {
-      "id": "cnbeta:93f85209c1ab",
+      "id": "cnbeta:3b39b7f34dce",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Claude半小时解开二十多年密码学谜题",
-      "url": "https://www.cnbeta.com.tw/articles/science/1582630.htm",
-      "summary": "<p>10 月 16 日，Anthropic 公布了一项特殊的研究成果。一名员工将一道困扰密码学界二十多年的问题交给 Claude 内部研究模型，在没有提供关键线索的情况下，Claude 用了不到半小时，追溯出五条 NIST 椭圆曲线种子的生成方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582630.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T06:41:31+00:00",
-      "published_ts": 1792219291.0,
+      "title": "Anthropic联合创始人克拉克：AI能力快速进步 或大幅提振美国GDP",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582732.htm",
+      "summary": "<p>Anthropic联合创始人杰克・克拉克周六称，人工智能能力飞速进步，将在所有领域带来更快速的变革。该公司内部模型预测，在特定条件下，到2030年AI可以让美国经济产出提升近50%。克拉克在曼谷的国际货币基金组织与世界银行年会上发言表示，需要开展国际合作，为这项具有变革性的技术制定“非同寻常且严苛的规则”，政策制定者采取行动的窗口期正在不断收窄。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-18T06:22:37+00:00",
+      "published_ts": 1792304557.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.651
-    },
-    {
-      "id": "cnbeta:243cd21ac684",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "大模型公司迎来“利润大考”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582602.htm",
-      "summary": "<p>近日，Anthropic在旧金山面向潜在IPO投资者披露最新经营数据，2026年第三季度收入168亿美元，环比增长45%，一季度、二季度分别为47亿美元和116亿美元；公司同时称，三季度已实现“调整后盈利”，并录得正向现金流。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T06:22:45+00:00",
-      "published_ts": 1792218165.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.628
-    },
-    {
-      "id": "cnbeta:19d1b0e27623",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "国产大模型攻克世界级数学难题 AI正在改写数学研究",
-      "url": "https://www.cnbeta.com.tw/articles/science/1582598.htm",
-      "summary": "<p>近日，困扰数学界30余年的世界级难题三维Ghys猜想宣告破解。这是AI攻克世界级数学难题的又一案例，但这次破解难题的不是海外模型，而是中国团队和国产大模型的配合。据上海人工智能实验室消息，实验室访问学者、大湾区大学教授许地生团队基于书生科学多模态大模型S2，通过人机协同完成了三维Ghys猜想证明。而北京大学董彬教授、刘若川院士团队利用其开发的SHEAF框架对本次证明完成形式化验证。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582598.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T06:19:24+00:00",
-      "published_ts": 1792217964.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.623
-    },
-    {
-      "id": "cnbeta:c894020e470b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic已私下向美国国会部分议员推荐其AI监管法案草案",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582596.htm",
-      "summary": "<p>美国人工智能公司Anthropic正在推动一项针对先进人工智能系统的安全监管法案，希望为前沿AI模型的开发、测试和部署建立明确的法律规则。根据美国政治新闻网站Politico于2026年10月16日的报道，Anthropic已私下向美国国会山的部分议员介绍这项法案草案。方案试图在防范先进AI可能造成的严重危害与避免政府过度干预技术研发之间建立界限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582596.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T06:16:11+00:00",
-      "published_ts": 1792217771.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.619
+      "importance": 2.595
     },
     {
       "id": "techcrunch:3487b0a62953",
@@ -187,19 +127,19 @@
       "importance": 1.974
     },
     {
-      "id": "tmtpost:77c9336d1d7d",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "通用大模型正在重做机器人的研发与交付",
-      "url": "https://www.tmtpost.com/8171971.html",
-      "summary": "VLA没有死，死的是旧分工。",
-      "published_at": "2026-10-17T09:29:15+00:00",
-      "published_ts": 1792229355.0,
+      "id": "cnbeta:8e9aae4b956e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "苹果有望率先采用1.4纳米工艺芯片 台积电加速量产应对AI需求激增",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582758.htm",
+      "summary": "<p>随着人工智能热潮持续推高先进芯片需求，苹果有望在未来几年率先采用台积电最新的1.4纳米制程技术。业内分析认为，台积电正加快推进其代号A14（Angstrom）的1.4纳米工艺量产计划，目标是在2028年上半年启动大规模生产，而苹果预计将成为首批采用该工艺的客户之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-18T10:11:25+00:00",
+      "published_ts": 1792318285.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.916
+      "importance": 1.931
     },
     {
       "id": "qbitai:615c2ffa3ad0",
