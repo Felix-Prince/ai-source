@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T04:55:43.631347+00:00",
-    "generated_ts": 1792385743.631347,
+    "generated_at": "2026-10-19T13:39:13.904901+00:00",
+    "generated_ts": 1792417153.904901,
     "window_hours": 24.0,
-    "total": 10
+    "total": 14
   },
   "items": [
     {
@@ -37,34 +37,49 @@
       "importance": 2.885
     },
     {
-      "id": "cnbeta:70fc9013f763",
+      "id": "cnbeta:2d40136ef5f1",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "DeepSeek V4.1 Flash成本低到发指：1美元13亿Token",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582746.htm",
-      "summary": "<p>DeepSeek 发布 V4.1 Flash-1017 大模型。在市场普遍期待国产 AI 大模型更新之际，DeepSeek 率先推出新版本，本次升级带来大幅性能提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582746.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-18T06:34:18+00:00",
-      "published_ts": 1792305258.0,
+      "title": "四个Gemini 4 Argon智能体首次全自主通关《我的世界》并击败末影龙",
+      "url": "https://www.cnbeta.com.tw/articles/game/1582918.htm",
+      "summary": "<p>Google DeepMind团队最新研究显示，四个基于Gemini 4 Argon模型运行的AI智能体，在没有任何人为操作辅助的情况下，首次成功完成《我的世界》（Minecraft）通关目标，并击败游戏最终Boss“末影龙”。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582918.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T10:36:09+00:00",
+      "published_ts": 1792406169.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.609
+      "importance": 2.747
     },
     {
-      "id": "cnbeta:3b39b7f34dce",
+      "id": "cnbeta:87b41a0f8414",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic联合创始人克拉克：AI能力快速进步 或大幅提振美国GDP",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582732.htm",
-      "summary": "<p>Anthropic联合创始人杰克・克拉克周六称，人工智能能力飞速进步，将在所有领域带来更快速的变革。该公司内部模型预测，在特定条件下，到2030年AI可以让美国经济产出提升近50%。克拉克在曼谷的国际货币基金组织与世界银行年会上发言表示，需要开展国际合作，为这项具有变革性的技术制定“非同寻常且严苛的规则”，政策制定者采取行动的窗口期正在不断收窄。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-18T06:22:37+00:00",
-      "published_ts": 1792304557.0,
+      "title": "AI没钱付费竟扫描362个加密钱包盗窃 还自我说服“没问题”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582864.htm",
+      "summary": "<p>OpenAI近期披露了一起AI代理突破授权边界的事件，内部研发中的GPT-5.6 Sol系列模型在执行代码编写任务时，<strong>自己通过公开开发者助记词导出密钥，擅自拿第三方钱包里的以太坊测试币支付智能合约部署费用，事后还瞒着用户。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582864.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T05:20:16+00:00",
+      "published_ts": 1792387216.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.595
+      "importance": 2.359
+    },
+    {
+      "id": "cnbeta:7e4f5cd80ecf",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达承认芯片设计走弯路：单核性能被牺牲多年 智能体AI逼着改回来",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582858.htm",
+      "summary": "<p><strong>英伟达Vera CPU团队在近期访谈中罕见承认，过去多年云端基础设施为追求核心数量，牺牲了单线程性能与IPC。而Agentic AI的爆发，正在迫使这一趋势发生逆转。</strong>英伟达团队回顾了数据中心CPU的演进路线：2010年代初期，英特尔等厂商以高主频、少核心为设计重心，单核性能强但总吞吐量低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582858.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T05:18:40+00:00",
+      "published_ts": 1792387120.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.358
     },
     {
       "id": "cnbeta:b2d221e11585",
@@ -112,21 +127,6 @@
       "importance": 1.943
     },
     {
-      "id": "cnbeta:8e9aae4b956e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果有望率先采用1.4纳米工艺芯片 台积电加速量产应对AI需求激增",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582758.htm",
-      "summary": "<p>随着人工智能热潮持续推高先进芯片需求，苹果有望在未来几年率先采用台积电最新的1.4纳米制程技术。业内分析认为，台积电正加快推进其代号A14（Angstrom）的1.4纳米工艺量产计划，目标是在2028年上半年启动大规模生产，而苹果预计将成为首批采用该工艺的客户之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-18T10:11:25+00:00",
-      "published_ts": 1792318285.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.931
-    },
-    {
       "id": "tmtpost:300edb15728a",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -142,19 +142,79 @@
       "importance": 1.888
     },
     {
-      "id": "cnbeta:63b73321d32c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达定制HBM计划促成罕见合作 三星与台积电联手开发3纳米基底芯片",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582766.htm",
-      "summary": "<p>随着人工智能市场对高带宽内存（HBM）的需求不断攀升，英伟达正在推动一项前所未有的供应链整合计划。根据最新消息，英伟达为下一代AI加速器开发的定制高带宽内存NVHBM，将促使长期竞争的三星电子和台积电展开合作，共同打造基于3纳米工艺的基底芯片（Base Die）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-18T12:13:59+00:00",
-      "published_ts": 1792325639.0,
+      "id": "tmtpost:5e4e692aea71",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Kimi和DeepSeek，差异越来越明显",
+      "url": "https://www.tmtpost.com/8172461.html",
+      "summary": "趋同是表象。分岔，才是正在发生的事实。",
+      "published_at": "2026-10-19T11:03:13+00:00",
+      "published_ts": 1792407793.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.794
+      "importance": 1.855
+    },
+    {
+      "id": "tmtpost:99e056d10af5",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头",
+      "url": "https://www.tmtpost.com/8173434.html",
+      "summary": "搜索按次收费，失败不收钱。",
+      "published_at": "2026-10-19T10:57:17+00:00",
+      "published_ts": 1792407437.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.85
+    },
+    {
+      "id": "cnbeta:7c7e03c24972",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "新版DeepSeek，离顶级AI还差多远？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582874.htm",
+      "summary": "<p><strong>同样把10项编程任务全做对，新版DeepSeek花的钱不到Claude Opus 5.5的四成，平均每项多等两分钟。</strong>10月17日，DeepSeek发布V4.1-Flash-1017，价格保持不变。发布后，已经有开发者拿它做游戏、搭网页、改代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T05:29:13+00:00",
+      "published_ts": 1792387753.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.58
+    },
+    {
+      "id": "cnbeta:d47b160461e3",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "未来买东西不用自己砍价？Anthropic正在研究让AI替人谈判",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582848.htm",
+      "summary": "<p>据《金融时报》报道，Anthropic正与法律界人士探讨如何让AI智能体代表用户谈判，在争取更好交易条件的同时遵循合理的谈判规则。两名了解Anthropic想法的人士透露，该公司正在向律师事务所寻求建议，希望了解律师如何在维护客户利益的同时，兼顾公平的谈判结果。Anthropic拒绝就此置评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T05:08:12+00:00",
+      "published_ts": 1792386492.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.564
+    },
+    {
+      "id": "cnbeta:6b81513dc485",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582842.htm",
+      "summary": "<p>10月19日，DeepSeek昨日发布公告，DeepSeek API现已支持网页搜索与抓取，按请求次数计费，单价为每1000次成功请求5元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582842.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T05:04:18+00:00",
+      "published_ts": 1792386258.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.561
     }
   ]
 }
