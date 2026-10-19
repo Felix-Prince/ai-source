@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T20:54:28.905139+00:00",
-    "generated_ts": 1792356868.905139,
+    "generated_at": "2026-10-19T04:55:43.631347+00:00",
+    "generated_ts": 1792385743.631347,
     "window_hours": 24.0,
-    "total": 11
+    "total": 10
   },
   "items": [
+    {
+      "id": "cnbeta:8a47ad5809cb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英特尔推出拥有最高480GB LPDDR5X的D系列数据中心GPU 主打大模型推理",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582824.htm",
+      "summary": "<p>英特尔在开放计算项目全球峰会上公布了面向AI推理的GPU D系列，代号Crescent Island，产品页面称为D270。该加速卡最高可配置480GB LPDDR5X显存，英特尔称单卡可承载最多3000亿参数的模型，八卡系统则可运行参数量超过1万亿的模型，目标是处理长上下文和多路并发推理，而非传统游戏图形渲染。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T04:46:48+00:00",
+      "published_ts": 1792385208.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.987
+    },
     {
       "id": "tmtpost:5818114a50e7",
       "source": "tmtpost",
@@ -52,19 +67,19 @@
       "importance": 2.595
     },
     {
-      "id": "tmtpost:af7acff5a6b6",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Huggingface发榜，中国模型StartLux稳居决策模型SOTA",
-      "url": "https://www.tmtpost.com/8172283.html",
-      "summary": "当 AI 从“生成内容”迈向“执行任务”，一个能够控制计算成本、理解关键细节并准确表达不确定性的决策中枢，将成为智能体和全本地智能系统不可或缺的基础设施。",
-      "published_at": "2026-10-18T04:20:06+00:00",
-      "published_ts": 1792297206.0,
+      "id": "cnbeta:b2d221e11585",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "中国第三季度经济增长回升至4.5% AI热潮带动出口 内需疲软仍是主要挑战",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582828.htm",
+      "summary": "<p>在全球人工智能产业持续扩张的背景下，中国经济第三季度增速有所回升。人工智能数据中心建设带动芯片、计算设备及相关电子产品需求增长，为中国制造业出口提供了新的动力，帮助这个全球第二大经济体缓解国内消费疲软和房地产市场持续低迷带来的压力。不过，出口表现强劲并不意味着经济各领域已经同步复苏，居民消费、私人投资和房地产市场仍面临挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-19T04:48:20+00:00",
+      "published_ts": 1792385300.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.974
+      "importance": 1.993
     },
     {
       "id": "cnbeta:a8e7764e2105",
@@ -140,36 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.794
-    },
-    {
-      "id": "cnbeta:24a0d52bdb4e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Meta修改了商业服务条款 外界质疑其试图为抓取网站内容训练AI铺路",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582704.htm",
-      "summary": "<p>当地时间10月17日，Meta修改了即将生效的商业服务条款，删除了一段此前引发媒体出版商和法律专家强烈担忧的表述。原有条款曾明确提到，Meta可以使用从相关网站、网页或网址获取的内容，用于开发、改进、研究和训练其产品及服务。由于这一措辞可能涉及新闻网站等第三方网站的内容，外界担心Meta试图借助商业服务协议，为大规模抓取互联网内容并用于人工智能训练提供依据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582704.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-17T22:16:47+00:00",
-      "published_ts": 1792275407.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.657
-    },
-    {
-      "id": "techcrunch:f2dae0982a67",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "published_at": "2026-10-17T21:31:32+00:00",
-      "published_ts": 1792272692.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.622
     }
   ]
 }
