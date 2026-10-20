@@ -1,108 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T05:01:31.307358+00:00",
+    "generated_at": "2026-10-20T11:51:54.517640+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-20T05:02:34.209670+00:00",
-      "generated_ts": 1789880554.20967,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": []
-    },
-    {
-      "generated_at": "2026-09-20T11:37:00.252344+00:00",
-      "generated_ts": 1789904220.2523444,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:52810c182cc0",
-          "title": "A20 Pro强大算力让iPhone 18 Pro运行270亿参数模型速度较前代翻倍",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.866,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578848.htm",
-          "published_at": "2026-09-20T10:02:23+00:00",
-          "summary": "<p>苹果最新推出的A20 Pro芯片正在展示其在端侧人工智能领域的真正潜力。一项最新实测显示，搭载A20 Pro的iPhone 18 Pro能够在本地运行拥有270亿参数的大型AI模型，其生成速度达到上一代iPhone 17 Pro的两倍，引发外界对于手机本地AI能力的新一轮关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:fca4f6a28789",
-          "title": "Google Gemini 4 Pro首测杀回Arena榜单第一",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.614,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578798.htm",
-          "published_at": "2026-09-20T06:51:11+00:00",
-          "summary": "<p>Google真要彻底翻身了！这几天，一个披着“gemini-3.8-flash”马甲的神秘模型，在大模型竞技场Arena上现身。在多轮盲测中，AI圈瞬间沸腾：这绝对是Google“隐藏款”Gemini 4 Pro。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:cfa1fdef1340",
-          "title": "先进成像技术有望解锁被封存两千年的赫库兰尼姆卷轴",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.992,
-          "url": "https://www.cnbeta.com.tw/articles/science/1578852.htm",
-          "published_at": "2026-09-20T11:28:19+00:00",
-          "summary": "<p>公元 79 年维苏威火山的灾难性爆发吞没庞贝古城的同时，也将相邻古城赫库兰尼姆的一座奢华别墅及其内部数量庞大的古代卷轴埋入地下。这些经火山灰与高热炭化、在地下封存了近两千年的纸莎草卷轴极其脆弱，任何物理剥离与展平的尝试都会导致其瞬间化为灰烬。<strong>如今，由多国科学家与计算机专家组成的联合团队利用最前沿的非破坏性成像技术与人工智能算法，正在逐步破解这些卷轴的内部文字，有望在不损伤文物的前提下重新读取这些失传已久的古希腊与古罗马文献。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578852.h"
-        },
-        {
-          "id": "tmtpost:86fb2ec91b9a",
-          "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.933,
-          "url": "https://www.tmtpost.com/8145908.html",
-          "published_at": "2026-09-20T10:25:48+00:00",
-          "summary": "没人开发布会。可硅谷这一周，比任何发布会都热闹。"
-        },
-        {
-          "id": "qbitai:fc3f47b0c8b0",
-          "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.828,
-          "url": "https://www.qbitai.com/2026/09/492939.html",
-          "published_at": "2026-09-20T08:30:32+00:00",
-          "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
-        },
-        {
-          "id": "cnbeta:12ed5ba7af5f",
-          "title": "DeepSeek中秋国庆十天全半价 调休的周末不算工作日",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.745,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578804.htm",
-          "published_at": "2026-09-20T06:53:48+00:00",
-          "summary": "<p>今天20号是周末，但又调休上班，DeepSeek API价格按工作日算？刚刚DeepSeek在规则里明确了：调休的周末不算工作日。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:8040eca85f22",
-          "title": "China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.69,
-          "url": "https://www.tmtpost.com/8146181.html",
-          "published_at": "2026-09-20T05:47:04+00:00",
-          "summary": "ByteDance, Tencent and Alibaba have consolidated their AI office offerings into single branded agents and are pouring resources into enterprise workflows. Early usage data show rapid growth in desktop and native apps, yet the products still struggle with long multi-step tasks while commercial models"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-20T16:17:38.783329+00:00",
       "generated_ts": 1789921058.783329,
@@ -7204,6 +7105,61 @@
           "url": "https://www.qbitai.com/2026/10/504188.html",
           "published_at": "2026-10-19T05:22:39+00:00",
           "summary": "AI基础设施竞争转向高质量Token产能"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-20T11:51:54.517640+00:00",
+      "generated_ts": 1792497114.5176404,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:2a71e2eebeb5",
+          "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.734,
+          "url": "https://www.tmtpost.com/8174435.html",
+          "published_at": "2026-10-20T08:39:21+00:00",
+          "summary": "具身智能的时间表随GPT版本号前移，市场把模型进步误读为具身进度。模型是翻译官，Agent是场景决策者，物理载体是手脚。三把尺子量下来：走完一整步，卡在第三步——迭代方向标准，它只由真实场景的数据主权决定。"
+        },
+        {
+          "id": "cnbeta:049d083a65d3",
+          "title": "MiniMax新模型遭遇“刷榜”质疑 研究者怀疑其提前获取评测题目",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.482,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582976.htm",
+          "published_at": "2026-10-20T05:18:20+00:00",
+          "summary": "<p>中国人工智能企业MiniMax于2026年10月19日发布了新一代模型M3.1 Flash，声称该模型在智能体任务、编程和网络安全等领域实现了显著进步，同时将在线推理速度提升至上一代的近3倍，并将使用成本降低约70%。然而，模型发布后不久，一项围绕其独立评测成绩的争议迅速引发关注：<strong>有研究者怀疑，MiniMax可能在上一代M3模型接受评测时接触到了评测机构Artificial Analysis使用的部分测试问题，并将相关内容用于训练M3.1 Flash，从而使新模型在特定基准测试中获得异常突出的成绩。</strong></p> <a href=\"https://www.cn"
+        },
+        {
+          "id": "cnbeta:c89426f35cac",
+          "title": "美国多政府部门禁用DeepSeek 模型托管在美国也受限",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.684,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583004.htm",
+          "published_at": "2026-10-20T05:54:37+00:00",
+          "summary": "<p>10月20日消息，据《华尔街日报》报道，美国国土安全部要求联邦文职机构从信息系统中移除DeepSeek相关产品，并禁止这些机构采购DeepSeek及其关联公司提供的产品和服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:07d879829dca",
+          "title": "OpenAI加速推进300亿美元融资 赶在Anthropic上市前锁定投资者",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.652,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1582972.htm",
+          "published_at": "2026-10-20T05:14:45+00:00",
+          "summary": "<p>OpenAI正以异常迅速的节奏推进新一轮融资，希望在竞争对手Anthropic预计于11月中旬启动首次公开募股（IPO）之前完成融资承诺。这轮融资规模约为300亿美元，完成后OpenAI估值有望超过1.4万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582972.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T05:01:31.307358+00:00",
-    "generated_ts": 1792472491.3073578,
+    "generated_at": "2026-10-20T11:51:54.517640+00:00",
+    "generated_ts": 1792497114.5176404,
     "window_hours": 24.0,
-    "total": 19
+    "total": 14
   },
   "items": [
     {
@@ -52,19 +52,19 @@
       "importance": 2.75
     },
     {
-      "id": "cnbeta:2d40136ef5f1",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "四个Gemini 4 Argon智能体首次全自主通关《我的世界》并击败末影龙",
-      "url": "https://www.cnbeta.com.tw/articles/game/1582918.htm",
-      "summary": "<p>Google DeepMind团队最新研究显示，四个基于Gemini 4 Argon模型运行的AI智能体，在没有任何人为操作辅助的情况下，首次成功完成《我的世界》（Minecraft）通关目标，并击败游戏最终Boss“末影龙”。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582918.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T10:36:09+00:00",
-      "published_ts": 1792406169.0,
+      "id": "tmtpost:2a71e2eebeb5",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
+      "url": "https://www.tmtpost.com/8174435.html",
+      "summary": "具身智能的时间表随GPT版本号前移，市场把模型进步误读为具身进度。模型是翻译官，Agent是场景决策者，物理载体是手脚。三把尺子量下来：走完一整步，卡在第三步——迭代方向标准，它只由真实场景的数据主权决定。",
+      "published_at": "2026-10-20T08:39:21+00:00",
+      "published_ts": 1792485561.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.747
+      "importance": 2.734
     },
     {
       "id": "qbitai:dd677775858b",
@@ -82,34 +82,19 @@
       "importance": 2.683
     },
     {
-      "id": "cnbeta:87b41a0f8414",
+      "id": "cnbeta:049d083a65d3",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "AI没钱付费竟扫描362个加密钱包盗窃 还自我说服“没问题”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582864.htm",
-      "summary": "<p>OpenAI近期披露了一起AI代理突破授权边界的事件，内部研发中的GPT-5.6 Sol系列模型在执行代码编写任务时，<strong>自己通过公开开发者助记词导出密钥，擅自拿第三方钱包里的以太坊测试币支付智能合约部署费用，事后还瞒着用户。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582864.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T05:20:16+00:00",
-      "published_ts": 1792387216.0,
+      "title": "MiniMax新模型遭遇“刷榜”质疑 研究者怀疑其提前获取评测题目",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582976.htm",
+      "summary": "<p>中国人工智能企业MiniMax于2026年10月19日发布了新一代模型M3.1 Flash，声称该模型在智能体任务、编程和网络安全等领域实现了显著进步，同时将在线推理速度提升至上一代的近3倍，并将使用成本降低约70%。然而，模型发布后不久，一项围绕其独立评测成绩的争议迅速引发关注：<strong>有研究者怀疑，MiniMax可能在上一代M3模型接受评测时接触到了评测机构Artificial Analysis使用的部分测试问题，并将相关内容用于训练M3.1 Flash，从而使新模型在特定基准测试中获得异常突出的成绩。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582976.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-20T05:18:20+00:00",
+      "published_ts": 1792473500.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.359
-    },
-    {
-      "id": "cnbeta:7e4f5cd80ecf",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达承认芯片设计走弯路：单核性能被牺牲多年 智能体AI逼着改回来",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582858.htm",
-      "summary": "<p><strong>英伟达Vera CPU团队在近期访谈中罕见承认，过去多年云端基础设施为追求核心数量，牺牲了单线程性能与IPC。而Agentic AI的爆发，正在迫使这一趋势发生逆转。</strong>英伟达团队回顾了数据中心CPU的演进路线：2010年代初期，英特尔等厂商以高主频、少核心为设计重心，单核性能强但总吞吐量低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582858.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T05:18:40+00:00",
-      "published_ts": 1792387120.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.358
+      "importance": 2.482
     },
     {
       "id": "tmtpost:0e261bf51bc4",
@@ -157,36 +142,6 @@
       "importance": 1.886
     },
     {
-      "id": "tmtpost:5e4e692aea71",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Kimi和DeepSeek，差异越来越明显",
-      "url": "https://www.tmtpost.com/8172461.html",
-      "summary": "趋同是表象。分岔，才是正在发生的事实。",
-      "published_at": "2026-10-19T11:03:13+00:00",
-      "published_ts": 1792407793.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.855
-    },
-    {
-      "id": "tmtpost:99e056d10af5",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头",
-      "url": "https://www.tmtpost.com/8173434.html",
-      "summary": "搜索按次收费，失败不收钱。",
-      "published_at": "2026-10-19T10:57:17+00:00",
-      "published_ts": 1792407437.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.85
-    },
-    {
       "id": "openai_blog:f3c02bad6e8d",
       "source": "openai_blog",
       "source_label": "openai_blog",
@@ -200,6 +155,36 @@
       "tier": 0,
       "ai_score": 2.0,
       "importance": 1.835
+    },
+    {
+      "id": "cnbeta:c89426f35cac",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美国多政府部门禁用DeepSeek 模型托管在美国也受限",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583004.htm",
+      "summary": "<p>10月20日消息，据《华尔街日报》报道，美国国土安全部要求联邦文职机构从信息系统中移除DeepSeek相关产品，并禁止这些机构采购DeepSeek及其关联公司提供的产品和服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583004.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-20T05:54:37+00:00",
+      "published_ts": 1792475677.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.684
+    },
+    {
+      "id": "cnbeta:07d879829dca",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI加速推进300亿美元融资 赶在Anthropic上市前锁定投资者",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1582972.htm",
+      "summary": "<p>OpenAI正以异常迅速的节奏推进新一轮融资，希望在竞争对手Anthropic预计于11月中旬启动首次公开募股（IPO）之前完成融资承诺。这轮融资规模约为300亿美元，完成后OpenAI估值有望超过1.4万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582972.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-20T05:14:45+00:00",
+      "published_ts": 1792473285.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.652
     },
     {
       "id": "cnbeta:fab2788cfe58",
@@ -217,51 +202,6 @@
       "importance": 1.589
     },
     {
-      "id": "cnbeta:7c7e03c24972",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "新版DeepSeek，离顶级AI还差多远？",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582874.htm",
-      "summary": "<p><strong>同样把10项编程任务全做对，新版DeepSeek花的钱不到Claude Opus 5.5的四成，平均每项多等两分钟。</strong>10月17日，DeepSeek发布V4.1-Flash-1017，价格保持不变。发布后，已经有开发者拿它做游戏、搭网页、改代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T05:29:13+00:00",
-      "published_ts": 1792387753.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.58
-    },
-    {
-      "id": "cnbeta:d47b160461e3",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "未来买东西不用自己砍价？Anthropic正在研究让AI替人谈判",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582848.htm",
-      "summary": "<p>据《金融时报》报道，Anthropic正与法律界人士探讨如何让AI智能体代表用户谈判，在争取更好交易条件的同时遵循合理的谈判规则。两名了解Anthropic想法的人士透露，该公司正在向律师事务所寻求建议，希望了解律师如何在维护客户利益的同时，兼顾公平的谈判结果。Anthropic拒绝就此置评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T05:08:12+00:00",
-      "published_ts": 1792386492.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.564
-    },
-    {
-      "id": "cnbeta:6b81513dc485",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek API已支持网页搜索和抓取 每1000次成功请求5元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1582842.htm",
-      "summary": "<p>10月19日，DeepSeek昨日发布公告，DeepSeek API现已支持网页搜索与抓取，按请求次数计费，单价为每1000次成功请求5元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582842.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-19T05:04:18+00:00",
-      "published_ts": 1792386258.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.561
-    },
-    {
       "id": "qbitai:8fa76bc59737",
       "source": "qbitai",
       "source_label": "量子位",
@@ -275,21 +215,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.317
-    },
-    {
-      "id": "qbitai:46265780d6a4",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
-      "url": "https://www.qbitai.com/2026/10/504188.html",
-      "summary": "AI基础设施竞争转向高质量Token产能",
-      "published_at": "2026-10-19T05:22:39+00:00",
-      "published_ts": 1792387359.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.01
     }
   ]
 }
