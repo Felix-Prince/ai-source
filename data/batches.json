@@ -1,34 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T17:21:20.051248+00:00",
+    "generated_at": "2026-10-20T21:43:57.589421+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-20T20:56:07.320140+00:00",
-      "generated_ts": 1789937767.3201401,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:cb67c5e05705",
-          "title": "英伟达显卡底层细节揭秘：包含数十个RISC-V核心 甚至已接管图形驱动执行",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.728,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578884.htm",
-          "published_at": "2026-09-20T17:38:33+00:00",
-          "summary": "<p>在现代个人电脑中，显卡通常被视为由数千个流处理器组成、专用于高并行度图形渲染与人工智能计算的庞大算力引擎。然而，根据硬件开发社区及底层技术人员的最新深度分析，现代英伟达（NVIDIA）GPU 内部实际上隐匿着数十个基于开放指令集架构的 RISC-V 处理器核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578884.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-21T05:08:27.069726+00:00",
       "generated_ts": 1789967307.0697255,
@@ -7191,6 +7166,31 @@
           "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
           "published_at": "2026-10-20T15:45:00+00:00",
           "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appoi"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-20T21:43:57.589421+00:00",
+      "generated_ts": 1792532637.5894206,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:81a8fb420568",
+          "title": "ChatGPT新增“锁定聊天” 可用四位PIN或生物识别隐藏敏感对话",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.83,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
+          "published_at": "2026-10-20T18:39:40+00:00",
+          "summary": "<p>OpenAI宣布，ChatGPT用户现在可以为特定对话启用“锁定聊天”。锁定后，对话会移出常规聊天记录、置顶列表和普通搜索结果，转入“项目—锁定的聊天”区域；重新打开时需输入四位账户PIN。在支持的手机设备上，也可使用Face ID、Touch ID或设备解锁方式验证。该功能适用于免费版、Go、Plus、Pro、Business、Enterprise和Edu方案，正逐步推出；Healthcare版暂不支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583120.htm\" target=\"_blank\"><strong>阅"
         }
       ]
     }
