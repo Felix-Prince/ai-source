@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T22:29:24.280173+00:00",
+    "generated_at": "2026-10-20T05:01:31.307358+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7109,6 +7109,101 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1582936.htm",
           "published_at": "2026-10-19T14:31:00+00:00",
           "summary": "<p>一名使用Anthropic旗下Claude辅助开发软件的Mac用户，近日意外发现自己的电脑长期遭受加密货币挖矿恶意程序感染。令人意外的是，问题并非通过杀毒软件首先发现，而是在AI协助开发温度监测工具的过程中被主动识别出来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582936.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-20T05:01:31.307358+00:00",
+      "generated_ts": 1792472491.3073578,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:ab9f97bb1ee7",
+          "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.912,
+          "url": "https://www.tmtpost.com/8173268.html",
+          "published_at": "2026-10-20T03:59:35+00:00",
+          "summary": "DeepSeek极客玩梗凡尔赛，折射中国大模型智力竞争"
+        },
+        {
+          "id": "qbitai:dd677775858b",
+          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.683,
+          "url": "https://www.qbitai.com/2026/10/504314.html",
+          "published_at": "2026-10-20T01:09:43+00:00",
+          "summary": "OpenAI只掏出一个6.1 Terra…"
+        },
+        {
+          "id": "tmtpost:0e261bf51bc4",
+          "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.941,
+          "url": "https://www.tmtpost.com/8173652.html",
+          "published_at": "2026-10-20T03:59:37+00:00",
+          "summary": "字节Seed完成架构调整，推进大模型研发工业化"
+        },
+        {
+          "id": "tmtpost:721faf88c86a",
+          "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.9,
+          "url": "https://www.tmtpost.com/8173675.html",
+          "published_at": "2026-10-20T03:14:33+00:00",
+          "summary": "新模型只是开胃菜。"
+        },
+        {
+          "id": "tmtpost:9685d1b67229",
+          "title": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.886,
+          "url": "https://www.tmtpost.com/8172565.html",
+          "published_at": "2026-10-20T02:59:23+00:00",
+          "summary": "成本必须可控，不必追求最强模型，Agent必须被约束，人类需保留最终判断。"
+        },
+        {
+          "id": "openai_blog:f3c02bad6e8d",
+          "title": "Advancing coding in low‑resource programming languages",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.835,
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+        },
+        {
+          "id": "qbitai:8fa76bc59737",
+          "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.317,
+          "url": "https://www.qbitai.com/2026/10/504277.html",
+          "published_at": "2026-10-19T14:33:26+00:00",
+          "summary": "同步搭建千比特规模量子算力云平台"
+        },
+        {
+          "id": "qbitai:46265780d6a4",
+          "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.01,
+          "url": "https://www.qbitai.com/2026/10/504188.html",
+          "published_at": "2026-10-19T05:22:39+00:00",
+          "summary": "AI基础设施竞争转向高质量Token产能"
         }
       ]
     }
