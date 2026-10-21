@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T17:23:40.421411+00:00",
-    "generated_ts": 1792603420.4214106,
+    "generated_at": "2026-10-21T21:50:38.348947+00:00",
+    "generated_ts": 1792619438.348947,
     "window_hours": 24.0,
-    "total": 23
+    "total": 27
   },
   "items": [
     {
@@ -52,6 +52,21 @@
       "importance": 2.866
     },
     {
+      "id": "the_verge:06e6f31dab26",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "published_at": "2026-10-21T19:53:20+00:00",
+      "published_ts": 1792612400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.835
+    },
+    {
       "id": "tmtpost:6e8c9a8b9278",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -90,6 +105,21 @@
       "summary": "<p><strong>OpenAI于2026年10月21日发布公告，披露其参与发现并协调修复PHP编程语言两项严重安全漏洞的全过程。此次行动由OpenAI发起的“Patch the Planet”（修补整个互联网）计划推动，联合软件维护者、安全研究人员、云服务商及政府网络安全机构，共同降低漏洞对全球互联网基础设施造成的风险。</strong>OpenAI表示，先进人工智能模型已经能够发现影响范围极广的软件安全缺陷，而如何将这些发现迅速转化为实际防护措施，正成为网络安全领域日益重要的课题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583242.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-10-21T14:37:23+00:00",
       "published_ts": 1792593443.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.769
+    },
+    {
+      "id": "cnbeta:55e8bdf99019",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583264.htm",
+      "summary": "<p>围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-21T19:04:05+00:00",
+      "published_ts": 1792609445.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -217,6 +247,21 @@
       "importance": 2.087
     },
     {
+      "id": "cnbeta:cc89ab77b373",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic推出Claude Duet主动式AI代理 可后台处理任务并在关键操作前征求批准",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583272.htm",
+      "summary": "<p>Anthropic推出Claude Duet，将其定位为一款主动式AI代理：它会从用户已连接的应用中发现需要处理的事项，在用户开口前发来提醒，也能接手任务并在用户离开设备后继续工作。产品围绕Claude Opus 5.5构建，面向工作事务繁杂的专业人士和小企业经营者。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-21T21:06:55+00:00",
+      "published_ts": 1792616815.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.958
+    },
+    {
       "id": "tmtpost:6135f7c6ca2f",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -230,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.917
+    },
+    {
+      "id": "cnbeta:48b5d50401c7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
+      "summary": "<p>通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583266.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-21T19:05:23+00:00",
+      "published_ts": 1792609523.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.847
     },
     {
       "id": "cnbeta:25a3981d556e",
@@ -247,19 +307,19 @@
       "importance": 1.842
     },
     {
-      "id": "cnbeta:81a8fb420568",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "ChatGPT新增“锁定聊天” 可用四位PIN或生物识别隐藏敏感对话",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
-      "summary": "<p>OpenAI宣布，ChatGPT用户现在可以为特定对话启用“锁定聊天”。锁定后，对话会移出常规聊天记录、置顶列表和普通搜索结果，转入“项目—锁定的聊天”区域；重新打开时需输入四位账户PIN。在支持的手机设备上，也可使用Face ID、Touch ID或设备解锁方式验证。该功能适用于免费版、Go、Plus、Pro、Business、Enterprise和Edu方案，正逐步推出；Healthcare版暂不支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583120.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-20T18:39:40+00:00",
-      "published_ts": 1792521580.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "ars_technica:623b7f4c6d14",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "published_at": "2026-10-21T18:51:42+00:00",
+      "published_ts": 1792608702.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.83
+      "importance": 1.835
     },
     {
       "id": "cnbeta:088aa4b68765",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T17:23:40.421411+00:00",
+    "generated_at": "2026-10-21T21:50:38.348947+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7346,6 +7346,71 @@
           "url": "https://www.qbitai.com/2026/10/504730.html",
           "published_at": "2026-10-21T09:45:22+00:00",
           "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-21T21:50:38.348947+00:00",
+      "generated_ts": 1792619438.348947,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "the_verge:06e6f31dab26",
+          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.835,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+          "published_at": "2026-10-21T19:53:20+00:00",
+          "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Clau"
+        },
+        {
+          "id": "cnbeta:55e8bdf99019",
+          "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.769,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583264.htm",
+          "published_at": "2026-10-21T19:04:05+00:00",
+          "summary": "<p>围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:cc89ab77b373",
+          "title": "Anthropic推出Claude Duet主动式AI代理 可后台处理任务并在关键操作前征求批准",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.958,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583272.htm",
+          "published_at": "2026-10-21T21:06:55+00:00",
+          "summary": "<p>Anthropic推出Claude Duet，将其定位为一款主动式AI代理：它会从用户已连接的应用中发现需要处理的事项，在用户开口前发来提醒，也能接手任务并在用户离开设备后继续工作。产品围绕Claude Opus 5.5构建，面向工作事务繁杂的专业人士和小企业经营者。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:48b5d50401c7",
+          "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.847,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
+          "published_at": "2026-10-21T19:05:23+00:00",
+          "summary": "<p>通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583266.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:623b7f4c6d14",
+          "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.835,
+          "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "published_at": "2026-10-21T18:51:42+00:00",
+          "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
         }
       ]
     }
