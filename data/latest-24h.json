@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T12:03:53.930485+00:00",
-    "generated_ts": 1792584233.9304855,
+    "generated_at": "2026-10-21T17:23:40.421411+00:00",
+    "generated_ts": 1792603420.4214106,
     "window_hours": 24.0,
-    "total": 21
+    "total": 23
   },
   "items": [
+    {
+      "id": "openai_blog:c90ea25268b2",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_ts": 1792566000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 3.333
+    },
     {
       "id": "cnbeta:1448f4b69b16",
       "source": "cnbeta",
@@ -20,21 +35,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.948
-    },
-    {
-      "id": "cnbeta:485a1fd83a02",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek工程师参与华为芯片设计 训练环节彻底去英伟达化",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583102.htm",
-      "summary": "<p>DeepSeek正与华为展开深度合作，参与影响华为未来人工智能芯片的设计。这种合作关系已超出通常的供应商与客户范畴，标志着中国两大科技企业正加速降低对英伟达芯片的依赖。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583102.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-20T16:05:03+00:00",
-      "published_ts": 1792512303.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.892
     },
     {
       "id": "tmtpost:3641cbd38d8c",
@@ -67,6 +67,51 @@
       "importance": 2.831
     },
     {
+      "id": "cnbeta:37d1c2668b4c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
+      "summary": "<p>英伟达首席执行官黄仁勋呼吁欧洲加快人工智能落地。在不少投资者开始质疑算力基建巨额投入回报的背景下，他对AI前景保持乐观。这家总部位于加州圣克拉拉、芯片撑起本轮AI热潮的企业，在本次柏林大会上面向欧洲市场，发布了新的数据中心硬件、软件、模型，同时公布与当地龙头企业的合作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-21T14:42:45+00:00",
+      "published_ts": 1792593765.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.776
+    },
+    {
+      "id": "cnbeta:f0525d2d0d67",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583242.htm",
+      "summary": "<p><strong>OpenAI于2026年10月21日发布公告，披露其参与发现并协调修复PHP编程语言两项严重安全漏洞的全过程。此次行动由OpenAI发起的“Patch the Planet”（修补整个互联网）计划推动，联合软件维护者、安全研究人员、云服务商及政府网络安全机构，共同降低漏洞对全球互联网基础设施造成的风险。</strong>OpenAI表示，先进人工智能模型已经能够发现影响范围极广的软件安全缺陷，而如何将这些发现迅速转化为实际防护措施，正成为网络安全领域日益重要的课题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583242.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-21T14:37:23+00:00",
+      "published_ts": 1792593443.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.769
+    },
+    {
+      "id": "the_verge:ca249a819a5b",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+      "published_at": "2026-10-21T13:57:43+00:00",
+      "published_ts": 1792591063.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.717
+    },
+    {
       "id": "cnbeta:34e2c6d828fe",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,6 +140,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.625
+    },
+    {
+      "id": "openai_blog:05487dee355f",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "published_ts": 1792584000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.567
     },
     {
       "id": "cnbeta:d784fe172dd7",
@@ -142,19 +202,19 @@
       "importance": 2.459
     },
     {
-      "id": "cnbeta:e7b83e38f523",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "ChatGPT浏览器扩展迎来重大升级 可直接操控标签页并完成网页任务",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583114.htm",
-      "summary": "<p>OpenAI日前为ChatGPT浏览器扩展推出一项重要更新，进一步加深了其与Google Chrome浏览器的整合能力。升级后，ChatGPT不仅能够读取当前打开网页中的内容，还可以分析信息、执行任务，并直接在浏览器环境中完成多项操作。此外，更新还带来了新的语音功能以及更多语言支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583114.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-20T17:18:19+00:00",
-      "published_ts": 1792516699.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
+      "id": "openai_blog:fabb22755140",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "published_ts": 1792558200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
       "ai_score": 2.0,
-      "importance": 1.997
+      "importance": 2.087
     },
     {
       "id": "tmtpost:6135f7c6ca2f",
@@ -170,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.917
-    },
-    {
-      "id": "the_verge:2c439158d74c",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "The Gospel according to Peter (Thiel)",
-      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-      "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
-      "published_at": "2026-10-20T15:45:00+00:00",
-      "published_ts": 1792511100.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.909
     },
     {
       "id": "cnbeta:25a3981d556e",
@@ -292,34 +337,19 @@
       "importance": 1.657
     },
     {
-      "id": "qbitai:a43cc512c899",
+      "id": "qbitai:c59f55c89861",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "summary": "兔皮底下，竟然是MiniMax！",
-      "published_at": "2026-10-20T13:29:54+00:00",
-      "published_ts": 1792502994.0,
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "published_at": "2026-10-21T09:45:22+00:00",
+      "published_ts": 1792575922.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.277
-    },
-    {
-      "id": "qbitai:039123771588",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "summary": "把记忆原生焊进Transformer",
-      "published_at": "2026-10-20T12:50:34+00:00",
-      "published_ts": 1792500634.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.253
+      "importance": 1.604
     }
   ]
 }

@@ -1,114 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T12:03:53.930485+00:00",
+    "generated_at": "2026-10-21T17:23:40.421411+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-21T13:02:08.831930+00:00",
-      "generated_ts": 1789995728.8319302,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:767322688a2b",
-          "title": "马斯克转发帖文：GPT-6 Astra多次模拟测试中将人推下悬崖",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.568,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578978.htm",
-          "published_at": "2026-09-21T07:38:45+00:00",
-          "summary": "<p>9月21日，有帖文称“GPT-6 Astra在多次模拟测试中将一个模拟人物推下悬崖，而Grok、Gemini和Claude均未这样做。”马斯克转发了该帖文。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:760bc47b60f5",
-          "title": "Claude Opus 5.5已在内测 据传可打败gpt-6-sol",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.418,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1578958.htm",
-          "published_at": "2026-09-21T05:33:55+00:00",
-          "summary": "<p>Anthropic这回，怕不是憋了个大的？所有人都在等Opus 5.2，结果最新线报来了：下一代版本号直接飙到5.5！今天一早，开发者Lyra扒出猛料，代号为“claude-wafer-eap”的Claude Opus 5.5已经在偷偷内测了。据说动作快的话，这周二就会突然砸出来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578958.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:1c690f780807",
-          "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.998,
-          "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-          "published_at": "2026-09-21T13:00:00+00:00",
-          "summary": "The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thing is not for your typical content creation workloads. It's for AI [&#8230;]"
-        },
-        {
-          "id": "cnbeta:29cffa0d0f92",
-          "title": "联合国专家组警告：AI安全措施不能“等出事” 应立即采取预防行动",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.875,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579020.htm",
-          "published_at": "2026-09-21T10:47:47+00:00",
-          "summary": "<p>随着各国政府加快人工智能发展步伐，联合国最新发布的一份重要报告呼吁，面对日益强大的AI智能体，人类社会不能等到风险被完全证明后才采取行动，而应立即建立更严格的安全防护体系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:66e904d0bfbc",
-          "title": "UN says AI safeguards can’t wait for certainty",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.848,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-          "published_at": "2026-09-21T10:18:06+00:00",
-          "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic "
-        },
-        {
-          "id": "tmtpost:b6c667cd7fe7",
-          "title": "Gemini\"越狱\"入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.834,
-          "url": "https://www.tmtpost.com/8147131.html",
-          "published_at": "2026-09-21T10:02:39+00:00",
-          "summary": "四起事故连起来看，真正的主角已经不是某一家模型，而是整个行业的安全评测体系。"
-        },
-        {
-          "id": "cnbeta:77657736aa1d",
-          "title": "英伟达RTX 60系列最新曝料：将延期至2028年",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.813,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579010.htm",
-          "published_at": "2026-09-21T09:37:40+00:00",
-          "summary": "<p>据知名舅舅党Kopite7kimi最新说法，英伟达下一代GeForce游戏显卡再度延期，基于Rubin架构的GR20x游戏GPU家族将从原定的2027年下半年推迟至2028年发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579010.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:aef9e39beb94",
-          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.706,
-          "url": "https://www.qbitai.com/2026/09/493231.html",
-          "published_at": "2026-09-21T07:31:26+00:00",
-          "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
-        },
-        {
-          "id": "qbitai:a7ba9836eaf3",
-          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.65,
-          "url": "https://www.qbitai.com/2026/09/493218.html",
-          "published_at": "2026-09-21T06:22:37+00:00",
-          "summary": "在物理世界真正干活的具身智能体"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-21T22:03:41.157459+00:00",
       "generated_ts": 1790028221.1574585,
@@ -7366,6 +7261,91 @@
           "url": "https://www.cnbeta.com.tw/articles/science/1583178.htm",
           "published_at": "2026-10-21T06:01:24+00:00",
           "summary": "<p>就在今天，这个新闻上了各大热搜。哈佛附属的马萨诸塞州总医院百瀚癌症研究所，在《柳叶刀·数字健康》上发布了一项突破性研究。<strong>他们训练出了一个全球首创的AI模型——FAHR-Face。只需输入一张普通的脸部照片，这个AI不仅能看穿你的“生物学真实年龄”，甚至能直接预测癌症患者的存活几率！</strong>最高风险组的患者，有超过一半在拍照后90天内离世。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1583178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-21T17:23:40.421411+00:00",
+      "generated_ts": 1792603420.4214106,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:c90ea25268b2",
+          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 3.333,
+          "url": "https://openai.com/index/building-chatgpt-ad-stack",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+        },
+        {
+          "id": "cnbeta:37d1c2668b4c",
+          "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.776,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
+          "published_at": "2026-10-21T14:42:45+00:00",
+          "summary": "<p>英伟达首席执行官黄仁勋呼吁欧洲加快人工智能落地。在不少投资者开始质疑算力基建巨额投入回报的背景下，他对AI前景保持乐观。这家总部位于加州圣克拉拉、芯片撑起本轮AI热潮的企业，在本次柏林大会上面向欧洲市场，发布了新的数据中心硬件、软件、模型，同时公布与当地龙头企业的合作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f0525d2d0d67",
+          "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.769,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583242.htm",
+          "published_at": "2026-10-21T14:37:23+00:00",
+          "summary": "<p><strong>OpenAI于2026年10月21日发布公告，披露其参与发现并协调修复PHP编程语言两项严重安全漏洞的全过程。此次行动由OpenAI发起的“Patch the Planet”（修补整个互联网）计划推动，联合软件维护者、安全研究人员、云服务商及政府网络安全机构，共同降低漏洞对全球互联网基础设施造成的风险。</strong>OpenAI表示，先进人工智能模型已经能够发现影响范围极广的软件安全缺陷，而如何将这些发现迅速转化为实际防护措施，正成为网络安全领域日益重要的课题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/"
+        },
+        {
+          "id": "the_verge:ca249a819a5b",
+          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.717,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "published_at": "2026-10-21T13:57:43+00:00",
+          "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't confi"
+        },
+        {
+          "id": "openai_blog:05487dee355f",
+          "title": "OpenAI models are coming to Google Cloud",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.567,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "published_at": "2026-10-21T12:00:00+00:00",
+          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+        },
+        {
+          "id": "openai_blog:fabb22755140",
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.087,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "published_at": "2026-10-21T04:50:00+00:00",
+          "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+        },
+        {
+          "id": "qbitai:c59f55c89861",
+          "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.604,
+          "url": "https://www.qbitai.com/2026/10/504730.html",
+          "published_at": "2026-10-21T09:45:22+00:00",
+          "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
         }
       ]
     }
