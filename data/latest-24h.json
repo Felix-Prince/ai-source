@@ -1,25 +1,40 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T21:45:50.201454+00:00",
-    "generated_ts": 1792705550.2014544,
+    "generated_at": "2026-10-23T05:04:09.316621+00:00",
+    "generated_ts": 1792731849.316621,
     "window_hours": 24.0,
     "total": 18
   },
   "items": [
     {
-      "id": "cnbeta:169108e96ec7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
-      "summary": "<p>前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室，帮助生物科技和制药公司更快制造、测试候选化合物。韦尔宣布，公司已完成2.15亿美元融资，领投方为Lightspeed；公司估值据称达到8.65亿美元。IVP、Premji Invest、Mayfield、Lux Capital和Menlo Ventures等也参与投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583428.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T18:50:35+00:00",
-      "published_ts": 1792695035.0,
+      "id": "tmtpost:87dd63a8ab22",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Token被摆上天猫的那一刻，离拼多多已经不远了",
+      "url": "https://www.tmtpost.com/8178812.html",
+      "summary": "大模型厂商急于破圈。",
+      "published_at": "2026-10-23T04:34:00+00:00",
+      "published_ts": 1792730040.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.757
+      "importance": 2.957
+    },
+    {
+      "id": "tmtpost:ed6d354b122f",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "什么？一个人就能训练大模型，指标还能硬刚K3V4？",
+      "url": "https://www.tmtpost.com/8178778.html",
+      "summary": "99%的活都交给了agent。",
+      "published_at": "2026-10-23T04:19:27+00:00",
+      "published_ts": 1792729167.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.936
     },
     {
       "id": "cnbeta:1267beebe758",
@@ -30,6 +45,21 @@
       "summary": "<p>微软近日发出警告称，企业不应盲目信任正在快速普及的人工智能智能体（AI Agents）。这些能够自主调用工具、访问企业数据并执行实际任务的AI系统，即使没有遭到黑客入侵，也可能因为判断失误、受到恶意内容误导或自行采取意料之外的行动，造成严重安全问题。与此同时，微软并没有因此放慢AI智能体的推广步伐，而是推出新的安全管理技术，试图在扩大应用规模的同时，对智能体的行为实施持续监控和权限约束。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583426.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
       "published_at": "2026-10-22T18:50:09+00:00",
       "published_ts": 1792695009.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.757
+    },
+    {
+      "id": "cnbeta:169108e96ec7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
+      "summary": "<p>前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室，帮助生物科技和制药公司更快制造、测试候选化合物。韦尔宣布，公司已完成2.15亿美元融资，领投方为Lightspeed；公司估值据称达到8.65亿美元。IVP、Premji Invest、Mayfield、Lux Capital和Menlo Ventures等也参与投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583428.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-22T18:50:35+00:00",
+      "published_ts": 1792695035.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
@@ -80,21 +110,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.691
-    },
-    {
-      "id": "tmtpost:3e30769b51ef",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF",
-      "url": "https://www.tmtpost.com/8176877.html",
-      "summary": "腾讯系企业Supercell全资收购《庄园合合》开发商；曝问界海外车型弃用华为智驾，改用博世方案出海欧洲；消息称Groq正计划将3D堆叠式DRAM封装技术应用于下一代芯片；OpenAI将ChatGPT广告业务扩展至26个新国家和地区；星巴克中国2027财年计划新增投入超3亿元；《电动汽车动力蓄电池在役检测试验方法》国标发布，覆盖电池隐患排查、二手车交易与功能检测等应用场景；工信部：2030年建设500个左右国家级零碳工厂和零碳算力设施；三季度末银行理财市场存续规模35.37万亿元，同比增加10.08%；乘联分会：10月1-18日全国乘用车市场零售78.9万辆，同比下降26%",
-      "published_at": "2026-10-21T23:20:00+00:00",
-      "published_ts": 1792624800.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.542
     },
     {
       "id": "cnbeta:9598b685dea3",
@@ -215,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.834
-    },
-    {
-      "id": "openai_blog:b9a9178c64e2",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "published_at": "2026-10-22T00:00:00+00:00",
-      "published_ts": 1792627200.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.818
     },
     {
       "id": "qbitai:456782364421",
