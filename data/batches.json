@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T05:04:09.316621+00:00",
+    "generated_at": "2026-10-23T11:50:51.053910+00:00",
     "max_days": 30
   },
   "batches": [
@@ -7216,6 +7216,51 @@
           "url": "https://www.tmtpost.com/8178778.html",
           "published_at": "2026-10-23T04:19:27+00:00",
           "summary": "99%的活都交给了agent。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-23T11:50:51.053910+00:00",
+      "generated_ts": 1792756251.0539103,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:524c1476714d",
+          "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.857,
+          "url": "https://www.tmtpost.com/8179212.html",
+          "published_at": "2026-10-23T10:09:37+00:00",
+          "summary": "具身智能创业公司面对的已经不只是另一个竞争对手。国内外的头部大模型公司带着算力、模型、人才和资金，从软件一路压到物理世界。"
+        },
+        {
+          "id": "cnbeta:2daf2a48c46e",
+          "title": "Canva发布首款自主研发的图像生成模型",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.712,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583548.htm",
+          "published_at": "2026-10-23T08:21:18+00:00",
+          "summary": "<p>设计平台Canva发布了首款由其研究团队自主研发的图像生成模型Canva Craft，旨在与谷歌、OpenAI和Meta等公司的同类模型展开竞争。Canva表示，该模型分两个阶段运行。第一阶段，模型解读用户输入的提示词，并制定生成计划，其中包括各元素之间的空间关系、相对比例、视觉层级以及文本生成所需的信息。第二阶段，模型根据计划生成图像，最高支持2K分辨率，并提供多达30种宽高比，以适配不同平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583548.htm\" target=\"_blank\"><strong>阅读全文</"
+        },
+        {
+          "id": "cnbeta:cf2317c502f0",
+          "title": "自拍也能测健康？AI通过面部照片检测生理年龄和健康风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.722,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583540.htm",
+          "published_at": "2026-10-23T06:39:44+00:00",
+          "summary": "<p>研究人员开发了一种人工智能模型，它不仅能通过简单的面部照片估算生物年龄，还能识别健康风险，包括癌症患者的死亡风险。下文我们将详细介绍这项技术的实际效果。此外，还有一个专门的研究网站供你亲自体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

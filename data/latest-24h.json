@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T05:04:09.316621+00:00",
-    "generated_ts": 1792731849.316621,
+    "generated_at": "2026-10-23T11:50:51.053910+00:00",
+    "generated_ts": 1792756251.0539103,
     "window_hours": 24.0,
-    "total": 18
+    "total": 15
   },
   "items": [
     {
@@ -35,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.936
+    },
+    {
+      "id": "tmtpost:524c1476714d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
+      "url": "https://www.tmtpost.com/8179212.html",
+      "summary": "具身智能创业公司面对的已经不只是另一个竞争对手。国内外的头部大模型公司带着算力、模型、人才和资金，从软件一路压到物理世界。",
+      "published_at": "2026-10-23T10:09:37+00:00",
+      "published_ts": 1792750177.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.857
     },
     {
       "id": "cnbeta:1267beebe758",
@@ -97,34 +112,19 @@
       "importance": 2.715
     },
     {
-      "id": "cnbeta:99f24c265f6a",
+      "id": "cnbeta:2daf2a48c46e",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "亚马逊警告：人工智能发现的新型网络安全漏洞正遭到“大规模利用”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583362.htm",
-      "summary": "<p>研究人员利用OpenAI和谷歌的模型，在全球绝大多数网站使用的软件中发现了严重漏洞。亚马逊警告称，研究人员借助人工智能工具，在支撑互联网大量网站运行的一种编程语言中发现了安全漏洞，目前这些漏洞正遭到“大规模利用”。各国政府和企业正争相采取措施，确保自身系统安全。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T08:20:33+00:00",
-      "published_ts": 1792657233.0,
+      "title": "Canva发布首款自主研发的图像生成模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583548.htm",
+      "summary": "<p>设计平台Canva发布了首款由其研究团队自主研发的图像生成模型Canva Craft，旨在与谷歌、OpenAI和Meta等公司的同类模型展开竞争。Canva表示，该模型分两个阶段运行。第一阶段，模型解读用户输入的提示词，并制定生成计划，其中包括各元素之间的空间关系、相对比例、视觉层级以及文本生成所需的信息。第二阶段，模型根据计划生成图像，最高支持2K分辨率，并提供多达30种宽高比，以适配不同平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-23T08:21:18+00:00",
+      "published_ts": 1792743678.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.691
-    },
-    {
-      "id": "cnbeta:9598b685dea3",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "消息称DeepSeek已融资1000亿元：两次上调目标 腾讯、宁德时代投资",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583322.htm",
-      "summary": "<p>10月22日，据彭博社报道，DeepSeek已在最新一轮融资中筹集了约1000亿元人民币(约合150亿美元)资金，这是中国有史以来规模最大的融资之一，也表明这家创业公司在全球内与Anthropic、OpenAI等公司展开竞争的雄心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583322.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T05:29:13+00:00",
-      "published_ts": 1792646953.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.478
+      "importance": 2.712
     },
     {
       "id": "techcrunch:b4bf749964e9",
@@ -140,21 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.968
-    },
-    {
-      "id": "cnbeta:b79e46f90c5d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek公众号封面闹乌龙 普惠变成惠普",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583372.htm",
-      "summary": "<p>AI圈近日出现了一个颇具戏剧性的小插曲：DeepSeek一篇官宣推文，还没来得及让大家仔细研读技术干货，先因为封面文字乌龙火出圈了。<strong>有网友发现，公众号文章《DeepSeek开源推理框架：走向真正普惠的未来》封面把 “普惠” 错打成了 “惠普”，刚好和知名电脑品牌惠普（HP）撞名。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583372.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T11:27:57+00:00",
-      "published_ts": 1792668477.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.963
     },
     {
       "id": "cnbeta:e683901b6c38",
@@ -232,49 +217,19 @@
       "importance": 1.834
     },
     {
-      "id": "qbitai:456782364421",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "published_at": "2026-10-22T07:11:14+00:00",
-      "published_ts": 1792653074.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.735
-    },
-    {
-      "id": "cnbeta:370db223784e",
+      "id": "cnbeta:cf2317c502f0",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "消息称Anthropic最早周五提交IPO申请",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583330.htm",
-      "summary": "<p>据雅虎财经报道，三位知情人士透露，人工智能公司Anthropic 最早将于本周五公开提交 S-1 投资者招股说明书。此举将是该公司迈出的关键一步，有望成为史上规模最大的 IPO。备受瞩目的IPO预计将超过SpaceX（SPCX）6月份的IPO，被广泛视为对投资者对人工智能热潮兴趣的关键考验，因为投资者越来越担心该行业的巨额支出。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583330.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T05:35:12+00:00",
-      "published_ts": 1792647312.0,
+      "title": "自拍也能测健康？AI通过面部照片检测生理年龄和健康风险",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583540.htm",
+      "summary": "<p>研究人员开发了一种人工智能模型，它不仅能通过简单的面部照片估算生物年龄，还能识别健康风险，包括癌症患者的死亡风险。下文我们将详细介绍这项技术的实际效果。此外，还有一个专门的研究网站供你亲自体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-23T06:39:44+00:00",
+      "published_ts": 1792737584.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.656
-    },
-    {
-      "id": "cnbeta:f7b4bcb51e02",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI揪出PHP致命漏洞 全球70%网站深夜爆雷",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583320.htm",
-      "summary": "<p>连账号密码都不用，黑客就可能让网站服务器听命于自己！昨日OpenAI公开了一起惊心动魄的幕后行动：GPT-5.6 Sol从全球70%网站都在用的PHP语言里，<strong>挖出了两个致命漏洞。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T05:27:24+00:00",
-      "published_ts": 1792646844.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.65
+      "importance": 1.722
     }
   ]
 }
