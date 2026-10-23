@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T11:50:51.053910+00:00",
-    "generated_ts": 1792756251.0539103,
+    "generated_at": "2026-10-23T17:17:52.430771+00:00",
+    "generated_ts": 1792775872.4307714,
     "window_hours": 24.0,
-    "total": 15
+    "total": 13
   },
   "items": [
+    {
+      "id": "openai_blog:2c84820b4c10",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "published_ts": 1792774800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 4.461
+    },
     {
       "id": "tmtpost:87dd63a8ab22",
       "source": "tmtpost",
@@ -35,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.936
+    },
+    {
+      "id": "cnbeta:2d53985edb78",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "中国工厂大规模拆解RTX 5090改造AI加速卡 英伟达高端游戏显卡流向再引关注",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583614.htm",
+      "summary": "<p>随着人工智能计算需求持续增长，中国出现了将英伟达GeForce RTX 5090游戏显卡大规模改造为AI加速卡的生产线。根据Wccftech及其他硬件媒体援引的最新视频资料，相关工厂正在拆解零售版RTX 5090显卡，将GPU核心和显存芯片转移到专门设计的服务器电路板上，再配备适合数据中心使用的散热系统，使原本面向游戏玩家的高端显卡能够用于AI计算。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-23T16:20:16+00:00",
+      "published_ts": 1792772416.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.918
     },
     {
       "id": "tmtpost:524c1476714d",
@@ -82,36 +112,6 @@
       "importance": 2.757
     },
     {
-      "id": "cnbeta:8a98944ada0f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "1Password推出AI智能体密码授权功能：让AI登录账户却不必知道用户密码",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583406.htm",
-      "summary": "<p>密码管理服务商1Password近日推出全新的“1Password for Agents”功能，允许人工智能智能体在获得用户授权后，使用用户保存的账户凭据登录网站并执行任务，同时避免将密码直接暴露给AI模型。这项功能旨在解决AI智能体日益普及后面临的一项重要安全问题：当AI需要代表用户登录网站、操作账户时，如何让它完成任务，又不必将用户的敏感凭据交给它。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583406.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T14:20:07+00:00",
-      "published_ts": 1792678807.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.75
-    },
-    {
-      "id": "techcrunch:82b5b2734910",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "published_at": "2026-10-22T13:53:26+00:00",
-      "published_ts": 1792677206.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.715
-    },
-    {
       "id": "cnbeta:2daf2a48c46e",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -127,64 +127,19 @@
       "importance": 2.712
     },
     {
-      "id": "techcrunch:b4bf749964e9",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "published_at": "2026-10-22T16:47:17+00:00",
-      "published_ts": 1792687637.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.968
-    },
-    {
-      "id": "cnbeta:e683901b6c38",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国IPO市场陷入“瘫痪” Anthropic被寄望打破僵局",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583420.htm",
-      "summary": "<p>围绕人工智能（AI）的争议令一些企业被迫按下了IPO暂停键，在Anthropic上市一天天迫近之际，数十亿美元资金和长达数月的筹备工作陷入停顿。Truist Financial股票资本市场主管West Riggs表示：“一切好像瘫痪了似的。市场必须先理清头绪。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T16:35:47+00:00",
-      "published_ts": 1792686947.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.957
-    },
-    {
-      "id": "techcrunch:f9dd3a958d64",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "published_at": "2026-10-22T16:00:00+00:00",
-      "published_ts": 1792684800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.924
-    },
-    {
-      "id": "the_verge:cba8a239e643",
+      "id": "the_verge:c4f3ca7e2763",
       "source": "the_verge",
       "source_label": "The Verge",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [&#8230;]",
-      "published_at": "2026-10-22T15:50:30+00:00",
-      "published_ts": 1792684230.0,
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
+      "published_at": "2026-10-23T14:47:41+00:00",
+      "published_ts": 1792766861.0,
       "category": "international",
       "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.915
+      "importance": 1.861
     },
     {
       "id": "the_verge:194fe37c2125",
@@ -202,19 +157,19 @@
       "importance": 1.845
     },
     {
-      "id": "cnbeta:c5447ad871ba",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic推出Claude Duet代理应用 主打主动处理专业工作",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583408.htm",
-      "summary": "<p>Anthropic推出Claude Duet，将其定位为面向专业人士和小企业主的主动式AI代理。与等待用户提问的聊天机器人不同，Duet会定期查看已连接的应用，每天整理一份重点事项简报，并在发现需要处理的邮件、日程或业务问题时主动提醒用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-22T14:21:02+00:00",
-      "published_ts": 1792678862.0,
+      "id": "tmtpost:bd4056a4311c",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "SK海力士取消其存储子公司赴美IPO，股价反弹",
+      "url": "https://www.tmtpost.com/8179887.html",
+      "summary": "这家内存芯片巨头在昨夜又向人工智能交易发出了一个警示信号。",
+      "published_at": "2026-10-23T13:51:37+00:00",
+      "published_ts": 1792763497.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.834
+      "importance": 1.811
     },
     {
       "id": "cnbeta:cf2317c502f0",
@@ -230,6 +185,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.722
+    },
+    {
+      "id": "qbitai:ee98ae9a353a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "企业AI需要两个世界模型",
+      "url": "https://www.qbitai.com/2026/10/505032.html",
+      "summary": "特赞想让企业Agent真正懂业务",
+      "published_at": "2026-10-23T09:07:25+00:00",
+      "published_ts": 1792746445.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.579
     }
   ]
 }
