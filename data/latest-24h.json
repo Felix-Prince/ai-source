@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T11:17:55.223112+00:00",
-    "generated_ts": 1792840675.223112,
+    "generated_at": "2026-10-24T16:05:21.985481+00:00",
+    "generated_ts": 1792857921.9854805,
     "window_hours": 24.0,
     "total": 11
   },
@@ -50,6 +50,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.918
+    },
+    {
+      "id": "techcrunch:e200744ad91b",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "published_ts": 1792854000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.907
+    },
+    {
+      "id": "cnbeta:fb05fa2f575c",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
+      "summary": "<p>随着全球科技行业持续加码人工智能基础设施建设，一个新的瓶颈正逐渐浮出水面。问题不再是买不到先进芯片，而是即使获得了大量高性能GPU，数据中心也未必有足够的电力将其投入运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-24T14:33:52+00:00",
+      "published_ts": 1792852432.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.871
     },
     {
       "id": "tmtpost:8fcd85d1de07",
@@ -125,36 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.98
-    },
-    {
-      "id": "the_verge:c4f3ca7e2763",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
-      "published_at": "2026-10-23T14:47:41+00:00",
-      "published_ts": 1792766861.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.861
-    },
-    {
-      "id": "tmtpost:bd4056a4311c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "SK海力士取消其存储子公司赴美IPO，股价反弹",
-      "url": "https://www.tmtpost.com/8179887.html",
-      "summary": "这家内存芯片巨头在昨夜又向人工智能交易发出了一个警示信号。",
-      "published_at": "2026-10-23T13:51:37+00:00",
-      "published_ts": 1792763497.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.811
     },
     {
       "id": "cnbeta:1456b3d14b54",

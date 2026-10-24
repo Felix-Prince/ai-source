@@ -1,104 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T11:17:55.223112+00:00",
+    "generated_at": "2026-10-24T16:05:21.985481+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-24T11:58:53.680892+00:00",
-      "generated_ts": 1790251133.680892,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "the_verge:0a244e3bbb7e",
-          "title": "OpenAI agents hacked an Australian government website in search for data",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.991,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-          "published_at": "2026-09-24T11:52:32+00:00",
-          "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying con"
-        },
-        {
-          "id": "tmtpost:def2d29e9d45",
-          "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.855,
-          "url": "https://www.tmtpost.com/8151500.html",
-          "published_at": "2026-09-24T10:16:10+00:00",
-          "summary": "阿里字节DeepSeek重启大模型军备赛。"
-        },
-        {
-          "id": "tmtpost:58cef0b1aa31",
-          "title": "OpenAI、Anthropic同日模型大战，“是兄弟就砍一刀”",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.731,
-          "url": "https://www.tmtpost.com/8151026.html",
-          "published_at": "2026-09-24T08:43:47+00:00",
-          "summary": "刀刀见骨，AI巨头为自己画过的大饼“填窟窿”"
-        },
-        {
-          "id": "cnbeta:66f74db6fead",
-          "title": "下一代旗舰模型Gemini 4发布时间或“远早于”今年底",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.601,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579468.htm",
-          "published_at": "2026-09-24T07:02:14+00:00",
-          "summary": "<p>Google&nbsp;DeepMind部门负责人Koray Kavukcuoglu周三表示，Google接近发布其最新旗舰模型 Gemini 4，这是这家科技巨头在人工智能模型竞赛中落后于竞争对手 Anthropic 和 OpenAI 后期待已久的进展。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579468.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:75b3beec08ef",
-          "title": "OpenAI、Anthropic呼吁建立全球AI安全标准 美国政府拒绝新增全球治理框架",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.6,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579464.htm",
-          "published_at": "2026-09-24T07:01:31+00:00",
-          "summary": "<p>OpenAI、Anthropic和Hugging Face的负责人在联合国共同呼吁加强人工智能领域的国际协调，希望各国建立可相互比较的AI能力评估、安全测试和事故报告标准。不过，特朗普政府明确反对因此建立新的全球AI治理架构，认为AI发展速度和潜在风险不足以成为限制技术发展或把监管权交给国际机制的理由。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579464.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f57b6dc2e289",
-          "title": "BitDefender推出面向AI智能体的专用VPN 避免智能体工作时泄露用户真实IP",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.48,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579446.htm",
-          "published_at": "2026-09-24T05:23:31+00:00",
-          "summary": "<p>老牌杀毒软件比特梵德日前推出面向 AI 智能体的专用 VPN 服务，试图解决智能体联网时暴露用户真实 IP、不同任务之间存在残留网络状态等问题。该产品通过 MCP 模型上下文协议为 AI 智能体提供服务，原则上是不支持用户真人使用的。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579446.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:7012d7b160ec",
-          "title": "AI需要紧急关停开关？微软布拉德・史密斯给出肯定答案",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.936,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579482.htm",
-          "published_at": "2026-09-24T10:51:10+00:00",
-          "summary": "<p>“真正的问题在于：如果你认为应当放慢脚步，那就不要一味高速狂奔，不要等到外力逼迫你才停下来。”这是微软副董事长兼总裁布拉德・史密斯，于联合国大会期间对艾伦・默里所说的一番话。他所探讨的议题是：前沿大模型厂商是否应当踩下减速踏板，确保自己研发的技术不会给人类带来灭顶之灾。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579482.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:0e003b568e9d",
-          "title": "独家对话Taboola创始人兼CEO：程序化广告出局，Agent成万亿广告最大买家",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.882,
-          "url": "https://www.tmtpost.com/8151830.html",
-          "published_at": "2026-09-24T09:52:05+00:00",
-          "summary": "Agent时代广告生存标准十分残酷。辛戈尔达给出判据只有两条：你有我没有的独特数据吗？你有广告主绕不开你的触达渠道吗？任一条答否就被跳过，“其余的部分，Claude自己就能搞定。”"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-24T17:21:21.825200+00:00",
       "generated_ts": 1790270481.8252,
@@ -7100,6 +7005,40 @@
           "url": "https://www.cnbeta.com.tw/articles/science/1583636.htm",
           "published_at": "2026-10-24T05:48:21+00:00",
           "summary": "<p>科学家发现，唾液中的细菌组成可能隐藏着一种致命食管癌的重要线索。来自南非和美国的研究人员通过分析患者唾液中的微生物，并结合机器学习技术，建立了一种区分食管癌患者与未患癌人群的预测模型。研究结果显示，基于口腔微生物特征的模型，其识别效果优于单纯依靠临床信息和人口统计特征建立的模型。这项研究为开发简单、低成本的辅助筛查工具提供了新的思路。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1583636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-24T16:05:21.985481+00:00",
+      "generated_ts": 1792857921.9854805,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "techcrunch:e200744ad91b",
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.907,
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "published_at": "2026-10-24T15:00:00+00:00",
+          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+        },
+        {
+          "id": "cnbeta:fb05fa2f575c",
+          "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.871,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
+          "published_at": "2026-10-24T14:33:52+00:00",
+          "summary": "<p>随着全球科技行业持续加码人工智能基础设施建设，一个新的瓶颈正逐渐浮出水面。问题不再是买不到先进芯片，而是即使获得了大量高性能GPU，数据中心也未必有足够的电力将其投入运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
