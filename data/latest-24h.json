@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T04:48:42.967035+00:00",
-    "generated_ts": 1792817322.967035,
+    "generated_at": "2026-10-24T11:17:55.223112+00:00",
+    "generated_ts": 1792840675.223112,
     "window_hours": 24.0,
     "total": 11
   },
@@ -52,49 +52,64 @@
       "importance": 2.918
     },
     {
-      "id": "tmtpost:524c1476714d",
+      "id": "tmtpost:8fcd85d1de07",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
-      "url": "https://www.tmtpost.com/8179212.html",
-      "summary": "具身智能创业公司面对的已经不只是另一个竞争对手。国内外的头部大模型公司带着算力、模型、人才和资金，从软件一路压到物理世界。",
-      "published_at": "2026-10-23T10:09:37+00:00",
-      "published_ts": 1792750177.0,
+      "title": "Deepseek招天才，Kimi找老兵",
+      "url": "https://www.tmtpost.com/8180419.html",
+      "summary": "算力霸权与智力密度的双重较量。",
+      "published_at": "2026-10-24T08:58:00+00:00",
+      "published_ts": 1792832280.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.857
+      "importance": 2.805
     },
     {
-      "id": "cnbeta:2daf2a48c46e",
+      "id": "cnbeta:f6f67a6eda83",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Canva发布首款自主研发的图像生成模型",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583548.htm",
-      "summary": "<p>设计平台Canva发布了首款由其研究团队自主研发的图像生成模型Canva Craft，旨在与谷歌、OpenAI和Meta等公司的同类模型展开竞争。Canva表示，该模型分两个阶段运行。第一阶段，模型解读用户输入的提示词，并制定生成计划，其中包括各元素之间的空间关系、相对比例、视觉层级以及文本生成所需的信息。第二阶段，模型根据计划生成图像，最高支持2K分辨率，并提供多达30种宽高比，以适配不同平台。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583548.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-23T08:21:18+00:00",
-      "published_ts": 1792743678.0,
+      "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583658.htm",
+      "summary": "<p>10月24日，<strong>月之暗面Kimi今日凌晨正式推出Kimi K3.1系列首个模型——K3.1 Pro。</strong>这是公司迄今能力最强的3万亿级参数模型，支持100万上下文。高速版Kimi K3.1 Pro Highspeed同步推出，同等智能下输出速度约为2至3倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583658.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-24T06:15:44+00:00",
+      "published_ts": 1792822544.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.712
+      "importance": 2.594
     },
     {
-      "id": "openai_blog:4083acb6efef",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "published_ts": 1792749600.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.15
+      "id": "cnbeta:7aa566dafaca",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic联合创始人：中国模型目前落后西方约6个月到一年 因为\"太蠢\"",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583654.htm",
+      "summary": "<p>近日Anthropic联合创始人、政策与公共事务负责人Jack Clark在访谈中提到对中国AI发展的判断。<strong>他表示，中国模型目前落后西方约6个月到一年，&quot;模型太蠢&quot;，因此还没有看到失控的智能体集群，但再过几个月，中方也将面对西方已经经历过的同一套风险。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-24T06:10:57+00:00",
+      "published_ts": 1792822257.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.588
+    },
+    {
+      "id": "cnbeta:ffd5674ed297",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英国将投入1亿英镑建设AI生物安全实验室 OpenAI和Anthropic提供模型额度",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583644.htm",
+      "summary": "<p>英国政府计划拨款1亿英镑，成立国家人工智能生物安全实验室（AI Biosecurity Lab，AIBL），用于增强应对新兴生物威胁的能力。政府称该机构将是“世界首创”，并将与领先的人工智能企业合作；OpenAI和Anthropic还将提供价值约2亿英镑的模型使用额度，供实验室调用各自的AI模型。这些额度属于模型服务资源，并非直接现金捐款。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-24T05:52:51+00:00",
+      "published_ts": 1792821171.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.565
     },
     {
       "id": "the_verge:ffe63e785ffa",
@@ -142,34 +157,19 @@
       "importance": 1.811
     },
     {
-      "id": "cnbeta:cf2317c502f0",
+      "id": "cnbeta:1456b3d14b54",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "自拍也能测健康？AI通过面部照片检测生理年龄和健康风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583540.htm",
-      "summary": "<p>研究人员开发了一种人工智能模型，它不仅能通过简单的面部照片估算生物年龄，还能识别健康风险，包括癌症患者的死亡风险。下文我们将详细介绍这项技术的实际效果。此外，还有一个专门的研究网站供你亲自体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-23T06:39:44+00:00",
-      "published_ts": 1792737584.0,
+      "title": "唾液中的细菌或可帮助识别食管癌患者 为低成本筛查提供新方向",
+      "url": "https://www.cnbeta.com.tw/articles/science/1583636.htm",
+      "summary": "<p>科学家发现，唾液中的细菌组成可能隐藏着一种致命食管癌的重要线索。来自南非和美国的研究人员通过分析患者唾液中的微生物，并结合机器学习技术，建立了一种区分食管癌患者与未患癌人群的预测模型。研究结果显示，基于口腔微生物特征的模型，其识别效果优于单纯依靠临床信息和人口统计特征建立的模型。这项研究为开发简单、低成本的辅助筛查工具提供了新的思路。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1583636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-24T05:48:21+00:00",
+      "published_ts": 1792820901.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.722
-    },
-    {
-      "id": "qbitai:ee98ae9a353a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "企业AI需要两个世界模型",
-      "url": "https://www.qbitai.com/2026/10/505032.html",
-      "summary": "特赞想让企业Agent真正懂业务",
-      "published_at": "2026-10-23T09:07:25+00:00",
-      "published_ts": 1792746445.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.579
+      "importance": 1.707
     }
   ]
 }
