@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T16:35:55.204934+00:00",
-    "generated_ts": 1792946155.2049341,
+    "generated_at": "2026-10-25T20:59:17.722326+00:00",
+    "generated_ts": 1792961957.722326,
     "window_hours": 24.0,
-    "total": 3
+    "total": 4
   },
   "items": [
     {
@@ -20,6 +20,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.807
+    },
+    {
+      "id": "cnbeta:2b37df5d0195",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583810.htm",
+      "summary": "<p>英伟达正计划进一步扩大软件业务，希望在销售人工智能芯片之外，通过企业软件许可获得更加稳定的经常性收入。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及这一战略时表示，为运行人工智能代理而提供的软件，可以采用按GPU数量收费的授权模式，价格例如每块GPU每年约2000美元。这一数字引发了业界对英伟达软件业务潜在规模的关注，但目前还不能将其视为已经正式公布的统一收费标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583810.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-25T16:46:17+00:00",
+      "published_ts": 1792946777.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.656
     },
     {
       "id": "cnbeta:7377d175732b",

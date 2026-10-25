@@ -1,94 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T16:35:55.204934+00:00",
+    "generated_at": "2026-10-25T20:59:17.722326+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-25T17:20:34.521549+00:00",
-      "generated_ts": 1790356834.5215495,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "the_verge:a6a0a468b816",
-          "title": "One company is at the center of a wave of rogue AI attacks",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.858,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-          "published_at": "2026-09-25T15:39:48+00:00",
-          "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures"
-        },
-        {
-          "id": "cnbeta:7cf72d50a31e",
-          "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.813,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
-          "published_at": "2026-09-25T15:06:37+00:00",
-          "summary": "<p>埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:6d1372aa05d5",
-          "title": "苹果iPhone已可运行140亿激活参数的AI模型 Mac未来瞄准1.6万亿级系统",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.572,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579614.htm",
-          "published_at": "2026-09-25T12:00:39+00:00",
-          "summary": "<p>苹果正在悄然扩展其设备端人工智能能力，而最新披露的信息显示，公司对于本地大模型的规划规模远超外界此前预期。从iPhone到Mac，苹果正试图建立覆盖不同性能层级的本地AI体系，并逐步将超大规模人工智能模型引入个人设备生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579614.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:f5ca4e5ff891",
-          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.94,
-          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-          "published_at": "2026-09-25T16:16:52+00:00",
-          "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
-        },
-        {
-          "id": "techcrunch:6967d0f15f65",
-          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.913,
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-          "published_at": "2026-09-25T15:48:14+00:00",
-          "summary": "The latest unauthorized agent swarms were discovered by researchers."
-        },
-        {
-          "id": "cnbeta:88ceaebe5ff1",
-          "title": "苹果新款Apple TV 4K配置曝光：A19芯片加持",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.902,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579628.htm",
-          "published_at": "2026-09-25T15:36:17+00:00",
-          "summary": "<p>苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:a4302c20590b",
-          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.778,
-          "url": "https://www.qbitai.com/2026/09/497177.html",
-          "published_at": "2026-09-25T13:15:45+00:00",
-          "summary": ""
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-25T21:41:18.441301+00:00",
       "generated_ts": 1790372478.4413013,
@@ -6857,6 +6772,31 @@
         "cnbeta": 50
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-10-25T20:59:17.722326+00:00",
+      "generated_ts": 1792961957.722326,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:2b37df5d0195",
+          "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.656,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583810.htm",
+          "published_at": "2026-10-25T16:46:17+00:00",
+          "summary": "<p>英伟达正计划进一步扩大软件业务，希望在销售人工智能芯片之外，通过企业软件许可获得更加稳定的经常性收入。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及这一战略时表示，为运行人工智能代理而提供的软件，可以采用按GPU数量收费的授权模式，价格例如每块GPU每年约2000美元。这一数字引发了业界对英伟达软件业务潜在规模的关注，但目前还不能将其视为已经正式公布的统一收费标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583810.htm\" target=\"_blank\"><strong>阅读全文</strong></a"
+        }
+      ]
     }
   ]
 }
