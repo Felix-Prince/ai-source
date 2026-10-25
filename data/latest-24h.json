@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T11:47:33.845434+00:00",
-    "generated_ts": 1792928853.8454337,
+    "generated_at": "2026-10-25T16:35:55.204934+00:00",
+    "generated_ts": 1792946155.2049341,
     "window_hours": 24.0,
-    "total": 5
+    "total": 3
   },
   "items": [
-    {
-      "id": "techcrunch:e200744ad91b",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "published_ts": 1792854000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.907
-    },
-    {
-      "id": "cnbeta:fb05fa2f575c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
-      "summary": "<p>随着全球科技行业持续加码人工智能基础设施建设，一个新的瓶颈正逐渐浮出水面。问题不再是买不到先进芯片，而是即使获得了大量高性能GPU，数据中心也未必有足够的电力将其投入运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-24T14:33:52+00:00",
-      "published_ts": 1792852432.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.871
-    },
     {
       "id": "tmtpost:a579e269577e",
       "source": "tmtpost",
