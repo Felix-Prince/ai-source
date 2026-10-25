@@ -1,74 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T20:59:14.137365+00:00",
+    "generated_at": "2026-10-25T04:57:34.352816+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-24T21:36:53.189505+00:00",
-      "generated_ts": 1790285813.1895053,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:d9c39e853721",
-          "title": "Google发布Gemini 3.8 Live Live Avatar数字人交互功能 赋予AI实时视频面孔",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.877,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579530.htm",
-          "published_at": "2026-09-24T20:10:05+00:00",
-          "summary": "<p>Google公司宣布，正式在Gemini Enterprise企业级平台中全面上线“Live Avatar”（实时数字人）功能。该技术深度集成了Google最新的Gemini 3.8 Live大模型架构，在原有近乎零延迟的高流畅语音对谈基础上，首次引入了近乎实时的生成式视频生成能力，使对话式人工智能拥有了能够“边听、边看、边说”的动态视觉形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579530.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:130bf80f3fdf",
-          "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.73,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm",
-          "published_at": "2026-09-24T18:20:38+00:00",
-          "summary": "<p>美国与英国在人工智能安全监管领域的协调正面临新的考验。多名知情人士透露，白宫近期已要求OpenAI和Anthropic在美国完成相关评估程序之前，不要将最新一代人工智能模型提供给英国政府指定的测试机构进行提前审查。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579522.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a9e926d6109a",
-          "title": "报道：Google、OpenAI和Anthropic拟组建前沿AI标准机构",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.709,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579518.htm",
-          "published_at": "2026-09-24T18:05:01+00:00",
-          "summary": "<p>The Information援引知情人士报道，谷歌、OpenAI和Anthropic正在推进一项成立人工智能（AI）安全标准机构的计划，该机构将不受政府监督。目标是在今年底前或2027年初启动。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579518.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:11a26c113b06",
-          "title": "1b DRAM单位面积价值现在比台积电2纳米晶圆还高出54%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.821,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579526.htm",
-          "published_at": "2026-09-24T18:22:38+00:00",
-          "summary": "<p>在人工智能带动全球算力需求爆发的背景下，半导体产业正在出现一个过去几乎难以想象的现象：用于制造DDR5内存的先进DRAM晶圆，如今按单位面积计算的市场价值，已经超过了台积电最先进的2纳米逻辑晶圆。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579526.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "ars_technica:adc8ae6e22d6",
-          "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.702,
-          "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-          "published_at": "2026-09-24T16:01:16+00:00",
-          "summary": "\"There will obviously be legal consequences,\" prime minister promises."
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-25T05:06:46.176528+00:00",
       "generated_ts": 1790312806.176528,
@@ -6996,6 +6931,20 @@
         "techcrunch": 20,
         "ars_technica": 20,
         "qbitai": 10,
+        "cnbeta": 50
+      },
+      "items": []
+    },
+    {
+      "generated_at": "2026-10-25T04:57:34.352816+00:00",
+      "generated_ts": 1792904254.352816,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
         "cnbeta": 50
       },
       "items": []
