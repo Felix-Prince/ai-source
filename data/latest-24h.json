@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T04:57:34.352816+00:00",
-    "generated_ts": 1792904254.352816,
+    "generated_at": "2026-10-25T11:47:33.845434+00:00",
+    "generated_ts": 1792928853.8454337,
     "window_hours": 24.0,
-    "total": 7
+    "total": 5
   },
   "items": [
     {
@@ -37,79 +37,49 @@
       "importance": 2.871
     },
     {
-      "id": "tmtpost:8fcd85d1de07",
+      "id": "tmtpost:a579e269577e",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "Deepseek招天才，Kimi找老兵",
-      "url": "https://www.tmtpost.com/8180419.html",
-      "summary": "算力霸权与智力密度的双重较量。",
-      "published_at": "2026-10-24T08:58:00+00:00",
-      "published_ts": 1792832280.0,
+      "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
+      "url": "https://www.tmtpost.com/8181051.html",
+      "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
+      "published_at": "2026-10-25T09:29:09+00:00",
+      "published_ts": 1792920549.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.805
+      "importance": 2.807
     },
     {
-      "id": "cnbeta:f6f67a6eda83",
+      "id": "cnbeta:7377d175732b",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583658.htm",
-      "summary": "<p>10月24日，<strong>月之暗面Kimi今日凌晨正式推出Kimi K3.1系列首个模型——K3.1 Pro。</strong>这是公司迄今能力最强的3万亿级参数模型，支持100万上下文。高速版Kimi K3.1 Pro Highspeed同步推出，同等智能下输出速度约为2至3倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583658.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-24T06:15:44+00:00",
-      "published_ts": 1792822544.0,
+      "title": "数千亿Token测安全 AI仍能“隔墙传话” OpenAI前沿训练全面断网",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583744.htm",
+      "summary": "<p>不准联网，也没有共享可写文件，隔离的 AI 还是传上了话。它们用上的通信工具，是 <strong>CPU 缓存</strong>。10 月23 日，OpenAI 公布前沿模型训练环境的安全改造细节，披露了这项红队实验。同时，公司明确，前沿模型训练已禁止访问真实互联网，模型改在离线网页环境中练习浏览和搜索。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583744.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-25T07:00:00+00:00",
+      "published_ts": 1792911600.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.594
+      "importance": 2.612
     },
     {
-      "id": "cnbeta:7aa566dafaca",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic联合创始人：中国模型目前落后西方约6个月到一年 因为\"太蠢\"",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583654.htm",
-      "summary": "<p>近日Anthropic联合创始人、政策与公共事务负责人Jack Clark在访谈中提到对中国AI发展的判断。<strong>他表示，中国模型目前落后西方约6个月到一年，&quot;模型太蠢&quot;，因此还没有看到失控的智能体集群，但再过几个月，中方也将面对西方已经经历过的同一套风险。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-24T06:10:57+00:00",
-      "published_ts": 1792822257.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.588
-    },
-    {
-      "id": "cnbeta:ffd5674ed297",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英国将投入1亿英镑建设AI生物安全实验室 OpenAI和Anthropic提供模型额度",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583644.htm",
-      "summary": "<p>英国政府计划拨款1亿英镑，成立国家人工智能生物安全实验室（AI Biosecurity Lab，AIBL），用于增强应对新兴生物威胁的能力。政府称该机构将是“世界首创”，并将与领先的人工智能企业合作；OpenAI和Anthropic还将提供价值约2亿英镑的模型使用额度，供实验室调用各自的AI模型。这些额度属于模型服务资源，并非直接现金捐款。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-24T05:52:51+00:00",
-      "published_ts": 1792821171.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.565
-    },
-    {
-      "id": "cnbeta:1456b3d14b54",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "唾液中的细菌或可帮助识别食管癌患者 为低成本筛查提供新方向",
-      "url": "https://www.cnbeta.com.tw/articles/science/1583636.htm",
-      "summary": "<p>科学家发现，唾液中的细菌组成可能隐藏着一种致命食管癌的重要线索。来自南非和美国的研究人员通过分析患者唾液中的微生物，并结合机器学习技术，建立了一种区分食管癌患者与未患癌人群的预测模型。研究结果显示，基于口腔微生物特征的模型，其识别效果优于单纯依靠临床信息和人口统计特征建立的模型。这项研究为开发简单、低成本的辅助筛查工具提供了新的思路。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1583636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-24T05:48:21+00:00",
-      "published_ts": 1792820901.0,
+      "id": "tmtpost:5bfc87e88901",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AI大模型狂飙，面板行业也扛不住了",
+      "url": "https://www.tmtpost.com/8180986.html",
+      "summary": "面板厂商集体涨价，但真正的难题在下游。",
+      "published_at": "2026-10-25T10:37:48+00:00",
+      "published_ts": 1792924668.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.707
+      "importance": 1.934
     }
   ]
 }
