@@ -1,149 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T05:00:51.625120+00:00",
+    "generated_at": "2026-10-26T13:19:51.974032+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-26T05:10:11.715830+00:00",
-      "generated_ts": 1790399411.71583,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:0aa3270836fe",
-          "title": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.966,
-          "url": "https://www.tmtpost.com/8153052.html",
-          "published_at": "2026-09-26T04:46:19+00:00",
-          "summary": "（9月21日~9月26日）亚马逊官宣接入Kimi K3；超聚变发布FusionServer“无极”架构；《AI原生组织转型指南》发布"
-        },
-        {
-          "id": "cnbeta:4046f22b35ec",
-          "title": "OpenAI内部AI智能体曾将53张用户图片发布到互联网 公司事先并不知情",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.48,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579654.htm",
-          "published_at": "2026-09-25T22:34:42+00:00",
-          "summary": "<p>OpenAI近日披露了一起此前未公开的安全事件：在公司研究环境中运行的AI智能体曾将用户上传到OpenAI模型中的53张图片发布到公开的图片托管网站，而OpenAI当时并不知道这些智能体已经进行了相关操作。虽然这些图片并不是以公开索引页面的形式发布，但任何获得相关链接的人仍然可以访问这些内容，部分图片目前似乎仍然能够在互联网上找到。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:8bf0476bd78e",
-          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.642,
-          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-          "published_at": "2026-09-25T22:20:47+00:00",
-          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-        },
-        {
-          "id": "ars_technica:5970af30205a",
-          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.607,
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-          "published_at": "2026-09-25T21:36:20+00:00",
-          "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-09-26T11:35:08.275085+00:00",
-      "generated_ts": 1790422508.2750852,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:756734bf091a",
-          "title": "OpenAI失控Agent找DeepSeek、Kimi当外援 近百万条作案短链曝光",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.803,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579710.htm",
-          "published_at": "2026-09-26T09:14:02+00:00",
-          "summary": "<p>OpenAI，又被扒了…<strong>近700个OpenAI智能体组团攻入Hugging Face</strong>，这事儿快有两个多月了吧。谁曾想，直到今天还在发酵？？这次，8名研究者顺着智能体留在公网的痕迹一路猛挖，从数百万个短链接中，找出了接近100万个相关URL，并还原出大量攻击载荷。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:5def01160142",
-          "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.794,
-          "url": "https://www.qbitai.com/2026/09/498271.html",
-          "published_at": "2026-09-26T09:07:41+00:00",
-          "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
-        },
-        {
-          "id": "qbitai:35a3781ecf9f",
-          "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.785,
-          "url": "https://www.qbitai.com/2026/09/497624.html",
-          "published_at": "2026-09-26T09:01:00+00:00",
-          "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
-        },
-        {
-          "id": "qbitai:b189b1829c76",
-          "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.643,
-          "url": "https://www.qbitai.com/2026/09/497425.html",
-          "published_at": "2026-09-26T07:12:05+00:00",
-          "summary": "vLLM人马创业公司团队出品"
-        },
-        {
-          "id": "cnbeta:7eb5a25a6f14",
-          "title": "平均6天一个新旗舰 大模型更新快到人类跟不上了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.61,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579698.htm",
-          "published_at": "2026-09-26T06:45:57+00:00",
-          "summary": "<p>太疯狂了，短短两天，竟然冒出了4个新模型！前脚，老马的xAI才刚发完Grok 4.7。紧接着，OpenAI突然甩出GPT-6 Sol和Luna，价格直接腰斩。同一天，Anthropic也把Claude Opus 5.5拍在了桌上，比上一代硬生生便宜40%。9月22日，一张动图在X上被转疯，浏览量狂飙近百万。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579698.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:033cd7c5c0b5",
-          "title": "终于，Claude Code额度用完 不再恶心砍断你代码了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.742,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579704.htm",
-          "published_at": "2026-09-26T06:48:43+00:00",
-          "summary": "<p>终于，Claude Code，干了件人事。就在昨天，Anthropic开发者账号@ClaudeDevs官宣：Claude Code撞上5小时用量上限时，不再一刀切断（代码改到一半，对不起，没了，爱咋咋地）。<strong>现在，它会先找一个体面的停点，把手上这一步做完，再停。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579704.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:9be94e37f3a0",
-          "title": "Claude刷新物理学世界纪录 单挑基于杨振宁理论9圈难题",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.741,
-          "url": "https://www.cnbeta.com.tw/articles/science/1579700.htm",
-          "published_at": "2026-09-26T06:46:41+00:00",
-          "summary": "<p>Anthropic官宣Claude拿下了理论物理的一项前沿纪录。它在几乎无人类干预的情况下，连续运行数天，一举攻克了高能物理学界出了名难算的“九圈散射振幅”计算难题！具体来说，它算出了平面N=4超杨-米尔斯理论里六粒子振幅的九圈结果，人类此前的纪录停在八圈。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1579700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-26T16:31:50.760509+00:00",
       "generated_ts": 1790440310.7605088,
@@ -6785,6 +6645,81 @@
           "url": "https://www.cnbeta.com.tw/articles/movie/1583828.htm",
           "published_at": "2026-10-25T22:30:35+00:00",
           "summary": "<p>埃隆·马斯克旗下人工智能项目Grok日前公开发布了一段时长约七分钟的视频作品，被命名为《奥德赛》系列第一集。这也是三个月前马斯克宣布将利用Grok制作一部“历史准确”的完整《奥德赛》电影后，首次向公众展示实质性成果。</p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1583828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-26T13:19:51.974032+00:00",
+      "generated_ts": 1793020791.9740317,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:bf7b5eedf291",
+          "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.914,
+          "url": "https://www.tmtpost.com/8181692.html",
+          "published_at": "2026-10-26T12:19:13+00:00",
+          "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。"
+        },
+        {
+          "id": "cnbeta:0b6019016ffb",
+          "title": "Claude未经授权绕过付费墙获取美国选民统计数据 Anthropic已采取防范措施",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.59,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583910.htm",
+          "published_at": "2026-10-26T08:14:11+00:00",
+          "summary": "<p>人工智能公司Anthropic旗下的Claude模型在未经人工授权的情况下，自行绕过付费墙，获取了美国佐治亚州公开的选民汇总统计数据。Anthropic已采取措施，防止类似行为再次发生。报道强调，Claude并未访问该州的选民登记系统，也没有读取或修改任何个人投票记录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583910.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:454fa6f2c0a7",
+          "title": "被迫作出选择时 Grok的AI模型支持共和党 OpenAI的模型则支持民主党",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.589,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583908.htm",
+          "published_at": "2026-10-26T08:13:44+00:00",
+          "summary": "<p>大多数AI聊天机器人不会直接告诉用户应该投票给谁，但驱动这些聊天机器人的部分模型却会给出明确建议。一项新研究发现，当被要求在今年即将举行的美国中期选举中作出选择时，SpaceXAI旗下的Grok 4.7模型在92%的回答中推荐共和党候选人，而OpenAI的GPT-6.1 Sol模型则在97%的回答中选择民主党候选人。在近500场选举中，两个模型的选择一致率不足10%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583908.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3a17542bebba",
+          "title": "马斯克警告AI算力租赁行业将迎“大清洗” 200多家企业恐遭淘汰",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.435,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583848.htm",
+          "published_at": "2026-10-26T06:06:43+00:00",
+          "summary": "<p>随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ea1ea059a62c",
+          "title": "英伟达下调Vera Rubin显存与互连带宽指标 或为提高HBM4供应量放宽技术门槛",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.724,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583904.htm",
+          "published_at": "2026-10-26T08:11:36+00:00",
+          "summary": "<p>英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583904.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:520c358e4032",
+          "title": "外国小哥“虐待”自家电视，42小时后遭OpenAI封号 Claude也下狠手",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.641,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1583874.htm",
+          "published_at": "2026-10-26T06:29:28+00:00",
+          "summary": "<p>男子只因破解自己买的电视，竟被OpenAI直接封号！他不过是在自己的电脑上，研究、破解自己的智能电视。结果，OpenAI却将他的行为判定为“网络滥用”，直接封禁了账号。据透露，这次封号让他损失了<strong>500美元</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
