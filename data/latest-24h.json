@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T05:17:34.075068+00:00",
-    "generated_ts": 1793078254.0750685,
+    "generated_at": "2026-10-27T12:27:50.934180+00:00",
+    "generated_ts": 1793104070.9341795,
     "window_hours": 24.0,
-    "total": 21
+    "total": 20
   },
   "items": [
     {
@@ -37,21 +37,6 @@
       "importance": 2.931
     },
     {
-      "id": "tmtpost:bf7b5eedf291",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
-      "url": "https://www.tmtpost.com/8181692.html",
-      "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。",
-      "published_at": "2026-10-26T12:19:13+00:00",
-      "published_ts": 1793017153.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.914
-    },
-    {
       "id": "cnbeta:f32487976a9a",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -67,49 +52,49 @@
       "importance": 2.85
     },
     {
-      "id": "cnbeta:0b6019016ffb",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Claude未经授权绕过付费墙获取美国选民统计数据 Anthropic已采取防范措施",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583910.htm",
-      "summary": "<p>人工智能公司Anthropic旗下的Claude模型在未经人工授权的情况下，自行绕过付费墙，获取了美国佐治亚州公开的选民汇总统计数据。Anthropic已采取措施，防止类似行为再次发生。报道强调，Claude并未访问该州的选民登记系统，也没有读取或修改任何个人投票记录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583910.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-26T08:14:11+00:00",
-      "published_ts": 1793002451.0,
+      "id": "tmtpost:52358e9be7ec",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Kimi额度的问题，Anthropic找到了解决办法",
+      "url": "https://www.tmtpost.com/8183235.html",
+      "summary": "你的额度为什么不经用？大半都在给子Agent“开无效会议”",
+      "published_at": "2026-10-27T10:19:24+00:00",
+      "published_ts": 1793096364.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.59
+      "importance": 2.82
     },
     {
-      "id": "cnbeta:454fa6f2c0a7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "被迫作出选择时 Grok的AI模型支持共和党 OpenAI的模型则支持民主党",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583908.htm",
-      "summary": "<p>大多数AI聊天机器人不会直接告诉用户应该投票给谁，但驱动这些聊天机器人的部分模型却会给出明确建议。一项新研究发现，当被要求在今年即将举行的美国中期选举中作出选择时，SpaceXAI旗下的Grok 4.7模型在92%的回答中推荐共和党候选人，而OpenAI的GPT-6.1 Sol模型则在97%的回答中选择民主党候选人。在近500场选举中，两个模型的选择一致率不足10%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583908.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-26T08:13:44+00:00",
-      "published_ts": 1793002424.0,
+      "id": "tmtpost:5b94532f5c35",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型\"绕开\"封锁",
+      "url": "https://www.tmtpost.com/8183533.html",
+      "summary": "刘庆峰表示，\"我们并不希望讯飞是唯一一个在国产算力上做训练的，我们大声疾呼就希望有更多的人进来。\"",
+      "published_at": "2026-10-27T09:29:45+00:00",
+      "published_ts": 1793093385.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.589
+      "importance": 2.754
     },
     {
-      "id": "cnbeta:3a17542bebba",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "马斯克警告AI算力租赁行业将迎“大清洗” 200多家企业恐遭淘汰",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583848.htm",
-      "summary": "<p>随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-26T06:06:43+00:00",
-      "published_ts": 1792994803.0,
+      "id": "tmtpost:74d9436b6f15",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "算力最多，进展最慢：字节大模型困于赛马制",
+      "url": "https://www.tmtpost.com/8182141.html",
+      "summary": "旧有的“赛马+短周期考核”方式，已经难以为继。",
+      "published_at": "2026-10-27T09:19:16+00:00",
+      "published_ts": 1793092756.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.435
+      "importance": 2.74
     },
     {
       "id": "openai_blog:1e7b1530bd74",
@@ -127,21 +112,6 @@
       "importance": 2.312
     },
     {
-      "id": "openai_blog:7ed0057904c9",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "published_at": "2026-10-26T10:00:00+00:00",
-      "published_ts": 1793008800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.074
-    },
-    {
       "id": "cnbeta:77b35576a80d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -155,6 +125,51 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.966
+    },
+    {
+      "id": "tmtpost:cfdf5af43a7f",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
+      "url": "https://www.tmtpost.com/8183550.html",
+      "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
+      "published_at": "2026-10-27T10:42:42+00:00",
+      "published_ts": 1793097762.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.901
+    },
+    {
+      "id": "the_verge:ff142634e854",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
+      "published_at": "2026-10-27T10:00:00+00:00",
+      "published_ts": 1793095200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.863
+    },
+    {
+      "id": "tmtpost:f8247b2e05d1",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "SpaceX借来400亿美元，押注GPU的未来五年",
+      "url": "https://www.tmtpost.com/8182988.html",
+      "summary": "芯片一年一迭代，马斯克为何敢借五年？",
+      "published_at": "2026-10-27T09:19:13+00:00",
+      "published_ts": 1793092753.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.826
     },
     {
       "id": "techcrunch:3cef96e324f8",
@@ -185,21 +200,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.777
-    },
-    {
-      "id": "cnbeta:ea1ea059a62c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达下调Vera Rubin显存与互连带宽指标 或为提高HBM4供应量放宽技术门槛",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583904.htm",
-      "summary": "<p>英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583904.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-26T08:11:36+00:00",
-      "published_ts": 1793002296.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.724
     },
     {
       "id": "cnbeta:d2b301c5e2b6",
@@ -260,21 +260,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.682
-    },
-    {
-      "id": "cnbeta:520c358e4032",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "外国小哥“虐待”自家电视，42小时后遭OpenAI封号 Claude也下狠手",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1583874.htm",
-      "summary": "<p>男子只因破解自己买的电视，竟被OpenAI直接封号！他不过是在自己的电脑上，研究、破解自己的智能电视。结果，OpenAI却将他的行为判定为“网络滥用”，直接封禁了账号。据透露，这次封号让他损失了<strong>500美元</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-26T06:29:28+00:00",
-      "published_ts": 1792996168.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.641
     },
     {
       "id": "cnbeta:93989784638b",
