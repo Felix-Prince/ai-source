@@ -1,11 +1,41 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T22:46:28.365948+00:00",
-    "generated_ts": 1793054788.3659484,
+    "generated_at": "2026-10-27T05:17:34.075068+00:00",
+    "generated_ts": 1793078254.0750685,
     "window_hours": 24.0,
-    "total": 13
+    "total": 21
   },
   "items": [
+    {
+      "id": "cnbeta:4212d615414a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6.1 Terra发布 电脑操作比肩Astra 成本仅其1/10",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583998.htm",
+      "summary": "<p>今天真是个热闹日子。那边Anthropic 提交 IPO，这边 OpenAI 发布了最新模型 GPT-6.1 Terra。它的定位是“以更低价格，提供快速、强大的电脑操作能力”，将细致的视觉推理、精准的电脑操作能力与更清晰、更自然的写作表现结合在一起。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583998.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-27T04:46:38+00:00",
+      "published_ts": 1793076398.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.956
+    },
+    {
+      "id": "cnbeta:3c4a6ca82b0f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "亏了800亿的Anthropic冲刺IPO 其最大对手却想学DeepSeek了",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583984.htm",
+      "summary": "<p>10月26日，据报道，Anthropic已向美国证券监管机构提交IPO文件。这家凭借Claude和编程工具迅速崛起的AI公司，终于走到了资本市场的聚光灯下。这本来应该是一个关于商业成功的故事。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583984.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-27T04:29:03+00:00",
+      "published_ts": 1793075343.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.931
+    },
     {
       "id": "tmtpost:bf7b5eedf291",
       "source": "tmtpost",
@@ -20,6 +50,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.914
+    },
+    {
+      "id": "cnbeta:f32487976a9a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "GPT-6.1 Terra发布 评论区：拉完了",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583978.htm",
+      "summary": "<p>在Anthropic正式公开提交IPO招股书的同一天，OpenAI发布了新模型GPT-6.1 Terra。这是Terra系列时隔三个多月的首次更新，距离9月29日GPT-6.1 Sol发布也已经过去了27天。OpenAI在官方宣传中着重强调：“以更低的价格，提供快速且强大的电脑操作能力。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-27T03:31:00+00:00",
+      "published_ts": 1793071860.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.85
     },
     {
       "id": "cnbeta:0b6019016ffb",
@@ -97,6 +142,51 @@
       "importance": 2.074
     },
     {
+      "id": "cnbeta:77b35576a80d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic上市在即 美媒：整个AI产业都将接受考验",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583994.htm",
+      "summary": "<p>10月27日，Anthropic已正式递交了IPO招股书，距离上市越来越近。《纽约时报》发文称，Anthropic最早可能在下个月上市。届时，这次IPO将不仅仅是这家人工智能公司正式亮相资本市场的重要时刻，也将成为对整体美国经济的一次考验，攸关数万亿美元资金。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583994.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-27T04:41:46+00:00",
+      "published_ts": 1793076106.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.966
+    },
+    {
+      "id": "techcrunch:3cef96e324f8",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "published_ts": 1793066400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.819
+    },
+    {
+      "id": "techcrunch:ed5db6264704",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "published_at": "2026-10-27T01:12:21+00:00",
+      "published_ts": 1793063541.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.777
+    },
+    {
       "id": "cnbeta:ea1ea059a62c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -112,6 +202,21 @@
       "importance": 1.724
     },
     {
+      "id": "cnbeta:d2b301c5e2b6",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic的招股书是谁写的？AI检测工具给出意外结果",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1583956.htm",
+      "summary": "<p>据Business Insider报道，人工智能公司Anthropic提交了一份<strong>335页</strong>的IPO招股书。为了了解这份文件是否由AI撰写，Business Insider将全文送入AI写作检测工具Pangram进行分析。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583956.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-26T23:22:29+00:00",
+      "published_ts": 1793056949.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.686
+    },
+    {
       "id": "techcrunch:b4d2e1364c38",
       "source": "techcrunch",
       "source_label": "TechCrunch",
@@ -122,6 +227,21 @@
       "published_ts": 1793033382.0,
       "category": "international",
       "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.684
+    },
+    {
+      "id": "tmtpost:2acabb20b187",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
+      "url": "https://www.tmtpost.com/8182711.html",
+      "summary": "上纬新材、宇树科技连续3日涨幅偏离值累超30%，紧急提示风险；寒武纪董事长辟谣“明年芯片出货超100万颗”传闻；药明康德Q3净利润同比增长137%，上调全年收入指引；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市；苹果据称测试折叠屏大尺寸iPad；全球首创，香港首批合规公募数字基金7*24实时交易获批。",
+      "published_at": "2026-10-26T23:20:00+00:00",
+      "published_ts": 1793056800.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.684
