@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T05:56:30.346711+00:00",
-    "generated_ts": 1793166990.3467107,
+    "generated_at": "2026-10-28T13:14:11.299625+00:00",
+    "generated_ts": 1793193251.2996247,
     "window_hours": 24.0,
-    "total": 21
+    "total": 20
   },
   "items": [
+    {
+      "id": "openai_blog:e5b85c7b3a95",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "published_at": "2026-10-28T09:30:00+00:00",
+      "published_ts": 1793179800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 3.0,
+      "importance": 4.04
+    },
     {
       "id": "openai_blog:083dc1d92629",
       "source": "openai_blog",
@@ -20,21 +35,6 @@
       "tier": 0,
       "ai_score": 3.0,
       "importance": 2.923
-    },
-    {
-      "id": "openai_blog:b3cf25b4ed2d",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "published_at": "2026-10-27T07:00:00+00:00",
-      "published_ts": 1793084400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 2.882
     },
     {
       "id": "qbitai:dbfdb8ba9f32",
@@ -52,49 +52,19 @@
       "importance": 2.843
     },
     {
-      "id": "tmtpost:52358e9be7ec",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Kimi额度的问题，Anthropic找到了解决办法",
-      "url": "https://www.tmtpost.com/8183235.html",
-      "summary": "你的额度为什么不经用？大半都在给子Agent“开无效会议”",
-      "published_at": "2026-10-27T10:19:24+00:00",
-      "published_ts": 1793096364.0,
+      "id": "cnbeta:b661a58c8ec7",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "家属指控OpenAI GPT-4o劝导癫痫患者停药并对医生隐瞒 最终导致悲剧发生",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584158.htm",
+      "summary": "<p>据美国媒体报道，一对华人父母日前向法院起诉OpenAI，指控ChatGPT所使用的GPT-4o模型在其女儿停用抗癫痫药物的过程中提供了具有误导性的建议，并劝导其向医生隐瞒相关情况，最终导致女儿于今年2月去世。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584158.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T08:40:48+00:00",
+      "published_ts": 1793176848.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.82
-    },
-    {
-      "id": "tmtpost:5b94532f5c35",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型\"绕开\"封锁",
-      "url": "https://www.tmtpost.com/8183533.html",
-      "summary": "刘庆峰表示，\"我们并不希望讯飞是唯一一个在国产算力上做训练的，我们大声疾呼就希望有更多的人进来。\"",
-      "published_at": "2026-10-27T09:29:45+00:00",
-      "published_ts": 1793093385.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.754
-    },
-    {
-      "id": "tmtpost:74d9436b6f15",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "算力最多，进展最慢：字节大模型困于赛马制",
-      "url": "https://www.tmtpost.com/8182141.html",
-      "summary": "旧有的“赛马+短周期考核”方式，已经难以为继。",
-      "published_at": "2026-10-27T09:19:16+00:00",
-      "published_ts": 1793092756.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.74
+      "importance": 2.63
     },
     {
       "id": "cnbeta:e601f8c15405",
@@ -112,34 +82,64 @@
       "importance": 2.516
     },
     {
-      "id": "tmtpost:cfdf5af43a7f",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-      "url": "https://www.tmtpost.com/8183550.html",
-      "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
-      "published_at": "2026-10-27T10:42:42+00:00",
-      "published_ts": 1793097762.0,
+      "id": "cnbeta:3e4a29f51546",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI计划采购Google TPU",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584108.htm",
+      "summary": "<p>据知情人士透露，OpenAI打算从Alphabet旗下的Google购买AI芯片，这是这家ChatGPT开发商扩建其AI基础设施庞大布局中的最新一环。该知情人士表示，任何交易的最终条款目前尚不得而知。OpenAI和Google则均拒绝置评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584108.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T06:14:22+00:00",
+      "published_ts": 1793168062.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.451
+    },
+    {
+      "id": "cnbeta:d0b30bcbe3dd",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "DeepSeek V5大模型已现身官方代码库",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584106.htm",
+      "summary": "<p>昨晚就有网友发现DeepSeek又开始换新的大模型指纹了，纷纷猜测很快有新模型要发布了，这一次可能是比V4.1 Pro更大的，官方库中直接出现了DeepSeek V5的代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584106.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T06:13:23+00:00",
+      "published_ts": 1793168003.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.45
+    },
+    {
+      "id": "cnbeta:c73b24e53ecf",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美国参议员沃伦要求Anthropic就AI对人类的“生存性风险”作出解释",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584170.htm",
+      "summary": "<p>据一封信函副本，美国参议员伊丽莎白·沃伦（Elizabeth Warren）对人工智能巨头Anthropic本周在首次公开募股（IPO）申请文件中披露的风险表示“深感不安”，并要求该公司在上市前回答一系列问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T13:09:27+00:00",
+      "published_ts": 1793192967.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.901
+      "importance": 1.995
     },
     {
-      "id": "the_verge:ff142634e854",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Data center backlash is uniting America",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
-      "published_at": "2026-10-27T10:00:00+00:00",
-      "published_ts": 1793095200.0,
-      "category": "international",
-      "lang": "en",
+      "id": "tmtpost:61b0b495f30d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
+      "url": "https://www.tmtpost.com/8184852.html",
+      "summary": "DSH测试文件出现三个deepseek-v5模型，或为占位符",
+      "published_at": "2026-10-28T12:19:41+00:00",
+      "published_ts": 1793189981.0,
+      "category": "domestic",
+      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.863
+      "importance": 1.948
     },
     {
       "id": "tmtpost:81c2f995bcc8",
@@ -157,19 +157,34 @@
       "importance": 1.845
     },
     {
-      "id": "tmtpost:f8247b2e05d1",
+      "id": "tmtpost:942a0b1bbd9f",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "SpaceX借来400亿美元，押注GPU的未来五年",
-      "url": "https://www.tmtpost.com/8182988.html",
-      "summary": "芯片一年一迭代，马斯克为何敢借五年？",
-      "published_at": "2026-10-27T09:19:13+00:00",
-      "published_ts": 1793092753.0,
+      "title": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
+      "url": "https://www.tmtpost.com/8184285.html",
+      "summary": "产品发布仅五个月，客户价值的可信度、人机交互的边界等，需要靠工程能力与客户校验共同推进。",
+      "published_at": "2026-10-28T09:28:49+00:00",
+      "published_ts": 1793179729.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.826
+      "importance": 1.794
+    },
+    {
+      "id": "cnbeta:842a555dcc94",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "SK海力士警告：即使持续扩产 全球存储器供应紧张局面或延续至2030年",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584160.htm",
+      "summary": "<p>韩国存储芯片巨头SK海力士近日对未来数年的存储市场前景发出预警。公司表示，尽管行业正在积极扩大产能，但在人工智能快速发展的推动下，高性能存储器需求增长速度仍将超过供给增速，全球存储芯片短缺现象可能持续至2030年前后。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T08:42:08+00:00",
+      "published_ts": 1793176928.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.755
     },
     {
       "id": "cnbeta:bf9ec8103419",
@@ -217,6 +232,21 @@
       "importance": 1.661
     },
     {
+      "id": "cnbeta:71bea6bce21d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "彭博行业研究：中国AI大模型将在2030年引领全球",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584100.htm",
+      "summary": "<p>10月28日，据彭博社报道，彭博行业研究发布的一份最新报告显示，<strong>到2030年，中国有望在AI核心技术大语言模型领域引领全球，并在其他所有具有战略重要性的技术领域至少保持竞争力。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584100.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T06:10:45+00:00",
+      "published_ts": 1793167845.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.631
+    },
+    {
       "id": "cnbeta:053fe4e53f2c",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -230,21 +260,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.612
-    },
-    {
-      "id": "qbitai:65d851e049b2",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "url": "https://www.qbitai.com/2026/10/505694.html",
-      "summary": "还是专业的模型做专业的事情",
-      "published_at": "2026-10-27T08:18:59+00:00",
-      "published_ts": 1793089139.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 1.606
     },
     {
       "id": "cnbeta:701aff64d540",
@@ -290,36 +305,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.576
-    },
-    {
-      "id": "techcrunch:ee22b8c3bc1b",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "published_at": "2026-10-27T13:00:00+00:00",
-      "published_ts": 1793106000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.523
-    },
-    {
-      "id": "qbitai:4783723088c6",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "summary": "同一天，OpenAI还甩出3项AI科学新发现",
-      "published_at": "2026-10-27T08:27:46+00:00",
-      "published_ts": 1793089666.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.076
     }
   ]
 }
