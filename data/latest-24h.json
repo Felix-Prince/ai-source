@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T13:14:11.299625+00:00",
-    "generated_ts": 1793193251.2996247,
+    "generated_at": "2026-10-28T22:42:58.916500+00:00",
+    "generated_ts": 1793227378.9164999,
     "window_hours": 24.0,
-    "total": 20
+    "total": 22
   },
   "items": [
     {
@@ -22,19 +22,34 @@
       "importance": 4.04
     },
     {
-      "id": "openai_blog:083dc1d92629",
+      "id": "openai_blog:c6eac1e5ce66",
       "source": "openai_blog",
       "source_label": "openai_blog",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "published_at": "2026-10-27T15:00:00+00:00",
-      "published_ts": 1793113200.0,
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "published_ts": 1793193300.0,
       "category": "international",
       "lang": "en",
       "tier": 0,
       "ai_score": 3.0,
-      "importance": 2.923
+      "importance": 3.424
+    },
+    {
+      "id": "cnbeta:93cf56d6784f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google发布Gemini 4 Carbon 网络安全能力大幅提升",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584224.htm",
+      "summary": "<p>Google于当地时间10月28日正式发布新一代前沿人工智能模型Gemini 4 Carbon，重点提升软件编程、智能体执行复杂任务以及网络安全防御能力。Google称，新模型在发现软件漏洞、验证漏洞可利用性以及修复安全缺陷等多个环节取得显著进步，并在多项基准测试中领先于OpenAI和Anthropic的旗舰模型。不过，考虑到其强大的网络安全能力可能带来的潜在风险，Google目前仅向部分经过筛选的网络安全防御机构开放使用，暂时不会立即向所有开发者和普通用户提供。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584224.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T21:19:02+00:00",
+      "published_ts": 1793222342.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.881
     },
     {
       "id": "qbitai:dbfdb8ba9f32",
@@ -52,6 +67,21 @@
       "importance": 2.843
     },
     {
+      "id": "the_verge:0ed2b0bdef47",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "published_at": "2026-10-28T20:03:00+00:00",
+      "published_ts": 1793217780.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.778
+    },
+    {
       "id": "cnbeta:b661a58c8ec7",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -65,21 +95,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.63
-    },
-    {
-      "id": "cnbeta:e601f8c15405",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Genie 4世界模型 可生成更逼真的互动世界",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584070.htm",
-      "summary": "<p>Google于10月27日发布新一代人工智能世界模型 Genie 4，进一步提升了AI生成互动环境的真实感，并加入实时修改场景和自动生成音频等能力。与传统的图像生成模型主要输出静态图片或视频不同，Genie 4能够创建用户可以参与其中、进行交互的虚拟世界，相关技术有望应用于游戏开发、影视制作以及机器人训练等领域。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584070.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T16:19:53+00:00",
-      "published_ts": 1793117993.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.516
     },
     {
       "id": "cnbeta:3e4a29f51546",
@@ -127,6 +142,21 @@
       "importance": 1.995
     },
     {
+      "id": "cnbeta:8f029c16896e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软单季从OpenAI获得100亿美元收入 双方竞争加剧但商业联系仍持续深化",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584238.htm",
+      "summary": "<p>微软最新监管文件披露，公司在截至2026年9月30日的季度中，通过与OpenAI相关的商业合作获得100亿美元收入。这一数字包含收入分成以及其他商业安排带来的收益，占微软当季总营收923亿美元的近11%，显示出双方即便在人工智能市场竞争不断加剧的背景下，仍保持着极其紧密的商业联系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584238.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T21:58:27+00:00",
+      "published_ts": 1793224707.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.958
+    },
+    {
       "id": "tmtpost:61b0b495f30d",
       "source": "tmtpost",
       "source_label": "钛媒体",
@@ -140,6 +170,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.948
+    },
+    {
+      "id": "cnbeta:aa4e9d2b7a9d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google为Chrome浏览器加入Gmail智能自动填表功能",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584234.htm",
+      "summary": "<p>Google正在为Chrome浏览器推出一项由人工智能驱动的增强自动填表功能。借助Gemini及其Personal Intelligence（个人智能）能力，Chrome现在能够从用户的Gmail邮箱中提取相关信息，并在填写网页表单时主动提供建议。用户无需反复切换标签页、搜索确认邮件或翻找购物收据，就有机会直接完成原本需要手动查找和输入的信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584234.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T21:23:18+00:00",
+      "published_ts": 1793222598.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.925
+    },
+    {
+      "id": "cnbeta:8710c43f39ff",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "长鑫存储年底前启动HBM3E量产 中国AI存储产业迈出关键一步",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584232.htm",
+      "summary": "<p>中国存储芯片企业长鑫存储（CXMT）预计将在2026年底前正式启动HBM3E高带宽内存量产，标志着中国本土厂商首次进入先进HBM市场。这一进展被视为中国人工智能产业链提升自主供应能力的重要里程碑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T21:22:44+00:00",
+      "published_ts": 1793222564.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.924
     },
     {
       "id": "tmtpost:81c2f995bcc8",
@@ -187,19 +247,34 @@
       "importance": 1.755
     },
     {
-      "id": "cnbeta:bf9ec8103419",
+      "id": "cnbeta:8af53906aec2",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "IBM进驻Rapidus所在地千岁市 助力日本冲刺2027年2纳米芯片量产目标",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584072.htm",
-      "summary": "<p>随着日本全力推进本土先进半导体产业建设，IBM宣布进一步加强与Rapidus的合作，并在北海道千岁市设立据点。千岁市正是Rapidus首座2纳米晶圆厂所在地，日本政府希望借助这一项目在2027年实现先进2纳米芯片的大规模量产。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584072.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T16:20:30+00:00",
-      "published_ts": 1793118030.0,
+      "title": "Anthropic招股书暗含政治隐忧 警告或成特朗普政府报复目标",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584206.htm",
+      "summary": "<p>Anthropic警告投资者，该公司直言不讳地倡导人工智能（AI）安全可能使其成为政府报复的目标。在过去一年与特朗普政府多次发生摩擦后，这一表态凸显出政府相关风险对Anthropic未来业务构成的影响可能非同寻常。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584206.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T17:56:09+00:00",
+      "published_ts": 1793210169.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.678
+      "importance": 1.742
+    },
+    {
+      "id": "techcrunch:58be1a3910fe",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "published_at": "2026-10-28T17:00:00+00:00",
+      "published_ts": 1793206800.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.696
     },
     {
       "id": "techcrunch:d6ef472e8871",
@@ -217,21 +292,6 @@
       "importance": 1.664
     },
     {
-      "id": "the_verge:03bfe92eca49",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-      "published_at": "2026-10-27T16:00:00+00:00",
-      "published_ts": 1793116800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.661
-    },
-    {
       "id": "cnbeta:71bea6bce21d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -247,64 +307,34 @@
       "importance": 1.631
     },
     {
-      "id": "cnbeta:053fe4e53f2c",
+      "id": "cnbeta:629cdb706b9c",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "三星发布首款开放式耳机Galaxy Buds On 集成Gemini Live人工智能助手",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584062.htm",
-      "summary": "<p>三星正式推出旗下首款开放式无线耳机Galaxy Buds On，进一步扩展Galaxy音频产品线。与采用入耳式设计的Galaxy Buds系列不同，新产品采用开放式佩戴方案，旨在让用户在享受音乐和通话的同时保持对周围环境声音的感知。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584062.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T14:57:14+00:00",
-      "published_ts": 1793113034.0,
+      "title": "SK海力士警告AI需求挤压消费电子供应 全球内存短缺恐持续至2030年",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584180.htm",
+      "summary": "<p>随着人工智能数据中心建设持续升温，全球内存市场正面临日益严峻的供需失衡。韩国存储芯片巨头SK海力士在最新财报中表示，受人工智能基础设施投资增长、先进制程技术难度提升以及新建产能所需时间较长等因素影响，全球内存供应不足的局面预计将持续至2030年。这意味着，个人电脑、智能手机及其他消费电子产品所使用的内存，未来数年仍可能面临价格上涨和供应紧张的压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584180.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-28T13:27:17+00:00",
+      "published_ts": 1793194037.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.612
+      "importance": 1.531
     },
     {
-      "id": "cnbeta:701aff64d540",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "英伟达向Meta投资30亿美元 双方扩大Muse人工智能合作",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584058.htm",
-      "summary": "<p>美国科技巨头Meta在宣布大幅提高人工智能基础设施投资计划后，获得了来自英伟达的30亿美元资金支持。双方于10月27日确认，将进一步深化围绕Muse人工智能助手及相关模型系列的合作关系，同时扩大硬件和软件层面的协同开发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584058.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T14:31:02+00:00",
-      "published_ts": 1793111462.0,
+      "id": "tmtpost:fe541af9c086",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Anthropic巨亏背后，藏着行业什么秘密？",
+      "url": "https://www.tmtpost.com/8183803.html",
+      "summary": "模型公司，估值寄生于基础设施供应商。",
+      "published_at": "2026-10-28T13:21:46+00:00",
+      "published_ts": 1793193706.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.591
-    },
-    {
-      "id": "cnbeta:1f75cea51ed8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果为Pages、Keynote和Numbers加入AI聊天助手 可写文章、生成幻灯片并自动处理表格",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584052.htm",
-      "summary": "<p>苹果正在将人工智能进一步整合到旗下办公与创作软件中，为Pages文字处理软件、Keynote演示文稿工具和Numbers电子表格应用加入全新的AI助手。用户可以通过自然语言指令，让AI根据现有文档理解上下文、起草和修改文字、制作幻灯片、生成公式以及整理数据。这项更新标志着苹果正尝试将AI从系统级功能延伸至日常办公流程。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584052.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T14:20:21+00:00",
-      "published_ts": 1793110821.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.583
-    },
-    {
-      "id": "cnbeta:cf1025d00dfe",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "苹果发布14英寸M6 MacBook Pro CPU升级12核 图形性能最高提升30%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584048.htm",
-      "summary": "<p>苹果于10月27日正式发布搭载M6芯片的新款14英寸MacBook Pro。这是苹果新一代自研处理器首次进入MacBook Pro产品线。与上一代搭载M5芯片的机型相比，新款产品主要升级了处理器、图形性能、人工智能运算能力和无线连接规格，但机身设计及其他主要配置基本保持不变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-27T14:11:21+00:00",
-      "published_ts": 1793110281.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.576
+      "importance": 1.527
     }
   ]
 }
