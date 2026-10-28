@@ -1,94 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T22:25:42.556302+00:00",
+    "generated_at": "2026-10-28T05:56:30.346711+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-28T05:35:35.313947+00:00",
-      "generated_ts": 1790573735.3139472,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:7abe7c37a926",
-          "title": "日本正在争夺“光芯片时代”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.984,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579870.htm",
-          "published_at": "2026-09-28T05:24:11+00:00",
-          "summary": "<p>AI算力的下一场产能竞赛，正在从GPU延伸到硅光芯片。晶圆代工厂Tower Semiconductor正在日本大举扩产硅光产能。Tower CEO Russell Ellwanger近日表示，AI数据中心正在推动硅光芯片需求快速增长，公司需要尽快扩大产能，日本将成为Tower全球最重要的光通信半导体生产基地之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579870.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:59dec66fb71c",
-          "title": "AI漏洞加剧安全担忧之际 特朗普据悉会见Anthropic首席执行官",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.965,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579856.htm",
-          "published_at": "2026-09-28T05:11:18+00:00",
-          "summary": "<p>随着最新披露的高级AI模型造成更广泛安全事件，全球对人工智能风险的担忧加剧，这也为Anthropic PBC首席执行官Dario Amodei和美国总统唐纳德·特朗普的一场重要会晤奠定基调。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579856.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:1678446139c8",
-          "title": "OpenAI全新订阅方案出炉！5x和20x套餐已删除",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.986,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579866.htm",
-          "published_at": "2026-09-28T05:21:31+00:00",
-          "summary": "<p>各位尊贵的订阅用户们，OpenAI 的套餐订阅定价似乎有哪里不太对劲。9 月 27 日，陆续有用户发现，OpenAI 对 ChatGPT 的定价页面做了一次“静悄悄的手术”。原本的 Pro 订阅似乎变得不一样了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579866.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:d846d7da0efc",
-          "title": "Sonnet 5.5偷跑，实测碾压GPT-6 Sol直逼Astra",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.984,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1579862.htm",
-          "published_at": "2026-09-28T05:19:25+00:00",
-          "summary": "<p>谁能想到，Opus 5.5发布才没几天，Sonnet 5.5也要来了？从昨晚开始，整个X都在流传这个消息：Sonnet 5.5很快就要发布了，或许就是美国时间周二下午。在性能上，Sonnet 5.5更接近Opus 5.5，但却比Opus 5.5便宜得多。现在，Sonnet 5.5已经进入发布前的最后阶段，已经在Claude Code中开启灰度测试。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:1fb436f4fc3a",
-          "title": "从端侧推理到物理AI，芯片行业正面临新考题",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.851,
-          "url": "https://www.tmtpost.com/8153747.html",
-          "published_at": "2026-09-28T02:54:55+00:00",
-          "summary": "物理AI的时代，比拼的将是谁的落地更稳。"
-        },
-        {
-          "id": "tmtpost:e6d324992480",
-          "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.832,
-          "url": "https://www.tmtpost.com/8153628.html",
-          "published_at": "2026-09-28T02:33:21+00:00",
-          "summary": "当所有玩家挤在办公赛道内卷时，C 端场景仍有值得挖的空间。"
-        },
-        {
-          "id": "tmtpost:e6523f39d19f",
-          "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.669,
-          "url": "https://www.tmtpost.com/8153534.html",
-          "published_at": "2026-09-27T23:20:00+00:00",
-          "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-28T14:12:16.898461+00:00",
       "generated_ts": 1790604736.898461,
@@ -6832,6 +6747,81 @@
           "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
           "published_at": "2026-10-27T13:00:00+00:00",
           "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-28T05:56:30.346711+00:00",
+      "generated_ts": 1793166990.3467107,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:083dc1d92629",
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.923,
+          "url": "https://openai.com/index/retell-ai",
+          "published_at": "2026-10-27T15:00:00+00:00",
+          "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+        },
+        {
+          "id": "qbitai:dbfdb8ba9f32",
+          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.843,
+          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "published_at": "2026-10-28T04:04:48+00:00",
+          "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+        },
+        {
+          "id": "tmtpost:81c2f995bcc8",
+          "title": "Claude 的账单，金主先看不下去了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.845,
+          "url": "https://www.tmtpost.com/8183902.html",
+          "published_at": "2026-10-28T03:08:42+00:00",
+          "summary": "Anthropic 已经演示了它的天花板在哪"
+        },
+        {
+          "id": "techcrunch:d6ef472e8871",
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.664,
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "published_at": "2026-10-27T23:34:27+00:00",
+          "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+        },
+        {
+          "id": "qbitai:65d851e049b2",
+          "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.606,
+          "url": "https://www.qbitai.com/2026/10/505694.html",
+          "published_at": "2026-10-27T08:18:59+00:00",
+          "summary": "还是专业的模型做专业的事情"
+        },
+        {
+          "id": "qbitai:4783723088c6",
+          "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.076,
+          "url": "https://www.qbitai.com/2026/10/505719.html",
+          "published_at": "2026-10-27T08:27:46+00:00",
+          "summary": "同一天，OpenAI还甩出3项AI科学新发现"
         }
       ]
     }
