@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T13:21:34.301368+00:00",
-    "generated_ts": 1793280094.3013685,
+    "generated_at": "2026-10-29T22:51:50.635978+00:00",
+    "generated_ts": 1793314310.6359785,
     "window_hours": 24.0,
-    "total": 19
+    "total": 11
   },
   "items": [
-    {
-      "id": "cnbeta:93cf56d6784f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Gemini 4 Carbon 网络安全能力大幅提升",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584224.htm",
-      "summary": "<p>Google于当地时间10月28日正式发布新一代前沿人工智能模型Gemini 4 Carbon，重点提升软件编程、智能体执行复杂任务以及网络安全防御能力。Google称，新模型在发现软件漏洞、验证漏洞可利用性以及修复安全缺陷等多个环节取得显著进步，并在多项基准测试中领先于OpenAI和Anthropic的旗舰模型。不过，考虑到其强大的网络安全能力可能带来的潜在风险，Google目前仅向部分经过筛选的网络安全防御机构开放使用，暂时不会立即向所有开发者和普通用户提供。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584224.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T21:19:02+00:00",
-      "published_ts": 1793222342.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.881
-    },
     {
       "id": "tmtpost:a53dff54ee1e",
       "source": "tmtpost",
@@ -52,21 +37,6 @@
       "importance": 2.783
     },
     {
-      "id": "the_verge:0ed2b0bdef47",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
-      "published_at": "2026-10-28T20:03:00+00:00",
-      "published_ts": 1793217780.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.778
-    },
-    {
       "id": "qbitai:3b1c113bf9ec",
       "source": "qbitai",
       "source_label": "量子位",
@@ -82,6 +52,21 @@
       "importance": 2.044
     },
     {
+      "id": "openai_blog:b059ffbc15f3",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "published_ts": 1793264400.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.01
+    },
+    {
       "id": "cnbeta:cc0fc8e3ed6d",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,51 +80,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.991
-    },
-    {
-      "id": "cnbeta:8f029c16896e",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "微软单季从OpenAI获得100亿美元收入 双方竞争加剧但商业联系仍持续深化",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584238.htm",
-      "summary": "<p>微软最新监管文件披露，公司在截至2026年9月30日的季度中，通过与OpenAI相关的商业合作获得100亿美元收入。这一数字包含收入分成以及其他商业安排带来的收益，占微软当季总营收923亿美元的近11%，显示出双方即便在人工智能市场竞争不断加剧的背景下，仍保持着极其紧密的商业联系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584238.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T21:58:27+00:00",
-      "published_ts": 1793224707.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.958
-    },
-    {
-      "id": "cnbeta:aa4e9d2b7a9d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google为Chrome浏览器加入Gmail智能自动填表功能",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584234.htm",
-      "summary": "<p>Google正在为Chrome浏览器推出一项由人工智能驱动的增强自动填表功能。借助Gemini及其Personal Intelligence（个人智能）能力，Chrome现在能够从用户的Gmail邮箱中提取相关信息，并在填写网页表单时主动提供建议。用户无需反复切换标签页、搜索确认邮件或翻找购物收据，就有机会直接完成原本需要手动查找和输入的信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584234.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T21:23:18+00:00",
-      "published_ts": 1793222598.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.925
-    },
-    {
-      "id": "cnbeta:8710c43f39ff",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "长鑫存储年底前启动HBM3E量产 中国AI存储产业迈出关键一步",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584232.htm",
-      "summary": "<p>中国存储芯片企业长鑫存储（CXMT）预计将在2026年底前正式启动HBM3E高带宽内存量产，标志着中国本土厂商首次进入先进HBM市场。这一进展被视为中国人工智能产业链提升自主供应能力的重要里程碑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T21:22:44+00:00",
-      "published_ts": 1793222564.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.924
     },
     {
       "id": "tmtpost:c4f35ab5bf31",
@@ -170,36 +110,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.802
-    },
-    {
-      "id": "cnbeta:8af53906aec2",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic招股书暗含政治隐忧 警告或成特朗普政府报复目标",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584206.htm",
-      "summary": "<p>Anthropic警告投资者，该公司直言不讳地倡导人工智能（AI）安全可能使其成为政府报复的目标。在过去一年与特朗普政府多次发生摩擦后，这一表态凸显出政府相关风险对Anthropic未来业务构成的影响可能非同寻常。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584206.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T17:56:09+00:00",
-      "published_ts": 1793210169.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.742
-    },
-    {
-      "id": "techcrunch:58be1a3910fe",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "published_at": "2026-10-28T17:00:00+00:00",
-      "published_ts": 1793206800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.696
     },
     {
       "id": "cnbeta:edfa10840527",
@@ -245,36 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.633
-    },
-    {
-      "id": "cnbeta:629cdb706b9c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "SK海力士警告AI需求挤压消费电子供应 全球内存短缺恐持续至2030年",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584180.htm",
-      "summary": "<p>随着人工智能数据中心建设持续升温，全球内存市场正面临日益严峻的供需失衡。韩国存储芯片巨头SK海力士在最新财报中表示，受人工智能基础设施投资增长、先进制程技术难度提升以及新建产能所需时间较长等因素影响，全球内存供应不足的局面预计将持续至2030年。这意味着，个人电脑、智能手机及其他消费电子产品所使用的内存，未来数年仍可能面临价格上涨和供应紧张的压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584180.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T13:27:17+00:00",
-      "published_ts": 1793194037.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.531
-    },
-    {
-      "id": "tmtpost:fe541af9c086",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Anthropic巨亏背后，藏着行业什么秘密？",
-      "url": "https://www.tmtpost.com/8183803.html",
-      "summary": "模型公司，估值寄生于基础设施供应商。",
-      "published_at": "2026-10-28T13:21:46+00:00",
-      "published_ts": 1793193706.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.527
     },
     {
       "id": "qbitai:d5b4f6e3560e",
