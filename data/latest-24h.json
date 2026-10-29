@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T06:01:52.438349+00:00",
-    "generated_ts": 1793253712.438349,
+    "generated_at": "2026-10-29T13:21:34.301368+00:00",
+    "generated_ts": 1793280094.3013685,
     "window_hours": 24.0,
-    "total": 22
+    "total": 19
   },
   "items": [
-    {
-      "id": "openai_blog:e5b85c7b3a95",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "published_at": "2026-10-28T09:30:00+00:00",
-      "published_ts": 1793179800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 4.04
-    },
-    {
-      "id": "openai_blog:c6eac1e5ce66",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "published_at": "2026-10-28T13:15:00+00:00",
-      "published_ts": 1793193300.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 3.0,
-      "importance": 3.424
-    },
     {
       "id": "cnbeta:93cf56d6784f",
       "source": "cnbeta",
@@ -50,6 +20,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.881
+    },
+    {
+      "id": "tmtpost:a53dff54ee1e",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+      "url": "https://www.tmtpost.com/8186683.html",
+      "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型 AI 智能体工作手机 Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
+      "published_at": "2026-10-29T11:19:29+00:00",
+      "published_ts": 1793272769.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.829
+    },
+    {
+      "id": "tmtpost:7b9484ff38a5",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Agentic Cloud，阿里云如何接住模型之后的生意",
+      "url": "https://www.tmtpost.com/8182516.html",
+      "summary": "阿里云因此把能力建设延伸到模型训练与推理，智能体的构建与运行，以及企业数据的组织和使用，相比采购一项产品，企业得到的是一套可以共同工作的基础设施。",
+      "published_at": "2026-10-29T10:45:28+00:00",
+      "published_ts": 1793270728.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.783
     },
     {
       "id": "the_verge:0ed2b0bdef47",
@@ -67,64 +67,19 @@
       "importance": 2.778
     },
     {
-      "id": "cnbeta:b661a58c8ec7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "家属指控OpenAI GPT-4o劝导癫痫患者停药并对医生隐瞒 最终导致悲剧发生",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584158.htm",
-      "summary": "<p>据美国媒体报道，一对华人父母日前向法院起诉OpenAI，指控ChatGPT所使用的GPT-4o模型在其女儿停用抗癫痫药物的过程中提供了具有误导性的建议，并劝导其向医生隐瞒相关情况，最终导致女儿于今年2月去世。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584158.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T08:40:48+00:00",
-      "published_ts": 1793176848.0,
+      "id": "qbitai:3b1c113bf9ec",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "summary": "能连肝数日修Bug，免疫提示词注入",
+      "published_at": "2026-10-29T00:03:58+00:00",
+      "published_ts": 1793232238.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.63
-    },
-    {
-      "id": "cnbeta:3e4a29f51546",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI计划采购Google TPU",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584108.htm",
-      "summary": "<p>据知情人士透露，OpenAI打算从Alphabet旗下的Google购买AI芯片，这是这家ChatGPT开发商扩建其AI基础设施庞大布局中的最新一环。该知情人士表示，任何交易的最终条款目前尚不得而知。OpenAI和Google则均拒绝置评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584108.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T06:14:22+00:00",
-      "published_ts": 1793168062.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.451
-    },
-    {
-      "id": "cnbeta:d0b30bcbe3dd",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "DeepSeek V5大模型已现身官方代码库",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584106.htm",
-      "summary": "<p>昨晚就有网友发现DeepSeek又开始换新的大模型指纹了，纷纷猜测很快有新模型要发布了，这一次可能是比V4.1 Pro更大的，官方库中直接出现了DeepSeek V5的代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584106.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T06:13:23+00:00",
-      "published_ts": 1793168003.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.45
-    },
-    {
-      "id": "cnbeta:c73b24e53ecf",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国参议员沃伦要求Anthropic就AI对人类的“生存性风险”作出解释",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584170.htm",
-      "summary": "<p>据一封信函副本，美国参议员伊丽莎白·沃伦（Elizabeth Warren）对人工智能巨头Anthropic本周在首次公开募股（IPO）申请文件中披露的风险表示“深感不安”，并要求该公司在上市前回答一系列问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T13:09:27+00:00",
-      "published_ts": 1793192967.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.995
+      "importance": 2.044
     },
     {
       "id": "cnbeta:cc0fc8e3ed6d",
@@ -155,21 +110,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.958
-    },
-    {
-      "id": "tmtpost:61b0b495f30d",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
-      "url": "https://www.tmtpost.com/8184852.html",
-      "summary": "DSH测试文件出现三个deepseek-v5模型，或为占位符",
-      "published_at": "2026-10-28T12:19:41+00:00",
-      "published_ts": 1793189981.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.948
     },
     {
       "id": "cnbeta:aa4e9d2b7a9d",
@@ -217,34 +157,19 @@
       "importance": 1.921
     },
     {
-      "id": "tmtpost:942a0b1bbd9f",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
-      "url": "https://www.tmtpost.com/8184285.html",
-      "summary": "产品发布仅五个月，客户价值的可信度、人机交互的边界等，需要靠工程能力与客户校验共同推进。",
-      "published_at": "2026-10-28T09:28:49+00:00",
-      "published_ts": 1793179729.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.794
-    },
-    {
-      "id": "cnbeta:842a555dcc94",
+      "id": "cnbeta:91d7159a39d5",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "SK海力士警告：即使持续扩产 全球存储器供应紧张局面或延续至2030年",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584160.htm",
-      "summary": "<p>韩国存储芯片巨头SK海力士近日对未来数年的存储市场前景发出预警。公司表示，尽管行业正在积极扩大产能，但在人工智能快速发展的推动下，高性能存储器需求增长速度仍将超过供给增速，全球存储芯片短缺现象可能持续至2030年前后。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T08:42:08+00:00",
-      "published_ts": 1793176928.0,
+      "title": "苹果采购部门曾强硬逼迫闪存供应商让步 审计频率高到德勤也给出批量折扣",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584310.htm",
+      "summary": "<p>苹果曾经凭借庞大的采购规模，在闪存供应商面前拥有近乎压倒性的议价能力。为了压低价格，苹果不仅会让多家供应商相互竞争，还会频繁审计供应商的账目，甚至因为审计次数太多，与德勤谈下了批量折扣。如今，随着人工智能数据中心大举争抢存储芯片，闪存市场逐渐转向卖方市场，曾经习惯于掌控谈判节奏的苹果，也开始面临供应商议价能力增强带来的压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T09:44:48+00:00",
+      "published_ts": 1793267088.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.755
+      "importance": 1.802
     },
     {
       "id": "cnbeta:8af53906aec2",
@@ -277,6 +202,21 @@
       "importance": 1.696
     },
     {
+      "id": "cnbeta:edfa10840527",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "27万条消息与最后的断药计划：一位前亚马逊中国工程师如何把命交给ChatGPT",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584286.htm",
+      "summary": "<p>据《纽约时报》报道，一名患有严重癫痫的31岁中国女子Bowen Wan，在与ChatGPT讨论用药后，按照聊天机器人提供的方案逐步减少抗癫痫药物，最终被发现死于美国西雅图的住所。其父母已于当地时间10月27日起诉OpenAI，指控ChatGPT提供危险用药建议，鼓励她向医生隐瞒减药计划，并将异常症状解释为身体恢复过程中的积极变化。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584286.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T06:43:27+00:00",
+      "published_ts": 1793256207.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.651
+    },
+    {
       "id": "cnbeta:93103f7d6cd6",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -292,19 +232,19 @@
       "importance": 1.64
     },
     {
-      "id": "cnbeta:71bea6bce21d",
+      "id": "cnbeta:d11715d2710a",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "彭博行业研究：中国AI大模型将在2030年引领全球",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584100.htm",
-      "summary": "<p>10月28日，据彭博社报道，彭博行业研究发布的一份最新报告显示，<strong>到2030年，中国有望在AI核心技术大语言模型领域引领全球，并在其他所有具有战略重要性的技术领域至少保持竞争力。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584100.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T06:10:45+00:00",
-      "published_ts": 1793167845.0,
+      "title": "Google AI Mode个人智能向近200个国家开放 Gmail与Photos可接入",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584272.htm",
+      "summary": "<p>Google正在采取更多措施，让人工智能搜索体验继续面向免费用户开放。随着AI Mode逐步成为Google Search的重要组成部分，Google不仅扩大了相关功能的覆盖范围，还允许用户将Gmail和Google Photos等个人服务连接到搜索系统，使人工智能能够结合用户自己的信息提供个性化回答，而不必强制用户订阅付费套餐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T06:20:10+00:00",
+      "published_ts": 1793254810.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.631
+      "importance": 1.633
     },
     {
       "id": "cnbeta:629cdb706b9c",
@@ -335,6 +275,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.527
+    },
+    {
+      "id": "qbitai:d5b4f6e3560e",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "summary": "用扩散模型怎么做做Agent？",
+      "published_at": "2026-10-29T02:18:28+00:00",
+      "published_ts": 1793240308.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.453
     }
   ]
 }
