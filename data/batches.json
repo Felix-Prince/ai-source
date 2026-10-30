@@ -1,114 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T13:12:27.718405+00:00",
+    "generated_at": "2026-10-30T22:29:48.692993+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-30T22:23:39.659808+00:00",
-      "generated_ts": 1790807019.659808,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:cda1504d39b9",
-          "title": "月之暗面被指大规模提取OpenAI受保护推理内容 单日发起1.6万次请求",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.785,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580260.htm",
-          "published_at": "2026-09-30T19:49:31+00:00",
-          "summary": "<p>中国AI公司月之暗面旗下Kimi K3近日再次卷入模型蒸馏争议。OpenAI公布的一份调查显示，一场针对其模型受保护推理内容的协调提取活动与月之暗面相关人员存在关联。相关活动曾在单日产生约1.6万次请求，并涉及超过1.5万名用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580260.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:159ec25d2655",
-          "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.721,
-          "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-          "published_at": "2026-09-30T19:00:57+00:00",
-          "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-        },
-        {
-          "id": "qbitai:1491bd90ee29",
-          "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.358,
-          "url": "https://www.qbitai.com/2026/09/499654.html",
-          "published_at": "2026-09-30T14:03:43+00:00",
-          "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
-        },
-        {
-          "id": "cnbeta:480943344ebd",
-          "title": "美国联邦贸易委员会对Anthropic、OpenAI及其他AI模型展开大范围调查",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.339,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580228.htm",
-          "published_at": "2026-09-30T13:46:27+00:00",
-          "summary": "<p>多名政府官员透露，美国联邦贸易委员会（FTC）正扩大一项大范围调查，针对Anthropic、OpenAI以及其他前沿人工智能实验室，排查其技术可能给消费者带来的潜在风险；委员会计划向这些科技巨头下发正式调取文件要求（效力近似传票），强制其提交相关资料。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580228.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "openai_blog:6bbf82aa27fc",
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.128,
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "published_at": "2026-09-30T10:30:00+00:00",
-          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-        },
-        {
-          "id": "openai_blog:53eebd037d85",
-          "title": "Helping small businesses put AI to work",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.097,
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "published_at": "2026-09-30T10:00:00+00:00",
-          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-        },
-        {
-          "id": "techcrunch:ed1e18f2a0c7",
-          "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.884,
-          "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-          "published_at": "2026-09-30T20:20:02+00:00",
-          "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant "
-        },
-        {
-          "id": "the_verge:f11ad0ccc31d",
-          "title": "The AI Tamagotchis are coming",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.768,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-          "published_at": "2026-09-30T18:07:38+00:00",
-          "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with"
-        },
-        {
-          "id": "techcrunch:96bac0c27925",
-          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.59,
-          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-          "published_at": "2026-09-30T14:27:11+00:00",
-          "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-01T06:10:20.231572+00:00",
       "generated_ts": 1790835020.2315717,
@@ -6552,6 +6447,91 @@
           "url": "https://www.qbitai.com/2026/10/506674.html",
           "published_at": "2026-10-30T05:50:44+00:00",
           "summary": ""
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-30T22:29:48.692993+00:00",
+      "generated_ts": 1793399388.6929927,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "the_verge:8ddf77d70e1f",
+          "title": "The biggest names in AI are backing a new way to opt out of scraping",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.827,
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "published_at": "2026-10-30T20:26:10+00:00",
+          "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setti"
+        },
+        {
+          "id": "openai_blog:452f8101b532",
+          "title": "Making it easier for websites to express AI training preferences",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.061,
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "published_at": "2026-10-30T09:30:00+00:00",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+        },
+        {
+          "id": "openai_blog:3240efa547a7",
+          "title": "Community safety report and new protections for teens",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.032,
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "published_at": "2026-10-30T09:00:00+00:00",
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+        },
+        {
+          "id": "cnbeta:01c6c8c1df38",
+          "title": "苹果市值超越英伟达 重登全球第一宝座",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.895,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584494.htm",
+          "published_at": "2026-10-30T20:38:09+00:00",
+          "summary": "<p>在经历过去一周科技股普遍下跌之后，苹果公司凭借持续强劲的iPhone市场需求，再次超过英伟达，重新成为全球市值最高的上市公司。近年来，苹果与英伟达围绕全球最高市值公司的位置持续展开拉锯战。苹果依靠iPhone产品线和服务业务的增长，而英伟达则受益于人工智能热潮带动的AI芯片需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584494.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:1448393ea248",
+          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.775,
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "published_at": "2026-10-30T18:21:38+00:00",
+          "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: B"
+        },
+        {
+          "id": "the_verge:7efacb196c71",
+          "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.609,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+          "published_at": "2026-10-30T14:58:06+00:00",
+          "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\""
+        },
+        {
+          "id": "openai_blog:eaa850831e84",
+          "title": "Fair use benefits everyone",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.567,
+          "url": "https://openai.com/index/fair-use-benefits-everyone",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
         }
       ]
     }
