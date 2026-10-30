@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T06:03:03.635642+00:00",
+    "generated_at": "2026-10-30T13:12:27.718405+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-30T12:47:41.240840+00:00",
-      "generated_ts": 1790772461.24084,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:9852088d6af9",
-          "title": "Anthropic点名智谱GLM-5.3：漏洞利用能力增强，安全防护仍有缺口",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.626,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580196.htm",
-          "published_at": "2026-09-30T08:11:25+00:00",
-          "summary": "<p>9月30日，Claude开发商Anthropic 29日发布报告，称智谱GLM-5.3已具备较强的漏洞利用能力，但安全防护仍有缺口，可能降低恶意攻击者使用这类能力的门槛。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580196.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f30515f601b2",
-          "title": "OpenAI凌晨大上新 新助手迎战Muse：你关机，它接着干",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.464,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580162.htm",
-          "published_at": "2026-09-30T05:59:08+00:00",
-          "summary": "<p><strong>Meta的Muse刚走红，OpenAI的对手产品就来了。</strong>北京时间9月30日凌晨，OpenAI在开发者大会上发布全天候智能体Dots。用户可以直接在ChatGPT网页里创建自己的Dot，让它用云端电脑浏览网页、调用应用，同时处理多个任务；离开聊天窗口后，它也能继续工作，遇到需要确认的事情再来找你。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580162.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:fafb3525ddb6",
-          "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.416,
-          "url": "https://www.qbitai.com/2026/09/499308.html",
-          "published_at": "2026-09-30T05:18:05+00:00",
-          "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
-        },
-        {
-          "id": "qbitai:f144a6e8a917",
-          "title": "Anthropic，你是来给智谱打广告的吧！",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.849,
-          "url": "https://www.qbitai.com/2026/09/499597.html",
-          "published_at": "2026-09-30T10:04:12+00:00",
-          "summary": "实测说GLM-5.3很强"
-        },
-        {
-          "id": "cnbeta:13c737fe2b55",
-          "title": "OpenAI AI失控前已接到员工警告 但高层选择无视",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.647,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580170.htm",
-          "published_at": "2026-09-30T06:03:52+00:00",
-          "summary": "<p>据《纽约时报》报道，在OpenAI的AI模型失控前几个月，两名员工曾向公司高层发出警告，但他们被无视了。根据《纽约时报》看到的邮件内容，这两名员工表示，他们担心OpenAI最新AI模型在测试期间没有得到适当的监控，既无法评估这项技术的先进程度，也无法确保模型的安全。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:1c9150fe9c1b",
-          "title": "睡觉时也能炒股 “美国散户大本营”祭出新AI智能体工具",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.646,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580168.htm",
-          "published_at": "2026-09-30T06:02:45+00:00",
-          "summary": "<p>“美国散户大本营”Robinhood曾凭借让人们用智能手机买卖股票的极简体验，推开了新一代投资者的大门。而在其高管眼中，下一场投资革命将由AI智能体主导。在这家线上券商周二于休斯敦乔治·R·布朗会议中心举办的年度活动中，人工智能成为了全场绝对的主角。Robinhood高管团队集中揭晓了一系列重磅新工具与服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580168.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-30T22:23:39.659808+00:00",
       "generated_ts": 1790807019.659808,
@@ -6522,6 +6447,111 @@
           "url": "https://www.qbitai.com/2026/10/506550.html",
           "published_at": "2026-10-29T09:52:05+00:00",
           "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-30T13:12:27.718405+00:00",
+      "generated_ts": 1793365947.7184055,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:ed1584c9af4a",
+          "title": "维基媒体就AI版权案提出折中主张：训练可属合理使用 复现原文则应获授权",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.676,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584454.htm",
+          "published_at": "2026-10-30T09:15:15+00:00",
+          "summary": "<p>维基百科运营方维基媒体基金会在一宗涉及《纽约时报》、OpenAI和微软等公司的AI版权诉讼中提交法庭之友意见书，主张法院不要把人工智能训练和聊天机器人向用户复现内容混为一谈。基金会没有支持任何一方的整体立场，而是警告，过于简单化的裁决可能同时伤害开放知识与互联网内容生态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584454.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:863d3ff159fb",
+          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.657,
+          "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+          "published_at": "2026-10-30T09:00:00+00:00",
+          "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either "
+        },
+        {
+          "id": "tmtpost:de68bc3d3cb9",
+          "title": "AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.645,
+          "url": "https://www.tmtpost.com/8184634.html",
+          "published_at": "2026-10-30T08:50:44+00:00",
+          "summary": "多数报道只关注 Kimi K3 提速 1.68 倍，却忽略 vLLM 博客关键警示：AI 生成推理代码已快到人类来不及逐行审查。英伟达工程师借助 AI 写出 1.2 万行 Megakernel，不换硬件就压榨模型性能。算力竞争重心转向软件栈，人机 “人在回路” 范式正被重新定义。"
+        },
+        {
+          "id": "tmtpost:4f6d559d9301",
+          "title": "XHEART的炼芯术士",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.763,
+          "url": "https://www.tmtpost.com/8187542.html",
+          "published_at": "2026-10-30T08:50:48+00:00",
+          "summary": "被大模型定义的芯，能够充分释放模型能力，支持中国智驾实现L4级别自动驾驶。"
+        },
+        {
+          "id": "qbitai:93316e1e74cb",
+          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.697,
+          "url": "https://www.qbitai.com/2026/10/506743.html",
+          "published_at": "2026-10-30T07:31:11+00:00",
+          "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
+        },
+        {
+          "id": "cnbeta:ef025c923c6e",
+          "title": "前英特尔CEO押注颠覆性内存技术Z2RAM：融合SRAM速度与DRAM密度",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.669,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584436.htm",
+          "published_at": "2026-10-30T06:56:34+00:00",
+          "summary": "<p>全球人工智能产业的快速扩张正在引发严重的存储芯片供应紧张，尤其是高带宽内存（HBM）需求激增，使传统DRAM产能面临重新分配的压力。在这一背景下，英特尔前首席执行官帕特·基辛格（Pat Gelsinger）正在押注一种新型内存技术，希望通过改变传统存储单元的设计方式，解决AI芯片长期面临的容量、带宽和功耗问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584436.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:57d4897b3241",
+          "title": "ChatGPT额度官宣翻倍 但免费重置可能要没了",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.641,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584408.htm",
+          "published_at": "2026-10-30T06:21:43+00:00",
+          "summary": "<p>被用户吐槽了一个月，OpenAI 终于决定不再折腾大家的使用额度了。就在刚刚，OpenAI 产品负责人 Tibo 突然宣布，将大幅提高 ChatGPT Pro 系列及 Business Premium 用户的使用额度，部分套餐直接翻倍，即日起生效。更让老用户高兴的是，OpenAI 还决定撤销此前备受争议的 Pro 200 额度下调计划。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e2b710bd8fd4",
+          "title": "耗水大户台积电没人骂 用水更少的AI数据中心为何惹毛美国人？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.631,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584396.htm",
+          "published_at": "2026-10-30T06:09:19+00:00",
+          "summary": "<p>10月30日，美国科技媒体The Verge近日刊文称，随着人工智能产业快速扩张，美国亚利桑那州越来越多的居民开始担忧，数据中心会与他们争夺本就紧张的水资源。这个长期受干旱困扰的州欢迎台积电建厂，吸引芯片产业和就业机会。如今，当规模更大的数据中心项目陆续到来，当地却出现了跨越政治立场的反对声音。以下为文章主要内容。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584396.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:9571c704770a",
+          "title": "Claude新模型曝光：新Fable，新Opus…",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.617,
+          "url": "https://www.qbitai.com/2026/10/506674.html",
+          "published_at": "2026-10-30T05:50:44+00:00",
+          "summary": ""
         }
       ]
     }
