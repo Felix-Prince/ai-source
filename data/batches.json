@@ -1,134 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T22:51:50.635978+00:00",
+    "generated_at": "2026-10-30T06:03:03.635642+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-09-30T05:44:00.787890+00:00",
-      "generated_ts": 1790747040.78789,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:d9c066973fdc",
-          "title": "OpenAI推出500美元ChatGPT Pro套餐 并带来Codex与API升级",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.981,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580160.htm",
-          "published_at": "2026-09-30T05:30:41+00:00",
-          "summary": "<p>OpenAI在9月29日举行的DevDay 2026开发者大会上公布了一系列面向开发者、企业和高强度用户的新产品与功能，其中最受关注的变化之一，是推出每月500美元的ChatGPT Pro 500套餐。与此同时，原有每月200美元的Pro 200套餐使用额度将被下调，OpenAI还对Codex、Agents API以及API平台进行了大规模升级。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:d0ae1d9c03d0",
-          "title": "DeepSeek与华为合作开发昇腾编程工具 开源软件基础设施以减少对NVIDIA的依赖",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.974,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580156.htm",
-          "published_at": "2026-09-30T05:25:52+00:00",
-          "summary": "<p>中国人工智能公司DeepSeek周三表示，已与华为合作开发针对昇腾芯片优化的编程工具。DeepSeek在官方微信公众号宣布，将开源面向华为昇腾平台的编程基础设施，其中包括计算库和通信库。这是中国科技企业深化合作、寻求英伟达生态替代方案的最新迹象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580156.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:748e5cf37240",
-          "title": "Anthropic或向SpaceX支付845亿美元AI算力费用 马斯克数据中心业务迎来巨额订单",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.96,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580146.htm",
-          "published_at": "2026-09-30T05:16:20+00:00",
-          "summary": "<p>随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未来将向SpaceX支付巨额费用，以获取其数据中心提供的AI计算能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580146.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a132085d20d5",
-          "title": "OpenAI上市计划再度推迟，萨姆·奥尔特曼称只有确保AI安全后才会考虑IPO",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.958,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580144.htm",
-          "published_at": "2026-09-30T05:15:01+00:00",
-          "summary": "<p>OpenAI首席执行官萨姆·奥尔特曼当地时间9月29日在公司年度开发者大会DevDay后的问答环节中表示，OpenAI不会在无法对先进人工智能模型的安全性作出足够保证之前推进首次公开募股（IPO）。这意味着，尽管OpenAI已经成为全球估值最高的人工智能公司之一，但上市仍不会成为公司近期的优先事项。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580144.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:65d9d43f2e34",
-          "title": "OpenAI推出Dots引关注 xAI被指提前买下dot.com“恶搞”竞争对手",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.953,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580138.htm",
-          "published_at": "2026-09-30T05:11:19+00:00",
-          "summary": "<p>OpenAI当地时间9月29日在年度开发者大会上推出了全新的AI智能体产品Dots。这款产品被设计为能够长期保持运行、主动执行任务，并通过一个圆润、类似气泡的卡通形象与用户互动。不过，Dots正式亮相后，互联网用户很快发现了一个颇为巧合的细节：埃隆·马斯克旗下xAI已经拥有dot.com域名，而该域名目前会直接跳转至Grok应用的下载页面。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580138.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:13d26a83b2f3",
-          "title": "一文速览OpenAI DevDay，欢迎来到Agent时代",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.674,
-          "url": "https://www.tmtpost.com/8156660.html",
-          "published_at": "2026-09-30T01:44:46+00:00",
-          "summary": "一个时刻在线的Agent、一间人机共用的Space，再加更快的GPT-6.1 Sol。"
-        },
-        {
-          "id": "cnbeta:26b3222476b9",
-          "title": "微软发布Quine生物学“世界模型” AI有望将药物研发周期从数月缩短至数天",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.985,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580158.htm",
-          "published_at": "2026-09-30T05:28:14+00:00",
-          "summary": "<p>微软研究院近日正式发布名为Quine的人工智能科研系统，并将其定义为面向生命科学领域的“生物学世界模型”。该系统旨在帮助科学家理解复杂生物机制、加速药物发现过程，并推动癌症等重大疾病研究取得突破。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580158.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:71fb4e7b1f8c",
-          "title": "Dots 上场这天，OpenAI 把自家最强模型拦在门外",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.854,
-          "url": "https://www.tmtpost.com/8156899.html",
-          "published_at": "2026-09-30T03:06:07+00:00",
-          "summary": "一边登台，一边缺席。"
-        },
-        {
-          "id": "qbitai:a2089cb9dca0",
-          "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.842,
-          "url": "https://www.qbitai.com/2026/09/499263.html",
-          "published_at": "2026-09-30T02:53:17+00:00",
-          "summary": ""
-        },
-        {
-          "id": "qbitai:62d855e060f4",
-          "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.647,
-          "url": "https://www.qbitai.com/2026/09/499246.html",
-          "published_at": "2026-09-29T23:01:05+00:00",
-          "summary": "今年devday牙膏挤爆"
-        },
-        {
-          "id": "ars_technica:2a064887889e",
-          "title": "Protests against OpenAI get increasingly creative",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 1.594,
-          "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-          "published_at": "2026-09-29T21:52:58+00:00",
-          "summary": "New sculpture depicts AI leaders escaping a sinking ship."
-        }
-      ]
-    },
     {
       "generated_at": "2026-09-30T12:47:41.240840+00:00",
       "generated_ts": 1790772461.24084,
@@ -6542,6 +6417,111 @@
           "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "published_at": "2026-10-29T09:00:00+00:00",
           "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-30T06:03:03.635642+00:00",
+      "generated_ts": 1793340183.6356418,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:b18c87856b3e",
+          "title": "从个人提效到组织生产力：腾讯的上下文解法",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.957,
+          "url": "https://www.tmtpost.com/8187338.html",
+          "published_at": "2026-10-30T05:33:02+00:00",
+          "summary": "企业落地Agent最大的问题，不是模型不够强，而是断点太多。"
+        },
+        {
+          "id": "tmtpost:3562336904f6",
+          "title": "Anthropic上市前夜，大模型生意如何算账？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.866,
+          "url": "https://www.tmtpost.com/8186936.html",
+          "published_at": "2026-10-30T04:28:06+00:00",
+          "summary": "一家模型公司的增长与代价"
+        },
+        {
+          "id": "tmtpost:7d8e7710e0e1",
+          "title": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.713,
+          "url": "https://www.tmtpost.com/8186459.html",
+          "published_at": "2026-10-30T02:33:47+00:00",
+          "summary": "当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。"
+        },
+        {
+          "id": "cnbeta:c22f22b3b053",
+          "title": "第四季度业绩指引低于预期 英特尔盘后大跌23%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.978,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584376.htm",
+          "published_at": "2026-10-30T05:40:28+00:00",
+          "summary": "<p>美国芯片巨头英特尔公布2026年第三季度财报。受数据中心与人工智能（DCAI）业务强劲增长带动，公司当季营收和调整后每股收益均超出此前业绩指引，数据中心业务营收同比增长78%，创下15年来最强劲的增长纪录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:cad737b6bed2",
+          "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.68,
+          "url": "https://www.qbitai.com/2026/10/506554.html",
+          "published_at": "2026-10-29T09:58:26+00:00",
+          "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
+        },
+        {
+          "id": "cnbeta:1815cb53fe7e",
+          "title": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.664,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584368.htm",
+          "published_at": "2026-10-29T23:40:38+00:00",
+          "summary": "<p>知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:cd72328ea516",
+          "title": "美媒曝五角大楼安全事故：被禁用的AI在美军网络里运行了两个月",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.663,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584366.htm",
+          "published_at": "2026-10-29T23:39:46+00:00",
+          "summary": "<p>据美国《连线》杂志报道，埃森哲一名承包商员工被指将个人Claude Code账号接入美国国防部的安全系统，让AI智能体代为编写和部署代码。知情人士称，该智能体在国防部网络中运行了两个月才被发现，其间疑似将登录凭据、密码及网络结构信息发送至一个存在安全风险的第三方网站。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584366.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:bb5883ecd20d",
+          "title": "OpenAI重构AI模型指南：聚焦五大价值观 忠于人类意图是核心",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.663,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584364.htm",
+          "published_at": "2026-10-29T23:39:26+00:00",
+          "summary": "<p>据路透社报道，OpenAI在周四更新了其《模型规范》(Model Spec)。这是一份公开路线图，阐述了该公司希望其AI模型如何表现。随着AI系统能力不断增强，OpenAI围绕五项核心价值观重新构建了这套规范。这五项价值观是忠于人类意图、最大限度减少伤害、诚实与透明、尊重人类自主权，以及关怀。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584364.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:717210a53b97",
+          "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.117,
+          "url": "https://www.qbitai.com/2026/10/506550.html",
+          "published_at": "2026-10-29T09:52:05+00:00",
+          "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
         }
       ]
     }

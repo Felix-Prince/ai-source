@@ -1,11 +1,41 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T22:51:50.635978+00:00",
-    "generated_ts": 1793314310.6359785,
+    "generated_at": "2026-10-30T06:03:03.635642+00:00",
+    "generated_ts": 1793340183.6356418,
     "window_hours": 24.0,
-    "total": 11
+    "total": 15
   },
   "items": [
+    {
+      "id": "tmtpost:b18c87856b3e",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "从个人提效到组织生产力：腾讯的上下文解法",
+      "url": "https://www.tmtpost.com/8187338.html",
+      "summary": "企业落地Agent最大的问题，不是模型不够强，而是断点太多。",
+      "published_at": "2026-10-30T05:33:02+00:00",
+      "published_ts": 1793338382.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.957
+    },
+    {
+      "id": "tmtpost:3562336904f6",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Anthropic上市前夜，大模型生意如何算账？",
+      "url": "https://www.tmtpost.com/8186936.html",
+      "summary": "一家模型公司的增长与代价",
+      "published_at": "2026-10-30T04:28:06+00:00",
+      "published_ts": 1793334486.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.866
+    },
     {
       "id": "tmtpost:a53dff54ee1e",
       "source": "tmtpost",
@@ -37,19 +67,19 @@
       "importance": 2.783
     },
     {
-      "id": "qbitai:3b1c113bf9ec",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "summary": "能连肝数日修Bug，免疫提示词注入",
-      "published_at": "2026-10-29T00:03:58+00:00",
-      "published_ts": 1793232238.0,
+      "id": "tmtpost:7d8e7710e0e1",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
+      "url": "https://www.tmtpost.com/8186459.html",
+      "summary": "当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。",
+      "published_at": "2026-10-30T02:33:47+00:00",
+      "published_ts": 1793327627.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.044
+      "importance": 2.713
     },
     {
       "id": "openai_blog:b059ffbc15f3",
@@ -67,34 +97,19 @@
       "importance": 2.01
     },
     {
-      "id": "cnbeta:cc0fc8e3ed6d",
+      "id": "cnbeta:c22f22b3b053",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "SK海力士创纪录季度业绩出炉：AI热潮推动增长 预计存储器短缺将持续至2030年",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584258.htm",
-      "summary": "<p>韩国存储芯片巨头SK海力士公布了2026年第三季度财报，在人工智能需求持续爆发的带动下，公司创下历史最佳季度表现。财报显示，SK海力士第三季度营收达到104.6万亿韩元，首次突破单季100万亿韩元大关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584258.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-29T05:52:51+00:00",
-      "published_ts": 1793253171.0,
+      "title": "第四季度业绩指引低于预期 英特尔盘后大跌23%",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584376.htm",
+      "summary": "<p>美国芯片巨头英特尔公布2026年第三季度财报。受数据中心与人工智能（DCAI）业务强劲增长带动，公司当季营收和调整后每股收益均超出此前业绩指引，数据中心业务营收同比增长78%，创下15年来最强劲的增长纪录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-30T05:40:28+00:00",
+      "published_ts": 1793338828.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.991
-    },
-    {
-      "id": "tmtpost:c4f35ab5bf31",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
-      "url": "https://www.tmtpost.com/8185837.html",
-      "summary": "从综合毛利率看，摩尔线程在国产AI芯片厂商中处于较高水平，2026年上半年，其综合毛利率为56.95%。",
-      "published_at": "2026-10-29T04:37:44+00:00",
-      "published_ts": 1793248664.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.921
+      "importance": 1.978
     },
     {
       "id": "cnbeta:91d7159a39d5",
@@ -112,6 +127,66 @@
       "importance": 1.802
     },
     {
+      "id": "qbitai:cad737b6bed2",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+      "url": "https://www.qbitai.com/2026/10/506554.html",
+      "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+      "published_at": "2026-10-29T09:58:26+00:00",
+      "published_ts": 1793267906.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 1.68
+    },
+    {
+      "id": "cnbeta:1815cb53fe7e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584368.htm",
+      "summary": "<p>知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T23:40:38+00:00",
+      "published_ts": 1793317238.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.664
+    },
+    {
+      "id": "cnbeta:cd72328ea516",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "美媒曝五角大楼安全事故：被禁用的AI在美军网络里运行了两个月",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584366.htm",
+      "summary": "<p>据美国《连线》杂志报道，埃森哲一名承包商员工被指将个人Claude Code账号接入美国国防部的安全系统，让AI智能体代为编写和部署代码。知情人士称，该智能体在国防部网络中运行了两个月才被发现，其间疑似将登录凭据、密码及网络结构信息发送至一个存在安全风险的第三方网站。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584366.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T23:39:46+00:00",
+      "published_ts": 1793317186.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.663
+    },
+    {
+      "id": "cnbeta:bb5883ecd20d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI重构AI模型指南：聚焦五大价值观 忠于人类意图是核心",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584364.htm",
+      "summary": "<p>据路透社报道，OpenAI在周四更新了其《模型规范》(Model Spec)。这是一份公开路线图，阐述了该公司希望其AI模型如何表现。随着AI系统能力不断增强，OpenAI围绕五项核心价值观重新构建了这套规范。这五项价值观是忠于人类意图、最大限度减少伤害、诚实与透明、尊重人类自主权，以及关怀。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584364.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-29T23:39:26+00:00",
+      "published_ts": 1793317166.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.663
+    },
+    {
       "id": "cnbeta:edfa10840527",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -125,21 +200,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.651
-    },
-    {
-      "id": "cnbeta:93103f7d6cd6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Gemini 4 Carbon正式发布 哈基米重回世界第一",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584240.htm",
-      "summary": "<p>Gemini 终于又支棱起来了。当全世界的目光都聚焦在苹果首款触控屏 MacBook Pro 身上，Google DeepMind 刚刚正式宣布推出新一代旗舰模型 Gemini 4 Carbon。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584240.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-28T23:09:44+00:00",
-      "published_ts": 1793228984.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.64
     },
     {
       "id": "cnbeta:d11715d2710a",
@@ -157,19 +217,19 @@
       "importance": 1.633
     },
     {
-      "id": "qbitai:d5b4f6e3560e",
+      "id": "qbitai:717210a53b97",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "summary": "用扩散模型怎么做做Agent？",
-      "published_at": "2026-10-29T02:18:28+00:00",
-      "published_ts": 1793240308.0,
+      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+      "url": "https://www.qbitai.com/2026/10/506550.html",
+      "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+      "published_at": "2026-10-29T09:52:05+00:00",
+      "published_ts": 1793267525.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.453
+      "importance": 1.117
     }
   ]
 }
