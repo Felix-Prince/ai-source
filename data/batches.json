@@ -1,94 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T12:49:54.947784+00:00",
+    "generated_at": "2026-10-31T21:44:47.119527+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-01T13:33:21.971393+00:00",
-      "generated_ts": 1790861601.971393,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:c6b37810da57",
-          "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.575,
-          "url": "https://www.tmtpost.com/8157828.html",
-          "published_at": "2026-10-01T08:16:17+00:00",
-          "summary": "AI公司活成了它们最讨厌的样子。"
-        },
-        {
-          "id": "cnbeta:0ecc2062e498",
-          "title": "Anthropic宣布Claude for Government正式上线 为美国联邦和州政府机构特别打造",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.453,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580302.htm",
-          "published_at": "2026-10-01T06:35:20+00:00",
-          "summary": "<p>人工智能公司Anthropic宣布，面向美国联邦和州政府机构打造的Claude for Government正式结束公开测试阶段并全面投入使用。该平台自今年7月启动公测以来，已逐步向公共部门提供Claude的代码开发、智能代理和办公自动化能力，如今正式进入全面商用阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580302.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:7e7f1f6cec82",
-          "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.707,
-          "url": "https://www.tmtpost.com/8157833.html",
-          "published_at": "2026-10-01T08:04:42+00:00",
-          "summary": "当AI开始生成“世界”，影音游内容正在被颠覆。"
-        },
-        {
-          "id": "cnbeta:c0c16e9fc92f",
-          "title": "“大空头”伯里：股市应该崩盘以阻止OpenAI、Anthropic上市",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.652,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580318.htm",
-          "published_at": "2026-10-01T06:56:40+00:00",
-          "summary": "<p>10月1日，据《商业内幕》报道，电影《大空头》原型人物迈克尔·伯里(Michael Burry)表示，<strong>如果股市崩盘导致两家头部AI公司无法上市，这对人类来说反而是件好事。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580318.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:9d8e69f004e3",
-          "title": "黄仁勋等科技领袖私下游说Anthropic CEO 质疑其发出的AI警告过于极端",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.65,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580314.htm",
-          "published_at": "2026-10-01T06:53:59+00:00",
-          "summary": "<p>10月1日，据《华尔街日报》报道，周二，在同意签署一份旨在保障AI模型安全的原则声明后，多位AI公司CEO簇拥在总统特朗普周围，在白宫外展示出一个团结应对公众担忧的行业形象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580314.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:7589e8192dea",
-          "title": "Google终于推出旗舰AI模型 但实战性能却遭员工质疑",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.65,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580312.htm",
-          "published_at": "2026-10-01T06:53:36+00:00",
-          "summary": "<p>10月1日，据彭博社报道，<strong>Google公司已开始逐步推出外界期待已久的旗舰AI模型Gemini 4 Argon，</strong>但公司内部对于该模型在编程等关键领域的表现仍存在质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580312.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b4be962fbc73",
-          "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.62,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
-          "published_at": "2026-10-01T06:15:53+00:00",
-          "summary": "<p>全球存储芯片巨头美光科技日前在公布2026财年第四季度业绩后表示，即便未来人工智能热潮降温，内存市场也未必会迎来显著降价。公司认为，以人形机器人为代表的“物理AI”正在成为新的需求增长引擎，并可能推动行业长期维持供需紧张状态。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-01T22:47:27.431638+00:00",
       "generated_ts": 1790894847.4316382,
@@ -6587,6 +6502,41 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1584508.htm",
           "published_at": "2026-10-31T07:27:48+00:00",
           "summary": "<p>人工智能数据中心建设热潮正在对全球电子产业供应链产生越来越广泛的影响。此前，市场已经经历了DRAM内存、NAND闪存、SSD和GPU等产品的供应紧张及价格上涨，如今连看似普通的印刷电路板（PCB）也开始出现严重短缺。随着PCB制造商将更多产能转向利润更高的AI服务器订单，传统PC、笔记本电脑和消费电子产品正在面临新的供应压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-31T21:44:47.119527+00:00",
+      "generated_ts": 1793483087.1195273,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:127e1bfe5b0a",
+          "title": "Anthropic收紧Claude使用边界 禁止逆向工程复刻现有游戏",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.756,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584568.htm",
+          "published_at": "2026-10-31T17:14:38+00:00",
+          "summary": "<p>近段时间以来，借助 AI 克隆游戏、逆向工程与反编译的做法愈发流行，一批游戏项目几乎在一夜之间涌现，形成了一种小规模的“家庭作坊式”产业。这些项目类型多样，既有引发争议的《堡垒之夜》与《辐射》克隆作品，也有玩家自制的游戏主机移植版本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584568.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d64456af4fb2",
+          "title": "英特尔将18A产能从Panther Lake转向至强服务器芯片以缓解供应紧张",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.699,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584566.htm",
+          "published_at": "2026-10-31T16:06:25+00:00",
+          "summary": "<p>英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“Granite Rapids”所采用的制程节点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584566.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }

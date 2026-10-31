@@ -1,26 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T12:49:54.947784+00:00",
-    "generated_ts": 1793450994.9477837,
+    "generated_at": "2026-10-31T21:44:47.119527+00:00",
+    "generated_ts": 1793483087.1195273,
     "window_hours": 24.0,
-    "total": 12
+    "total": 10
   },
   "items": [
-    {
-      "id": "the_verge:8ddf77d70e1f",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
-      "published_at": "2026-10-30T20:26:10+00:00",
-      "published_ts": 1793391970.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.827
-    },
     {
       "id": "qbitai:19b64f9a4cfb",
       "source": "qbitai",
@@ -82,34 +67,19 @@
       "importance": 1.937
     },
     {
-      "id": "cnbeta:01c6c8c1df38",
+      "id": "cnbeta:127e1bfe5b0a",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "苹果市值超越英伟达 重登全球第一宝座",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584494.htm",
-      "summary": "<p>在经历过去一周科技股普遍下跌之后，苹果公司凭借持续强劲的iPhone市场需求，再次超过英伟达，重新成为全球市值最高的上市公司。近年来，苹果与英伟达围绕全球最高市值公司的位置持续展开拉锯战。苹果依靠iPhone产品线和服务业务的增长，而英伟达则受益于人工智能热潮带动的AI芯片需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584494.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-30T20:38:09+00:00",
-      "published_ts": 1793392689.0,
+      "title": "Anthropic收紧Claude使用边界 禁止逆向工程复刻现有游戏",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584568.htm",
+      "summary": "<p>近段时间以来，借助 AI 克隆游戏、逆向工程与反编译的做法愈发流行，一批游戏项目几乎在一夜之间涌现，形成了一种小规模的“家庭作坊式”产业。这些项目类型多样，既有引发争议的《堡垒之夜》与《辐射》克隆作品，也有玩家自制的游戏主机移植版本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584568.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-31T17:14:38+00:00",
+      "published_ts": 1793466878.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.895
-    },
-    {
-      "id": "the_verge:1448393ea248",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
-      "published_at": "2026-10-30T18:21:38+00:00",
-      "published_ts": 1793384498.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.775
+      "importance": 1.756
     },
     {
       "id": "cnbeta:e87db88f96b2",
@@ -157,6 +127,21 @@
       "importance": 1.713
     },
     {
+      "id": "cnbeta:d64456af4fb2",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英特尔将18A产能从Panther Lake转向至强服务器芯片以缓解供应紧张",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584566.htm",
+      "summary": "<p>英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“Granite Rapids”所采用的制程节点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584566.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-31T16:06:25+00:00",
+      "published_ts": 1793462785.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.699
+    },
+    {
       "id": "cnbeta:e9bcf6db4955",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -170,21 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.664
-    },
-    {
-      "id": "the_verge:7efacb196c71",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
-      "published_at": "2026-10-30T14:58:06+00:00",
-      "published_ts": 1793372286.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.609
     }
   ]
 }
