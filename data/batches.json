@@ -1,64 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T05:57:46.437311+00:00",
+    "generated_at": "2026-10-31T12:49:54.947784+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-01T06:10:20.231572+00:00",
-      "generated_ts": 1790835020.2315717,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:b03ae28b854e",
-          "title": "OpenAI模型被曝自主入侵澳大利亚政府系统 引发AI安全风险新担忧",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.99,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580276.htm",
-          "published_at": "2026-10-01T06:03:12+00:00",
-          "summary": "<p>澳大利亚政府日前披露，一款由OpenAI运营的人工智能模型在未经授权的情况下访问了该国医疗系统数据，引发外界对先进AI自主行为和安全控制能力的广泛关注。这一事件被认为可能是全球首例由人工智能系统实施的政府网络入侵事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580276.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:6fd9c4cab12c",
-          "title": "Google发布Gemini 4 Argon模型 挑战GPT-6 Astra与Claude Opus 5.5 定价大幅下探",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.976,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580272.htm",
-          "published_at": "2026-10-01T05:53:40+00:00",
-          "summary": "<p>在OpenAI和Anthropic持续推出新一代前沿模型之际，Google正式发布全新旗舰级人工智能模型Gemini 4 Argon，希望凭借更强的长程推理能力和更具竞争力的价格重新参与高端模型市场竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:51c7082b7580",
-          "title": "实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.711,
-          "url": "https://www.tmtpost.com/8157453.html",
-          "published_at": "2026-10-01T00:46:00+00:00",
-          "summary": "给AI配电脑，多出一门生意。"
-        },
-        {
-          "id": "tmtpost:8eaf86d4b3e0",
-          "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.704,
-          "url": "https://www.tmtpost.com/8157335.html",
-          "published_at": "2026-10-01T00:38:06+00:00",
-          "summary": "OpenAI想摘走Meta的“大结果”。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-01T13:33:21.971393+00:00",
       "generated_ts": 1790861601.971393,
@@ -6557,6 +6502,91 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1584500.htm",
           "published_at": "2026-10-30T23:35:07+00:00",
           "summary": "<p>苹果公司10月31日宣布，面向中国用户的首批 Apple Intelligence 功能即将上线。作为深度融入 iPhone 日常体验的人工智能系统，Apple Intelligence 将通过生成式模型能力帮助用户完成写作、沟通、创作和信息处理等任务。首批功能计划于11月4日随最新 iOS 开发者测试版本开放体验，并在12月伴随 iOS 27.3 正式版向中国用户推出，其他平台的相关支持将在完成必要审批后陆续上线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584500.htm\" target=\"_blank\"><str"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-31T12:49:54.947784+00:00",
+      "generated_ts": 1793450994.9477837,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "qbitai:19b64f9a4cfb",
+          "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.406,
+          "url": "https://www.qbitai.com/2026/10/506866.html",
+          "published_at": "2026-10-31T05:11:19+00:00",
+          "summary": "AI算力利用“九九成”"
+        },
+        {
+          "id": "tmtpost:9bdb957644fd",
+          "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.97,
+          "url": "https://www.tmtpost.com/8188396.html",
+          "published_at": "2026-10-31T12:18:13+00:00",
+          "summary": "我耗时 12 天拼完 1000 片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是 AI 不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。这件实验，也照见我们当下思考外包、本末倒置的认知困境。"
+        },
+        {
+          "id": "tmtpost:4237f2a073ac",
+          "title": "芯片的大买主们，快没钱了？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.95,
+          "url": "https://www.tmtpost.com/8188472.html",
+          "published_at": "2026-10-31T11:57:20+00:00",
+          "summary": "算力订单还在增加，买芯片的钱却越来越难安排。"
+        },
+        {
+          "id": "tmtpost:86cab2999907",
+          "title": "从算法到芯片，Momenta正在下一盘什么棋？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.937,
+          "url": "https://www.tmtpost.com/8188282.html",
+          "published_at": "2026-10-31T11:43:34+00:00",
+          "summary": "下一阶段，决定新芯航途能走多远的，不是700 TOPS，而是它能否把技术优势持续转化为规模化的产业竞争力。"
+        },
+        {
+          "id": "cnbeta:e87db88f96b2",
+          "title": "Claude宣布取消5小时限制 首批Ultra用户已“解封”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.736,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584540.htm",
+          "published_at": "2026-10-31T07:56:21+00:00",
+          "summary": "<p>Claude200美元的订阅用户，终于可以和烦人的5小时限制说再见了！！就在刚刚，Anthropic突然宣布调整Claude订阅计划。原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。价格倒是没变，依旧是每月100美元和200美元。但这回，200美元档位的Ultra用户，还迎来了一项实打实的变化——取消5小时使用限制。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584540.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3fa330069855",
+          "title": "OpenAI已将最新一轮融资目标从300亿美元下调至约200亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.723,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584516.htm",
+          "published_at": "2026-10-31T07:40:14+00:00",
+          "summary": "<p>10月31日消息，据英国《金融时报》援引多名知情人士报道，ChatGPT开发商OpenAI已将最新一轮融资目标从300亿美元下调至约200亿美元，拟议估值也从此前的1.4万亿美元降至1.25万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584516.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:79749894ccfe",
+          "title": "AI硬件危机蔓延至电路板：PCB供应严重短缺 部分订单交货期延长至30个月",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.713,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584508.htm",
+          "published_at": "2026-10-31T07:27:48+00:00",
+          "summary": "<p>人工智能数据中心建设热潮正在对全球电子产业供应链产生越来越广泛的影响。此前，市场已经经历了DRAM内存、NAND闪存、SSD和GPU等产品的供应紧张及价格上涨，如今连看似普通的印刷电路板（PCB）也开始出现严重短缺。随着PCB制造商将更多产能转向利润更高的AI服务器订单，传统PC、笔记本电脑和消费电子产品正在面临新的供应压力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584508.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
