@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T22:29:48.692993+00:00",
-    "generated_ts": 1793399388.6929927,
+    "generated_at": "2026-10-31T05:57:46.437311+00:00",
+    "generated_ts": 1793426266.437311,
     "window_hours": 24.0,
-    "total": 23
+    "total": 15
   },
   "items": [
-    {
-      "id": "tmtpost:b18c87856b3e",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "从个人提效到组织生产力：腾讯的上下文解法",
-      "url": "https://www.tmtpost.com/8187338.html",
-      "summary": "企业落地Agent最大的问题，不是模型不够强，而是断点太多。",
-      "published_at": "2026-10-30T05:33:02+00:00",
-      "published_ts": 1793338382.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.957
-    },
-    {
-      "id": "tmtpost:3562336904f6",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Anthropic上市前夜，大模型生意如何算账？",
-      "url": "https://www.tmtpost.com/8186936.html",
-      "summary": "一家模型公司的增长与代价",
-      "published_at": "2026-10-30T04:28:06+00:00",
-      "published_ts": 1793334486.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.866
-    },
     {
       "id": "the_verge:8ddf77d70e1f",
       "source": "the_verge",
@@ -50,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.827
-    },
-    {
-      "id": "tmtpost:7d8e7710e0e1",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
-      "url": "https://www.tmtpost.com/8186459.html",
-      "summary": "当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。",
-      "published_at": "2026-10-30T02:33:47+00:00",
-      "published_ts": 1793327627.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.713
     },
     {
       "id": "cnbeta:ed1584c9af4a",
@@ -142,21 +97,6 @@
       "importance": 2.032
     },
     {
-      "id": "cnbeta:c22f22b3b053",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "第四季度业绩指引低于预期 英特尔盘后大跌23%",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584376.htm",
-      "summary": "<p>美国芯片巨头英特尔公布2026年第三季度财报。受数据中心与人工智能（DCAI）业务强劲增长带动，公司当季营收和调整后每股收益均超出此前业绩指引，数据中心业务营收同比增长78%，创下15年来最强劲的增长纪录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-30T05:40:28+00:00",
-      "published_ts": 1793338828.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.978
-    },
-    {
       "id": "cnbeta:01c6c8c1df38",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -232,49 +172,19 @@
       "importance": 1.669
     },
     {
-      "id": "cnbeta:1815cb53fe7e",
+      "id": "cnbeta:e9bcf6db4955",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584368.htm",
-      "summary": "<p>知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-29T23:40:38+00:00",
-      "published_ts": 1793317238.0,
+      "title": "Apple Intelligence 即将登陆中国：实时翻译、千问整合等首批功能11月开启测试",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584500.htm",
+      "summary": "<p>苹果公司10月31日宣布，面向中国用户的首批 Apple Intelligence 功能即将上线。作为深度融入 iPhone 日常体验的人工智能系统，Apple Intelligence 将通过生成式模型能力帮助用户完成写作、沟通、创作和信息处理等任务。首批功能计划于11月4日随最新 iOS 开发者测试版本开放体验，并在12月伴随 iOS 27.3 正式版向中国用户推出，其他平台的相关支持将在完成必要审批后陆续上线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-10-30T23:35:07+00:00",
+      "published_ts": 1793403307.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.664
-    },
-    {
-      "id": "cnbeta:bb5883ecd20d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI重构AI模型指南：聚焦五大价值观 忠于人类意图是核心",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584364.htm",
-      "summary": "<p>据路透社报道，OpenAI在周四更新了其《模型规范》(Model Spec)。这是一份公开路线图，阐述了该公司希望其AI模型如何表现。随着AI系统能力不断增强，OpenAI围绕五项核心价值观重新构建了这套规范。这五项价值观是忠于人类意图、最大限度减少伤害、诚实与透明、尊重人类自主权，以及关怀。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584364.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-29T23:39:26+00:00",
-      "published_ts": 1793317166.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.663
-    },
-    {
-      "id": "cnbeta:cd72328ea516",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美媒曝五角大楼安全事故：被禁用的AI在美军网络里运行了两个月",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584366.htm",
-      "summary": "<p>据美国《连线》杂志报道，埃森哲一名承包商员工被指将个人Claude Code账号接入美国国防部的安全系统，让AI智能体代为编写和部署代码。知情人士称，该智能体在国防部网络中运行了两个月才被发现，其间疑似将登录凭据、密码及网络结构信息发送至一个存在安全风险的第三方网站。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584366.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-29T23:39:46+00:00",
-      "published_ts": 1793317186.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.663
     },
     {
       "id": "cnbeta:57d4897b3241",
@@ -307,21 +217,6 @@
       "importance": 1.631
     },
     {
-      "id": "qbitai:9571c704770a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "summary": "",
-      "published_at": "2026-10-30T05:50:44+00:00",
-      "published_ts": 1793339444.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.617
-    },
-    {
       "id": "the_verge:7efacb196c71",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -335,21 +230,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.609
-    },
-    {
-      "id": "openai_blog:eaa850831e84",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "published_ts": 1793318400.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.567
     }
   ]
 }

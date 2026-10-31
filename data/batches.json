@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T22:29:48.692993+00:00",
+    "generated_at": "2026-10-31T05:57:46.437311+00:00",
     "max_days": 30
   },
   "batches": [
@@ -6532,6 +6532,31 @@
           "url": "https://openai.com/index/fair-use-benefits-everyone",
           "published_at": "2026-10-30T00:00:00+00:00",
           "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-10-31T05:57:46.437311+00:00",
+      "generated_ts": 1793426266.437311,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:e9bcf6db4955",
+          "title": "Apple Intelligence 即将登陆中国：实时翻译、千问整合等首批功能11月开启测试",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.664,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584500.htm",
+          "published_at": "2026-10-30T23:35:07+00:00",
+          "summary": "<p>苹果公司10月31日宣布，面向中国用户的首批 Apple Intelligence 功能即将上线。作为深度融入 iPhone 日常体验的人工智能系统，Apple Intelligence 将通过生成式模型能力帮助用户完成写作、沟通、创作和信息处理等任务。首批功能计划于11月4日随最新 iOS 开发者测试版本开放体验，并在12月伴随 iOS 27.3 正式版向中国用户推出，其他平台的相关支持将在完成必要审批后陆续上线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584500.htm\" target=\"_blank\"><str"
         }
       ]
     }
