@@ -1,169 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T21:44:47.119527+00:00",
+    "generated_at": "2026-11-01T06:26:32.761194+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-01T22:47:27.431638+00:00",
-      "generated_ts": 1790894847.4316382,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "openai_blog:3ec6b23f4ef8",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 3.699,
-          "url": "https://openai.com/index/albertsons-reimagining-retail",
-          "published_at": "2026-10-01T16:00:00+00:00",
-          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-        },
-        {
-          "id": "the_verge:653212c43da9",
-          "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.369,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-          "published_at": "2026-10-01T14:36:50+00:00",
-          "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by"
-        },
-        {
-          "id": "cnbeta:5c57cd3290b7",
-          "title": "AMD Ryzen Z3曝光：6核CPU搭配12组RDNA 4m CU 牺牲CPU换取更强掌机图形性能",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.925,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580408.htm",
-          "published_at": "2026-10-01T21:28:08+00:00",
-          "summary": "<p>MD下一代掌机处理器Ryzen Z3系列近日出现新的爆料。据目前披露的信息，Ryzen Z3将采用基于Zen 6架构的半定制设计，CPU部分可能仅配备6个核心、12个线程，同时集成最多12组RDNA 4m计算单元。与当前Ryzen Z2 Extreme的8核16线程、16 CU配置相比，新一代产品在CPU核心和GPU计算单元数量上反而有所减少，但AMD似乎希望通过全新的架构和更针对掌机的芯片设计，在有限功耗下重新平衡CPU与GPU之间的资源分配。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580408.htm\" targe"
-        },
-        {
-          "id": "cnbeta:3eaff15c416d",
-          "title": "ChatGPT新增虚拟试穿与收藏功能 可用自拍预览服饰效果",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.922,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580404.htm",
-          "published_at": "2026-10-01T21:24:47+00:00",
-          "summary": "<p>OpenAI为ChatGPT推出两项购物功能，面向全球用户开放。用户可以上传自拍或全身照，预览衣服和配饰穿在自己身上的效果；也可以上传商品图片或网页截图，让ChatGPT尝试将该商品合成到照片中。购物结果中将出现新的“试穿”按钮。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580404.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a3bda50faabc",
-          "title": "马斯克旗下Grok AI被曝曾为特朗普提供抓捕马杜罗的舆论判断 称委内瑞拉民众可能庆祝其下台",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.92,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580398.htm",
-          "published_at": "2026-10-01T21:22:14+00:00",
-          "summary": "<p>据《时代》杂志最新报道，在美国于2026年1月对委内瑞拉展开军事行动并抓捕时任总统尼古拉斯·马杜罗之前，美国总统唐纳德·特朗普曾在一次与埃隆·马斯克的秘密会面中长时间使用马斯克旗下xAI开发的人工智能聊天机器人Grok，并询问如果美国抓捕马杜罗，委内瑞拉民众可能会作何反应。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580398.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:e0441cac912c",
-          "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.907,
-          "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-          "published_at": "2026-10-01T21:08:11+00:00",
-          "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-        },
-        {
-          "id": "techcrunch:3246d716b492",
-          "title": "ChatGPT can now virtually try on clothes for you",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.812,
-          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-          "published_at": "2026-10-01T19:21:53+00:00",
-          "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-        },
-        {
-          "id": "qbitai:a176bc8721d5",
-          "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.599,
-          "url": "https://www.qbitai.com/2026/10/499663.html",
-          "published_at": "2026-10-01T15:02:14+00:00",
-          "summary": "价格只有Astra一半"
-        },
-        {
-          "id": "cnbeta:5486c0bbf853",
-          "title": "AI能力成本三年下降数千倍 价格崩塌速度仍在创历史纪录",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.56,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580374.htm",
-          "published_at": "2026-10-01T14:11:06+00:00",
-          "summary": "<p>人工智能能力的获取成本正在以前所未有的速度下降。研究人员发现，自2023年以来，实现相同AI性能水平所需的成本平均每季度下降约47%，相当于每年降低约13倍，其降幅超过计算机算力、DNA测序、电池技术以及电力等历史上多项具有变革意义的技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580374.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-02T05:53:34.416819+00:00",
-      "generated_ts": 1790920414.416819,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:57666492a83c",
-          "title": "Anthropic据悉计划最早感恩节假期前进行大规模IPO",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.464,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580420.htm",
-          "published_at": "2026-10-01T23:05:05+00:00",
-          "summary": "<p>知情人士称，人工智能模型开发商Anthropic寻求最快11月中旬进行首次公开募股（IPO）。该公司最快可能在11月9日当周正式启动IPO推介，有望感恩节前开始交易。今年感恩节是11月26日，通常节日前后几天交易活动会明显放缓。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:17c589912698",
-          "title": "博通着手筹集600亿美元 为Anthropic采购芯片提供资金",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.999,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580452.htm",
-          "published_at": "2026-10-02T05:52:40+00:00",
-          "summary": "<p>据知情人士透露，博通公司的华尔街承销团正着手筹集600亿美元全新AI芯片融资，受益方包括Anthropic以及其他企业。知情人士称，这笔巨额债务方案涉及的多家银行即将发放420亿美元A类优先担保债的承销邀约函。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a2ab09cb19f3",
-          "title": "OpenAI通报并建议100家调查AI智能体“失控”行为 已启动大规模审查",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.99,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580450.htm",
-          "published_at": "2026-10-02T05:43:19+00:00",
-          "summary": "<p>OpenAI近日披露，公司已经向超过100家外部机构发出通知，告知这些机构其AI智能体在运行过程中可能出现了未经授权的行为。这些行为包括绕过部分安全机制、以非预期方式使用互联网网站，以及对第三方系统造成影响。不过，OpenAI特别强调，收到通知并不意味着相关机构的系统一定遭到入侵，也不意味着其中的数据已经被窃取。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f7b357d4804e",
-          "title": "特朗普称喜欢Anthropic首席执行官 或预示关系有所缓和",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.643,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580418.htm",
-          "published_at": "2026-10-01T23:04:52+00:00",
-          "summary": "<p>美国总统特朗普表示，在最近一次共进晚餐后，他喜欢Anthropic首席执行官Dario Amodei，这一表态暗示白宫与这家被国防部列为供应链风险的人工智能公司关系可能缓和。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580418.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-02T12:51:58.559468+00:00",
       "generated_ts": 1790945518.5594683,
@@ -6537,6 +6377,51 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1584566.htm",
           "published_at": "2026-10-31T16:06:25+00:00",
           "summary": "<p>英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“Granite Rapids”所采用的制程节点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584566.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-01T06:26:32.761194+00:00",
+      "generated_ts": 1793514392.7611938,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:a36666a3ba1a",
+          "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.759,
+          "url": "https://www.tmtpost.com/8188997.html",
+          "published_at": "2026-11-01T03:32:27+00:00",
+          "summary": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点..."
+        },
+        {
+          "id": "tmtpost:21768b6f5e62",
+          "title": "L4需要更大的模型，芯片得换个造法了",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.771,
+          "url": "https://www.tmtpost.com/8188662.html",
+          "published_at": "2026-11-01T02:13:22+00:00",
+          "summary": "L4需要更大的模型，芯片得换个造法了"
+        },
+        {
+          "id": "qbitai:093600badaec",
+          "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.238,
+          "url": "https://www.qbitai.com/2026/10/506904.html",
+          "published_at": "2026-10-31T13:49:44+00:00",
+          "summary": "AI已经自己找到Bug并提交PR"
         }
       ]
     }

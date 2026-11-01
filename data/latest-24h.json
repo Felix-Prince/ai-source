@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T21:44:47.119527+00:00",
-    "generated_ts": 1793483087.1195273,
+    "generated_at": "2026-11-01T06:26:32.761194+00:00",
+    "generated_ts": 1793514392.7611938,
     "window_hours": 24.0,
-    "total": 10
+    "total": 11
   },
   "items": [
     {
-      "id": "qbitai:19b64f9a4cfb",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "summary": "AI算力利用“九九成”",
-      "published_at": "2026-10-31T05:11:19+00:00",
-      "published_ts": 1793423479.0,
+      "id": "tmtpost:a36666a3ba1a",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+      "url": "https://www.tmtpost.com/8188997.html",
+      "summary": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点...",
+      "published_at": "2026-11-01T03:32:27+00:00",
+      "published_ts": 1793503947.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.406
+      "importance": 2.759
     },
     {
       "id": "tmtpost:9bdb957644fd",
@@ -65,6 +65,21 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.937
+    },
+    {
+      "id": "tmtpost:21768b6f5e62",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "L4需要更大的模型，芯片得换个造法了",
+      "url": "https://www.tmtpost.com/8188662.html",
+      "summary": "L4需要更大的模型，芯片得换个造法了",
+      "published_at": "2026-11-01T02:13:22+00:00",
+      "published_ts": 1793499202.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.771
     },
     {
       "id": "cnbeta:127e1bfe5b0a",
@@ -142,19 +157,19 @@
       "importance": 1.699
     },
     {
-      "id": "cnbeta:e9bcf6db4955",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Apple Intelligence 即将登陆中国：实时翻译、千问整合等首批功能11月开启测试",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584500.htm",
-      "summary": "<p>苹果公司10月31日宣布，面向中国用户的首批 Apple Intelligence 功能即将上线。作为深度融入 iPhone 日常体验的人工智能系统，Apple Intelligence 将通过生成式模型能力帮助用户完成写作、沟通、创作和信息处理等任务。首批功能计划于11月4日随最新 iOS 开发者测试版本开放体验，并在12月伴随 iOS 27.3 正式版向中国用户推出，其他平台的相关支持将在完成必要审批后陆续上线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-10-30T23:35:07+00:00",
-      "published_ts": 1793403307.0,
+      "id": "qbitai:093600badaec",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "summary": "AI已经自己找到Bug并提交PR",
+      "published_at": "2026-10-31T13:49:44+00:00",
+      "published_ts": 1793454584.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.664
+      "importance": 1.238
     }
   ]
 }
