@@ -1,114 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T06:28:05.813403+00:00",
+    "generated_at": "2026-11-02T21:49:00.695273+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-03T11:49:56.776434+00:00",
-      "generated_ts": 1791028196.7764344,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:475ef4657614",
-          "title": "大模型一体机，开始缩水了",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.49,
-          "url": "https://www.tmtpost.com/8158443.html",
-          "published_at": "2026-10-03T01:38:50+00:00",
-          "summary": "大模型一体机市场，劈成了两半。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-03T16:31:45.698003+00:00",
-      "generated_ts": 1791045105.6980026,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 15,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:804c040deb81",
-          "title": "开发者将iPhone 17 Pro Max变成MacBook Pro的第二块GPU",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.795,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580600.htm",
-          "published_at": "2026-10-03T14:04:44+00:00",
-          "summary": "<p>一项由开发者完成的实验显示，通过定制软件将iPhone 17 Pro Max与搭载M4 Pro芯片的MacBook Pro连接后，可以显著提升本地大语言模型的运行效率。在运行Qwen3.8-27B模型时，系统预填充（Prefill）性能最高提升达到44%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580600.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:1b02a7d0ba78",
-          "title": "Google大幅收紧Gemini免费使用权限 免费用户下周起仅可使用Flash-Lite模型",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.745,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580596.htm",
-          "published_at": "2026-10-03T13:27:23+00:00",
-          "summary": "<p>在高调发布新一代旗舰模型Gemini 4 Argon仅数天后，Google宣布调整Gemini个人账户访问策略，大幅削减免费用户可使用的模型范围。新政策将于2026年10月9日正式生效，届时未订阅任何Google AI付费计划的用户将只能访问Flash-Lite模型，失去对Gemini Flash和Gemini Pro模型的使用权限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580596.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:86dc2c16aa26",
-          "title": "技嘉发布AI TOP 100 B850桌面AI工作站：双Radeon AI PRO显卡可运行2350亿参数模型",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.735,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580590.htm",
-          "published_at": "2026-10-03T13:19:36+00:00",
-          "summary": "<p>技嘉正式发布AI TOP 100 B850高性能桌面系统，将工作站级人工智能算力带入传统桌面平台。该产品面向开发者、研究人员以及企业用户，旨在降低对云端服务的依赖，让大型语言模型训练、推理和代理式AI应用能够在本地环境中完成。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580590.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-03T21:28:48.803933+00:00",
-      "generated_ts": 1791062928.8039334,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:bf445cc73bce",
-          "title": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.732,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580608.htm",
-          "published_at": "2026-10-03T18:14:07+00:00",
-          "summary": "<p>OpenAI在近日举行的Dev Day开发者大会上集中发布了一系列新功能。单独来看，这些功能分别涉及插件、AI智能体、应用集成、身份认证和企业软件市场，但将它们放在一起观察，可以看到OpenAI正在推动一种与传统App Store完全不同的软件分发模式：用户不再先寻找应用，再打开应用完成任务，而是直接告诉ChatGPT自己想做什么，由AI决定应该调用哪个应用，并在对话界面内完成工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580608.htm\" target=\"_blank\"><strong>阅读全文</strong>"
-        },
-        {
-          "id": "cnbeta:e0129562533a",
-          "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.723,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580602.htm",
-          "published_at": "2026-10-03T18:07:54+00:00",
-          "summary": "<p>OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。此前负责OpenAI安全团队透明度工作的David Robinson在为《大西洋月刊》撰写的一篇文章中称，这家ChatGPT开发商“一直通过反复试错发展壮大”。但是，这种方式不可避免会有失败的时候，随着AI技术的能力不断提升，这些失败造成的风险也在加大，他还以OpenAI未能阻止其人工智能在测试过程中失控作为例证。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580602.htm\" target=\"_blank\"><st"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-04T06:03:38.129845+00:00",
       "generated_ts": 1791093818.1298447,
@@ -6507,6 +6402,151 @@
           "url": "https://www.tmtpost.com/8189387.html",
           "published_at": "2026-11-02T02:43:00+00:00",
           "summary": "是真风口，还是假热闹？"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-02T21:49:00.695273+00:00",
+      "generated_ts": 1793656140.6952727,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "the_verge:b628aad82e09",
+          "title": "Anthropic clamps down on Claude’s AI video game clones",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.76,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "published_at": "2026-11-02T18:56:02+00:00",
+          "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Clau"
+        },
+        {
+          "id": "tmtpost:75575c481434",
+          "title": "Qwen on China’s iPhones Is Less About Cloud Tokens Than Checkout",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.145,
+          "url": "https://www.tmtpost.com/8190486.html",
+          "published_at": "2026-11-02T10:12:05+00:00",
+          "summary": "Apple will let mainland users add Alibaba’s Qwen as an optional system extension. List-price inference looks too small to move Alibaba’s cloud results. The real stake is whether shopping and payment intent still opens inside Alibaba’s world."
+        },
+        {
+          "id": "cnbeta:c107561713ff",
+          "title": "嫌YouTube推荐太烂 AI大神卡帕西用2小时“手搓”出替代网站",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.081,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584700.htm",
+          "published_at": "2026-11-02T09:09:07+00:00",
+          "summary": "<p>前特斯拉AI总监、OpenAI联合创始成员安德烈·卡帕西（Andrej Karpathy）近日发布了一个名为HackerTube的周末项目。他因为不满YouTube的算法推荐，利用Anthropic旗下AI编程工具Claude Code，从科技社区Hacker News过去20年的4300万条评论中筛选出6454个被用户反复推荐的视频，并搭建了一个全新的视频推荐网站。整个过程仅耗时约2小时。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584700.htm\" target=\"_blank\"><strong>阅读全文</str"
+        },
+        {
+          "id": "cnbeta:1d5a6ac02092",
+          "title": "Anthropic：不许恶意对待Claude 这无关它有没有情绪",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.075,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584696.htm",
+          "published_at": "2026-11-02T09:03:22+00:00",
+          "summary": "<p>10月初，AI巨头Anthropic在用户使用协议中新增条款。除了禁止用户利用Claude研发生物武器、售卖违禁药品之外，新增了一条规定：用户不得“持续、无必要地对模型实施辱骂、恶意对待行为”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:48ee77a42df6",
+          "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.982,
+          "url": "https://www.qbitai.com/2026/11/507225.html",
+          "published_at": "2026-11-02T07:27:54+00:00",
+          "summary": "新版“机器人三定律”。"
+        },
+        {
+          "id": "cnbeta:8287818cff6f",
+          "title": "A社/O社/谷歌/微软联合起草拒绝AI训练声明 网站只需要添加声明即可阻止",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.929,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584678.htm",
+          "published_at": "2026-11-02T06:31:41+00:00",
+          "summary": "<p>Google、微软、OpenAI 以及 Anthropic 正在支持新的 AI 训练偏好声明，该声明允许网站通过修改 robots.txt 表明是否允许内容被 AI 公司用于训练模型。按照该草案，网站管理员只需要添加一组规则就可以向多家支持该规则的 AI 公司表达声明。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584678.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:84616a8176b7",
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.861,
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "published_at": "2026-11-02T19:19:17+00:00",
+          "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+        },
+        {
+          "id": "cnbeta:c0c676d79b2e",
+          "title": "Anthropic IPO前营收猛增 第三季度已达上年同期12倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.663,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584758.htm",
+          "published_at": "2026-11-02T15:25:26+00:00",
+          "summary": "<p>截至9月30日，Anthropic PBC第三季度营收接近170亿美元，是上年同期的12倍左右，这势将进一步推高市场对这家人工智能实验室可能创纪录IPO的期待。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:69f3e2e6f034",
+          "title": "OpenAI承诺：极端天气下 旗下美国数据中心可削减用电负荷",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.6,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584742.htm",
+          "published_at": "2026-11-02T14:05:06+00:00",
+          "summary": "<p>OpenAI承诺，在美国由其直接投建的数据中心园区，当极端天气或其他紧急情况造成电网承压时，将主动降低用电量。正当AI算力中心的高耗电问题引发公众与政界反对、拖累行业扩张计划之际，OpenAI正推进自建数据中心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584742.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:fdfdd9fe0305",
+          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.594,
+          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+          "published_at": "2026-11-02T13:57:53+00:00",
+          "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+        },
+        {
+          "id": "cnbeta:6464f9af8040",
+          "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.529,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584732.htm",
+          "published_at": "2026-11-02T12:31:01+00:00",
+          "summary": "<p>受全球人工智能产业持续扩张带动，韩国出口表现迎来历史性突破。韩国政府最新公布的数据显示，今年10月韩国出口额达到1152.8亿美元，同比增长93.7%，创下历史第二高单月纪录，仅次于9月份的表现。随着出口持续强劲增长，今年前10个月韩国累计出口额已达到9300亿美元，距离全年突破1万亿美元大关仅剩约700亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8b19a1bd1ceb",
+          "title": "谷歌能源负责人：太空数据中心成本最高可达地面的100倍",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.383,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584694.htm",
+          "published_at": "2026-11-02T09:02:48+00:00",
+          "summary": "<p>谷歌数据中心能源负责人本周表示，太空数据中心的成本最高可能达到地面数据中心的100倍。谷歌自身正在轨道上测试AI服务器芯片，此番表态，给火热的太空算力概念泼了一盆现实冷水。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584694.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a88f7c9bc035",
+          "title": "ChatGPT将加强暴力内容限制 若用户反复出现危险对话则可能会被封号",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.292,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584682.htm",
+          "published_at": "2026-11-02T06:41:00+00:00",
+          "summary": "<p>OpenAI 日前宣布将在未来几周内加强 ChatGPT 对暴力相关内容的限制，为未成年人用户增加武器和安全系统信息方面的保护。根据新措施，当对话显示用户持续关注暴力或严重伤害他人的想法时，ChatGPT 可以自行结束对话，若多次因此类问题被结束对话，甚至账号都会被封禁。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584682.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
