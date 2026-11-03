@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T07:00:03.666729+00:00",
+    "generated_at": "2026-11-03T19:39:04.996686+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-04T12:35:21.410798+00:00",
-      "generated_ts": 1791117321.4107976,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 14,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:149abc579f4c",
-          "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.562,
-          "url": "https://www.cnbeta.com.tw/articles/game/1580668.htm",
-          "published_at": "2026-10-04T07:07:05+00:00",
-          "summary": "<p>早在当前这波AI热潮兴起的数十年前，程序员们就已在《星际争霸》中让AI程序相互对战。随着OpenAI与Anthropic的新款大语言模型陆续推出，一个粉丝自制的对战平台决定让AI生成的程序同台竞技，还加入了部分人工开发的程序。有意思的是，OpenAI的GPT-6 Astra眼看不敌对手，居然在赛事中途改换策略，选择作弊。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580668.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:3cff2604948a",
-          "title": "OpenAI CEO萨姆·奥特曼称将宗教力量赋予AI同样会是安全问题",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.517,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580640.htm",
-          "published_at": "2026-10-04T06:30:51+00:00",
-          "summary": "<p>OpenAI首席执行官萨姆·奥特曼10月3日在社交平台发文称，他“非常不安于有人试图把宗教力量赋予AI模型，或让人放弃自己的判断”，并认为这是真正的安全问题。奥特曼没有在帖文中点名任何公司，但发言时间紧随一篇有关Anthropic与梵蒂冈讨论AI意识的报道，因此被部分媒体视为对Anthropic的间接批评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580640.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:7e3957175dae",
-          "title": "10月9日起Gemini免费用户仅可使用Flash-Lite模型 高阶模型均需开会员",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.492,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580616.htm",
-          "published_at": "2026-10-04T06:10:15+00:00",
-          "summary": "<p>Google正在调整 Gemini 应用的模型访问权限，根据Google官方文档所说，从 2026 年 10 月 9 日起，使用个人账号且未开通Google AI 订阅方案的用户，将只能使用 Gemini Flash-Lite 模型，其他模型例如 Gemini Flash 和 Gemini Pro 等模型不再面向免费版用户开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580616.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:a8845c561282",
-          "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.292,
-          "url": "https://www.tmtpost.com/8158700.html",
-          "published_at": "2026-10-04T03:16:19+00:00",
-          "summary": "（9月28日-10月3日）美国拟限制中国光模块进入国家安全系统；Manus将重新开拓中国市场；谷歌发布Gemini 4模型；Anthropic据悉计划在感恩节假期前进行大规模IPO； 博通筹集600亿美元，用于为Anthropic供应芯片……"
-        },
-        {
-          "id": "tmtpost:b68d023fd521",
-          "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.779,
-          "url": "https://www.tmtpost.com/8158976.html",
-          "published_at": "2026-10-04T08:32:03+00:00",
-          "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。"
-        },
-        {
-          "id": "cnbeta:234d4d8e9602",
-          "title": "GPT-6 Astra盲打魔兽世界 40分钟刷穿新手村",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.766,
-          "url": "https://www.cnbeta.com.tw/articles/game/1580674.htm",
-          "published_at": "2026-10-04T08:16:18+00:00",
-          "summary": "<p>GPT-6 Astra打完了“魔兽世界”兽人新手村，40分钟，零死亡。关键是<strong>它没有看到过游戏画面，一帧都没看到</strong>。一个叫agent-wow的开源项目，把它接进了一台魔兽私服。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1580674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-04T21:39:57.199282+00:00",
       "generated_ts": 1791149997.1992822,
@@ -6608,6 +6533,141 @@
           "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
           "published_at": "2026-11-02T22:14:50+00:00",
           "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-03T19:39:04.996686+00:00",
+      "generated_ts": 1793734744.9966862,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 15,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "tmtpost:6c8a0ebd6e31",
+          "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.337,
+          "url": "https://www.tmtpost.com/8191692.html",
+          "published_at": "2026-11-03T11:00:09+00:00",
+          "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。"
+        },
+        {
+          "id": "tmtpost:a7ed3e7d3f68",
+          "title": "DeepSeek不满足于模型，还要让AI自己干活",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.247,
+          "url": "https://www.tmtpost.com/8190971.html",
+          "published_at": "2026-11-03T09:38:34+00:00",
+          "summary": "DeepSeek开源Super-agent原型，探索自主智能体架构。"
+        },
+        {
+          "id": "cnbeta:5959529d5a8f",
+          "title": "传DeepSeek V5明年有望基于华为升腾950芯片完成训练",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.151,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584854.htm",
+          "published_at": "2026-11-03T08:08:06+00:00",
+          "summary": "<p>有媒体从产业链知情人士处获悉，DeepSeek下一代大模型DeepSeek V5计划采用华为昇腾950芯片作为核心训练算力，项目节奏指向2027年落地。据悉，目前DeepSeek方面与华为昇腾的核心研发对接团队常驻杭州，双方已在V4阶段完成大量底层算子适配及定制化开发，为后续模型训练迁移和算力协同打下基础。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584854.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:3d98331e17b9",
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.143,
+          "url": "https://openai.com/index/heimstaden",
+          "published_at": "2026-11-03T08:00:00+00:00",
+          "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+        },
+        {
+          "id": "cnbeta:901fbc645f4d",
+          "title": "微软公布AI PC发展路线图：8GB入门机到128GB“超级计算机”全面覆盖",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.14,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584846.htm",
+          "published_at": "2026-11-03T07:57:19+00:00",
+          "summary": "<p>微软日前披露下一代Windows AI PC发展路线图，试图为未来数年的人工智能个人电脑市场建立统一分级体系。根据规划，微软将依据设备内存容量、AI处理能力以及本地运行大模型的能力，将未来AI PC划分为四个不同层级，覆盖从入门级办公设备到具备工作站级算力的高端系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584846.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:4716114fcc46",
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.996,
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "published_at": "2026-11-03T19:34:43+00:00",
+          "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
+        },
+        {
+          "id": "the_verge:552e8b3b354d",
+          "title": "OpenAI says ChatGPT is catching up to Google in search",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.935,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "published_at": "2026-11-03T18:30:42+00:00",
+          "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a pres"
+        },
+        {
+          "id": "cnbeta:a34c79554db5",
+          "title": "传英特尔将停产B580显卡 转向更赚钱的工作站产品",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.907,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584914.htm",
+          "published_at": "2026-11-03T18:00:17+00:00",
+          "summary": "<p>英特尔Arc B580显卡可能即将停产，因为该公司将优先发展利润更高的工作站和AI推理显卡。这一传闻与近期有关英伟达将GB202芯片的生产线从RTX 5090转移的报道相呼应，尽管两家公司均未证实这一消息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584914.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a51a9449c8a2",
+          "title": "Google承认搜索与AI已无法分离 关闭AI功能或意味着放弃搜索服务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.899,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584910.htm",
+          "published_at": "2026-11-03T17:51:48+00:00",
+          "summary": "<p>Google近日宣布，将从2027年开始调整面向K-12学校教育用户的人工智能策略，允许学校自主决定是否启用Gemini等AI工具。然而，这项看似给予学校更多选择权的新政策，却引发了教育界的广泛讨论，因为Google同时确认，若学校决定完全禁用AI功能，学生也将无法继续使用Google Search搜索服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584910.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:33fded5da847",
+          "title": "OpenAI披露ChatGPT最新增长数据：每周活跃用户达12亿",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.805,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584900.htm",
+          "published_at": "2026-11-03T16:05:54+00:00",
+          "summary": "<p>OpenAI消费者产品负责人Adam Fry近日在接受科技媒体Big Technology采访时披露了ChatGPT的一系列最新运营数据。根据他的介绍，ChatGPT每周活跃用户已经达到12亿，过去两个月新增了约2亿用户；其搜索类查询量目前约为Google的五分之一。此外，ChatGPT每周生成的图片达到15亿张，语音输入和语音对话的合计周活跃用户也已经达到2.5亿。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584900.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:01ebe0038b64",
+          "title": "DeepSeek服务已恢复 今年以来至少已有10次大范围故障",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.689,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584884.htm",
+          "published_at": "2026-11-03T13:48:28+00:00",
+          "summary": "<p>11月3日下午，DeepSeek出现对话功能无法使用，聊天界面显示“服务器繁忙，请稍后重试”。目前，DeepSeek官网更新状态称，此前发生的网页及API服务部分中断问题已实施修复，正在监控修复效果。不过，DeepSeek V4 Pro、DeepSeek V4.1 Flash的API服务及对话服务仍存在性能下降的情况。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584884.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e108d24ed77d",
+          "title": "OpenAI聘请美国前陆军部长 负责国家安全现代化事务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.433,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1584852.htm",
+          "published_at": "2026-11-03T08:05:51+00:00",
+          "summary": "<p>据CNBC报道，<strong>OpenAI已聘请美国前陆军部长丹·德里斯科尔（Dan Driscoll）担任国家安全现代化高级顾问</strong>。这是OpenAI新设立的职位，主要聚焦人工智能在国家安全和网络安全领域的应用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584852.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
