@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T19:39:04.996686+00:00",
-    "generated_ts": 1793734744.9966862,
+    "generated_at": "2026-11-04T06:42:40.775285+00:00",
+    "generated_ts": 1793774560.7752855,
     "window_hours": 24.0,
-    "total": 19
+    "total": 14
   },
   "items": [
     {
-      "id": "tmtpost:06570a716fdc",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%",
-      "url": "https://www.tmtpost.com/8190922.html",
-      "summary": "Meta与中国企业合作开发人形机器人？傅利叶回应；度小满与香港科技大学联合发布轩辕4.5金融大模型；比亚迪王朝10月销售20.3万辆，同比增长13.6%；Anthropic第三季度营收同比增长1127%；中国证监会：研究推出股债恒定比例等多资产指数基金，丰富场外中低波动型产品；金融法草案二审稿充实金融消费者、投资者保护相关内容；《民航绿色发展“十五五”实施方案》印发；央行：将于11月3日开展证券、基金、保险公司互换便利操作，申请额度超1000亿元；香港交易所旗下衍生产品结算所现接受中国国债、政策性银行债券及财政部债券作抵押品；迈威尔将以全股票交易收购光迅科技Lumentum，交易完成后后者股东持股约33%；今年9月中国企业信用指数为160.62",
-      "published_at": "2026-11-02T23:20:00+00:00",
-      "published_ts": 1793661600.0,
+      "id": "cnbeta:9fdac4cf8900",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Claude Code核心负责人离职 Anthropic上市前夕失去关键产品主管",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1584952.htm",
+      "summary": "<p>人工智能公司 Anthropic 在筹备大规模首次公开募股（IPO）之际，遭遇一项重要人事变动。长期负责 Claude Code 产品工作的高级产品负责人 Cat Wu 已正式离开公司。消息公布后，引发业界对于这家 AI 独角兽未来产品战略和管理稳定性的关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584952.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-04T06:23:07+00:00",
+      "published_ts": 1793773387.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.404
+      "importance": 2.972
     },
     {
       "id": "tmtpost:6c8a0ebd6e31",
@@ -112,21 +112,6 @@
       "importance": 1.996
     },
     {
-      "id": "cnbeta:1158c702ac9a",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "OpenAI将停用旧版ChatGPT Classic应用 合并聊天和工作标签页",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1584812.htm",
-      "summary": "<p>据科技网站9to5mac报道，OpenAI已通知仍在使用旧版ChatGPT Classic应用的用户，该应用将很快停用。同时，OpenAI也正在准备将聊天(Chat)和工作(Work)合并为一个统一的界面。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584812.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-03T06:07:54+00:00",
-      "published_ts": 1793686074.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.95
-    },
-    {
       "id": "the_verge:552e8b3b354d",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -172,6 +157,21 @@
       "importance": 1.899
     },
     {
+      "id": "tmtpost:c8d9fa0b9ffa",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "“太空AI第一股”来了，80后造出百亿独角兽",
+      "url": "https://www.tmtpost.com/8192734.html",
+      "summary": "43岁学者下海，把大模型搬上太空。",
+      "published_at": "2026-11-04T04:13:00+00:00",
+      "published_ts": 1793765580.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.861
+    },
+    {
       "id": "cnbeta:33fded5da847",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -187,51 +187,6 @@
       "importance": 1.805
     },
     {
-      "id": "tmtpost:9f0318f238cd",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
-      "url": "https://www.tmtpost.com/8191171.html",
-      "summary": "投降or对抗？星尘智能决定选第三条路：保持开放，既要又要。",
-      "published_at": "2026-11-03T03:13:20+00:00",
-      "published_ts": 1793675600.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.793
-    },
-    {
-      "id": "qbitai:a9f0847dcced",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
-      "url": "https://www.qbitai.com/2026/11/507322.html",
-      "summary": "指令执行能力也同步提升",
-      "published_at": "2026-11-03T01:57:30+00:00",
-      "published_ts": 1793671050.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.729
-    },
-    {
-      "id": "qbitai:033e9d941c2c",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
-      "url": "https://www.qbitai.com/2026/11/507313.html",
-      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
-      "published_at": "2026-11-03T01:46:55+00:00",
-      "published_ts": 1793670415.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.72
-    },
-    {
       "id": "cnbeta:01ebe0038b64",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -245,36 +200,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.689
-    },
-    {
-      "id": "techcrunch:f16256b17fda",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "published_at": "2026-11-03T00:35:52+00:00",
-      "published_ts": 1793666152.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.662
-    },
-    {
-      "id": "techcrunch:577e89226cc6",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "published_at": "2026-11-02T22:14:50+00:00",
-      "published_ts": 1793657690.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.553
     },
     {
       "id": "cnbeta:e108d24ed77d",
