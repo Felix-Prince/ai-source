@@ -1,144 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T20:07:31.156460+00:00",
+    "generated_at": "2026-11-06T07:01:49.759986+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-07T06:11:51.557766+00:00",
-      "generated_ts": 1791353511.5577662,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:ec00640a95bf",
-          "title": "前OpenAI与Anthropic研究员发出警告：担忧中国情报渗透 AI竞赛正加速迈向超级智能",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.917,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580982.htm",
-          "published_at": "2026-10-07T05:13:44+00:00",
-          "summary": "<p style=\"white-space: normal;\">曾先后任职于OpenAI和Anthropic的前人工智能研究员雅各布·考克森（Jacob Coxon）近日再次针对全球人工智能竞赛发出强烈警告。他在最新一次访谈中表示，自己“有90%的把握”认为中国已经在OpenAI和Anthropic内部安插了情报人员，并认为随着超级智能研发竞争不断升级，各国情报机构几乎不可能忽视这些掌握最前沿技术的企业。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580982.htm\" target=\"_blank\"><strong>阅读全文<"
-        },
-        {
-          "id": "tmtpost:8871667d421a",
-          "title": "OpenRouter，美版硅基流动的流水单 ——三张榜，一个正在贬值的信用",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.864,
-          "url": "https://www.tmtpost.com/8160102.html",
-          "published_at": "2026-10-07T04:35:27+00:00",
-          "summary": "太空兔匿名免费冲上OpenRouter周榜，一度压过DeepSeek和GLM，那13.9万亿Token证明的是获客不是实力。更深的问题是度量衡所有权：中国模型烧掉六成Token，却只换回平台营收的小头，连做广告都在替别人的裁判席抬轿。定价权、情报权、准入权三权旁落，厂商借榜营销成了囚徒困境。出路不在屠榜，在造秤。"
-        },
-        {
-          "id": "cnbeta:a92b610b2ec2",
-          "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.378,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580960.htm",
-          "published_at": "2026-10-06T22:09:14+00:00",
-          "summary": "<p>Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580960.htm\" target="
-        },
-        {
-          "id": "ars_technica:24417dd5e2b9",
-          "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-          "source": "ars_technica",
-          "source_label": "Ars Technica",
-          "importance": 2.29,
-          "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-          "published_at": "2026-10-06T20:50:32+00:00",
-          "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
-        },
-        {
-          "id": "cnbeta:cbe01b3ba824",
-          "title": "OpenAI 一夜攻克722个数学难题 准黎曼猜想已被证明",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.984,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580998.htm",
-          "published_at": "2026-10-07T05:55:22+00:00",
-          "summary": "<p>OpenAI又要惹众怒了！就在今天，全球数学界和AI界都被这个消息震惊了——没有预警，没有经过同行评审，甚至无视了学术界长久以来的礼仪，OpenAI发布了一系列由内部前沿模型产生的新数学成果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580998.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:54fcde9e3806",
-          "title": "SpaceX拟融资400亿美元购买英伟达芯片 Apollo牵头融资",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.964,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580990.htm",
-          "published_at": "2026-10-07T05:33:42+00:00",
-          "summary": "<p>埃隆·马斯克旗下SpaceX正在寻求通过一项由Apollo Global Management牵头的融资计划筹集400亿美元，用于购买英伟达芯片。随着这家人工智能和火箭集团加大对英伟达先进技术的押注，其与这家芯片制造商的关系也在进一步加深。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580990.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:248dc0226e24",
-          "title": "OpenAI再公布数百项数学成果 AI正在把数学研究推向前所未有的转折点",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.943,
-          "url": "https://www.cnbeta.com.tw/articles/science/1580980.htm",
-          "published_at": "2026-10-07T05:11:52+00:00",
-          "summary": "<p>继上月宣布利用内部前沿模型解决数学界最重要的开放问题之一后，OpenAI又一次向数学界投下了一枚“重磅炸弹”。当地时间10月6日，OpenAI公布了一批由内部前沿AI模型产生的新数学研究成果，共涉及372组结果，覆盖数学和理论计算机科学中的大量长期未解决问题。OpenAI称，这些成果要么解决了长期存在的开放问题，要么取得了具有实质意义的突破。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1580980.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a9118c8bebb4",
-          "title": "日本Rapidus获约150亿美元政府支持 力争一年后启动2纳米芯片代工量产",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.942,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580978.htm",
-          "published_at": "2026-10-07T05:10:13+00:00",
-          "summary": "<p>日本政府扶持的芯片制造商Rapidus正加紧搭建客户设计支持体系，力争在2027财年下半年启动2纳米芯片代工量产。公司10月5日宣布，成立由全球17家芯片设计相关企业组成的“设计解决方案伙伴”团队，包括芯片设计软件商Synopsys、Cadence，以及Infosys、Wipro等服务企业，帮助客户更早启动面向Rapidus工艺的芯片设计。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:6f71bd9eb5a4",
-          "title": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.909,
-          "url": "https://www.tmtpost.com/8160182.html",
-          "published_at": "2026-10-07T04:35:32+00:00",
-          "summary": "未来的胜负手，不在于谁的参数更高，而在于谁能更深地融入真实的创作生产流程，成为创作者离不开的生产工具。"
-        },
-        {
-          "id": "openai_blog:1f13e8498bb1",
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.774,
-          "url": "https://openai.com/index/jump-trading",
-          "published_at": "2026-10-06T12:00:00+00:00",
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-        },
-        {
-          "id": "cnbeta:fc2f0149fd5c",
-          "title": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.619,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580966.htm",
-          "published_at": "2026-10-06T22:52:22+00:00",
-          "summary": "<p>微软即将推出的Surface Laptop Ultra再次曝光了更多硬件信息。这款定位高端的Surface笔记本将搭载英伟达RTX Spark平台，也是微软首次尝试将英伟达基于Arm架构的Grace CPU与Blackwell GPU整合到Surface笔记本中。此前泄露的工程机已经被用于实际测试，而最新消息进一步披露了不同配置之间的具体差异。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580966.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:65cc3198c835",
-          "title": "Google发布Nano Banana 2.1：图像编辑能力大幅提升 人物和物体一致性进一步增强",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.426,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1580946.htm",
-          "published_at": "2026-10-06T18:28:46+00:00",
-          "summary": "<p>Google正式推出新一代图像生成与编辑模型Nano Banana 2.1。作为Nano Banana 2的升级版本，新模型重点强化了图像编辑、视觉设计、文字渲染以及主体一致性等能力，并已经开始陆续进入Gemini以及Google面向消费者和企业用户的多项AI产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580946.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-07T13:37:43.043129+00:00",
       "generated_ts": 1791380263.0431294,
@@ -6629,6 +6494,91 @@
           "url": "https://www.tmtpost.com/8194579.html",
           "published_at": "2026-11-05T09:22:36+00:00",
           "summary": "Astra突破具身智能边界，展现通用大模型操控机械臂画金门大桥的能力，引发行业对机器人大脑的热议。"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-06T07:01:49.759986+00:00",
+      "generated_ts": 1793948509.7599864,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 20,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:a54787c55382",
+          "title": "Perplexity发布“Teammates” AI智能体平台 挑战OpenAI与Anthropic企业市场",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.95,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585234.htm",
+          "published_at": "2026-11-06T06:26:39+00:00",
+          "summary": "<p>人工智能搜索公司Perplexity日前正式推出全新企业级AI智能体产品“Teammates”，进一步向OpenAI和Anthropic发起竞争。这项新功能被定位为面向工作场景的长期运行AI助手，可在用户工作空间中持续运转，并同时承担多种不同职责。根据Perplexity介绍，Teammates能够利用用户现有项目、技能库以及历史记忆信息，为持续性的工作任务提供支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585234.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:12818a211b4e",
+          "title": "Perplexity launches its own take on AI agents for work",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 2.341,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "published_at": "2026-11-05T22:26:50+00:00",
+          "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity "
+        },
+        {
+          "id": "tmtpost:68ad231bda9e",
+          "title": "陈天桥最新演讲：AI下半场，竞争从“生成”转向“验证”，模型能力不在大，而在谁能证明自己正确",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.983,
+          "url": "https://www.tmtpost.com/8196011.html",
+          "published_at": "2026-11-06T06:43:59+00:00",
+          "summary": "陈天桥首次系统披露其最新创立的AI公司Apodex的战略：近万张GPU、150名科学家，押注AI自我进化与药物研发，构建下一代AI科学发现基础设施。"
+        },
+        {
+          "id": "cnbeta:c807a2d07735",
+          "title": "Meta高管称反对数据中心扩张的新州长释放缓和信号 美国22.5GW在建算力仍将如期上线",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.952,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585226.htm",
+          "published_at": "2026-11-06T06:11:52+00:00",
+          "summary": "<p>随着美国政坛最新变化引发市场对人工智能产业前景的担忧，部分投资者开始担心数据中心建设可能遭遇大规模限制，进而影响AI行业未来发展。然而，最新公开信息显示，即便部分州政府对数据中心扩张持更谨慎态度，美国未来几年新增算力的大部分建设计划仍有望继续推进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585226.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:26235f3155ea",
+          "title": "科学家利用深度学习解码大脑视觉皮层 有望帮助盲人重获部分视觉",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.937,
+          "url": "https://www.cnbeta.com.tw/articles/science/1585222.htm",
+          "published_at": "2026-11-06T05:55:34+00:00",
+          "summary": "<p>人工智能正在为仿生视觉技术打开新的发展方向。来自美国加州大学圣巴巴拉分校、瑞士苏黎世联邦理工学院以及西班牙米格尔·埃尔南德斯大学的研究人员，利用深度学习技术改进了视觉皮层植入设备的电刺激方式，使大脑能够以更精确、更节省电能的方式产生视觉感知。这项研究有望推动新一代仿生眼的发展，为因眼部或视神经损伤而失明的人提供恢复部分视觉的可能。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1585222.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c97f89892cd8",
+          "title": "Google发布Gemini Omni 1.2 Flash视频模型 可对话编辑最长15秒钟",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.604,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585200.htm",
+          "published_at": "2026-11-05T23:23:05+00:00",
+          "summary": "<p>11月6日，Google公司在周四正式推出了视频生成模型Gemini Omni 1.2 Flash，该模型支持原生15秒视频生成，支持通过多轮对话进行编辑，价格较上一代降低30%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585200.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:394437f8d32d",
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.543,
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "published_at": "2026-11-05T08:00:00+00:00",
+          "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
         }
       ]
     }
