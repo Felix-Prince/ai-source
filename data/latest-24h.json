@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T13:19:20.507620+00:00",
-    "generated_ts": 1794057560.5076199,
+    "generated_at": "2026-11-07T22:03:02.359342+00:00",
+    "generated_ts": 1794088982.3593419,
     "window_hours": 24.0,
-    "total": 10
+    "total": 8
   },
   "items": [
     {
@@ -50,21 +50,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.794
-    },
-    {
-      "id": "cnbeta:681987a44017",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AMD游戏业务收入暴跌40% 苏姿丰宣布公司转向“数据中心优先”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585316.htm",
-      "summary": "<p>人工智能数据中心对芯片和存储资源的巨大需求，正在彻底改变全球半导体产业的竞争格局。曾经以PC处理器和游戏显卡闻名的AMD，如今也正式将自身定位转向人工智能和数据中心业务。AMD首席执行官苏姿丰在接受采访时明确表示，公司已经是一家“数据中心优先”的企业。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585316.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-06T15:23:50+00:00",
-      "published_ts": 1793978630.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.774
     },
     {
       "id": "the_verge:90effe4145ba",
@@ -140,21 +125,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.574
-    },
-    {
-      "id": "ars_technica:79f7609967c0",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "published_at": "2026-11-06T20:56:41+00:00",
-      "published_ts": 1793998601.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.529
     }
   ]
 }
