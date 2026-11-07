@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T19:33:26.861193+00:00",
-    "generated_ts": 1793993606.8611927,
+    "generated_at": "2026-11-07T06:14:37.256978+00:00",
+    "generated_ts": 1794032077.256978,
     "window_hours": 24.0,
-    "total": 17
+    "total": 11
   },
   "items": [
-    {
-      "id": "cnbeta:ede8f2e126c4",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "中国AI需求旺盛却迟迟未放开大规模进口 60万颗英伟达H200滞留香港",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585188.htm",
-      "summary": "<p>在人工智能算力需求持续激增的背景下，大批英伟达先进AI芯片正滞留香港等待进入中国内地。知情人士透露，约60万颗英伟达H200人工智能芯片目前储存在香港仓库中，但由于相关进口审批尚未获批，这批芯片迟迟无法大规模进入中国市场。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585188.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-05T19:37:27+00:00",
-      "published_ts": 1793907447.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.957
-    },
-    {
-      "id": "cnbeta:743ffa8cf60b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic推出个人理财工具 Claude可直接分析用户消费记录",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585186.htm",
-      "summary": "<p>人工智能公司Anthropic宣布，为旗下AI助手Claude推出全新“Personal Finance（个人理财）”功能，帮助用户更直观地了解自身财务状况。通过这一工具，用户可将银行账户和信用卡账户接入Claude，并直接以自然语言询问各类财务问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585186.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-05T19:36:35+00:00",
-      "published_ts": 1793907395.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.956
-    },
     {
       "id": "cnbeta:a54787c55382",
       "source": "cnbeta",
@@ -50,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.95
-    },
-    {
-      "id": "the_verge:12818a211b4e",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
-      "published_at": "2026-11-05T22:26:50+00:00",
-      "published_ts": 1793917610.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.341
     },
     {
       "id": "tmtpost:cd400cf326c6",
@@ -112,51 +67,6 @@
       "importance": 1.983
     },
     {
-      "id": "cnbeta:c807a2d07735",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Meta高管称反对数据中心扩张的新州长释放缓和信号 美国22.5GW在建算力仍将如期上线",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585226.htm",
-      "summary": "<p>随着美国政坛最新变化引发市场对人工智能产业前景的担忧，部分投资者开始担心数据中心建设可能遭遇大规模限制，进而影响AI行业未来发展。然而，最新公开信息显示，即便部分州政府对数据中心扩张持更谨慎态度，美国未来几年新增算力的大部分建设计划仍有望继续推进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585226.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-06T06:11:52+00:00",
-      "published_ts": 1793945512.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.952
-    },
-    {
-      "id": "cnbeta:26235f3155ea",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "科学家利用深度学习解码大脑视觉皮层 有望帮助盲人重获部分视觉",
-      "url": "https://www.cnbeta.com.tw/articles/science/1585222.htm",
-      "summary": "<p>人工智能正在为仿生视觉技术打开新的发展方向。来自美国加州大学圣巴巴拉分校、瑞士苏黎世联邦理工学院以及西班牙米格尔·埃尔南德斯大学的研究人员，利用深度学习技术改进了视觉皮层植入设备的电刺激方式，使大脑能够以更精确、更节省电能的方式产生视觉感知。这项研究有望推动新一代仿生眼的发展，为因眼部或视神经损伤而失明的人提供恢复部分视觉的可能。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1585222.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-06T05:55:34+00:00",
-      "published_ts": 1793944534.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.937
-    },
-    {
-      "id": "qbitai:8dabffd8ee47",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "url": "https://www.qbitai.com/2026/11/507967.html",
-      "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-      "published_at": "2026-11-06T02:00:11+00:00",
-      "published_ts": 1793930411.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 1.807
-    },
-    {
       "id": "cnbeta:681987a44017",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -172,19 +82,19 @@
       "importance": 1.774
     },
     {
-      "id": "openai_blog:97d2e1f9a870",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "published_at": "2026-11-06T00:00:00+00:00",
-      "published_ts": 1793923200.0,
+      "id": "the_verge:90effe4145ba",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+      "published_at": "2026-11-06T23:46:18+00:00",
+      "published_ts": 1794008778.0,
       "category": "international",
       "lang": "en",
-      "tier": 0,
+      "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.705
+      "importance": 1.659
     },
     {
       "id": "cnbeta:b39c3484025b",
@@ -202,19 +112,19 @@
       "importance": 1.64
     },
     {
-      "id": "cnbeta:c97f89892cd8",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Google发布Gemini Omni 1.2 Flash视频模型 可对话编辑最长15秒钟",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585200.htm",
-      "summary": "<p>11月6日，Google公司在周四正式推出了视频生成模型Gemini Omni 1.2 Flash，该模型支持原生15秒视频生成，支持通过多轮对话进行编辑，价格较上一代降低30%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585200.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-05T23:23:05+00:00",
-      "published_ts": 1793920985.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "ars_technica:79f7609967c0",
+      "source": "ars_technica",
+      "source_label": "Ars Technica",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "published_at": "2026-11-06T20:56:41+00:00",
+      "published_ts": 1793998601.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.604
+      "importance": 1.529
     },
     {
       "id": "cnbeta:988f04320768",
