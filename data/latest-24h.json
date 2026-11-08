@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T13:41:22.542527+00:00",
-    "generated_ts": 1794145282.5425267,
+    "generated_at": "2026-11-08T22:16:33.288869+00:00",
+    "generated_ts": 1794176193.288869,
     "window_hours": 24.0,
-    "total": 6
+    "total": 10
   },
   "items": [
     {
@@ -20,6 +20,36 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.529
+    },
+    {
+      "id": "the_verge:849e2bd9aae5",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+      "published_at": "2026-11-08T19:18:19+00:00",
+      "published_ts": 1794165499.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.836
+    },
+    {
+      "id": "cnbeta:bd5c25e07191",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm",
+      "summary": "<p>美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。美国《纽约时报》的一项调查发现，美国商务部已经批准大约24家中国企业购买或经手H200芯片，但其中部分获批企业的注册地址竟然是无人办公的空置房间，另一些企业则与受到美国制裁的中国半导体供应商及军事相关机构存在联系。这一发现暴露出美国对先进AI芯片出口许可审查机制可能存在的漏洞。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-08T17:35:42+00:00",
+      "published_ts": 1794159342.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.747
     },
     {
       "id": "cnbeta:4a258db68efd",
@@ -95,6 +125,36 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.645
+    },
+    {
+      "id": "the_verge:3875090e16e9",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "published_at": "2026-11-08T15:00:30+00:00",
+      "published_ts": 1794150030.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.621
+    },
+    {
+      "id": "cnbeta:8e425de344aa",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "​黄仁勋反对全面限制对华AI芯片出口 强调美国应以竞争而非退出市场取胜",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585500.htm",
+      "summary": "<p>英伟达首席执行官黄仁勋近日公开反对Anthropic首席执行官达里奥·阿莫代伊有关全面禁止向中国出口美国AI芯片和半导体设备的主张。他表示，美国企业应保持技术领先地位，但不应因此放弃全球市场，而应通过竞争来扩大市场份额和创造经济价值。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-08T14:23:41+00:00",
+      "published_ts": 1794147821.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.593
     }
   ]
 }
