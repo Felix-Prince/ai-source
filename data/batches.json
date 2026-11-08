@@ -1,169 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T06:20:14.096745+00:00",
+    "generated_at": "2026-11-08T13:41:22.542527+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-09T06:21:40.694604+00:00",
-      "generated_ts": 1791526900.6946037,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "qbitai:543ac71d2341",
-          "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.792,
-          "url": "https://www.qbitai.com/2026/10/502125.html",
-          "published_at": "2026-10-09T03:52:21+00:00",
-          "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
-        },
-        {
-          "id": "qbitai:6b4fe1f65595",
-          "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.517,
-          "url": "https://www.qbitai.com/2026/10/502083.html",
-          "published_at": "2026-10-09T00:16:56+00:00",
-          "summary": "新的“缝合怪”已经出现，怎么能够停滞不前"
-        },
-        {
-          "id": "cnbeta:3f28cd6e22ce",
-          "title": "Anthropic使用政策更新 无端辱骂或虐待Claude都可能会被主动结束会话且无法恢复",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.96,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581362.htm",
-          "published_at": "2026-10-09T05:39:34+00:00",
-          "summary": "<p>Anthropic日前发布适用于 Claude AI 的新版使用政策，该政策将在 2026 年 11 月 12 日生效。新版政策主要新增禁止无端虐待 Claude 条款，同时适用于选举、武器开发、监控等相关条款也同步变更。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:2e2bac3f206f",
-          "title": "Anthropic联合天文学家完成了第一张完整的全天紫外地图",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.934,
-          "url": "https://www.cnbeta.com.tw/articles/science/1581332.htm",
-          "published_at": "2026-10-09T05:11:33+00:00",
-          "summary": "<p>Anthropic 发了一篇科学博客：约翰斯·霍普金斯大学的天体物理学家 Brice Ménard（同时也是 Anthropic 的研究员），用自家的科研工作台 Claude Science，做出了第一张完整的全天紫外地图，这张图里，<strong>大约三分之一的天空从来没被任何紫外望远镜看过，是 Claude 预测出来的</strong>，并且给每个像素标明“实测/预测”，并附上误差估计。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1581332.htm\" target=\"_blank\"><strong>阅读全文</"
-        },
-        {
-          "id": "cnbeta:b6130b25a3fd",
-          "title": "菲尔兹奖得主陶哲轩点名批评OpenAI",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.925,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581324.htm",
-          "published_at": "2026-10-09T05:02:00+00:00",
-          "summary": "<p>OpenAI与数学界的紧张关系再度升级。菲尔兹奖得主陶哲轩近日在个人博客转载了一份由人类数学协会（AHM）发布的声明，批评OpenAI无视数学界研究规范，并呼吁数学家停止与其合作。争议源于OpenAI公开的一批数学研究手稿，其内部模型尝试解决约4000道数学问题，最终整理出涉及372组成果的研究材料，并公开了部分Lean形式化证明代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581324.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:240207739cae",
-          "title": "Google Gemini 4 Argon已对部分用户开放",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.921,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581316.htm",
-          "published_at": "2026-10-09T04:57:50+00:00",
-          "summary": "<p>就在刚刚，海外科技圈爆料：<strong>谷歌下一代重磅模型 Gemini 4 Argon 已密集现身多个平台，甚至已经对部分 Pro 用户开放！</strong>这不是捕风捉影的画大饼，也不是停留在实验室里的测试数据，而是实实在在的「入侵」。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581316.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:0b2c4094d868",
-          "title": "Anthropic据悉组建专门团队对接2028年总统候选人 为后特朗普时代做准备",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.91,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581310.htm",
-          "published_at": "2026-10-09T04:45:36+00:00",
-          "summary": "<p>据报道，美国人工智能初创公司Anthropic 正着手设立一个针对2028年大选的“总统级对接”计划，组建一支内部团队，直接就人工智能相关议题与美国两党总统候选人展开对接，协助公司高层制定政治策略，并负责运营公司的政治资助项目。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:3df2747ab3a6",
-          "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.795,
-          "url": "https://www.qbitai.com/2026/10/502106.html",
-          "published_at": "2026-10-09T02:37:22+00:00",
-          "summary": "多Agent协同还能自我进化"
-        },
-        {
-          "id": "qbitai:04a5a8e9bd0e",
-          "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.767,
-          "url": "https://www.qbitai.com/2026/10/502096.html",
-          "published_at": "2026-10-09T02:03:48+00:00",
-          "summary": "让AI反复试错的“练兵场”来了"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-09T13:33:20.760476+00:00",
-      "generated_ts": 1791552800.760476,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:a53f903b881a",
-          "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.666,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581408.htm",
-          "published_at": "2026-10-09T09:27:50+00:00",
-          "summary": "<p>据三位了解该交易的知情人士透露，英伟达计划投资 d‑Matrix。这家成立 7 年的企业主打面向人工智能的服务器芯片研发，产品目标就是与英伟达展开竞争。这笔拟议投资，是英伟达推进的一项举措：推动自家技术与竞品芯片设计商实现兼容，把对手纳入自己占据主导地位的硬件生态，即便当下英伟达在 AI 推理芯片市场的份额还在持续走高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581408.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f943f24c8005",
-          "title": "OpenAI解雇了三名从事人工智能安全研究的员工",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.775,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581404.htm",
-          "published_at": "2026-10-09T09:25:02+00:00",
-          "summary": "<p>OpenAI近日解雇了三名从事人工智能安全研究的员工，事件迅速引发外界对公司内部安全文化以及员工能否自由提出风险警告的关注。三名研究人员认为，他们的离职可能与长期提出AI安全担忧、以及同外部安全机构合作有关，并警告称，这一事件可能让仍在公司工作的研究人员不敢继续公开讨论潜在风险。OpenAI则坚称，解雇决定与员工提出安全问题无关，而是因为内部调查发现他们违反了公司关于访问和处理敏感信息的规定。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581404.htm\" target=\"_blank\"><strong>阅读全文</st"
-        },
-        {
-          "id": "cnbeta:fa013eee6de1",
-          "title": "OpenAI预计年底年化收入达到700亿美元 9月底仅500亿美元的消息一度引发美股科技股抛售",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.695,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581390.htm",
-          "published_at": "2026-10-09T07:49:07+00:00",
-          "summary": "<p>OpenAI预计，到2026年底，其年化收入将达到或超过700亿美元，增长主要由企业业务推动。此前数小时，有消息称OpenAI截至9月底的年化收入约为500亿美元，明显低于此前市场获悉的700亿美元目标，一度引发投资者对人工智能巨额投资回报的担忧，拖累美股尤其是科技股大幅下跌。最新消息显示，OpenAI仍有望实现此前向投资者传达的收入目标，带动纳斯达克100指数期货反弹约0.5%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581390.htm\" target=\"_blank\"><strong>阅读全文</strong><"
-        },
-        {
-          "id": "qbitai:abe69588ea4a",
-          "title": "字节找到了DeepSeek时强时弱的原因",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.665,
-          "url": "https://www.qbitai.com/2026/10/502364.html",
-          "published_at": "2026-10-09T07:11:55+00:00",
-          "summary": "答不答得对，得看Token站位"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-09T22:45:13.397753+00:00",
       "generated_ts": 1791585913.397753,
@@ -6349,6 +6189,81 @@
         "cnbeta": 50
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-11-08T13:41:22.542527+00:00",
+      "generated_ts": 1794145282.5425267,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:b3486ecf065b",
+          "title": "GPT-6.1 Sol参与活体小鼠脑手术：连续操作三次 定位误差减半",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.529,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585444.htm",
+          "published_at": "2026-11-08T07:46:49+00:00",
+          "summary": "<p>据《WIRED》此前报道及生物科技公司Exin Therapeutics最新披露，OpenAI旗下AI模型GPT-6.1 Sol已被用于活体小鼠脑部手术实验，并在连续三次操作中，通过外科医生的反馈改善了定位表现。到第三次操作时，其识别关键解剖标志的耗时从169秒缩短至86秒，定位误差从0.6毫米降至0.3毫米。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585444.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4a258db68efd",
+          "title": "ChatGPT突现封号风波 200美元Pro用户也遭殃",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.707,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585460.htm",
+          "published_at": "2026-11-08T08:12:06+00:00",
+          "summary": "<p>近日，多名用户在Reddit及OpenAI官方开发者社区反映，自己的ChatGPT账号突然遭到停用，其中包括每月订阅费用为200美元的Pro用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585460.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:48f497c567e6",
+          "title": "OpenAI 无预警大规模封号",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.705,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585452.htm",
+          "published_at": "2026-11-08T08:09:42+00:00",
+          "summary": "<p>一觉醒来，多个GPT账号被封号了！OpenAI突然开启大屠杀模式，没有任何邮件通知，直接把账号彻底删除注销。屏幕上只有一行报错：“<strong>您的账户已被删除或停用</strong>（You do not have an account because it has been deleted or deactivated）”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:24a824331b87",
+          "title": "Anthropic未发布模型参与研究 实验室称3天证明量子计算重要猜想",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.704,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585450.htm",
+          "published_at": "2026-11-08T08:08:38+00:00",
+          "summary": "<p>据Business Insider报道，物理超智能实验室Physical Superintelligence（PSI）称，其利用一款尚未公开的Anthropic模型，在3天内找到了量子计算领域“阿伦森—安拜尼斯猜想”的证明。该猜想自2008年提出以来一直悬而未决，涉及量子计算机在何种情况下能够大幅快于传统计算机。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585450.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7b9a80c4bc8d",
+          "title": "消息称Anthropic拟感恩节前上市 寻求募资至多1000亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.686,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585442.htm",
+          "published_at": "2026-11-08T07:46:11+00:00",
+          "summary": "<p>据《金融时报》报道，尽管科技股近期遭遇大幅抛售，人工智能公司Anthropic仍在推进首次公开募股（IPO），计划在美国感恩节前上市，寻求融资800亿至1000亿美元，目标估值为1.25万亿至1.75万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585442.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:091d0131ac52",
+          "title": "从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.645,
+          "url": "https://www.tmtpost.com/8194549.html",
+          "published_at": "2026-11-08T06:55:09+00:00",
+          "summary": "AI 基建瓶颈几经转移：从 GPU、电力、电气设备，如今落到电工等施工人力。资本可买断设备排期，却无法压缩技工数年培养周期。这场 AI 竞赛，正从资本密集转向人力密集，人力供给约束，或将决定算力扩张长期上限。"
+        }
+      ]
     }
   ]
 }
