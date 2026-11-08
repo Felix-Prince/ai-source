@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T22:03:02.359342+00:00",
-    "generated_ts": 1794088982.3593419,
+    "generated_at": "2026-11-08T06:20:14.096745+00:00",
+    "generated_ts": 1794118814.096745,
     "window_hours": 24.0,
-    "total": 8
+    "total": 6
   },
   "items": [
     {
@@ -52,21 +52,6 @@
       "importance": 1.794
     },
     {
-      "id": "the_verge:90effe4145ba",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
-      "published_at": "2026-11-06T23:46:18+00:00",
-      "published_ts": 1794008778.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.659
-    },
-    {
       "id": "cnbeta:a46ef1454980",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -110,21 +95,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.647
-    },
-    {
-      "id": "qbitai:d270dfc94fec",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "url": "https://www.qbitai.com/2026/11/508264.html",
-      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "published_at": "2026-11-07T05:01:17+00:00",
-      "published_ts": 1794027677.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.574
     }
   ]
 }
