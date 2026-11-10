@@ -1,114 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T07:30:53.361704+00:00",
+    "generated_at": "2026-11-10T19:52:14.221400+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-11T13:07:13.455136+00:00",
-      "generated_ts": 1791724033.4551358,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:09c01d8dd305",
-          "title": "英伟达洽谈收购Reflection AI 已投资8亿美元 后者估值达250亿美元",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.531,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581622.htm",
-          "published_at": "2026-10-11T07:14:18+00:00",
-          "summary": "<p>英伟达正与美国人工智能初创企业Reflection AI就潜在收购或进一步扩大投资展开初步谈判，交易可能采取全面收购、追加股权投资、提供更多芯片及算力支持，或通过聘用员工并获得技术授权等多种形式。英伟达此前已向Reflection AI投资8亿美元，是其最大股东之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581622.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b9294ce64046",
-          "title": "高通CEO暗示到2028年或将出现能够运行1000亿参数的大型语言模型",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.992,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581644.htm",
-          "published_at": "2026-10-11T12:58:26+00:00",
-          "summary": "<p>部分领先的人工智能企业正在推动手机行业开发能够持续运行1000亿参数大语言模型的设备，目标时间指向2028年。不过，这一设想面临两项现实挑战：一是运行如此庞大的模型需要大量内存，二是人工智能数据中心正在争夺全球内存产能，导致消费级内存供应紧张、价格持续上涨。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:4e8bbe6d3a50",
-          "title": "CUDA生态优势推动RTX Spark笔记本热销 微软128GB版Surface Laptop开始缺货",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.823,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581642.htm",
-          "published_at": "2026-10-11T09:54:34+00:00",
-          "summary": "<p>随着人工智能应用持续升温，围绕高性能AI计算硬件的市场需求正在快速增长。业内人士指出，英伟达长期打造的CUDA软件生态系统正在成为其最重要的竞争壁垒之一，而这一优势也开始直接反映在新一代AI电脑和开发设备的市场表现上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581642.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:d6cb26d98238",
-          "title": "马斯克称给信用卡拍照就能用Grok购物 OpenAI高管回复：干脆把卡发网上得了",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.659,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581606.htm",
-          "published_at": "2026-10-11T06:39:08+00:00",
-          "summary": "<p>埃隆・马斯克发文称，“买东西时，你只需拍一张信用卡照片发到聊天框，Grok机器人就会全网搜索你想要商品的最优价格并完成下单。”对此，OpenAI高管Tibo回复称：“那我干脆直接把卡放这得了。”同时，他发布了一张虚构的信用卡的照片，暗示该功能的安全风险。（注：持卡人名字就是发帖人THIBAULT SOTTIAUX，“NOVA”只是这张道具卡的虚构卡面标识。）</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581606.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:6e7673b4dd61",
-          "title": "AI投资热潮降温 韩国股市散户交易降温、企业回购逐步结束",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.658,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581602.htm",
-          "published_at": "2026-10-11T06:37:57+00:00",
-          "summary": "<p>随着人工智能投资热潮降温，韩国股市正面临外国投资者大规模撤资和市场交易活跃度急剧下降的双重压力。交易所数据显示，今年以来，外国投资者累计从韩国股市撤出1310亿美元，流出规模居亚洲主要市场之首。韩国股市总市值约4.3万亿美元，市场成交额较5月底高点萎缩70%，基准KOSPI指数2026年下半年以来累计下跌22%。此前，受AI存储芯片需求推动，KOSPI曾在上半年成为全球表现最好的主要股指。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581602.htm\" target=\"_blank\"><strong>阅读全文</stro"
-        },
-        {
-          "id": "cnbeta:893511726afe",
-          "title": "AI反而拖累了PC市场：内存涨价让全球PC出货量暴跌了20%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.649,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581592.htm",
-          "published_at": "2026-10-11T06:26:05+00:00",
-          "summary": "<p>人工智能原本被视为推动个人电脑市场增长的重要引擎，但最新数据却呈现出截然相反的局面。2026年第三季度，全球PC出货量同比下降约20%，创下自2023年第一季度以来最严重的年度跌幅之一。与此同时，人工智能数据中心对内存和存储芯片的巨大需求推高了电脑制造成本，而微软力推的Windows 11人工智能功能，也尚未充分证明自己能够成为消费者升级设备的有力理由。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581592.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:7b2a0ed51f9f",
-          "title": "硅谷AI现状：谁有算力谁是爹",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.599,
-          "url": "https://www.qbitai.com/2026/10/502585.html",
-          "published_at": "2026-10-11T05:22:38+00:00",
-          "summary": "马斯克连横A社，硅谷VC开始囤GPU"
-        },
-        {
-          "id": "qbitai:7c7b65355f1f",
-          "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.596,
-          "url": "https://www.qbitai.com/2026/10/502550.html",
-          "published_at": "2026-10-11T05:18:04+00:00",
-          "summary": "初代4o的API快照进入停用倒计时"
-        },
-        {
-          "id": "qbitai:4e7491debf2f",
-          "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.513,
-          "url": "https://www.qbitai.com/2026/10/502544.html",
-          "published_at": "2026-10-11T03:27:08+00:00",
-          "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-11T22:08:43.082102+00:00",
       "generated_ts": 1791756523.0821023,
@@ -6317,6 +6212,141 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1585708.htm",
           "published_at": "2026-11-10T05:51:13+00:00",
           "summary": "<p>人工智能公司Anthropic正在继续推进首次公开募股（IPO）计划。尽管近期美国科技股经历大幅抛售，人工智能行业的投资热情有所降温，同时英伟达CEO黄仁勋卷入的私人关系及间谍指控事件也令市场关注度上升，但Anthropic并未因此改变上市安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-10T19:52:14.221400+00:00",
+      "generated_ts": 1794340334.2213998,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 14,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:f2ec0176410f",
+          "title": "Google发布Gemini 4 Carbon 推出智能体“蜂群”功能",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.759,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585832.htm",
+          "published_at": "2026-11-10T16:58:22+00:00",
+          "summary": "<p>11月10日，Google宣布将其最新人工智能模型 Gemini 4 Carbon 向公众全面开放。就在两周前，该模型还只向一小批“网络安全防御人员”提供。Google称，Carbon 是迄今“最强的模型”，有能力与 Anthropic 和 OpenAI 最顶尖的系统一较高下。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585832.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e5e0c9eb7912",
+          "title": "Anthropic投资人：美国企业的开源支出账单近9成流向中国公司",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.581,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585820.htm",
+          "published_at": "2026-11-10T14:39:33+00:00",
+          "summary": "<p>美国企业花在开源大模型上的钱，正在持续流向中国公司。近日，硅谷风投机构门罗风投（Menlo Ventures）发布《2026年企业AI现状报告》。基于对近400名美国企业AI业务负责人的调研，报告估算，美国企业用于开源大模型的支出中，89%流向了中国模型，受访者负责的AI支出合计超过40亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585820.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:012d59e559de",
+          "title": "Helping caregivers use AI in everyday life",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.39,
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "published_at": "2026-11-10T12:00:00+00:00",
+          "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+        },
+        {
+          "id": "techcrunch:03fb37fef289",
+          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.941,
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "published_at": "2026-11-10T18:49:52+00:00",
+          "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+        },
+        {
+          "id": "the_verge:181f1b5f2dbc",
+          "title": "ChatGPT is getting verified AI ‘Business Agents’",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.895,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "published_at": "2026-11-10T18:00:00+00:00",
+          "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Cha"
+        },
+        {
+          "id": "techcrunch:f0e82cdbec5c",
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.868,
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "published_at": "2026-11-10T17:30:00+00:00",
+          "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+        },
+        {
+          "id": "cnbeta:d687df5ae031",
+          "title": "高盛预测Anthropic 2030年营收突破6000亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.844,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585838.htm",
+          "published_at": "2026-11-10T17:04:03+00:00",
+          "summary": "<p>据Anthropic的主承销投行高盛的预测，Anthropic到2030年营收有望突破6000亿美元，较去年营收增长超130倍。高盛向该笔IPO潜在投资者展示的预测模型显示：公司今年总营收预计约520亿美元，2027年增至1360亿美元，2029年达到4420亿美元，2030年进一步冲高至6000亿美元以上。Anthropic 2025年营收为46亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585838.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:82c929e7d37c",
+          "title": "Anthropic 启动IPO路演 估值目标高达1.4万亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.841,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585834.htm",
+          "published_at": "2026-11-10T16:59:54+00:00",
+          "summary": "<p>Anthropic 已正式启动首次公开募股（IPO）的投资者路演。公司计划发行 8.25 亿股股票，每股发行价区间为 70 至 78 美元，最高募资规模可达 643.5 亿美元。若按区间上限定价，其完全稀释估值将接近 1.4 万亿美元，这将是人工智能行业迄今规模最大的上市交易之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585834.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:a9708e13415e",
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.783,
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "published_at": "2026-11-10T15:54:08+00:00",
+          "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+        },
+        {
+          "id": "cnbeta:c47d664d67aa",
+          "title": "Rapidus遭遇关键技术障碍 日本2纳米芯片量产计划面临延期风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.582,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585800.htm",
+          "published_at": "2026-11-10T11:45:07+00:00",
+          "summary": "<p>日本先进半导体企业Rapidus的2纳米制程项目正遭遇重要挑战。最新消息显示，该公司在推进2纳米工艺研发过程中未能如期完成SRAM（静态随机存取存储器）相关技术里程碑，这使其原定于2027财年实现2纳米芯片量产的目标面临不确定性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:ee8598c93447",
+          "title": "希捷推出FireCuda Forge智能混合存储系统 机械硬盘与SSD自动协作",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.582,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585798.htm",
+          "published_at": "2026-11-10T11:44:44+00:00",
+          "summary": "<p>希捷（Seagate）推出了一款名为FireCuda Forge的新型外置存储设备，试图将传统机械硬盘的大容量、低成本优势与SSD的高速性能结合起来。它并不是简单地将两块硬盘安装在同一个外壳内，而是通过希捷全新的Alkemi智能存储平台，利用机器学习分析用户的数据访问习惯，自动在机械硬盘和SSD之间迁移文件，让用户在获得大容量存储空间的同时，也能享受到接近SSD的访问速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:79183095231f",
+          "title": "全球芯片热潮持续 台积电10月销售额大幅攀升",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.459,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585774.htm",
+          "published_at": "2026-11-10T08:56:31+00:00",
+          "summary": "<p>这家全球最大晶圆代工厂周二公布，10 月营收达到 5868.9 亿新台币（折合 178.8 亿美元），同比增长 59.7%，环比上月上涨 14.7%。各大科技企业持续在人工智能领域大举投入，先进半导体需求火热，令台积电从中受益。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585774.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
