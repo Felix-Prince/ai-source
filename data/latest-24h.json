@@ -1,25 +1,55 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T22:31:28.411858+00:00",
-    "generated_ts": 1794263488.411858,
+    "generated_at": "2026-11-10T07:30:53.361704+00:00",
+    "generated_ts": 1794295853.3617039,
     "window_hours": 24.0,
-    "total": 18
+    "total": 20
   },
   "items": [
     {
-      "id": "cnbeta:556fad4fcfac",
+      "id": "cnbeta:f36310593980",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "腾讯首席AI科学家发出警告：AI即将掌握生物学 安全风险或比网络攻击更难管控",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585556.htm",
-      "summary": "<p>腾讯首席AI科学家、前OpenAI研究员姚顺雨近日在香港出席一场科学研讨会时表示，前沿人工智能模型正快速向生物学领域迈进，其能力很快将达到可能造成现实危害的临界点。这一变化虽然有望推动新药研发和医学创新，但同时也可能带来全新的安全挑战，引发业界对于生物安全风险的关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585556.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-09T05:50:37+00:00",
-      "published_ts": 1794203437.0,
+      "title": "1500万美元 OpenAI联手Anthropic请数学家给AI“验卷”",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585732.htm",
+      "summary": "<p>10月6日，OpenAI一口气公开了722篇由内部AI模型生成的数学手稿。仅过一天，其中3篇就被宣布撤回。让三篇手稿一起翻车的，居然只是一处正负号错误：一篇出了错，另外两篇沿用了同一套构造，也被一并撤回。AI批量交卷之后，两大巨头联手为“验卷”买单。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T06:26:10+00:00",
+      "published_ts": 1794291970.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.91
+      "importance": 2.908
+    },
+    {
+      "id": "cnbeta:3d358f6b1ff9",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "“全球最强模型”又刷新了 但这还是给人用的吗？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585722.htm",
+      "summary": "<p>当地时间 11 月 9 日，Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2。两者共用同一个底层模型。Fable 面向所有用户，内置网络安全与生物安全防护；Mythos 拆掉这些限制，只对通过 Cyber 或 Life Sciences 验证计划的机构开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585722.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T06:21:38+00:00",
+      "published_ts": 1794291698.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.902
+    },
+    {
+      "id": "cnbeta:889ea13a7e2a",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "微软新专利：让闲置游戏显卡参与AI训练 电脑用户或可获得现金报酬",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585710.htm",
+      "summary": "<p>微软正在探索一种利用普通消费者电脑闲置算力训练人工智能模型的方式。根据近日公开的一份专利申请，微软提出建立一个分布式计算网络，将大型AI模型训练任务拆分成大量小型任务，分配给处于空闲状态的游戏电脑、笔记本电脑，甚至智能手机。愿意提供设备算力的用户，则可能获得积分、免费软件、AI模型使用权限，甚至现金报酬。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T05:59:26+00:00",
+      "published_ts": 1794290366.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.871
     },
     {
       "id": "cnbeta:01d3adde133b",
@@ -80,6 +110,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.442
+    },
+    {
+      "id": "cnbeta:b0509808482d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Meta推出最小AI模型Muse Ember：性能追平Claude 成本只要三分之一",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585676.htm",
+      "summary": "<p>Meta于当地时间11月9日发布轻量级AI模型Muse Ember。根据第三方评测机构Artificial Analysis的数据，该模型在综合智能指数中取得36分，<strong>与Anthropic的Claude Haiku 5.5最高推理档位持平，但单次评测任务成本约为后者的三分之一</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585676.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-09T22:59:45+00:00",
+      "published_ts": 1794265185.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.346
     },
     {
       "id": "openai_blog:953bf706eaa8",
@@ -157,34 +202,49 @@
       "importance": 1.972
     },
     {
-      "id": "cnbeta:953a25161d95",
+      "id": "cnbeta:7b3e5ec01c11",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "NVIDIA遭遇创立以来最严峻治理考验：4.5万亿美元AI巨头面临创始人危机",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585558.htm",
-      "summary": "<p>全球人工智能芯片龙头NVIDIA近日陷入一场备受关注的企业治理风波。围绕创始人兼首席执行官黄仁勋的争议事件持续发酵，不仅让这家市值约4.5万亿美元的科技巨头站上舆论风口，也引发资本市场对“创始人不可替代性”的广泛讨论。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585558.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-09T05:51:48+00:00",
-      "published_ts": 1794203508.0,
+      "title": "Fable 5.2狂刷72项世界纪录 23年黑洞难题告破",
+      "url": "https://www.cnbeta.com.tw/articles/science/1585742.htm",
+      "summary": "<p>Claude 5.2“双子星”一扔出来，AI圈又热闹了！今早，Anthropic终于放出了下一代双旗舰——Fable 5.2和Mythos 5.2。不光30小时搞定费马大定理形式化，Anthropic新双王Fable 5.2和Mythos 5.2这次是真长出双手了！官方刚刚放出的四场预发布“实战大考”，把整个工程界和理科圈都镇住了。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1585742.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T06:37:26+00:00",
+      "published_ts": 1794292646.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.941
+      "importance": 1.949
     },
     {
-      "id": "cnbeta:6e943ad9e6e1",
+      "id": "cnbeta:b66d1817e310",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "微软CEO畅想2000万AI智能体与20万员工协同工作",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585554.htm",
-      "summary": "<p>微软首席执行官萨提亚·纳德拉（Satya Nadella）近日有关人工智能未来工作模式的一段访谈重新受到关注。他提出，微软未来可能拥有200万甚至2000万个AI智能体，与约20万名人类员工共同工作。这一设想恰好出现在微软向约6万名员工提供自愿离职方案不到两周之后，引发外界对人工智能是否正在改变微软人员结构的讨论。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-09T05:49:39+00:00",
-      "published_ts": 1794203379.0,
+      "title": "OpenAI部署AI“控制室”：最长35秒阻断模型输出",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585728.htm",
+      "summary": "<p>OpenAI近日宣布，已在内部研究基础设施中部署名为“Control Room”的中央控制系统。当模型任务引发安全或网络安全风险时，<strong>该系统可在收到停止指令后最长35秒内阻断模型继续输出</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585728.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T06:23:23+00:00",
+      "published_ts": 1794291803.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.939
+      "importance": 1.936
+    },
+    {
+      "id": "cnbeta:78d8ffe8253e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic不顾科技股震荡坚持推进IPO 计划下周上市",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585708.htm",
+      "summary": "<p>人工智能公司Anthropic正在继续推进首次公开募股（IPO）计划。尽管近期美国科技股经历大幅抛售，人工智能行业的投资热情有所降温，同时英伟达CEO黄仁勋卷入的私人关系及间谍指控事件也令市场关注度上升，但Anthropic并未因此改变上市安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-10T05:51:13+00:00",
+      "published_ts": 1794289873.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.906
     },
     {
       "id": "techcrunch:ab346b452ea7",
@@ -200,21 +260,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.828
-    },
-    {
-      "id": "qbitai:54375381ccca",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-      "url": "https://www.qbitai.com/2026/11/508603.html",
-      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-      "published_at": "2026-11-09T05:09:23+00:00",
-      "published_ts": 1794200963.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 1.817
     },
     {
       "id": "techcrunch:06d5c4499645",
@@ -245,21 +290,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.73
-    },
-    {
-      "id": "tmtpost:cbfa92d9123c",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金",
-      "url": "https://www.tmtpost.com/8197696.html",
-      "summary": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理；火山引擎汽车研发苏杰被曝离职，知情人士称非技术负责人；马斯克放话：Q4营收料将增长70%，明年剑指5000亿美元；苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%；谷歌母公司Alphabet斥资约5.48亿美元建仓高通，押注AI数据中心芯片赛道；中国首个科技法学院在雄安新区成立；国家发改委：抓紧出台配套政策，支持“六网协同”新场景培育打造；七部门发布《关于加快航运保险高质量发展的指导意见》；上交所：沪市上市公司总市值超65万亿元；消息称OpenAI完成110亿美元首期新融资，估值1.25万亿美元；市场监管总局：前三季度广告业头部企事业单位收入同比增长8.5%",
-      "published_at": "2026-11-08T23:20:00+00:00",
-      "published_ts": 1794180000.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.607
     },
     {
       "id": "cnbeta:cbcdb196c61a",

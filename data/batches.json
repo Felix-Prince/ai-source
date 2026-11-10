@@ -1,44 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T22:31:28.411858+00:00",
+    "generated_at": "2026-11-10T07:30:53.361704+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-11T06:01:11.139071+00:00",
-      "generated_ts": 1791698471.139071,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:def701688e6c",
-          "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.899,
-          "url": "https://www.tmtpost.com/8164268.html",
-          "published_at": "2026-10-11T04:50:00+00:00",
-          "summary": "agent底座之争，OpenAI又被针对了。"
-        },
-        {
-          "id": "tmtpost:27585c461c8a",
-          "title": "中国AI，开始为算力算账",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.906,
-          "url": "https://www.tmtpost.com/8164264.html",
-          "published_at": "2026-10-11T04:21:41+00:00",
-          "summary": "模型越卖越便宜，算力投资却越烧越猛。"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-11T13:07:13.455136+00:00",
       "generated_ts": 1791724033.4551358,
@@ -6267,6 +6232,91 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1585612.htm",
           "published_at": "2026-11-09T11:20:20+00:00",
           "summary": "<p>美国马萨诸塞州民主党参议员爱德华·马基（Edward J． Markey）周一致信谷歌，要求这家科技巨头允许学校关闭其搜索引擎中的人工智能功能。这封信援引了上周的一篇报道。报道称，谷歌计划默认关闭学生对部分人工智能相关服务的访问权限，包括其Gemini人工智能工具和搜索服务，同时允许学校自行决定是否重新启用这些服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585612.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-10T07:30:53.361704+00:00",
+      "generated_ts": 1794295853.3617039,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:f36310593980",
+          "title": "1500万美元 OpenAI联手Anthropic请数学家给AI“验卷”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.908,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585732.htm",
+          "published_at": "2026-11-10T06:26:10+00:00",
+          "summary": "<p>10月6日，OpenAI一口气公开了722篇由内部AI模型生成的数学手稿。仅过一天，其中3篇就被宣布撤回。让三篇手稿一起翻车的，居然只是一处正负号错误：一篇出了错，另外两篇沿用了同一套构造，也被一并撤回。AI批量交卷之后，两大巨头联手为“验卷”买单。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3d358f6b1ff9",
+          "title": "“全球最强模型”又刷新了 但这还是给人用的吗？",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.902,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585722.htm",
+          "published_at": "2026-11-10T06:21:38+00:00",
+          "summary": "<p>当地时间 11 月 9 日，Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2。两者共用同一个底层模型。Fable 面向所有用户，内置网络安全与生物安全防护；Mythos 拆掉这些限制，只对通过 Cyber 或 Life Sciences 验证计划的机构开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585722.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:889ea13a7e2a",
+          "title": "微软新专利：让闲置游戏显卡参与AI训练 电脑用户或可获得现金报酬",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.871,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585710.htm",
+          "published_at": "2026-11-10T05:59:26+00:00",
+          "summary": "<p>微软正在探索一种利用普通消费者电脑闲置算力训练人工智能模型的方式。根据近日公开的一份专利申请，微软提出建立一个分布式计算网络，将大型AI模型训练任务拆分成大量小型任务，分配给处于空闲状态的游戏电脑、笔记本电脑，甚至智能手机。愿意提供设备算力的用户，则可能获得积分、免费软件、AI模型使用权限，甚至现金报酬。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b0509808482d",
+          "title": "Meta推出最小AI模型Muse Ember：性能追平Claude 成本只要三分之一",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.346,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585676.htm",
+          "published_at": "2026-11-09T22:59:45+00:00",
+          "summary": "<p>Meta于当地时间11月9日发布轻量级AI模型Muse Ember。根据第三方评测机构Artificial Analysis的数据，该模型在综合智能指数中取得36分，<strong>与Anthropic的Claude Haiku 5.5最高推理档位持平，但单次评测任务成本约为后者的三分之一</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585676.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7b3e5ec01c11",
+          "title": "Fable 5.2狂刷72项世界纪录 23年黑洞难题告破",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.949,
+          "url": "https://www.cnbeta.com.tw/articles/science/1585742.htm",
+          "published_at": "2026-11-10T06:37:26+00:00",
+          "summary": "<p>Claude 5.2“双子星”一扔出来，AI圈又热闹了！今早，Anthropic终于放出了下一代双旗舰——Fable 5.2和Mythos 5.2。不光30小时搞定费马大定理形式化，Anthropic新双王Fable 5.2和Mythos 5.2这次是真长出双手了！官方刚刚放出的四场预发布“实战大考”，把整个工程界和理科圈都镇住了。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1585742.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b66d1817e310",
+          "title": "OpenAI部署AI“控制室”：最长35秒阻断模型输出",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.936,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585728.htm",
+          "published_at": "2026-11-10T06:23:23+00:00",
+          "summary": "<p>OpenAI近日宣布，已在内部研究基础设施中部署名为“Control Room”的中央控制系统。当模型任务引发安全或网络安全风险时，<strong>该系统可在收到停止指令后最长35秒内阻断模型继续输出</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585728.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:78d8ffe8253e",
+          "title": "Anthropic不顾科技股震荡坚持推进IPO 计划下周上市",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.906,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585708.htm",
+          "published_at": "2026-11-10T05:51:13+00:00",
+          "summary": "<p>人工智能公司Anthropic正在继续推进首次公开募股（IPO）计划。尽管近期美国科技股经历大幅抛售，人工智能行业的投资热情有所降温，同时英伟达CEO黄仁勋卷入的私人关系及间谍指控事件也令市场关注度上升，但Anthropic并未因此改变上市安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
