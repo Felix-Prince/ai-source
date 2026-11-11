@@ -1,134 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T06:48:08.042783+00:00",
+    "generated_at": "2026-11-11T19:44:03.733386+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-12T15:45:52.925889+00:00",
-      "generated_ts": 1791819952.9258895,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:c020bbd741c5",
-          "title": "英伟达庆祝GeForce 8800 GTX发布20周年 开启CUDA时代的首款显卡",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.801,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581816.htm",
-          "published_at": "2026-10-12T13:23:14+00:00",
-          "summary": "<p>英伟达于2006年11月8日，正式发布了GeForce 8800 GTX，还有规格稍低一些的GeForce 8800 GTS，两款显卡的定价分别为599美元和449美元，两者均搭载了G80芯片。对于英伟达而言，G80是一块划时代的GPU芯片，除了首次使用统一渲染架构和完全支持DirectX 10，其原有的三大品牌之一的Tesla，首款通用计算产品Tesla C870也是基于G80，为日后进入数据中心及超算领域打下了基础。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581816.htm\" target=\"_blank\"><s"
-        },
-        {
-          "id": "cnbeta:ef6e58cad9f5",
-          "title": "微软发布第三代自研AI芯片Maia 300 每兆瓦算力效率提升40%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.78,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581808.htm",
-          "published_at": "2026-10-12T13:07:52+00:00",
-          "summary": "<p>微软正式公布第三代自研人工智能芯片Maia 300，计划从2027年开始将其部署到生产环境，用于支持Copilot等产品和服务背后的AI推理任务。微软表示，与当前领先的GPU系统相比，Maia 300预计每兆瓦电力能够处理多出40%的Token；在由96颗加速器组成的完整机架配置中，其机架级Token吞吐量最高可达到上一代Maia 200的7倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581808.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "the_verge:488b61db2c5a",
-          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.77,
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "published_at": "2026-10-12T13:00:00+00:00",
-          "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest rea"
-        },
-        {
-          "id": "cnbeta:fb112d649e75",
-          "title": "英特尔、博通首席执行官警告：资金紧张或将成为人工智能最大瓶颈",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.77,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581804.htm",
-          "published_at": "2026-10-12T12:59:55+00:00",
-          "summary": "<p>尽管算力基础设施的需求持续供不应求，但英特尔与博通两家企业的首席执行官发出警告，资金获取能力或将成为人工智能发展的一大主要约束。博通 CEO 陈福阳称，全行业都在加紧建设基础设施，支撑复杂度越来越高的 AI 大模型。相较于半导体、存储芯片或是电力短缺，融资问题可能会成为 AI 扩张更大的阻碍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:243dd77e65dd",
-          "title": "酒窖里的GPU：为什么科技爱好者在家囤积AI算力",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.602,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581784.htm",
-          "published_at": "2026-10-12T10:50:04+00:00",
-          "summary": "<p>华盛顿州贝尔维尤一处安静社区，加里・弗莱克的现代住宅地下室，布置得像一间功能齐全的男士休闲空间：大屏显示器与数字投影仪中间摆着一张舒适沙发，还有一台动感单车划船机。但这间屋子真正的重头戏，是一台造型酷似巨型拼装模型的定制主机，机架上悬挂七块英伟达高性能显卡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581784.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:ddeb57bd4baf",
-          "title": "Linus Torvalds借助AI重构Linux内核代码可读性 意外发现三个存在十余年的漏洞",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.59,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581762.htm",
-          "published_at": "2026-10-12T10:40:28+00:00",
-          "summary": "<p>Linux创始人林纳斯·托瓦兹（Linus Torvalds）正在进一步探索人工智能编程工具在内核开发中的应用。继日前借助Anthropic的Claude Code开发Linux内核性能优化补丁后，托瓦兹又利用大型语言模型（LLM）分析一段长期以来难以理解的内核代码，不仅确认了开发者此前报告的一个缺陷，还发现了另外三个潜伏十余年的漏洞。这些问题均与Linux内核中的关联数组（Associative Array）实现有关。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581762.htm\" target=\"_blank\"><s"
-        },
-        {
-          "id": "cnbeta:10ae79c00d1b",
-          "title": "英特尔CEO陈立武：DeepSeek等中国模型性能足够好 普及很快",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.429,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581752.htm",
-          "published_at": "2026-10-12T08:27:33+00:00",
-          "summary": "<p>据路透社报道，英特尔CEO陈立武周一表示，<strong>中国前沿AI模型的词元(token)成本一直较低，且普及速度一直非常快。</strong>在周一由星展银行组织的一场小组讨论会上，陈立武表示，DeepSeek、Kimi和GLM等中国AI模型的性能“已经足够好”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581752.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:84a031575ae4",
-          "title": "反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.412,
-          "url": "https://www.tmtpost.com/8165030.html",
-          "published_at": "2026-10-12T08:13:00+00:00",
-          "summary": "Agent和RSI全错了？杨立昆：分层推理才是下一代"
-        },
-        {
-          "id": "qbitai:f28ff02335eb",
-          "title": "智谱新模型，490 tokens/s！",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.052,
-          "url": "https://www.qbitai.com/2026/10/502649.html",
-          "published_at": "2026-10-12T02:37:04+00:00",
-          "summary": "GLM「速度仙人」来了？"
-        },
-        {
-          "id": "cnbeta:7313ff5d500e",
-          "title": "图灵奖得主杨立昆：AI下一阶段突破将来自世界模型 失控风险可通过工程技术控制",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.618,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1581748.htm",
-          "published_at": "2026-10-12T08:25:58+00:00",
-          "summary": "<p>2018年图灵奖得主、AMI Labs创始人兼董事长杨立昆（Yann LeCun）10月12日在首尔表示，人工智能的下一阶段突破将来自能够理解、预测并作用于物理世界的系统，而非单纯扩大大语言模型规模。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581748.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:fb97f774cfee",
-          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.5,
-          "url": "https://www.qbitai.com/2026/10/502654.html",
-          "published_at": "2026-10-12T05:48:36+00:00",
-          "summary": "游戏打到21:0，AI甚至不用再调用大模型了"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-13T00:51:17.842885+00:00",
       "generated_ts": 1791852677.842885,
@@ -6362,6 +6237,141 @@
           "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
           "published_at": "2026-11-10T20:52:13+00:00",
           "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-11T19:44:03.733386+00:00",
+      "generated_ts": 1794426243.7333858,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 16,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:f6a35385f76c",
+          "title": "Anthropic IPO获数倍超额认购 最高拟募资904亿美元 或创全球IPO纪录",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.59,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585964.htm",
+          "published_at": "2026-11-11T14:38:44+00:00",
+          "summary": "<p>11月11日，知情人士透露，人工智能公司Anthropic的首次公开募股（IPO）已获得数倍超额认购，投资者认购意向远超可供发行的股票数量，显示机构投资者对这家Claude开发商的上市计划需求强劲。此次认购主要受到大型机构投资者提交大额认购意向的推动，具体发行安排仍可能调整。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585964.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:c239991902b6",
+          "title": "Kimi开始\"出租\"数字员工：Agent计价锚点，正从软件预算滑向人力预算",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 2.182,
+          "url": "https://www.tmtpost.com/8201187.html",
+          "published_at": "2026-11-11T08:42:32+00:00",
+          "summary": "月之暗面发布托管智能体，市场多解读为\"功能升级\"。本文判断：这不是产品迭代，是用工形态重构——AI厂商正从\"卖token\"转向\"租数字员工\"。基于\"动态性\"原理，本文提出三层形态租买决策框架，揭示计价锚点正从IT预算滑向人力预算。通用场景租是主航道，但买不会消失；垂直场景进入混合态。"
+        },
+        {
+          "id": "qbitai:ce85fa856791",
+          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.035,
+          "url": "https://www.qbitai.com/2026/11/509085.html",
+          "published_at": "2026-11-11T06:18:09+00:00",
+          "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
+        },
+        {
+          "id": "cnbeta:508216e526c9",
+          "title": "英特尔256核至强Diamond Rapids处理器真身曝光",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.987,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585988.htm",
+          "published_at": "2026-11-11T19:30:08+00:00",
+          "summary": "<p>英特尔下一代服务器处理器Xeon 7“Diamond Rapids”近日首次以实体形式公开亮相。网络流传的照片显示，这款面向未来数据中心和人工智能基础设施打造的旗舰级处理器已经完成封装，标志着产品研发正稳步迈向正式发布阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585988.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:03a4e854bf6f",
+          "title": "DeepMind发布AlphaGenome 2 深入单个细胞寻找遗传变异与疾病之间的联系",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.765,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585976.htm",
+          "published_at": "2026-11-11T15:24:42+00:00",
+          "summary": "<p>Google DeepMind推出了新一代基因组人工智能模型AlphaGenome 2，旨在更精确地预测DNA遗传变异如何影响人体不同类型的细胞，以及细胞在不同生物学状态下的活动。这项技术希望帮助研究人员从海量遗传信息中识别与疾病有关的关键变化，进一步揭示疾病发生机制，并为未来药物研发寻找新的靶点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585976.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:35905bcc33c0",
+          "title": "SpaceX推进“星际大脑”计划：豪掷先进太阳能技术冲刺100吉瓦太空算力目标",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.516,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585934.htm",
+          "published_at": "2026-11-11T10:08:47+00:00",
+          "summary": "<p>美国太空探索技术公司（SpaceX）正进一步加快其“Starmind（星际大脑）”太空计算卫星网络建设步伐。根据最新披露的信息，SpaceX已与德国设备制造商SINGULUS TECHNOLOGIES达成新的供应合作协议，为其大规模生产高性能太阳能电池提供关键制造设备。公司计划通过这一合作，最终形成每年100吉瓦发电能力所需的太阳能电池生产规模，以满足未来庞大的太空人工智能计算需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585934.htm\" target=\"_blank\"><strong>阅读全文</strong>"
+        },
+        {
+          "id": "cnbeta:c4e6ee6abb89",
+          "title": "OpenAI调整ChatGPT语音体系 逐步淘汰现有的标准模式",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.431,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585932.htm",
+          "published_at": "2026-11-11T08:08:57+00:00",
+          "summary": "<p>OpenAI近日宣布对ChatGPT语音功能进行重大调整，计划逐步淘汰现有的“标准语音模式（Standard Voice Mode）”和“高级语音模式（Advanced Voice Mode）”品牌区分，转而整合为统一的新语音体验。不过，这一决定在用户社区引发了广泛争议，不少长期用户认为新方案削弱了原有功能特色和使用体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585932.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:21cf0f38ea84",
+          "title": "DeepMind发布Gemini Robotics 2.5：奔驰工厂试点分拣成功率96%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.417,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585920.htm",
+          "published_at": "2026-11-11T07:48:00+00:00",
+          "summary": "<p>Google DeepMind于当地时间11月10日发布视觉-语言-动作（VLA）模型Gemini Robotics 2.5，称其为迄今能力最强的VLA模型。该模型已面向Google的机器人合作伙伴开放。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585920.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:68ec4a560cbd",
+          "title": "AMD高管质疑英伟达、Arm“智能体CPU”：四年前没人能预知浪潮",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.412,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585918.htm",
+          "published_at": "2026-11-11T07:40:54+00:00",
+          "summary": "<p>据Tom’s Hardware报道，<strong>AMD两名高管近日对英伟达和Arm将新款处理器描述为“专为智能体AI设计”的说法提出质疑。</strong>AMD企业副总裁Madhu Rangarajan表示，芯片研发周期长达数年，AMD并未在四年前就预见智能体AI兴起，再据此打造一款专用处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585918.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:bb003bd47f97",
+          "title": "OpenAI营收增至100亿美元但持续面临巨额亏损",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.398,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585900.htm",
+          "published_at": "2026-11-11T07:19:52+00:00",
+          "summary": "<p>从第二季度到第三季度，OpenAI的营收增长了约50%至100亿美元，但该公司仍报告了巨额运营亏损，这表明其在追赶行业领先者Anthropic的努力中呈现出喜忧参半的结果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585900.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:3032124b9b4d",
+          "title": "美媒曝中国国防背景高校获得英伟达H200芯片 美国出口管制漏洞再受关注",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.381,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1585894.htm",
+          "published_at": "2026-11-11T06:54:04+00:00",
+          "summary": "<p>一份最新披露的采购记录显示，中国一所与中国人民解放军关系密切、同时被列入美国出口管制黑名单的高校，近期获得了英伟达先进H200人工智能芯片。相关发现再次引发美国政界对高端AI芯片流向中国以及现行出口管制措施有效性的讨论。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585894.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:6a15e789d40a",
+          "title": "中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.368,
+          "url": "https://www.tmtpost.com/8198782.html",
+          "published_at": "2026-11-11T06:35:11+00:00",
+          "summary": "本文通过核验 GitHub Copilot 用户与付费订阅数据、AI 短剧算力成本，厘清行业容易混淆的两组关键数字，对比流量型与生产力型 AI 的差异，拆解 Token 流向背后的商业逻辑，剥离行业流传的不实叙事，还原当下 AI 产业真实的付费与成本面貌。"
         }
       ]
     }
