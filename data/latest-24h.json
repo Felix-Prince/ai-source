@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T06:57:36.998409+00:00",
-    "generated_ts": 1794553056.998409,
+    "generated_at": "2026-11-13T19:53:01.839883+00:00",
+    "generated_ts": 1794599581.8398826,
     "window_hours": 24.0,
-    "total": 11
+    "total": 16
   },
   "items": [
     {
@@ -35,6 +35,51 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.888
+    },
+    {
+      "id": "cnbeta:7ec73c63b759",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "中国AI模型被发现英伟达Blackwell芯片“指纹” 研究推算部分训练集群规模达3000至4500颗",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586310.htm",
+      "summary": "<p>中国AI企业DeepSeek、月之暗面（Moonshot AI）、MiniMax和蚂蚁集团的最新模型，可能已经使用英伟达最新一代Blackwell GPU进行初始化，甚至可能利用这些芯片完成大规模训练。一个名为Unemployment Labs的独立研究团队通过分析公开发布的AI模型权重，发现其中保留了与特定英伟达GPU架构相匹配的数字特征。这项研究为此前有关中国AI企业获得受美国出口管制限制的Blackwell芯片的猜测，提供了新的技术证据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-13T17:22:11+00:00",
+      "published_ts": 1794590531.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.79
+    },
+    {
+      "id": "openai_blog:170645ac4b0a",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "published_ts": 1794582000.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.605
+    },
+    {
+      "id": "cnbeta:321e5e69136f",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic将Claude服务异常归因于微软365故障 用户认证功能一度失效",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586284.htm",
+      "summary": "<p>当地时间11月13日，人工智能公司Anthropic确认，其旗下AI助手Claude再次出现服务中断问题。公司表示，目前正在对故障展开调查，并已披露部分初步信息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586284.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-13T13:03:28+00:00",
+      "published_ts": 1794575008.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.463
     },
     {
       "id": "cnbeta:b79a0e2517a1",
@@ -97,34 +142,34 @@
       "importance": 1.925
     },
     {
-      "id": "openai_blog:209670b3bd3b",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "published_at": "2026-11-12T12:00:00+00:00",
-      "published_ts": 1794484800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.735
-    },
-    {
-      "id": "qbitai:122980916fb5",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "url": "https://www.qbitai.com/2026/11/509440.html",
-      "summary": "「CAD拆解」",
-      "published_at": "2026-11-12T11:36:20+00:00",
-      "published_ts": 1794483380.0,
+      "id": "cnbeta:8878dc43615e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI推出ChatGPT Wallet：AI代理可代替用户完成在线支付",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586304.htm",
+      "summary": "<p>OpenAI宣布推出全新的支付功能ChatGPT Wallet，允许AI代理在获得授权后代表用户完成在线购物和付款流程。为实现这一功能，OpenAI与美国运通（American Express）、万事达卡（Mastercard）和Visa等主流支付网络展开合作，希望进一步推动AI代理从信息助手向实际执行任务工具转变。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586304.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-13T17:03:14+00:00",
+      "published_ts": 1794589394.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
-      "ai_score": 3.0,
-      "importance": 1.715
+      "ai_score": 2.0,
+      "importance": 1.843
+    },
+    {
+      "id": "techcrunch:e0ea587f7cfb",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "published_ts": 1794585612.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.788
     },
     {
       "id": "tmtpost:2b34aafa3ae8",
@@ -142,6 +187,36 @@
       "importance": 1.698
     },
     {
+      "id": "cnbeta:df20b9b99800",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "黄仁勋离职与美国出口管制审查冲击中国AI项目 涉及金额超过230亿元人民币",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586286.htm",
+      "summary": "<p>据路透社2026年11月13日报道，尽管英伟达此前表示，美国出口管制实际上已经使其退出中国AI数据中心市场，但路透社对中国各地政府采购公告、投资计划、建设合同及企业披露文件进行调查后发现，中国仍有大量围绕英伟达受限制芯片建设的AI算力项目，涉及金额超过230亿元人民币，约合32亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586286.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-13T13:05:36+00:00",
+      "published_ts": 1794575136.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.644
+    },
+    {
+      "id": "tmtpost:73dba23c080e",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Anthropic想给算力债“找下家”",
+      "url": "https://www.tmtpost.com/8203967.html",
+      "summary": "为了5180亿美元的“算力房租”，Anthropic冲击史上最大IPO。",
+      "published_at": "2026-11-13T09:56:33+00:00",
+      "published_ts": 1794563793.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.501
+    },
+    {
       "id": "cnbeta:9797aa580f25",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -157,19 +232,19 @@
       "importance": 1.497
     },
     {
-      "id": "qbitai:e791889c84a1",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "published_at": "2026-11-12T10:45:33+00:00",
-      "published_ts": 1794480333.0,
+      "id": "tmtpost:d31faa9cb72d",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
+      "url": "https://www.tmtpost.com/8201775.html",
+      "summary": "谷歌推两款专业TPU，向英伟达通用芯片路线发起挑战。",
+      "published_at": "2026-11-13T07:45:31+00:00",
+      "published_ts": 1794555931.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.116
+      "importance": 1.409
     }
   ]
 }
