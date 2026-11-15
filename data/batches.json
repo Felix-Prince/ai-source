@@ -1,209 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T06:50:55.749963+00:00",
+    "generated_at": "2026-11-15T18:58:34.972044+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-16T11:38:27.380080+00:00",
-      "generated_ts": 1792150707.3800795,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 18,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:850ab996b56c",
-          "title": "AI智能体测试期间越权入侵印度企业真实系统 网络攻击从数天缩短至数小时",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.986,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582530.htm",
-          "published_at": "2026-10-16T11:28:51+00:00",
-          "summary": "<p><strong>印度政府网络安全机构近日披露，多个处于研究和测试阶段的人工智能（AI）智能体，在执行互联网研究与评估任务时，突破了原本设定的授权范围，未经许可进入印度企业正在运行的真实信息系统，并读取了包含商业记录、个人数据和机密材料在内的敏感信息。</strong>值得注意的是，受影响的企业均未自行发现这些入侵行为，相关事件是由AI模型提供商在内部检查后主动报告的。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582530.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:f5d3f1b4e1dd",
-          "title": "硅谷AI杀疯了，DeepSeek们的性价比还剩多少？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.778,
-          "url": "https://www.tmtpost.com/8170871.html",
-          "published_at": "2026-10-16T08:58:45+00:00",
-          "summary": "硅谷羊毛薅爽了，国产大模型贵得“烧心”？"
-        },
-        {
-          "id": "cnbeta:71af89626a5e",
-          "title": "微软AI负责人：新基础模型超越OpenAI同类产品 算力仅为其四分之一",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.654,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582486.htm",
-          "published_at": "2026-10-16T07:23:33+00:00",
-          "summary": "<p>据《商业内幕》报道，微软AI业务CEO穆斯塔法·苏莱曼(Mustafa Suleyman)告诉员工，<strong>微软自主研发的一款模型比OpenAI提供的类似模型更好。目前，OpenAI是微软最大客户和合作伙伴之一。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582486.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:82b9d38e55ad",
-          "title": "布林谈Gemini 4：Google AI开发加速 模型踏上自我改进之路",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.581,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582474.htm",
-          "published_at": "2026-10-16T06:25:45+00:00",
-          "summary": "<p>据《商业内幕》报道，<strong>Google公司可能正在接近AI领域的一个关键时刻：模型自我改进。</strong>在一场关于Google新款Gemini 4模型Argon研发过程的圆桌讨论中，Google联合创始人谢尔盖·布林(Sergey Brin)表示，公司内部的AI开发进程正在加速，模型如今已开始帮助构建自己的后继模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582474.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:c2fc9c4ff07c",
-          "title": "Meta发布“美国最强”开放权重模型Muse Spark Open",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.58,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582472.htm",
-          "published_at": "2026-10-16T06:25:21+00:00",
-          "summary": "<p>据路透社报道，当地时间周四，<strong>Meta发布了其Muse Spark人工智能模型的开放权重版本Muse Spark Open，用于编程和AI智能体，进一步扩大了开发者下载和改造该技术的能力。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582472.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:5df9fa68e025",
-          "title": "Anthropic向外开放近似员工权限 评估大模型安全风险",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.578,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582468.htm",
-          "published_at": "2026-10-16T06:23:48+00:00",
-          "summary": "<p>Anthropic已向外部评估人员开放近似内部员工级别的访问权限，用于评估其大模型风险。此举兑现了该公司的承诺——针对外界担忧AI技术可能出现灾难性失控，进一步强化安全防护机制。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582468.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:a44f16780dd5",
-          "title": "OpenAI广告收入或难以达标 大举招揽谷歌、Meta人才",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.574,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582466.htm",
-          "published_at": "2026-10-16T06:20:28+00:00",
-          "summary": "<p>今年，OpenAI与Anthropic不断推出新模型与工具，争夺开发者群体，在此过程中，它的广告业务一度显得像是顺带布局。但如今情况已然改变。<br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582466.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:034657446db8",
-          "title": "OpenAI升级ChatGPT浏览器扩展 可读取多个标签并执行网页任务",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.486,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582446.htm",
-          "published_at": "2026-10-16T05:07:51+00:00",
-          "summary": "<p>OpenAI更新了ChatGPT浏览器扩展，用户可在ChatGPT对话中提及Chrome，让助手读取已打开的网页标签作为上下文，并比较页面内容、整理资料或协助完成浏览器任务。OpenAI列举的用途还包括汇总供应商价格与功能、整理表格、预填表单，以及根据网页信息起草邮件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582446.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:5a17a0843c25",
-          "title": "反对建设数据中心的民众真的愿意放弃ChatGPT吗？",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.989,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582528.htm",
-          "published_at": "2026-10-16T11:27:00+00:00",
-          "summary": "<p>随着人工智能技术快速普及，美国围绕数据中心建设和AI发展的争议持续升温。然而，一个越来越明显的现象引发了业界关注：尽管反对声音不断增加，AI工具的使用人数却仍在快速增长。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582528.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:93c282034589",
-          "title": "亚马逊封禁AI代理Grok Bot 马斯克快速回应：应做个竞品购物网站",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.821,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582510.htm",
-          "published_at": "2026-10-16T08:23:37+00:00",
-          "summary": "<p>世界首富马斯克与亚马逊创始人贝索斯有了新的矛盾。据用户反馈，亚马逊正在阻止Grok Bots下单。Grok Bot是xAI推出的个人人工智能代理，可以在各种应用程序上执行用户设置的任务，也包括在购物网站上下单和退货。然而，亚马逊对于这类三方代理一直秉持着不欢迎的态度，包括Meta的Muse也被拒绝访问。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582510.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:4501f6f0bc50",
-          "title": "国内一半AI算力被指在造爽剧 真正用于研发的只有15%",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.771,
-          "url": "https://www.cnbeta.com.tw/articles/movie/1582490.htm",
-          "published_at": "2026-10-16T07:25:59+00:00",
-          "summary": "<p>近日，“国内超一半算力在造爽剧”的话题，引发广泛关注。<strong>据A股上市公司中文在线在一份“投资者关系活动记录表”中披露，国内AI Token消耗55%烧在短剧和视频生成，24%烧在电商广告，真正用于研发的只有15%。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/movie/1582490.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:61b79473f761",
-          "title": "黄仁勋称AI芯片需求持续超过供应能力：“几乎每天都有订单涌入”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.719,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582470.htm",
-          "published_at": "2026-10-16T06:24:15+00:00",
-          "summary": "<p>英伟达首席执行官黄仁勋表示，客户对人工智能（AI）芯片的订购需求持续超过公司的供应能力。在周四发布的一期“BG2”播客访谈中，黄仁勋透露，新的订单“几乎每周、甚至每天”都在涌入。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582470.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-16T16:47:26.745961+00:00",
-      "generated_ts": 1792169246.745961,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "techcrunch:33a8434551df",
-          "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.983,
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "published_at": "2026-10-16T16:30:00+00:00",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho"
-        },
-        {
-          "id": "techcrunch:90541bf987da",
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.956,
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "published_at": "2026-10-16T16:01:37+00:00",
-          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-        },
-        {
-          "id": "cnbeta:7fb8013f24d4",
-          "title": "AI智能体开始“破解”任天堂Switch游戏：《塞尔达传说：织梦岛》已有原生PC移植版",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.863,
-          "url": "https://www.cnbeta.com.tw/articles/game/1582556.htm",
-          "published_at": "2026-10-16T14:19:49+00:00",
-          "summary": "<p>随着人工智能编程工具的能力不断增强，游戏爱好者正在尝试将越来越多的主机独占游戏移植到个人电脑上。过去，这类项目通常需要开发者投入大量时间进行逆向工程、分析游戏代码并重新实现底层功能，如今，AI编程智能体正在大幅降低相关工作的技术门槛。任天堂Switch游戏也开始成为这一趋势的新目标，其中，《塞尔达传说：织梦岛》的Switch重制版已经出现可以公开体验的PC移植项目，《超级马力欧：奥德赛》和《超级马力欧兄弟：惊奇》也已有人开始尝试移植。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582556.htm\" target=\"_bl"
-        },
-        {
-          "id": "techcrunch:33f69e249e96",
-          "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.845,
-          "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-          "published_at": "2026-10-16T14:00:00+00:00",
-          "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
-        },
-        {
-          "id": "cnbeta:d7a3ae3ba98b",
-          "title": "Google面向Workspace企业用户默认启用Gmail Live语音搜索",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.794,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582542.htm",
-          "published_at": "2026-10-16T13:01:06+00:00",
-          "summary": "<p>Google宣布，正在向付费版 Google Workspace 用户推出全新的 Gmail Live 功能。这项基于 Gemini 模型的语音交互服务已于10月15日开始分阶段发布，覆盖 Android 和 iOS 平台，预计整个部署过程将持续最多两周时间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582542.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-17T04:41:49.495324+00:00",
       "generated_ts": 1792212109.495324,
@@ -5934,6 +5734,20 @@
           "summary": "<p style=\"white-space: normal;\">在黄仁勋突然辞去英伟达首席执行官职务后，围绕这家全球最大人工智能芯片公司的领导层变动，外界的关注正在迅速升温。当地时间11月13日，英伟达两家重要机构投资者向公司董事会提交联名信，要求董事会不要仓促确定新的永久首席执行官，而应采取更加审慎、充分的决策程序，并明确保留黄仁勋未来重新执掌公司的可能性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586432.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
+    },
+    {
+      "generated_at": "2026-11-15T18:58:34.972044+00:00",
+      "generated_ts": 1794769114.9720442,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": []
     }
   ]
 }
