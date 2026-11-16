@@ -1,64 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T18:58:34.972044+00:00",
+    "generated_at": "2026-11-16T06:50:01.152211+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-17T04:41:49.495324+00:00",
-      "generated_ts": 1792212109.495324,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:ff3ef0be7826",
-          "title": "【数智周报】 英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.821,
-          "url": "https://www.tmtpost.com/8171854.html",
-          "published_at": "2026-10-17T02:34:16+00:00",
-          "summary": "（10月12日~10月17日）英伟达与思科推出新型光模块，以扩展AI工厂；英国机构呼吁加强前沿AI安全管理；OpenAI宣称攻克数百未解数学难题；Anthropic据悉第三季度营收跃升至168亿美元；Meta推出“最强”开源权重大模型"
-        },
-        {
-          "id": "techcrunch:6a594409974e",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.619,
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "published_at": "2026-10-16T21:22:28+00:00",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
-        },
-        {
-          "id": "qbitai:4b7d714ebc33",
-          "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.517,
-          "url": "https://www.qbitai.com/2026/10/503701.html",
-          "published_at": "2026-10-16T05:04:59+00:00",
-          "summary": "谷歌就是季节性气候模型公司"
-        },
-        {
-          "id": "qbitai:f51d35c2df4b",
-          "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.1,
-          "url": "https://www.qbitai.com/2026/10/503843.html",
-          "published_at": "2026-10-16T08:00:31+00:00",
-          "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-17T10:58:04.923187+00:00",
       "generated_ts": 1792234684.9231865,
@@ -5748,6 +5693,91 @@
         "cnbeta": 50
       },
       "items": []
+    },
+    {
+      "generated_at": "2026-11-16T06:50:01.152211+00:00",
+      "generated_ts": 1794811801.1522107,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:9bf672ee4331",
+          "title": "郭明錤：英伟达换帅，GoogleTPU借OpenAI、Anthropic订单扩大业务",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.994,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586604.htm",
+          "published_at": "2026-11-16T06:45:37+00:00",
+          "summary": "<p>天风国际证券知名分析师郭明錤周一发文称，在英伟达CEO接班人选存在不确定性的情况下，Google的TPU芯片正借助OpenAI、Anthropic的订单开拓业务。郭明錤在X上发文称，根据他的最新产业调查，受益于OpenAI和Anthropic的强劲新订单，GoogleTPU的出货能见度已延伸至2029年，优于英伟达GPU及其他AI芯片供应商(多数订单能见度为2027年第四季度至2028年第二季度)。出货能见度指的是企业能够明确看到或掌握未来多长时间的客户订单和出货计划。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/158660"
+        },
+        {
+          "id": "cnbeta:2a121f78fd34",
+          "title": "Anthropic即将登陆纳斯达克：寻求1.4万亿美元估值 被寄望接替英伟达成为AI新标杆",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.992,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586600.htm",
+          "published_at": "2026-11-16T06:44:39+00:00",
+          "summary": "<p>据彭博社报道，就在黄仁勋(Jensen Huang)上周经历声誉急剧崩塌之际，他的一家芯片大客户则有望跻身顶级上市公司行列。Anthropic即将进行史上规模最大的首次公开招股(IPO)，将AI投资者的希望、梦想与恐惧，全部押注在一家前沿AI模型开发商身上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586600.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e46fcfab3f55",
+          "title": "腾讯混元发布 Hy4 flash：单任务成本为 Hy4 二十分之一",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.955,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586564.htm",
+          "published_at": "2026-11-16T06:18:18+00:00",
+          "summary": "<p>今日，腾讯混元最新语言模型 Hy4 flash 发布，模型总参数量为 224B （其中 64B Engram 参数），激活参数仅为 12B，支持多模态和 1M 上下文长度。Hy4 flash 是迄今为止最高性价比的 Hy 模型：每百万 Token 输入 0.5 元、输出 2 元，命中缓存时仅需 0.02 元，价格相比 Hy4 大幅降低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586564.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f2a2242ce1f2",
+          "title": "阿里Qwen4发布：性能升级，性价比更优，单任务平均费用直降6成",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.954,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586562.htm",
+          "published_at": "2026-11-16T06:18:02+00:00",
+          "summary": "<p>阿里巴巴发布新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586562.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:49155f25a38e",
+          "title": "DeepSeek被曝收紧App及网页端额度 长对话与每日使用受限",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.981,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586584.htm",
+          "published_at": "2026-11-16T06:30:07+00:00",
+          "summary": "<p>11月16日，DeepSeek被曝对App及网页端部分使用场景实施限制，涉及长期未活跃的长对话、单次输入文字数量和每日对话额度。多名用户近日收到DeepSeek平台提示，称受算力不足影响，不再支持超过7天未活跃的长对话。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586584.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:5cd3415ac331",
+          "title": "SK海力士宣布未来五年投入10.5亿美元扶持本土芯片供应商",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.966,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586560.htm",
+          "published_at": "2026-11-16T06:14:52+00:00",
+          "summary": "<p>韩国存储芯片巨头SK海力士宣布，计划在未来五年投入1.4万亿韩元，约合10.5亿美元，用于扶持韩国本土半导体材料、零部件及设备供应商。随着人工智能芯片市场竞争持续升温，SK海力士希望通过强化本土供应链，降低对关键技术和设备外部供应的依赖，同时帮助中小型企业提升技术能力和商业化水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586560.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:31a208ae8ff8",
+          "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.466,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+          "published_at": "2026-11-15T20:05:09+00:00",
+          "summary": "<p>美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
     }
   ]
 }
