@@ -1,164 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T06:50:01.152211+00:00",
+    "generated_at": "2026-11-16T22:21:16.756374+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-17T10:58:04.923187+00:00",
-      "generated_ts": 1792234684.9231865,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:1f3aad0b0505",
-          "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.868,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
-          "published_at": "2026-10-17T09:24:19+00:00",
-          "summary": "<p>DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582656.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:aa494aba5ae8",
-          "title": "要么不用工具，要么交出内容？Meta新条款引争议",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.655,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582634.htm",
-          "published_at": "2026-10-17T06:44:35+00:00",
-          "summary": "<p>Gizmodo报道，社交巨头Meta更新Meta Business Suite商业账号服务条款，新规将于10月30日正式落地。企业只要使用Meta商业账号开展广告、店铺运营业务，即视作默许Meta爬虫抓取自身官网公开网页内容，供 Meta AI大模型训练使用，该条款在行业引发巨大争议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582634.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:93f85209c1ab",
-          "title": "Claude半小时解开二十多年密码学谜题",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.651,
-          "url": "https://www.cnbeta.com.tw/articles/science/1582630.htm",
-          "published_at": "2026-10-17T06:41:31+00:00",
-          "summary": "<p>10 月 16 日，Anthropic 公布了一项特殊的研究成果。一名员工将一道困扰密码学界二十多年的问题交给 Claude 内部研究模型，在没有提供关键线索的情况下，Claude 用了不到半小时，追溯出五条 NIST 椭圆曲线种子的生成方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582630.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:243cd21ac684",
-          "title": "大模型公司迎来“利润大考”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.628,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582602.htm",
-          "published_at": "2026-10-17T06:22:45+00:00",
-          "summary": "<p>近日，Anthropic在旧金山面向潜在IPO投资者披露最新经营数据，2026年第三季度收入168亿美元，环比增长45%，一季度、二季度分别为47亿美元和116亿美元；公司同时称，三季度已实现“调整后盈利”，并录得正向现金流。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:19d1b0e27623",
-          "title": "国产大模型攻克世界级数学难题 AI正在改写数学研究",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.623,
-          "url": "https://www.cnbeta.com.tw/articles/science/1582598.htm",
-          "published_at": "2026-10-17T06:19:24+00:00",
-          "summary": "<p>近日，困扰数学界30余年的世界级难题三维Ghys猜想宣告破解。这是AI攻克世界级数学难题的又一案例，但这次破解难题的不是海外模型，而是中国团队和国产大模型的配合。据上海人工智能实验室消息，实验室访问学者、大湾区大学教授许地生团队基于书生科学多模态大模型S2，通过人机协同完成了三维Ghys猜想证明。而北京大学董彬教授、刘若川院士团队利用其开发的SHEAF框架对本次证明完成形式化验证。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1582598.htm\" target=\"_blank\"><strong>阅读全文</stron"
-        },
-        {
-          "id": "cnbeta:c894020e470b",
-          "title": "Anthropic已私下向美国国会部分议员推荐其AI监管法案草案",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.619,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582596.htm",
-          "published_at": "2026-10-17T06:16:11+00:00",
-          "summary": "<p>美国人工智能公司Anthropic正在推动一项针对先进人工智能系统的安全监管法案，希望为前沿AI模型的开发、测试和部署建立明确的法律规则。根据美国政治新闻网站Politico于2026年10月16日的报道，Anthropic已私下向美国国会山的部分议员介绍这项法案草案。方案试图在防范先进AI可能造成的严重危害与避免政府过度干预技术研发之间建立界限。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582596.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:77c9336d1d7d",
-          "title": "通用大模型正在重做机器人的研发与交付",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.916,
-          "url": "https://www.tmtpost.com/8171971.html",
-          "published_at": "2026-10-17T09:29:15+00:00",
-          "summary": "VLA没有死，死的是旧分工。"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-17T15:44:14.407606+00:00",
-      "generated_ts": 1792251854.4076061,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "the_verge:4c252f0ad0ec",
-          "title": "Websites are closing their doors to AI agents",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 2.772,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "published_at": "2026-10-17T13:00:00+00:00",
-          "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't"
-        },
-        {
-          "id": "cnbeta:4b894fc4d286",
-          "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.696,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582664.htm",
-          "published_at": "2026-10-17T12:01:56+00:00",
-          "summary": "<p>Anthropic联合创始人杰克·克拉克（Jack Clark）周六表示，人工智能能力的迅速提升将推动各领域发生更为迅猛的变革；该公司内部的一项模型预测，在特定条件下，到2030年，人工智能有望使美国经济产出增加近50%，达到44万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582664.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:f364d94e2bb3",
-          "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.982,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
-          "published_at": "2026-10-17T15:25:10+00:00",
-          "summary": "<p>英特尔确认，下一代 Razor Lake-AX 系统级芯片将于 2028 年推出，其 AI 算力将达到 700 TOPS，约为现有 Panther Lake 平台的 3.88 倍。英特尔高级副总裁 Cho Min-sung 在韩国首尔三成洞举行的“半导体驱动人形机器人”研讨会上透露了这一路线图。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582688.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-17T20:44:57.895284+00:00",
-      "generated_ts": 1792269897.895284,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:79fc38ad7b2b",
-          "title": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.988,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582696.htm",
-          "published_at": "2026-10-17T20:36:32+00:00",
-          "summary": "<p>据韩国媒体The Elec报道，美光正与主要客户讨论面向物理AI的新型内存产品，开发名为“边缘推理内存”（Edge Inference Memory，EIM）的方案，重点应用包括人形机器人、自主驾驶以及AR、VR设备。美光高管李哲在韩国半导体展SEDEX 2026相关活动上表示，物理AI市场正在快速发展，公司正与客户推进适配新市场的产品开发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-18T04:47:04.431257+00:00",
       "generated_ts": 1792298824.4312572,
@@ -5776,6 +5621,161 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
           "published_at": "2026-11-15T20:05:09+00:00",
           "summary": "<p>美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-16T22:21:16.756374+00:00",
+      "generated_ts": 1794867676.7563741,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:c09f564da3c8",
+          "title": "DeepSeek“限额”？多名网友反馈收到提示：使用额度已达上限",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.483,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586666.htm",
+          "published_at": "2026-11-16T15:47:58+00:00",
+          "summary": "<p>国产大模型DeepSeek的免费使用额度疑似遭到限制。11月16日，“DeepSeek使用额度已达上限”登上微博热搜。不少用户在社交媒体上反映，DeepSeek对App及网页版的使用额度进行了调整，包括限制长对话、每日使用额度以及单次文字输入长度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586666.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:247b3c774c0c",
+          "title": "OpenAI曾洽谈以超50亿美元收购一家解析AI“思考”机制的初创公司",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.479,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586660.htm",
+          "published_at": "2026-11-16T15:44:42+00:00",
+          "summary": "<p>今年夏天，OpenAI 内部团队急于搞清楚自家 AI 为何会在公司内外引发安全漏洞。在此期间，包括 CEO 山姆・奥特曼在内的多位高层，与初创企业 Goodfire 进行过多次会谈。Goodfire 得到 Anthropic 投资，其技术旨在弄清 AI 模型产生特定行为的底层原因，以及如何防止 AI 失控。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586660.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:2c9e80cbbcbb",
+          "title": "美国政府拟封堵中国企业通过海外数据中心远程获取算力的渠道",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.468,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586650.htm",
+          "published_at": "2026-11-16T15:36:04+00:00",
+          "summary": "<p>美国政府正在进一步收紧先进人工智能芯片出口管制，试图阻止中国等受限制国家的企业绕过直接出口禁令，通过位于第三国的数据中心远程使用美国先进AI芯片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586650.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:876261c3a786",
+          "title": "英媒：黄仁勋离场打击美开放模型，利好Anthropic、OpenAI",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.053,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586620.htm",
+          "published_at": "2026-11-16T09:13:29+00:00",
+          "summary": "<p>11月16日，据《金融时报》报道，黄仁勋(Jensen Huang)从英伟达辞职，给开发“开放”AI模型的企业蒙上了一层阴影，使得行业力量平衡重新向Anthropic、OpenAI等“封闭式”前沿模型实验室倾斜。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586620.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "openai_blog:fef5975aa4cc",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 2.04,
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "published_at": "2026-11-16T09:00:00+00:00",
+          "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+        },
+        {
+          "id": "qbitai:8d79c2d6bce3",
+          "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.974,
+          "url": "https://www.qbitai.com/2026/11/510486.html",
+          "published_at": "2026-11-16T07:51:57+00:00",
+          "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+        },
+        {
+          "id": "the_verge:25875a105725",
+          "title": "California sues OpenAI over rogue AI hacking incidents",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.91,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+          "published_at": "2026-11-16T20:46:01+00:00",
+          "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ove"
+        },
+        {
+          "id": "openai_blog:d77ad406c000",
+          "title": "More ways to move care forward with ChatGPT for Healthcare",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.871,
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "published_at": "2026-11-16T06:00:00+00:00",
+          "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+        },
+        {
+          "id": "techcrunch:922026894cc3",
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.713,
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+          "published_at": "2026-11-16T17:00:00+00:00",
+          "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+        },
+        {
+          "id": "cnbeta:90a47c0aa96e",
+          "title": "NVIDIA发布Rubin HPC GPU 加速科学、工程及分析领域的智能体应用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.713,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586670.htm",
+          "published_at": "2026-11-16T16:59:24+00:00",
+          "summary": "<p>英伟达在SC26大会上发布面向高性能计算的Rubin HPC GPU，旨在加速科学、工程和数据分析领域的模拟与数据处理，帮助AI智能体更快完成从假设到验证的科研与设计流程。该产品属于英伟达Vera Rubin平台，预计将于2028年上市。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586670.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:c4eb0dc8811c",
+          "title": "RTX 4090 Ti工程样卡现身中国二手平台 传搭载18176个CUDA核心",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.478,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586636.htm",
+          "published_at": "2026-11-16T11:52:28+00:00",
+          "summary": "<p>一块据称是英伟达未发布的GeForce RTX 4090 Ti工程样卡，近日出现在中国二手交易平台。卖家展示的GPU-Z截图标出18176个CUDA核心、192个光栅单元和568个纹理单元；相比正式版RTX 4090的16384个CUDA核心，核心数量多约11%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:a8af5a841a40",
+          "title": "美参议员炮轰商务部监管失职：英伟达AI芯片流向中国引发国家安全争议",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.476,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586634.htm",
+          "published_at": "2026-11-16T11:49:30+00:00",
+          "summary": "<p>随着英伟达前首席执行官黄仁勋相关争议持续发酵，美国国会内部围绕先进人工智能芯片出口管制的问题再度升温。美国参议院商务委员会资深民主党议员玛丽亚·坎特韦尔近日公开致信商务部长霍华德·卢特尼克，指责其领导下的美国商务部未能有效阻止先进AI芯片流向与中国有关联的企业，从而损害了美国国家安全利益，并削弱了美国在人工智能领域的技术领先优势。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586634.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6a9017f39557",
+          "title": "开发者分析称Nintendo Switch 2采用桌面版DLSS模型并新增两种预设",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.397,
+          "url": "https://www.cnbeta.com.tw/articles/game/1586628.htm",
+          "published_at": "2026-11-16T09:55:17+00:00",
+          "summary": "<p>开发者kurumuz分析Nintendo Switch 2内置模型后称，该主机采用了桌面GPU所用的DLSS模型和预设，并额外加入桌面端没有的H、I预设。相关文件包含DLSS 4，但不包含DLSS 4.5。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1586628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:d8a60a3a70c6",
+          "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.148,
+          "url": "https://www.qbitai.com/2026/11/510369.html",
+          "published_at": "2026-11-16T03:07:39+00:00",
+          "summary": "是石科技最新发布多模态模型服务"
         }
       ]
     }
