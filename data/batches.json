@@ -1,74 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T22:21:16.756374+00:00",
+    "generated_at": "2026-11-17T08:09:47.194043+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-18T04:47:04.431257+00:00",
-      "generated_ts": 1792298824.4312572,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "techcrunch:3487b0a62953",
-          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.249,
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "published_at": "2026-10-17T18:48:08+00:00",
-          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-        },
-        {
-          "id": "tmtpost:af7acff5a6b6",
-          "title": "Huggingface发榜，中国模型StartLux稳居决策模型SOTA",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.974,
-          "url": "https://www.tmtpost.com/8172283.html",
-          "published_at": "2026-10-18T04:20:06+00:00",
-          "summary": "当 AI 从“生成内容”迈向“执行任务”，一个能够控制计算成本、理解关键细节并准确表达不确定性的决策中枢，将成为智能体和全本地智能系统不可或缺的基础设施。"
-        },
-        {
-          "id": "qbitai:615c2ffa3ad0",
-          "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.866,
-          "url": "https://www.qbitai.com/2026/10/504067.html",
-          "published_at": "2026-10-17T12:21:09+00:00",
-          "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API"
-        },
-        {
-          "id": "cnbeta:24a0d52bdb4e",
-          "title": "Meta修改了商业服务条款 外界质疑其试图为抓取网站内容训练AI铺路",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.657,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582704.htm",
-          "published_at": "2026-10-17T22:16:47+00:00",
-          "summary": "<p>当地时间10月17日，Meta修改了即将生效的商业服务条款，删除了一段此前引发媒体出版商和法律专家强烈担忧的表述。原有条款曾明确提到，Meta可以使用从相关网站、网页或网址获取的内容，用于开发、改进、研究和训练其产品及服务。由于这一措辞可能涉及新闻网站等第三方网站的内容，外界担心Meta试图借助商业服务协议，为大规模抓取互联网内容并用于人工智能训练提供依据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582704.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "techcrunch:f2dae0982a67",
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 1.622,
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "published_at": "2026-10-17T21:31:32+00:00",
-          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-18T11:24:14.727457+00:00",
       "generated_ts": 1792322654.7274568,
@@ -5776,6 +5711,81 @@
           "url": "https://www.qbitai.com/2026/11/510369.html",
           "published_at": "2026-11-16T03:07:39+00:00",
           "summary": "是石科技最新发布多模态模型服务"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-17T08:09:47.194043+00:00",
+      "generated_ts": 1794902987.1940434,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:927e91cc9544",
+          "title": "​Claude Mythos将AMD GPU适配周期缩短至约三天 削弱英伟达CUDA生态壁垒",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.81,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586700.htm",
+          "published_at": "2026-11-17T05:53:38+00:00",
+          "summary": "<p>Anthropic表示，其最新AI模型Claude Mythos Preview已经大幅缩短了将人工智能模型部署到AMD GPU平台所需的软件开发时间。按照该公司的说法，过去这项工作通常需要6至12个月，动用数十名工程师协同完成，而Claude Mythos几乎无需人工干预，就能在约三天内完成关键的软件适配工作。这一进展可能削弱英伟达长期依靠CUDA软件生态建立的竞争壁垒。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7e054f72081d",
+          "title": "加州起诉OpenAI：指控AI智能体多次失控攻击网络平台 构成公共妨害",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.282,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586680.htm",
+          "published_at": "2026-11-16T22:41:07+00:00",
+          "summary": "<p>加利福尼亚州总检察长罗布·邦塔当地时间11月16日宣布，已在旧金山高等法院起诉OpenAI，指控其在缺乏必要安全防护与监控的情况下开发、测试先进人工智能模型，误导并危害公众。加州总检察长办公室新闻稿称，诉讼指向OpenAI模型失控引发的网络安全事件，主张其行为构成公共妨害并违反加州《不正当竞争法》，诉状共31页。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586680.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:25ee4889b20e",
+          "title": "DeepSeek旧长对话被限额无法继续 聊天记录迁移工具汇总",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.89,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586724.htm",
+          "published_at": "2026-11-17T06:12:27+00:00",
+          "summary": "<p>DeepSeek这两天接连出了两条新闻，放在一起看，多少有点让人哭笑不得。11月13日，DeepSeek宣布开放一整套应用API。联网搜索、深度思考搜索、读PDF、网页阅读、语音识别和语音合成，开发者都可以接入自己的产品。<strong>连现成的聊天客户端代码，官方也一并开源了</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586724.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8956f099bb7c",
+          "title": "对手Anthropic抢先上市 奥特曼：不担心OpenAI IPO计划",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.889,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586720.htm",
+          "published_at": "2026-11-17T06:11:36+00:00",
+          "summary": "<p>据《商业内幕》报道，OpenAI CEO萨姆·奥特曼(Sam Altman)对于公司可能成为Anthropic的陪衬，沦为行业老二的说法，不以为然。奥特曼周一参加了Semafor“硅谷与世界”大会的现场访谈，当被问及OpenAI会不会像当年Lyft被Uber压制那样，竞争不过Anthropic时，他回答说，“这没什么好担心的”，引发了现场观众一阵笑声。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586720.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6da21980932f",
+          "title": "Google预警：“全自动AI网络攻击”威胁进入新阶段",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.853,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586684.htm",
+          "published_at": "2026-11-17T05:31:39+00:00",
+          "summary": "<p>随着人工智能技术在日常生活和商业领域的快速普及，网络犯罪分子也正在将这一技术转化为新的攻击工具。Google威胁情报团队（GTIG）近日发布报告指出，黑客组织已经从简单地利用AI生成指令，发展到部署自主化、多智能体攻击框架来自动发现和利用安全漏洞，网络攻击自动化程度正在显著提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586684.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:0f57704d7c59",
+          "title": "Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.669,
+          "url": "https://www.tmtpost.com/8207932.html",
+          "published_at": "2026-11-17T01:54:04+00:00",
+          "summary": "Jensen Huang has resigned as Nvidia’s CEO amid personal scandals, rattling a company long identified with one leader. For Chinese firms, the shock runs through export policy, GPU supply, overseas rental capacity, and domestic substitution. Tighter controls and delivery risk may accelerate local chip"
         }
       ]
     }
