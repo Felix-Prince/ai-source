@@ -1,133 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T08:09:47.194043+00:00",
+    "generated_at": "2026-11-17T21:05:58.047548+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-18T11:24:14.727457+00:00",
-      "generated_ts": 1792322654.7274568,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:70fc9013f763",
-          "title": "DeepSeek V4.1 Flash成本低到发指：1美元13亿Token",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.609,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582746.htm",
-          "published_at": "2026-10-18T06:34:18+00:00",
-          "summary": "<p>DeepSeek 发布 V4.1 Flash-1017 大模型。在市场普遍期待国产 AI 大模型更新之际，DeepSeek 率先推出新版本，本次升级带来大幅性能提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582746.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:3b39b7f34dce",
-          "title": "Anthropic联合创始人克拉克：AI能力快速进步 或大幅提振美国GDP",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.595,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582732.htm",
-          "published_at": "2026-10-18T06:22:37+00:00",
-          "summary": "<p>Anthropic联合创始人杰克・克拉克周六称，人工智能能力飞速进步，将在所有领域带来更快速的变革。该公司内部模型预测，在特定条件下，到2030年AI可以让美国经济产出提升近50%。克拉克在曼谷的国际货币基金组织与世界银行年会上发言表示，需要开展国际合作，为这项具有变革性的技术制定“非同寻常且严苛的规则”，政策制定者采取行动的窗口期正在不断收窄。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582732.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:8e9aae4b956e",
-          "title": "苹果有望率先采用1.4纳米工艺芯片 台积电加速量产应对AI需求激增",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.931,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582758.htm",
-          "published_at": "2026-10-18T10:11:25+00:00",
-          "summary": "<p>随着人工智能热潮持续推高先进芯片需求，苹果有望在未来几年率先采用台积电最新的1.4纳米制程技术。业内分析认为，台积电正加快推进其代号A14（Angstrom）的1.4纳米工艺量产计划，目标是在2028年上半年启动大规模生产，而苹果预计将成为首批采用该工艺的客户之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582758.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-18T15:59:31.094239+00:00",
-      "generated_ts": 1792339171.0942392,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:5818114a50e7",
-          "title": "中美AI竞争的新变量：开源、算力与产业生态",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.885,
-          "url": "https://www.tmtpost.com/8172534.html",
-          "published_at": "2026-10-18T14:37:59+00:00",
-          "summary": "开源与闭源因此不再只是工程师之间的技术路线之争。对企业而言，它关系到商业模式和客户控制权；对产业而言，它决定模型能以多低的成本进入制造、物流、机器人和各类企业系统；对国家层面而言，芯片出口管制、知识产权和模型安全又把这种技术选择推向了更复杂的制度博弈。原来可以用“谁的模型更强”概括的竞争，正在变成一场跨越算力、模型、生态和实体产业的综合竞争。"
-        },
-        {
-          "id": "cnbeta:a8e7764e2105",
-          "title": "Linux内核取消AI代码披露要求 Linus Torvalds称强制声明“极其愚蠢”",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.967,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582782.htm",
-          "published_at": "2026-10-18T15:24:54+00:00",
-          "summary": "<p>Linux内核维护者日前达成共识，决定取消要求开发者披露人工智能辅助编程工具使用情况的规定。随着“Assisted-by”标签被正式废止，今后向Linux内核提交代码的开发者即使使用了大语言模型或其他AI工具，也无需在提交记录中专门说明。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582782.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:7d7b066edb7e",
-          "title": "索尼申请新专利：AI可在GPU渲染完成前预测下一帧画面以减少游戏卡顿",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.943,
-          "url": "https://www.cnbeta.com.tw/articles/game/1582776.htm",
-          "published_at": "2026-10-18T14:59:50+00:00",
-          "summary": "<p>索尼近日提交了一项新的人工智能技术专利，提出利用AI在显卡完成渲染之前预测游戏的下一帧画面，从而减少画面卡顿现象，并尽量避免部分现有帧生成技术带来的额外延迟问题。根据专利描述，该系统能够基于最近完成渲染的一帧画面，并结合玩家最新的控制器输入信息，提前生成预测画面，在下一帧正式渲染完成前显示给玩家。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582776.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "tmtpost:300edb15728a",
-          "title": "DeepSeek成立产品部！1.3亿人免费用的AI，变现模式会参考ChatGPT订阅吗？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.888,
-          "url": "https://www.tmtpost.com/8172203.html",
-          "published_at": "2026-10-18T13:59:34+00:00",
-          "summary": "DeepSeek成立产品部，是想要把1.30亿免费用户变成一份招股书里讲得清楚的变现路线图。"
-        },
-        {
-          "id": "cnbeta:63b73321d32c",
-          "title": "英伟达定制HBM计划促成罕见合作 三星与台积电联手开发3纳米基底芯片",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.794,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582766.htm",
-          "published_at": "2026-10-18T12:13:59+00:00",
-          "summary": "<p>随着人工智能市场对高带宽内存（HBM）的需求不断攀升，英伟达正在推动一项前所未有的供应链整合计划。根据最新消息，英伟达为下一代AI加速器开发的定制高带宽内存NVHBM，将促使长期竞争的三星电子和台积电展开合作，共同打造基于3纳米工艺的基底芯片（Base Die）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-18T20:54:28.905139+00:00",
-      "generated_ts": 1792356868.905139,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-10-19T04:55:43.631347+00:00",
       "generated_ts": 1792385743.631347,
@@ -5786,6 +5662,130 @@
           "url": "https://www.tmtpost.com/8207932.html",
           "published_at": "2026-11-17T01:54:04+00:00",
           "summary": "Jensen Huang has resigned as Nvidia’s CEO amid personal scandals, rattling a company long identified with one leader. For Chinese firms, the shock runs through export policy, GPU supply, overseas rental capacity, and domestic substitution. Tighter controls and delivery risk may accelerate local chip"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-17T21:05:58.047548+00:00",
+      "generated_ts": 1794949558.0475478,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "openai_blog:d23090748707",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 4.085,
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "published_at": "2026-11-17T17:45:00+00:00",
+          "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+        },
+        {
+          "id": "cnbeta:4ac57b662157",
+          "title": "OpenAI发布GPT-6.2 Astra与GPT-6.2 Sol：性能大幅提升 成本显著下降",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.953,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586832.htm",
+          "published_at": "2026-11-17T20:32:58+00:00",
+          "summary": "<p>OpenAI正式发布两款全新人工智能模型GPT-6.2 Astra和GPT-6.2 Sol，并宣称新模型在编程、科研、专业办公以及计算机操作等多个领域实现显著进步。与此同时，新模型能够以更少的Token消耗完成更多任务，让用户在现有使用额度下获得更高的工作效率。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586832.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:0e19ff9b5f3d",
+          "title": "英伟达收紧客户准入条件 警告涉华AI算力服务或面临法律风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.32,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586794.htm",
+          "published_at": "2026-11-17T12:11:56+00:00",
+          "summary": "<p>随着美国政府持续加强对先进人工智能技术流向中国的监管，英伟达近期已向部分客户发出警告，提醒他们关注与中国企业获取AI算力相关的潜在法律风险。知情人士透露，英伟达认为，一旦美国新的监管法律落地，无论是芯片供应商还是提供算力服务的数据中心运营商，都可能面临监管调查甚至法律责任。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586794.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:47a0a3fe77db",
+          "title": "中国企业正越来越多地利用美国先进AI模型生成的内容",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.084,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586784.htm",
+          "published_at": "2026-11-17T08:29:14+00:00",
+          "summary": "<p>中国企业正越来越多地利用美国先进人工智能模型生成的内容，训练本土AI模型，以应对美国持续收紧先进芯片出口限制带来的算力压力。路透社对300多份中国学术论文、专利、企业披露文件、招聘信息及政府文件进行审查后发现，这种被称为“模型蒸馏”（Distillation）的技术，已经从学术研究逐渐扩展到中国AI产业的实际应用之中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586784.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d8a24aa76267",
+          "title": "Google调整Gemini隐私策略 关闭历史记录后聊天保存期从72小时延长至两个月",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.972,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586834.htm",
+          "published_at": "2026-11-17T20:36:27+00:00",
+          "summary": "<p>Google宣布，将延长Gemini临时聊天以及关闭聊天历史记录情况下对话数据的保存时间。从原先最长72小时提升至约两个月。该调整将在未来数周内逐步向全球Gemini应用用户推出。Google表示，此举旨在随着人工智能系统能力不断增强，进一步提升平台的安全性和可靠性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586834.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:5b20edf066cb",
+          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.881,
+          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "published_at": "2026-11-17T18:58:01+00:00",
+          "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the "
+        },
+        {
+          "id": "techcrunch:e61f05e88820",
+          "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.805,
+          "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+          "published_at": "2026-11-17T17:32:25+00:00",
+          "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+        },
+        {
+          "id": "ars_technica:b1eab1344f74",
+          "title": "Google makes it easier to use Gemini without training AI on your data",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.768,
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "published_at": "2026-11-17T16:50:10+00:00",
+          "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+        },
+        {
+          "id": "cnbeta:3ed0af92707a",
+          "title": "马斯克称SpaceX的业务预测完全不依赖OpenAI订单",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.755,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586824.htm",
+          "published_at": "2026-11-17T16:34:40+00:00",
+          "summary": "<p>SpaceX首席执行官埃隆·马斯克近日表示，公司在业务规划中假设不会向OpenAI出售任何算力。这番表态针对OpenAI首席执行官萨姆·奥特曼此前有关AI数据中心需求可能被高估的言论。马斯克认为，如果OpenAI的产品无法带动算力需求快速增长，那么问题可能出在产品本身，而不是数据中心建设规模过大。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "ars_technica:24e0e12545df",
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "source": "ars_technica",
+          "source_label": "Ars Technica",
+          "importance": 1.63,
+          "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "published_at": "2026-11-17T14:00:29+00:00",
+          "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+        },
+        {
+          "id": "qbitai:de21277e1ae3",
+          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.299,
+          "url": "https://www.qbitai.com/2026/11/510652.html",
+          "published_at": "2026-11-17T06:09:40+00:00",
+          "summary": "筛材料、找配方、开发新模型…拿下多项科研任务"
         }
       ]
     }
