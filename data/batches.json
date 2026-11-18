@@ -1,44 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T21:05:58.047548+00:00",
+    "generated_at": "2026-11-18T07:43:29.240911+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-19T04:55:43.631347+00:00",
-      "generated_ts": 1792385743.631347,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:8a47ad5809cb",
-          "title": "英特尔推出拥有最高480GB LPDDR5X的D系列数据中心GPU 主打大模型推理",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.987,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582824.htm",
-          "published_at": "2026-10-19T04:46:48+00:00",
-          "summary": "<p>英特尔在开放计算项目全球峰会上公布了面向AI推理的GPU D系列，代号Crescent Island，产品页面称为D270。该加速卡最高可配置480GB LPDDR5X显存，英特尔称单卡可承载最多3000亿参数的模型，八卡系统则可运行参数量超过1万亿的模型，目标是处理长上下文和多路并发推理，而非传统游戏图形渲染。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:b2d221e11585",
-          "title": "中国第三季度经济增长回升至4.5% AI热潮带动出口 内需疲软仍是主要挑战",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.993,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582828.htm",
-          "published_at": "2026-10-19T04:48:20+00:00",
-          "summary": "<p>在全球人工智能产业持续扩张的背景下，中国经济第三季度增速有所回升。人工智能数据中心建设带动芯片、计算设备及相关电子产品需求增长，为中国制造业出口提供了新的动力，帮助这个全球第二大经济体缓解国内消费疲软和房地产市场持续低迷带来的压力。不过，出口表现强劲并不意味着经济各领域已经同步复苏，居民消费、私人投资和房地产市场仍面临挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582828.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-19T13:39:13.904901+00:00",
       "generated_ts": 1792417153.904901,
@@ -5786,6 +5751,91 @@
           "url": "https://www.qbitai.com/2026/11/510652.html",
           "published_at": "2026-11-17T06:09:40+00:00",
           "summary": "筛材料、找配方、开发新模型…拿下多项科研任务"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-18T07:43:29.240911+00:00",
+      "generated_ts": 1794987809.2409108,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:12a2e50ae3ef",
+          "title": "研究称先进AI模型在模拟场景中经常将平民等误判为军事目标",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.331,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586850.htm",
+          "published_at": "2026-11-17T22:59:32+00:00",
+          "summary": "<p>一项新的独立研究报告显示，在模拟场景中，先进人工智能模型经常将平民、救护车、投降士兵以及伊朗的一所学校误判为军事目标。Anthropic PBC的模型表现最差，OpenAI的模型则属于表现最好的一类，但仍然会出现错误。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586850.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:78629fa7d81d",
+          "title": "OpenAI董事：一年内发生AI灾难具备合理可能性",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.976,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586938.htm",
+          "published_at": "2026-11-18T07:18:30+00:00",
+          "summary": "<p><strong>知名AI安全研究者、OpenAI控股实体董事会成员保罗・克里斯蒂亚诺，在一档热门科技播客采访中，对人工智能的发展前景发出警示。他表示，未来人类完全失去对AI控制权的可能性正快速上升。</strong><br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586938.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e05d7b692e11",
+          "title": "微软CEO纳德拉警告单一AI模型垄断将冲击劳动与民主",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.971,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586928.htm",
+          "published_at": "2026-11-18T07:13:31+00:00",
+          "summary": "<p>微软CEO萨提亚·纳德拉开始从政治经济层面认真看待AGI。他关注的并非当前前沿模型是否拥有意识，而是通用人工智能广泛进入经济活动后，企业、劳动、资本和民主制度将如何重新组织。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586928.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:072203500129",
+          "title": "黄仁勋离任后战略转向 英伟达宣布停止向中国销售H200芯片",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.913,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586886.htm",
+          "published_at": "2026-11-18T06:10:52+00:00",
+          "summary": "<p>英伟达在管理层发生重大变动后，正式调整其中国市场策略。当地时间11月17日，英伟达代理首席执行官科莱特·克雷斯在公司财报电话会议上宣布，英伟达将不再向中国销售H200人工智能加速芯片，这意味着公司将结束此前利用特殊安排继续向中国市场供应先进AI芯片的做法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586886.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1db27c53cb61",
+          "title": "Google押注“汽化岩石”地热发电技术 为数据中心提供全天候清洁能源",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.902,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586880.htm",
+          "published_at": "2026-11-18T05:58:45+00:00",
+          "summary": "<p>随着人工智能产业快速发展，全球数据中心对电力的需求正以前所未有的速度攀升。为满足未来算力基础设施的能源需求，Google宣布与美国地热能源企业 Quaise Energy 达成一项具有里程碑意义的合作协议，将采购来自超高温岩石地热发电项目的50兆瓦连续电力，为其数据中心运营提供稳定能源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586880.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:4ef9f1491ac2",
+          "title": "当AI开始“造药”：谷歌系公司拿下AI制药最大单轮融资",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.875,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1586860.htm",
+          "published_at": "2026-11-18T05:29:07+00:00",
+          "summary": "<p>当地时间11月17日，Google系AI制药公司Isomorphic Labs宣布完成50亿美元（约合人民币355亿元）C轮融资，由Greenoaks和红杉资本联合领投，a16z等新投资者参与，Google母公司Alphabet继续大规模投资。淡马锡、Thrive Capital、MGX等原有投资者也参与其中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586860.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:8308cdad307e",
+          "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.468,
+          "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+          "published_at": "2026-11-17T21:00:55+00:00",
+          "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO"
         }
       ]
     }

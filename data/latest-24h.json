@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T21:05:58.047548+00:00",
-    "generated_ts": 1794949558.0475478,
+    "generated_at": "2026-11-18T07:43:29.240911+00:00",
+    "generated_ts": 1794987809.2409108,
     "window_hours": 24.0,
     "total": 17
   },
@@ -37,19 +37,19 @@
       "importance": 2.953
     },
     {
-      "id": "cnbeta:927e91cc9544",
+      "id": "cnbeta:12a2e50ae3ef",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "​Claude Mythos将AMD GPU适配周期缩短至约三天 削弱英伟达CUDA生态壁垒",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586700.htm",
-      "summary": "<p>Anthropic表示，其最新AI模型Claude Mythos Preview已经大幅缩短了将人工智能模型部署到AMD GPU平台所需的软件开发时间。按照该公司的说法，过去这项工作通常需要6至12个月，动用数十名工程师协同完成，而Claude Mythos几乎无需人工干预，就能在约三天内完成关键的软件适配工作。这一进展可能削弱英伟达长期依靠CUDA软件生态建立的竞争壁垒。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586700.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-17T05:53:38+00:00",
-      "published_ts": 1794894818.0,
+      "title": "研究称先进AI模型在模拟场景中经常将平民等误判为军事目标",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586850.htm",
+      "summary": "<p>一项新的独立研究报告显示，在模拟场景中，先进人工智能模型经常将平民、救护车、投降士兵以及伊朗的一所学校误判为军事目标。Anthropic PBC的模型表现最差，OpenAI的模型则属于表现最好的一类，但仍然会出现错误。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586850.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-17T22:59:32+00:00",
+      "published_ts": 1794956372.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.81
+      "importance": 2.331
     },
     {
       "id": "cnbeta:0e19ff9b5f3d",
@@ -67,21 +67,6 @@
       "importance": 2.32
     },
     {
-      "id": "cnbeta:7e054f72081d",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "加州起诉OpenAI：指控AI智能体多次失控攻击网络平台 构成公共妨害",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586680.htm",
-      "summary": "<p>加利福尼亚州总检察长罗布·邦塔当地时间11月16日宣布，已在旧金山高等法院起诉OpenAI，指控其在缺乏必要安全防护与监控的情况下开发、测试先进人工智能模型，误导并危害公众。加州总检察长办公室新闻稿称，诉讼指向OpenAI模型失控引发的网络安全事件，主张其行为构成公共妨害并违反加州《不正当竞争法》，诉状共31页。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586680.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-16T22:41:07+00:00",
-      "published_ts": 1794868867.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.282
-    },
-    {
       "id": "cnbeta:47a0a3fe77db",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -95,6 +80,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.084
+    },
+    {
+      "id": "cnbeta:78629fa7d81d",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI董事：一年内发生AI灾难具备合理可能性",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586938.htm",
+      "summary": "<p><strong>知名AI安全研究者、OpenAI控股实体董事会成员保罗・克里斯蒂亚诺，在一档热门科技播客采访中，对人工智能的发展前景发出警示。他表示，未来人类完全失去对AI控制权的可能性正快速上升。</strong><br /></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586938.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-18T07:18:30+00:00",
+      "published_ts": 1794986310.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.976
     },
     {
       "id": "cnbeta:d8a24aa76267",
@@ -112,34 +112,49 @@
       "importance": 1.972
     },
     {
-      "id": "cnbeta:25ee4889b20e",
+      "id": "cnbeta:e05d7b692e11",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "DeepSeek旧长对话被限额无法继续 聊天记录迁移工具汇总",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586724.htm",
-      "summary": "<p>DeepSeek这两天接连出了两条新闻，放在一起看，多少有点让人哭笑不得。11月13日，DeepSeek宣布开放一整套应用API。联网搜索、深度思考搜索、读PDF、网页阅读、语音识别和语音合成，开发者都可以接入自己的产品。<strong>连现成的聊天客户端代码，官方也一并开源了</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586724.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-17T06:12:27+00:00",
-      "published_ts": 1794895947.0,
+      "title": "微软CEO纳德拉警告单一AI模型垄断将冲击劳动与民主",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586928.htm",
+      "summary": "<p>微软CEO萨提亚·纳德拉开始从政治经济层面认真看待AGI。他关注的并非当前前沿模型是否拥有意识，而是通用人工智能广泛进入经济活动后，企业、劳动、资本和民主制度将如何重新组织。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586928.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-18T07:13:31+00:00",
+      "published_ts": 1794986011.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.89
+      "importance": 1.971
     },
     {
-      "id": "cnbeta:8956f099bb7c",
+      "id": "cnbeta:072203500129",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "对手Anthropic抢先上市 奥特曼：不担心OpenAI IPO计划",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586720.htm",
-      "summary": "<p>据《商业内幕》报道，OpenAI CEO萨姆·奥特曼(Sam Altman)对于公司可能成为Anthropic的陪衬，沦为行业老二的说法，不以为然。奥特曼周一参加了Semafor“硅谷与世界”大会的现场访谈，当被问及OpenAI会不会像当年Lyft被Uber压制那样，竞争不过Anthropic时，他回答说，“这没什么好担心的”，引发了现场观众一阵笑声。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586720.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-17T06:11:36+00:00",
-      "published_ts": 1794895896.0,
+      "title": "黄仁勋离任后战略转向 英伟达宣布停止向中国销售H200芯片",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586886.htm",
+      "summary": "<p>英伟达在管理层发生重大变动后，正式调整其中国市场策略。当地时间11月17日，英伟达代理首席执行官科莱特·克雷斯在公司财报电话会议上宣布，英伟达将不再向中国销售H200人工智能加速芯片，这意味着公司将结束此前利用特殊安排继续向中国市场供应先进AI芯片的做法。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586886.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-18T06:10:52+00:00",
+      "published_ts": 1794982252.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.889
+      "importance": 1.913
+    },
+    {
+      "id": "cnbeta:1db27c53cb61",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Google押注“汽化岩石”地热发电技术 为数据中心提供全天候清洁能源",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586880.htm",
+      "summary": "<p>随着人工智能产业快速发展，全球数据中心对电力的需求正以前所未有的速度攀升。为满足未来算力基础设施的能源需求，Google宣布与美国地热能源企业 Quaise Energy 达成一项具有里程碑意义的合作协议，将采购来自超高温岩石地热发电项目的50兆瓦连续电力，为其数据中心运营提供稳定能源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586880.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-18T05:58:45+00:00",
+      "published_ts": 1794981525.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.902
     },
     {
       "id": "the_verge:5b20edf066cb",
@@ -157,19 +172,19 @@
       "importance": 1.881
     },
     {
-      "id": "cnbeta:6da21980932f",
+      "id": "cnbeta:4ef9f1491ac2",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Google预警：“全自动AI网络攻击”威胁进入新阶段",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586684.htm",
-      "summary": "<p>随着人工智能技术在日常生活和商业领域的快速普及，网络犯罪分子也正在将这一技术转化为新的攻击工具。Google威胁情报团队（GTIG）近日发布报告指出，黑客组织已经从简单地利用AI生成指令，发展到部署自主化、多智能体攻击框架来自动发现和利用安全漏洞，网络攻击自动化程度正在显著提升。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586684.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-17T05:31:39+00:00",
-      "published_ts": 1794893499.0,
+      "title": "当AI开始“造药”：谷歌系公司拿下AI制药最大单轮融资",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1586860.htm",
+      "summary": "<p>当地时间11月17日，Google系AI制药公司Isomorphic Labs宣布完成50亿美元（约合人民币355亿元）C轮融资，由Greenoaks和红杉资本联合领投，a16z等新投资者参与，Google母公司Alphabet继续大规模投资。淡马锡、Thrive Capital、MGX等原有投资者也参与其中。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586860.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-18T05:29:07+00:00",
+      "published_ts": 1794979747.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.853
+      "importance": 1.875
     },
     {
       "id": "techcrunch:e61f05e88820",
@@ -217,21 +232,6 @@
       "importance": 1.755
     },
     {
-      "id": "tmtpost:0f57704d7c59",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next",
-      "url": "https://www.tmtpost.com/8207932.html",
-      "summary": "Jensen Huang has resigned as Nvidia’s CEO amid personal scandals, rattling a company long identified with one leader. For Chinese firms, the shock runs through export policy, GPU supply, overseas rental capacity, and domestic substitution. Tighter controls and delivery risk may accelerate local chips—even as advanced training hardware remains hard to replace.",
-      "published_at": "2026-11-17T01:54:04+00:00",
-      "published_ts": 1794880444.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.669
-    },
-    {
       "id": "ars_technica:24e0e12545df",
       "source": "ars_technica",
       "source_label": "Ars Technica",
@@ -247,19 +247,19 @@
       "importance": 1.63
     },
     {
-      "id": "qbitai:de21277e1ae3",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "url": "https://www.qbitai.com/2026/11/510652.html",
-      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
-      "published_at": "2026-11-17T06:09:40+00:00",
-      "published_ts": 1794895780.0,
-      "category": "domestic",
-      "lang": "zh",
+      "id": "the_verge:8308cdad307e",
+      "source": "the_verge",
+      "source_label": "The Verge",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+      "published_at": "2026-11-17T21:00:55+00:00",
+      "published_ts": 1794949255.0,
+      "category": "international",
+      "lang": "en",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.299
+      "importance": 1.468
     }
   ]
 }
