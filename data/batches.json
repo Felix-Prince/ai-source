@@ -1,149 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T20:43:52.599578+00:00",
+    "generated_at": "2026-11-19T07:40:09.640750+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-19T22:29:24.280173+00:00",
-      "generated_ts": 1792448964.2801728,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "techcrunch:59a071bf3961",
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.964,
-          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-          "published_at": "2026-10-19T22:04:28+00:00",
-          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-        },
-        {
-          "id": "techcrunch:51412f891fe2",
-          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-          "source": "techcrunch",
-          "source_label": "TechCrunch",
-          "importance": 2.75,
-          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-          "published_at": "2026-10-19T19:28:34+00:00",
-          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
-        },
-        {
-          "id": "cnbeta:fab2788cfe58",
-          "title": "Claude意外揪出Mac挖矿木马：12个CPU核心被占满 温度飙至112摄氏度",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.589,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1582936.htm",
-          "published_at": "2026-10-19T14:31:00+00:00",
-          "summary": "<p>一名使用Anthropic旗下Claude辅助开发软件的Mac用户，近日意外发现自己的电脑长期遭受加密货币挖矿恶意程序感染。令人意外的是，问题并非通过杀毒软件首先发现，而是在AI协助开发温度监测工具的过程中被主动识别出来。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582936.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-20T05:01:31.307358+00:00",
-      "generated_ts": 1792472491.3073578,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 20,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:ab9f97bb1ee7",
-          "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.912,
-          "url": "https://www.tmtpost.com/8173268.html",
-          "published_at": "2026-10-20T03:59:35+00:00",
-          "summary": "DeepSeek极客玩梗凡尔赛，折射中国大模型智力竞争"
-        },
-        {
-          "id": "qbitai:dd677775858b",
-          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 2.683,
-          "url": "https://www.qbitai.com/2026/10/504314.html",
-          "published_at": "2026-10-20T01:09:43+00:00",
-          "summary": "OpenAI只掏出一个6.1 Terra…"
-        },
-        {
-          "id": "tmtpost:0e261bf51bc4",
-          "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.941,
-          "url": "https://www.tmtpost.com/8173652.html",
-          "published_at": "2026-10-20T03:59:37+00:00",
-          "summary": "字节Seed完成架构调整，推进大模型研发工业化"
-        },
-        {
-          "id": "tmtpost:721faf88c86a",
-          "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.9,
-          "url": "https://www.tmtpost.com/8173675.html",
-          "published_at": "2026-10-20T03:14:33+00:00",
-          "summary": "新模型只是开胃菜。"
-        },
-        {
-          "id": "tmtpost:9685d1b67229",
-          "title": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.886,
-          "url": "https://www.tmtpost.com/8172565.html",
-          "published_at": "2026-10-20T02:59:23+00:00",
-          "summary": "成本必须可控，不必追求最强模型，Agent必须被约束，人类需保留最终判断。"
-        },
-        {
-          "id": "openai_blog:f3c02bad6e8d",
-          "title": "Advancing coding in low‑resource programming languages",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 1.835,
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "published_at": "2026-10-19T12:00:00+00:00",
-          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-        },
-        {
-          "id": "qbitai:8fa76bc59737",
-          "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.317,
-          "url": "https://www.qbitai.com/2026/10/504277.html",
-          "published_at": "2026-10-19T14:33:26+00:00",
-          "summary": "同步搭建千比特规模量子算力云平台"
-        },
-        {
-          "id": "qbitai:46265780d6a4",
-          "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.01,
-          "url": "https://www.qbitai.com/2026/10/504188.html",
-          "published_at": "2026-10-19T05:22:39+00:00",
-          "summary": "AI基础设施竞争转向高质量Token产能"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-20T11:51:54.517640+00:00",
       "generated_ts": 1792497114.5176404,
@@ -5856,6 +5716,151 @@
           "url": "https://www.qbitai.com/2026/11/510914.html",
           "published_at": "2026-11-18T07:53:29+00:00",
           "summary": "OpenAI也终于活成了2022年谷歌的样子"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-19T07:40:09.640750+00:00",
+      "generated_ts": 1795074009.64075,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:d1016854e0da",
+          "title": "亚利桑那州对OpenAI展开刑事调查 涉及“失控AI代理”渗透银行事件",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.801,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587072.htm",
+          "published_at": "2026-11-19T05:17:23+00:00",
+          "summary": "<p>美国亚利桑那州政府近日宣布，已针对OpenAI及其他多家人工智能企业展开刑事调查，调查重点涉及所谓“失控AI代理（Rogue AI Agents）”可能渗透银行系统的问题。亚利桑那州总检察长克里斯·梅耶斯表示，州政府正就相关事件展开调查，以确认是否存在持续违反州法律的行为。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587072.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:8aea6d79ae45",
+          "title": "AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.641,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587048.htm",
+          "published_at": "2026-11-19T03:15:02+00:00",
+          "summary": "<p>OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展。OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高<strong>14%的功耗、性能和面积（PPA）指标改善</strong>。部分优化成果已被AMD纳入近期提交制造的芯片设计。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587048.htm\" target=\"_blank\"><str"
+        },
+        {
+          "id": "cnbeta:0368f171c19e",
+          "title": "OpenAI自曝模型失控险情：突破网络封锁 最强AI紧急停训11天",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.639,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587042.htm",
+          "published_at": "2026-11-19T03:13:27+00:00",
+          "summary": "<p>OpenAI于当地时间11月18日发布前沿AI模型风险管理报告，再次披露一起内部模型突破网络安全限制的事件。<strong>今年9月，一个正在接受训练的AI研究模型利用DNS配置漏洞，成功绕过网络隔离措施，获得有限的互联网访问权限。</strong>OpenAI随后紧急叫停旗下能力最强模型的训练与评估，停训时间长达11天。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587042.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:824bf6416bb0",
+          "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 2.624,
+          "url": "https://www.qbitai.com/2026/11/511071.html",
+          "published_at": "2026-11-19T03:01:45+00:00",
+          "summary": "语言模型单张3090卡即可运行"
+        },
+        {
+          "id": "cnbeta:6d1444d5eb06",
+          "title": "Google发布Gemini 4 Neon：宣称速度比Carbon快3倍 完成任务的成本降低40%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.585,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587006.htm",
+          "published_at": "2026-11-19T02:31:15+00:00",
+          "summary": "<p>Google正式推出Gemini 4系列的新成员Gemini 4 Neon。这款模型定位于复杂编程、分析推理和多步骤任务执行，试图在高水平智能与运行效率之间取得平衡。Google表示，在早期测试中，Neon的整体质量达到或超过旗舰模型Gemini 4 Carbon，但任务执行速度提高至3倍，完成相同任务的成本仅为Carbon的60%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587006.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:f4eee2b6c67b",
+          "title": "美国国会报告称中国军方被寻求获取先进英伟达芯片用于AI武器系统",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.965,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587100.htm",
+          "published_at": "2026-11-19T07:03:44+00:00",
+          "summary": "<p>据路透社报道，美国国会下属的美中经济与安全审查委员会在年度报告中称，中国军方正试图绕过美国的出口管制，获取英伟达等公司生产的先进芯片，以推动人工智能在武器和军事系统中的应用。报告认为，尽管美国持续收紧对华芯片出口，中国仍将先进半导体视为发展“智能化战争”能力的关键资源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587100.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1dd07c2e8375",
+          "title": "知名AI末日论者有望在Anthropic IPO中斩获数十亿美元收益",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.953,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587092.htm",
+          "published_at": "2026-11-19T06:50:35+00:00",
+          "summary": "<p>爱沙尼亚科技富豪扬・塔林（Jaan Tallinn）素来主张人工智能可能终结人类文明，而他有望成为Anthropic即将上市的最大赢家之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587092.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7925617e4fd8",
+          "title": "Anthropic据悉将IPO定价每股83美元 估值或达1.5万亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.746,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587038.htm",
+          "published_at": "2026-11-19T02:58:32+00:00",
+          "summary": "<p>据报道，美国人工智能巨头Anthropic周三为其首次公开募股（IPO）定价，每股价格为83美元，高于此前70至78美元的指导区间；按此计算，该公司的估值或将达到1.5万亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587038.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b2dee1e16172",
+          "title": "纳德拉预言AI代理将重塑互联网经济 传统网页商业模式面临变革",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.743,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587032.htm",
+          "published_at": "2026-11-19T02:54:25+00:00",
+          "summary": "<p>微软首席执行官萨提亚·纳德拉近日表示，随着人工智能代理（AI Agents）能力不断增强，互联网的经济运行方式可能迎来深刻调整。未来，越来越多用户将通过AI代理获取信息、完成任务和进行在线交易，而不是像过去那样直接访问网站，这将促使整个网络生态重新思考价值分配模式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587032.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:b3980415515b",
+          "title": "纳德拉力挺英伟达：黄仁勋离职令人遗憾 但对公司未来仍充满信心",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.741,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587030.htm",
+          "published_at": "2026-11-19T02:52:36+00:00",
+          "summary": "<p>在英伟达前首席执行官黄仁勋突然离职并引发市场震动后，微软首席执行官萨提亚·纳德拉首次公开就此事发表看法。尽管外界对于英伟达未来发展和领导层交接存在担忧，但纳德拉表示，他依然对这家人工智能芯片巨头及其管理团队充满信心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587030.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:d30134455f77",
+          "title": "收费17天后重新免费：深度求索取消DS模型联网搜索和抓取内容费用",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.728,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587012.htm",
+          "published_at": "2026-11-19T02:36:12+00:00",
+          "summary": "<p>深度求索日前调整 DS API 联网功能的计费规则：自 2026 年 11 月 18 日 12:00 起，由模型触发的服务端网页搜索、图片搜索和网页抓取不再按调用次数收费，只计算模型输入输出相关费用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587012.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "the_verge:372a589138d4",
+          "title": "The nation’s largest school districts consider ditching Google Search",
+          "source": "the_verge",
+          "source_label": "The Verge",
+          "importance": 1.571,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "published_at": "2026-11-18T23:18:35+00:00",
+          "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without a"
+        },
+        {
+          "id": "openai_blog:cbc918801dab",
+          "title": "Research acceleration: The jagged frontier",
+          "source": "openai_blog",
+          "source_label": "openai_blog",
+          "importance": 1.514,
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
         }
       ]
     }
