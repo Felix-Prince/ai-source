@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T07:40:09.640750+00:00",
-    "generated_ts": 1795074009.64075,
+    "generated_at": "2026-11-19T20:49:16.438254+00:00",
+    "generated_ts": 1795121356.438254,
     "window_hours": 24.0,
-    "total": 20
+    "total": 21
   },
   "items": [
     {
@@ -20,21 +20,6 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.801
-    },
-    {
-      "id": "cnbeta:9cf96a865cd7",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic七位创始人即将跻身亿万富豪行列",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586986.htm",
-      "summary": "<p>短短五年，Anthropic 从一家无名初创企业成长为估值超万亿美元的科技巨头。 这家开发 Claude 人工智能平台的公司，由 7 名 2021 年从竞品 OpenAI 离职的员工创立。再过数小时，他们都将成为身价数百亿美元的富豪 —— 至少是账面财富。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586986.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-18T17:00:21+00:00",
-      "published_ts": 1795021221.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.694
     },
     {
       "id": "cnbeta:8aea6d79ae45",
@@ -97,49 +82,34 @@
       "importance": 2.585
     },
     {
-      "id": "cnbeta:9a9876960dab",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "谷歌发现可自主运行的俄语注释AI黑客工具",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586944.htm",
-      "summary": "<p>谷歌周一表示，该公司发现一款能够在无人类协助的情况下自主识别并利用软件漏洞的黑客工具，凸显了人工智能（AI）智能体带来的风险。谷歌威胁情报小组（Google Threat Intelligence Group，GTIG）在第三季度报告中详细披露了这一发现。报告称，该工具位于一台暴露在互联网上的预发布服务器上。攻击者通常使用此类服务器存储和准备攻击工具。谷歌将这款工具命名为“exploit_agent”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586944.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-18T09:51:01+00:00",
-      "published_ts": 1794995461.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.191
+      "id": "openai_blog:41747255768b",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "published_ts": 1795075200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.072
     },
     {
-      "id": "cnbeta:126ebd1eaa4f",
+      "id": "cnbeta:914496902fa3",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "软银孙正义承认未投资Anthropic是“错误” 对此感到遗憾",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586940.htm",
-      "summary": "<p>软银集团创始人孙正义表示，他对未能在Anthropic进行备受瞩目的首次公开募股（IPO）之前投资该公司感到遗憾，并将错失这一人工智能实验室投资机会称为一个错误。他解释称，放弃投资Anthropic是因为当时软银已经开始向其竞争对手OpenAI投入资金。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-18T09:43:27+00:00",
-      "published_ts": 1794995007.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.183
-    },
-    {
-      "id": "cnbeta:b3720faede0f",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI模型发现Java重大安全漏洞 美国政府紧急敦促企业全面更新系统",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586998.htm",
-      "summary": "<p>一款专门用于安全研究的人工智能模型近日发现了Java编程语言中存在的一系列安全漏洞，引发业界广泛关注。Java作为甲骨文公司开发并维护的编程语言，被广泛应用于航空公司、银行、医院以及政府机构等关键基础设施系统中，因此此次发现被认为具有重要影响。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586998.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-18T20:19:55+00:00",
-      "published_ts": 1795033195.0,
+      "title": "Google为Mac版Gemini推出“电脑操作”功能 AI可代用户完成多步骤任务",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587154.htm",
+      "summary": "<p>Google周四宣布，其macOS版Gemini桌面应用正式引入“电脑操作”能力，让人工智能能够代表用户执行任务，包括操作原生Mac应用，以及在后台浏览网页。用户只需下达指令，Gemini便可在聊天界面中以实时预览的方式展示操作过程，同时不会占用用户的屏幕和鼠标，用户仍可继续处理其他工作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587154.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-19T20:19:11+00:00",
+      "published_ts": 1795119551.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.977
+      "importance": 1.971
     },
     {
       "id": "cnbeta:f4eee2b6c67b",
@@ -170,6 +140,66 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.953
+    },
+    {
+      "id": "techcrunch:4b5ab3db6a18",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "published_at": "2026-11-19T18:09:11+00:00",
+      "published_ts": 1795111751.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.852
+    },
+    {
+      "id": "techcrunch:5a7714cd062b",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "published_at": "2026-11-19T16:59:23+00:00",
+      "published_ts": 1795107563.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.79
+    },
+    {
+      "id": "cnbeta:8dc48434d948",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "英特尔公布D270加速器成绩单 部分专业计算性能最高领先英伟达近六倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587148.htm",
+      "summary": "<p>英特尔近日在美国芝加哥举行的SC26超级计算大会上首次公开展示其GPU D270加速器的详细性能数据。这款产品此前代号为“Crescent Island”，与传统显卡不同，它并不具备图形渲染能力，也没有面向游戏的3D图形和光线追踪硬件，而是将更多资源专门用于人工智能、高性能计算和科学研究任务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-19T16:33:34+00:00",
+      "published_ts": 1795106014.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.768
+    },
+    {
+      "id": "cnbeta:ec8e521f3613",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "Anthropic登陆纳斯达克 现场出现抗议者",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587132.htm",
+      "summary": "<p>纽约当地时间周四（11月19日）上午，美国人工智能公司Anthropic在纽约纳斯达克交易所举行首次公开募股（IPO）敲钟仪式，股票代码为“ANT”。纳斯达克位于纽约时代广场的巨型电子屏幕直播了Anthropic的敲钟仪式，公司代表及嘉宾共同出席，现场响起掌声。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587132.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-19T16:09:08+00:00",
+      "published_ts": 1795104548.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.748
     },
     {
       "id": "cnbeta:7925617e4fd8",
@@ -232,19 +262,19 @@
       "importance": 1.728
     },
     {
-      "id": "cnbeta:f55dada8d965",
+      "id": "cnbeta:d080b6c066f2",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "美国宾夕法尼亚州一所高中停用AI武器探测系统 训练数月仍频繁将水瓶和文件夹误判为枪支",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1586956.htm",
-      "summary": "<p>美国宾夕法尼亚州一所高中近日决定停用一套采用人工智能技术的武器探测系统。尽管该系统已经在学校进行了数月的数据收集和训练，却始终无法可靠地区分枪支与学生日常携带的普通物品，频繁发出错误警报。校方最终认为，这套设备尚未达到实际投入使用的标准。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586956.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-18T13:09:40+00:00",
-      "published_ts": 1795007380.0,
+      "title": "Anthropic创全球最大IPO纪录 全球半导体股集体上涨",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587122.htm",
+      "summary": "<p>11月19日，全球半导体股普遍上涨，Anthropic以超出预期的发行价格完成全球规模最大的IPO，提振了市场对人工智能行业及AI基础设施投资前景的信心。截至发稿，美股盘前，美光科技及SK海力士ADR均涨超5%，英特尔、应用材料、泛林集团及迈威尔科技涨幅介于4%至5%之间，AMD上涨3.4%，博通上涨3.2%，德州仪器上涨2.5%，恩智浦上涨2.2%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587122.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-19T14:15:46+00:00",
+      "published_ts": 1795097746.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.607
+      "importance": 1.655
     },
     {
       "id": "the_verge:372a589138d4",
@@ -262,49 +292,34 @@
       "importance": 1.571
     },
     {
-      "id": "openai_blog:cbc918801dab",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "published_ts": 1794988800.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 1.514
-    },
-    {
-      "id": "qbitai:38acfc0a8098",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "url": "https://www.qbitai.com/2026/11/510922.html",
-      "summary": "氖人寻味！",
-      "published_at": "2026-11-18T09:41:55+00:00",
-      "published_ts": 1794994915.0,
+      "id": "tmtpost:8decfefb617f",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "国产GPU，风浪越大鱼越贵",
+      "url": "https://www.tmtpost.com/8210657.html",
+      "summary": "黄仁勋卸任英伟达CEO，全球AI算力格局发生转变，中国AI产业面临供给风险挑战。",
+      "published_at": "2026-11-19T10:58:06+00:00",
+      "published_ts": 1795085886.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.454
+      "importance": 1.505
     },
     {
-      "id": "qbitai:de29103a7d9a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPT-6.2难产！OpenAI怕了",
-      "url": "https://www.qbitai.com/2026/11/510914.html",
-      "summary": "OpenAI也终于活成了2022年谷歌的样子",
-      "published_at": "2026-11-18T07:53:29+00:00",
-      "published_ts": 1794988409.0,
+      "id": "tmtpost:d8e8a2bce0c1",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "Banks Are Turning AI Compute Bills Into Working Capital",
+      "url": "https://www.tmtpost.com/8211189.html",
+      "summary": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution.",
+      "published_at": "2026-11-19T09:18:06+00:00",
+      "published_ts": 1795079886.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.38
+      "importance": 1.434
     }
   ]
 }
