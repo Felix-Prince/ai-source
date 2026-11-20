@@ -1,119 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T20:49:16.438254+00:00",
+    "generated_at": "2026-11-20T07:30:52.516594+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-20T21:43:57.589421+00:00",
-      "generated_ts": 1792532637.5894206,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 17,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "cnbeta:81a8fb420568",
-          "title": "ChatGPT新增“锁定聊天” 可用四位PIN或生物识别隐藏敏感对话",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.83,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
-          "published_at": "2026-10-20T18:39:40+00:00",
-          "summary": "<p>OpenAI宣布，ChatGPT用户现在可以为特定对话启用“锁定聊天”。锁定后，对话会移出常规聊天记录、置顶列表和普通搜索结果，转入“项目—锁定的聊天”区域；重新打开时需输入四位账户PIN。在支持的手机设备上，也可使用Face ID、Touch ID或设备解锁方式验证。该功能适用于免费版、Go、Plus、Pro、Business、Enterprise和Edu方案，正逐步推出；Healthcare版暂不支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583120.htm\" target=\"_blank\"><strong>阅"
-        }
-      ]
-    },
-    {
-      "generated_at": "2026-10-21T05:01:33.856401+00:00",
-      "generated_ts": 1792558893.8564014,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:6e8c9a8b9278",
-          "title": "燃烧吧Token，Agentic Cloud时代云厂商的资本效率大考",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.831,
-          "url": "https://www.tmtpost.com/8175272.html",
-          "published_at": "2026-10-21T03:01:06+00:00",
-          "summary": "算力是AI时代最硬核的入场券，手握现金流的科技巨头，似乎天然拥有持续加码资本开支的底气。   从训练大模型到支撑万级Agent规模化落地，云厂商正开启一场算力军备竞赛，试图用海量基建抢占Agentic Cloud的时代高地。"
-        },
-        {
-          "id": "openai_blog:d63c7b492dd2",
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "source": "openai_blog",
-          "source_label": "openai_blog",
-          "importance": 2.382,
-          "url": "https://openai.com/index/terminal-x",
-          "published_at": "2026-10-20T07:00:00+00:00",
-          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
-        },
-        {
-          "id": "tmtpost:6135f7c6ca2f",
-          "title": "算力已经不再是最大的挑战，互连才是",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.917,
-          "url": "https://www.tmtpost.com/8175846.html",
-          "published_at": "2026-10-21T03:33:48+00:00",
-          "summary": "真正决定算力能跑多远的，不再是单颗芯片的峰值数字，而是数据在芯片之间、机柜之间、集群之间流动时的每一微秒。"
-        },
-        {
-          "id": "cnbeta:3a627db99132",
-          "title": "Google将内置其系统的汽车推送Gemini AI助手 现有车辆也可获得升级",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.657,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583128.htm",
-          "published_at": "2026-10-20T22:31:08+00:00",
-          "summary": "<p>Google宣布，将把 Gemini 人工智能助手引入搭载“Google Built-in”系统的汽车，为车载交互体验带来全面升级。作为对现有 Google Assistant 的替代方案，Gemini 将提供更自然的对话能力，并支持车辆信息查询、功能设置调整以及更多智能化服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583128.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "qbitai:a43cc512c899",
-          "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.277,
-          "url": "https://www.qbitai.com/2026/10/504517.html",
-          "published_at": "2026-10-20T13:29:54+00:00",
-          "summary": "兔皮底下，竟然是MiniMax！"
-        },
-        {
-          "id": "qbitai:039123771588",
-          "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.253,
-          "url": "https://www.qbitai.com/2026/10/504456.html",
-          "published_at": "2026-10-20T12:50:34+00:00",
-          "summary": "把记忆原生焊进Transformer"
-        },
-        {
-          "id": "qbitai:2ea93680d4f2",
-          "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
-          "source": "qbitai",
-          "source_label": "量子位",
-          "importance": 1.09,
-          "url": "https://www.qbitai.com/2026/10/504421.html",
-          "published_at": "2026-10-20T08:01:25+00:00",
-          "summary": "最新发布TokenFleet调度框架"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-21T12:03:53.930485+00:00",
       "generated_ts": 1792584233.9304855,
@@ -5866,6 +5756,141 @@
           "url": "https://www.tmtpost.com/8211189.html",
           "published_at": "2026-11-19T09:18:06+00:00",
           "summary": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution."
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-20T07:30:52.516594+00:00",
+      "generated_ts": 1795159852.5165942,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 19,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:3e43cbf80562",
+          "title": "Google向开发者开放世界模型Genie 4：键盘操控延迟低至0.2秒 视频生成约6.05美元/分钟",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.839,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587186.htm",
+          "published_at": "2026-11-20T05:36:34+00:00",
+          "summary": "<p>据Google官方博客及科技媒体The Defiant、Unite.AI报道，当地时间11月19日，Google正式向开发者开放世界模型Genie 4，开发者可通过Gemini API（Interactions API多轮交互接口）及Google AI Studio接入调用。此前一日（11月18日），Google已在消费端应用Project Genie中向AI Ultra订阅用户开放Genie 4（AI Pro用户可加入候补名单），并同步升级了Genie 3（单次探索时长延至3分钟、支持多世界串联与360度全景图生成）。</p> <a href=\"https://www.cnbeta.c"
+        },
+        {
+          "id": "cnbeta:3b53dc1fa525",
+          "title": "苹果公司研发自己的AI智能体 拟与OpenAI和Anthropic竞争",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.828,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587166.htm",
+          "published_at": "2026-11-20T05:28:15+00:00",
+          "summary": "<p>苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc．及其他公司占据的快速增长的市场。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587166.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:82a94f87c75f",
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 2.481,
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "published_at": "2026-11-20T00:56:01+00:00",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+        },
+        {
+          "id": "cnbeta:27598d7d25df",
+          "title": "OpenAI对ChatGPT移动应用进行重大改版 Dots功能扩大测试范围",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.953,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587240.htm",
+          "published_at": "2026-11-20T06:40:59+00:00",
+          "summary": "<p>OpenAI于11月20日开始向部分用户推送ChatGPT移动应用的新版界面，旨在让用户更快捷地访问常用功能，并更容易发现ChatGPT中的各项能力。此次改版首先面向拥有Dots或符合创建Dots条件的ChatGPT Pro用户开放，同时也有少量符合条件的Plus用户将参与体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587240.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e25c8af81e4d",
+          "title": "美众议院公布文件称美国商务部已批准向中国企业出售超过87.9万枚AI芯片",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.933,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587228.htm",
+          "published_at": "2026-11-20T06:19:47+00:00",
+          "summary": "<p>美国国会众议院外交事务委员会周四公布文件称，截至2026年5月，美国商务部下属负责出口管制与执法的工业与安全局，已批准向阿里巴巴、腾讯等中国企业出售超过87.9万枚人工智能芯片。该消息在美国对华芯片出口管制持续受到审视的背景下公布，引发国会两党对相关政策执行情况的强烈质疑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587228.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:535cce4ea1bf",
+          "title": "Meta新款AI设备售价或为300美元：可直接与AI对话 赠一年5G流量",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.894,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587190.htm",
+          "published_at": "2026-11-20T05:38:01+00:00",
+          "summary": "<p>据The Information报道，Meta计划将旗下新款人工智能设备Muse Charm的售价定为300美元（约合人民币2100元）。这款配备屏幕的小型设备允许用户直接与AI智能体对话，并可能附赠Verizon提供的12个月免费5G数据套餐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587190.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:056693cff88a",
+          "title": "Anthropic上市当天遭抗议 离职研究员呼吁必须关闭这项AI技术",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.891,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587182.htm",
+          "published_at": "2026-11-20T05:34:20+00:00",
+          "summary": "<p>11月20日，据美媒《旧金山标准报》（The San Francisco Standard）报道，Anthropic前研究员雅各布·考克森（Jacob Coxon）在该公司IPO当天现身旧金山总部外，向现场抗议者公开呼吁，禁止人工智能系统进行递归自我改进（Recursive Self-Improvement，简称RSI）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587182.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:7b375d1c7c8a",
+          "title": "马斯克太空算力计划受阻：债权人禁止将400多亿美元芯片发射上天",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.889,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587174.htm",
+          "published_at": "2026-11-20T05:32:24+00:00",
+          "summary": "<p>11月20日，据《金融时报》报道，<strong>为SpaceX最新一笔430亿美元债务融资提供支持的债权人，曾试图阻止埃隆·马斯克(Elon Musk)将作为抵押品的先进AI芯片发射到太空。</strong>这些芯片恰恰是他建设轨道数据中心计划的一部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587174.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:edbd666a5601",
+          "title": "Anthropic上市造富神话：约600名员工持股超1亿美元 2800人跻身千万富翁",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.888,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587168.htm",
+          "published_at": "2026-11-20T05:30:43+00:00",
+          "summary": "<p>11月20日，据《华尔街日报》报道，随着人工智能公司Anthropic完成首次公开募股（IPO），该公司数千名员工有望跻身百万富翁行列。其中，约600名员工持有的股票价值可能超过1亿美元（约合7亿元人民币）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587168.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:e949537293ae",
+          "title": "AMD遭做空 股价大跌7.72%",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.859,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587162.htm",
+          "published_at": "2026-11-20T04:59:13+00:00",
+          "summary": "<p>美股11月19日，AI芯片公司AMD（AMD.O）跌7.72%。消息面上，做空机构Hunterbrook Capital对AMD建立了空头头寸。Hunterbrook Capital旗下Hunterbrook Media发布了一份报告，质疑AMD循环交易与融资担保给该公司带来风险，并提到该公司面临出口管制风险。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587162.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:da5d5e82bbaf",
+          "title": "北汽押注千TOPS算力芯片，舱驾融合还有多远？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.799,
+          "url": "https://www.tmtpost.com/8210564.html",
+          "published_at": "2026-11-20T03:50:49+00:00",
+          "summary": "北汽与新紫光布局千TOPS芯片，探索舱驾融合，算力如何转化为量产竞争力？"
+        },
+        {
+          "id": "techcrunch:11b1bf94296e",
+          "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.63,
+          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+          "published_at": "2026-11-20T00:26:03+00:00",
+          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
         }
       ]
     }
