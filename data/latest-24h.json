@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T19:31:03.865802+00:00",
-    "generated_ts": 1795289463.8658018,
+    "generated_at": "2026-11-22T07:07:43.312964+00:00",
+    "generated_ts": 1795331263.3129642,
     "window_hours": 24.0,
-    "total": 13
+    "total": 9
   },
   "items": [
     {
@@ -52,19 +52,34 @@
       "importance": 2.28
     },
     {
-      "id": "tmtpost:e8e5e6dc666c",
+      "id": "cnbeta:91a02ef86801",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "群联展示内置NPU与64GB内存的智能SSD方案 可直接运行AI模型",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587420.htm",
+      "summary": "<p>在芝加哥举行的2026年国际超级计算大会（SC26）上，存储控制器厂商群联电子（Phison）展示了一项面向人工智能服务器的新型SSD设计方案。该方案在固态硬盘内部集成神经网络处理器（NPU）以及64GB内存，能够直接在硬盘上运行PyTorch和llama.cpp等AI框架和模型，从而让部分数据处理工作在数据离开存储设备之前完成。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-21T19:34:47+00:00",
+      "published_ts": 1795289687.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.149
+    },
+    {
+      "id": "tmtpost:32f783345127",
       "source": "tmtpost",
       "source_label": "钛媒体",
-      "title": "Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？",
-      "url": "https://www.tmtpost.com/8213159.html",
-      "summary": "看看谁更听指挥",
-      "published_at": "2026-11-21T05:05:03+00:00",
-      "published_ts": 1795237503.0,
+      "title": "Anthropic万亿上市，搅动的却是半导体江湖",
+      "url": "https://www.tmtpost.com/8213769.html",
+      "summary": "大买主登陆公开市场，芯片、代工与存储环节都在随之调整。",
+      "published_at": "2026-11-22T06:16:44+00:00",
+      "published_ts": 1795328204.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.868
+      "importance": 1.952
     },
     {
       "id": "cnbeta:c77d88f58005",
@@ -80,21 +95,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.857
-    },
-    {
-      "id": "tmtpost:f816e75f1a18",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
-      "url": "https://www.tmtpost.com/8213250.html",
-      "summary": "AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？",
-      "published_at": "2026-11-21T04:44:41+00:00",
-      "published_ts": 1795236281.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.85
     },
     {
       "id": "cnbeta:a19ec2e7dc75",
@@ -127,21 +127,6 @@
       "importance": 1.807
     },
     {
-      "id": "tmtpost:d2fc8a423211",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "做科学家创业路上的“一致行动人”—— 从一间工位到一桌夜话，海淀“接得住”科学家的每一步",
-      "url": "https://www.tmtpost.com/8213414.html",
-      "summary": "11月18日，未名·AIPark人工智能创新街区在北大西门旁正式揭牌。依托中关村国际创新大厦、未来科技大厦两大核心载体，这个“从实验室到公司”的新空间开门迎客——教授在实验室里做出成果，出门走一公里，就能找到拎包入驻的办公室，还能对接算力、政策、资本和客户。这是海淀为科学家打开空间。",
-      "published_at": "2026-11-21T03:43:55+00:00",
-      "published_ts": 1795232635.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.797
-    },
-    {
       "id": "the_verge:edeea31619be",
       "source": "the_verge",
       "source_label": "The Verge",
@@ -155,51 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.755
-    },
-    {
-      "id": "qbitai:36dfbb28b06a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "url": "https://www.qbitai.com/2026/11/511779.html",
-      "summary": "还实现可变形物体操控全球首通",
-      "published_at": "2026-11-21T06:35:59+00:00",
-      "published_ts": 1795242959.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.377
-    },
-    {
-      "id": "qbitai:f35bfb585b72",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "url": "https://www.qbitai.com/2026/11/511570.html",
-      "summary": "专为本地部署而生",
-      "published_at": "2026-11-21T06:32:31+00:00",
-      "published_ts": 1795242751.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.375
-    },
-    {
-      "id": "qbitai:bd7171b984c9",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-      "url": "https://www.qbitai.com/2026/11/511757.html",
-      "summary": "还透露了不少训练背后的秘诀",
-      "published_at": "2026-11-21T06:30:55+00:00",
-      "published_ts": 1795242655.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.374
     }
   ]
 }
