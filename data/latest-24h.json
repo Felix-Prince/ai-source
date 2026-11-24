@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T10:07:24.733057+00:00",
-    "generated_ts": 1795514844.7330568,
+    "generated_at": "2026-11-24T22:37:15.622610+00:00",
+    "generated_ts": 1795559835.6226099,
     "window_hours": 24.0,
-    "total": 19
+    "total": 14
   },
   "items": [
     {
@@ -22,21 +22,6 @@
       "importance": 2.934
     },
     {
-      "id": "techcrunch:50fc913d11ee",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "published_at": "2026-11-23T22:05:50+00:00",
-      "published_ts": 1795471550.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.831
-    },
-    {
       "id": "cnbeta:0b366aa52730",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -52,49 +37,49 @@
       "importance": 2.442
     },
     {
-      "id": "cnbeta:68c5b56a2e3a",
+      "id": "cnbeta:a24de4b5bb92",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "研究发现新一代AI模型更爱“爆粗口”",
-      "url": "https://www.cnbeta.com.tw/articles/science/1587656.htm",
-      "summary": "<p>据人工智能分析公司Vals发布的报告，2026年7月之后训练的大型语言模型出现粗俗语言的频率明显高于早期模型；这些脏话几乎都出现在模型的“思维链”中，也就是模型在给出最终答案前写下的逐步推理内容，通常不会直接展示给用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1587656.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-23T12:10:42+00:00",
-      "published_ts": 1795435842.0,
+      "title": "LibreOffice收紧AI辅助代码贡献政策 使用大模型须事先获得批准并明确披露",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587858.htm",
+      "summary": "<p>开源办公套件LibreOffice的维护方“文档基金会”（The Document Foundation，简称TDF）宣布，对该项目开发过程中使用大语言模型（LLM）及AI辅助编程的做法实施更严格的政策。新规要求贡献者在使用AI工具前获得许可、在提交记录中披露相关使用情况，并禁止将LLM用于撰写提交说明、代码注释、缺陷报告及与他人沟通的内容。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587858.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-24T15:27:06+00:00",
+      "published_ts": 1795534026.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.126
+      "importance": 2.439
     },
     {
-      "id": "cnbeta:88b66689984b",
+      "id": "cnbeta:ead4e421446c",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "智谱发布GLM-5.4：用Loop Transformer循环28层 主攻泛Coding",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587636.htm",
-      "summary": "<p>11月23日，智谱正式发布GLM-5.4，这是其首代采用Loop Transformer架构的旗舰模型。官方称，该模型在参数量不变的情况下，通过让一组共享权重的层循环执行，获得更深的推理能力，智能水平达到2-3T级模型效果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-23T11:49:48+00:00",
-      "published_ts": 1795434588.0,
+      "title": "马斯克：模型竞争不过，不如卖算力",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587846.htm",
+      "summary": "<p>马斯克旗下的SpaceX正在将数据中心算力出租给包括Anthropic在内的竞争对手。这使其自身的人工智能业务发展变得更加困难。Anthropic是埃隆·马斯克在人工智能领域最大的竞争对手之一，同时也是他最大的客户之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587846.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-24T15:09:26+00:00",
+      "published_ts": 1795532966.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.105
+      "importance": 2.418
     },
     {
-      "id": "qbitai:935054b9e94a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "url": "https://www.qbitai.com/2026/11/512195.html",
-      "summary": "零Token成本，断网也能自由Vibe Coding",
-      "published_at": "2026-11-23T11:01:15+00:00",
-      "published_ts": 1795431675.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.056
+      "id": "openai_blog:8595d759c7b0",
+      "source": "openai_blog",
+      "source_label": "openai_blog",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published_at": "2026-11-24T13:00:00+00:00",
+      "published_ts": 1795525200.0,
+      "category": "international",
+      "lang": "en",
+      "tier": 0,
+      "ai_score": 2.0,
+      "importance": 2.272
     },
     {
       "id": "tmtpost:7a2cc2889257",
@@ -157,21 +142,6 @@
       "importance": 1.857
     },
     {
-      "id": "ars_technica:3fa2bf19738d",
-      "source": "ars_technica",
-      "source_label": "Ars Technica",
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "published_at": "2026-11-23T21:30:44+00:00",
-      "published_ts": 1795469444.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.856
-    },
-    {
       "id": "qbitai:a8b127e3f599",
       "source": "qbitai",
       "source_label": "量子位",
@@ -185,36 +155,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.806
-    },
-    {
-      "id": "the_verge:c56dec8ec241",
-      "source": "the_verge",
-      "source_label": "The Verge",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
-      "published_at": "2026-11-23T20:00:00+00:00",
-      "published_ts": 1795464000.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.777
-    },
-    {
-      "id": "techcrunch:d0ae482dbedf",
-      "source": "techcrunch",
-      "source_label": "TechCrunch",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "published_at": "2026-11-23T19:14:46+00:00",
-      "published_ts": 1795461286.0,
-      "category": "international",
-      "lang": "en",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.738
     },
     {
       "id": "cnbeta:4395363d6692",
@@ -262,34 +202,19 @@
       "importance": 1.608
     },
     {
-      "id": "cnbeta:d74e0da22cf7",
+      "id": "cnbeta:bc50bec7d941",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "黄仁勋复职带动AI相关股票普涨 英伟达市值数小时增逾1万亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587698.htm",
-      "summary": "<p>英伟达恢复黄仁勋总裁兼首席执行官职务、并立即生效后，人工智能相关公司的股价大涨。英伟达股价一度上涨35%，创2000年以来最大盘中涨幅，短短数小时内市值增加逾1万亿美元，并带动标普500指数和纳斯达克100指数走高。涨势还蔓延至芯片股，费城证券交易所半导体指数飙升13%；其他与人工智能基础设施交易相关的股票也上涨，包括能源供应商和工业企业。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587698.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-23T16:21:11+00:00",
-      "published_ts": 1795450871.0,
+      "title": "Anthropic上市后第四个交易日跌破83美元发行价",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587844.htm",
+      "summary": "<p>Anthropic PBC股价跌破每股83美元的首次公开募股（IPO）发行价，抹去了在这家人工智能实验室创纪录上市交易中踊跃买入的投资者此前获得的收益。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587844.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-24T14:48:36+00:00",
+      "published_ts": 1795531716.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.599
-    },
-    {
-      "id": "cnbeta:3278410ae2c3",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "古尔曼：苹果Siri裁员不影响AI项目 智能体要等到2027年底",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587682.htm",
-      "summary": "<p>知名科技记者马克·古尔曼表示，苹果近期针对Siri的裁员，主要裁撤负责语音助手旧底层架构的员工，新一代AI系统研发团队并未受到波及。古尔曼表示，尽管苹果力求加快开发节奏、把重大更新分散到全年推送，但员工尚未感受到公司运转模式有明显变化。他还提到，苹果正面临激烈竞争：其他AI厂商迭代模型与服务的频率远高于苹果一年一度的操作系统更新周期。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587682.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-23T13:59:54+00:00",
-      "published_ts": 1795442394.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.494
+      "importance": 1.596
     }
   ]
 }
