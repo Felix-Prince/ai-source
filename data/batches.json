@@ -1,23 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T00:05:59.421580+00:00",
+    "generated_at": "2026-11-24T10:07:24.733057+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-25T04:57:34.352816+00:00",
-      "generated_ts": 1792904254.352816,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": []
-    },
     {
       "generated_at": "2026-10-25T11:47:33.845434+00:00",
       "generated_ts": 1792928853.8454337,
@@ -5785,6 +5771,111 @@
           "url": "https://www.qbitai.com/2026/11/511978.html",
           "published_at": "2026-11-23T03:13:06+00:00",
           "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-24T10:07:24.733057+00:00",
+      "generated_ts": 1795514844.7330568,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:0b366aa52730",
+          "title": "AI模型越大越容易被投毒？一项新研究发现惊人风险",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.442,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587780.htm",
+          "published_at": "2026-11-24T03:00:13+00:00",
+          "summary": "<p>11月24日，据加州大学伯克利分校、伊利诺伊大学厄巴纳-香槟分校（UIUC）及Anthropic研究人员的一项联合研究，仅需污染AI模型预训练阶段0.1%的文本数据，就可能在模型中植入难以清除的后门。<strong>即使随后使用完全干净的数据进行微调和强化学习，这些后门仍可能保留，并在特定条件下诱导AI智能体执行攻击者指定的命令。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587780.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:7a2cc2889257",
+          "title": "AI办公，不再只拼大模型",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.957,
+          "url": "https://www.tmtpost.com/8215293.html",
+          "published_at": "2026-11-24T09:21:45+00:00",
+          "summary": "AI办公竞争升维。"
+        },
+        {
+          "id": "tmtpost:1ca300f6434d",
+          "title": "阶跃星辰的终端生态，还是一场熟人局？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.951,
+          "url": "https://www.tmtpost.com/8215895.html",
+          "published_at": "2026-11-24T09:15:51+00:00",
+          "summary": "从模型到芯片，阶跃想把终端的关键环节握在手里。"
+        },
+        {
+          "id": "tmtpost:de850844ff8f",
+          "title": "这些一流大模型，为什么选择不同的 Benchmark？",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.946,
+          "url": "https://www.tmtpost.com/8216115.html",
+          "published_at": "2026-11-24T09:10:35+00:00",
+          "summary": "Benchmark正成为观察各家AI战略押注的窗口之一。"
+        },
+        {
+          "id": "cnbeta:1e5b80b63f50",
+          "title": "黄仁勋重返英伟达CEO职位后台积电单日市值暴增1580亿美元",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.857,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587798.htm",
+          "published_at": "2026-11-24T07:33:40+00:00",
+          "summary": "<p>英伟达董事会周一投票决定恢复黄仁勋的首席执行官职务，结束了此前重创人工智能（AI）供应链的领导层危机。受此消息提振，亚洲股市周二普遍上涨。英伟达芯片代工厂商台积电股价大涨9.9%，触及单日涨幅上限，单日市值增加5.2万亿新台币（约合1580亿美元）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:a8b127e3f599",
+          "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.806,
+          "url": "https://www.qbitai.com/2026/11/512362.html",
+          "published_at": "2026-11-24T06:35:06+00:00",
+          "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+        },
+        {
+          "id": "cnbeta:4395363d6692",
+          "title": "黄仁勋复职 显示特朗普为维持AI繁荣“不惜一切手段”",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.623,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587766.htm",
+          "published_at": "2026-11-24T02:53:10+00:00",
+          "summary": "<p>对美国总统特朗普而言，股市长期是他经济议程的晴雨表。他常常拿股市造势，用来证明在自己任内人工智能产业蓬勃发展。因此，当丑闻席卷芯片巨头英伟达、逼走CEO黄仁勋，并引发金融市场剧烈动荡时，特朗普迅速出手干预。他站出来为黄仁勋辩护，动用白宫的影响力，推动这位身陷风波的高管复职。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:1dc37b37b7ed",
+          "title": "AI让软件和技术产品的主要客户不再是人类",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.619,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587760.htm",
+          "published_at": "2026-11-24T02:48:25+00:00",
+          "summary": "<p>微软Copilot、智能体与平台业务执行副总裁查尔斯·拉曼纳表示，随着人工智能智能体日益普及，大量软件和技术产品的“主要客户”将不再是人类，而是AI智能体。他认为，软件的界面、接口和商业模式都必须为此做出调整，而工程师虽然写代码的时间减少，却需要比以往更加深入地思考系统设计、验证、测试和安全发布等问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587760.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:6131c3312e14",
+          "title": "Anthropic推出Claude Ship 让AI代理审查、修复并批准代码变更",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.608,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587742.htm",
+          "published_at": "2026-11-24T02:34:15+00:00",
+          "summary": "<p>Anthropic于11月23日宣布推出Claude Ship，这是一套面向软件开发流程的AI代理工具，旨在让AI不仅编写代码，还能审查、修复并批准常规代码变更，从而帮助开发团队减少代码合入前的瓶颈。该产品目前以测试版形式推出，面向使用GitHub仓库的Claude Team和Enterprise计划用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587742.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
         }
       ]
     }
