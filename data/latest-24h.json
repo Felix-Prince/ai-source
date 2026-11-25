@@ -1,40 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T08:52:24.512891+00:00",
-    "generated_ts": 1795596744.5128913,
+    "generated_at": "2026-11-25T21:51:06.656935+00:00",
+    "generated_ts": 1795643466.6569352,
     "window_hours": 24.0,
-    "total": 9
+    "total": 7
   },
   "items": [
     {
-      "id": "cnbeta:a24de4b5bb92",
+      "id": "cnbeta:c9f4c2ac570d",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "LibreOffice收紧AI辅助代码贡献政策 使用大模型须事先获得批准并明确披露",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587858.htm",
-      "summary": "<p>开源办公套件LibreOffice的维护方“文档基金会”（The Document Foundation，简称TDF）宣布，对该项目开发过程中使用大语言模型（LLM）及AI辅助编程的做法实施更严格的政策。新规要求贡献者在使用AI工具前获得许可、在提交记录中披露相关使用情况，并禁止将LLM用于撰写提交说明、代码注释、缺陷报告及与他人沟通的内容。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587858.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T15:27:06+00:00",
-      "published_ts": 1795534026.0,
+      "title": "NVIDIA芯片分销商正急于为大批高端GPU寻找新买家",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587944.htm",
+      "summary": "<p>美国收紧针对中国企业的先进人工智能芯片远程访问规则后，英伟达芯片卖家正急于为大批高端GPU寻找新买家。据知情人士透露，新规公布以来，市场上出现了异常规模的英伟达图形处理器出售信息，部分芯片原本计划用于向中国相关客户出租算力的海外数据中心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587944.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-25T18:29:34+00:00",
+      "published_ts": 1795631374.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.439
-    },
-    {
-      "id": "cnbeta:ead4e421446c",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "马斯克：模型竞争不过，不如卖算力",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587846.htm",
-      "summary": "<p>马斯克旗下的SpaceX正在将数据中心算力出租给包括Anthropic在内的竞争对手。这使其自身的人工智能业务发展变得更加困难。Anthropic是埃隆·马斯克在人工智能领域最大的竞争对手之一，同时也是他最大的客户之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587846.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T15:09:26+00:00",
-      "published_ts": 1795532966.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.418
+      "importance": 2.723
     },
     {
       "id": "tmtpost:8b9b040d5bd6",
@@ -52,64 +37,19 @@
       "importance": 2.278
     },
     {
-      "id": "openai_blog:8595d759c7b0",
-      "source": "openai_blog",
-      "source_label": "openai_blog",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "published_at": "2026-11-24T13:00:00+00:00",
-      "published_ts": 1795525200.0,
+      "id": "techcrunch:8b455206df29",
+      "source": "techcrunch",
+      "source_label": "TechCrunch",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "published_at": "2026-11-25T20:03:27+00:00",
+      "published_ts": 1795637007.0,
       "category": "international",
       "lang": "en",
-      "tier": 0,
-      "ai_score": 2.0,
-      "importance": 2.272
-    },
-    {
-      "id": "tmtpost:7a2cc2889257",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AI办公，不再只拼大模型",
-      "url": "https://www.tmtpost.com/8215293.html",
-      "summary": "AI办公竞争升维。",
-      "published_at": "2026-11-24T09:21:45+00:00",
-      "published_ts": 1795512105.0,
-      "category": "domestic",
-      "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.957
-    },
-    {
-      "id": "tmtpost:1ca300f6434d",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "阶跃星辰的终端生态，还是一场熟人局？",
-      "url": "https://www.tmtpost.com/8215895.html",
-      "summary": "从模型到芯片，阶跃想把终端的关键环节握在手里。",
-      "published_at": "2026-11-24T09:15:51+00:00",
-      "published_ts": 1795511751.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.951
-    },
-    {
-      "id": "tmtpost:de850844ff8f",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "这些一流大模型，为什么选择不同的 Benchmark？",
-      "url": "https://www.tmtpost.com/8216115.html",
-      "summary": "Benchmark正成为观察各家AI战略押注的窗口之一。",
-      "published_at": "2026-11-24T09:10:35+00:00",
-      "published_ts": 1795511435.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.946
+      "importance": 1.899
     },
     {
       "id": "cnbeta:b5e4c7726a4b",
@@ -127,19 +67,49 @@
       "importance": 1.83
     },
     {
-      "id": "cnbeta:bc50bec7d941",
+      "id": "cnbeta:09b08d03fe89",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "Anthropic上市后第四个交易日跌破83美元发行价",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587844.htm",
-      "summary": "<p>Anthropic PBC股价跌破每股83美元的首次公开募股（IPO）发行价，抹去了在这家人工智能实验室创纪录上市交易中踊跃买入的投资者此前获得的收益。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587844.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T14:48:36+00:00",
-      "published_ts": 1795531716.0,
+      "title": "新可穿戴设备将前臂皮肤变成触控板 有望突破智能手表屏幕过小的操作瓶颈",
+      "url": "https://www.cnbeta.com.tw/articles/science/1587940.htm",
+      "summary": "<p>美国北卡罗来纳州立大学的研究团队开发出一款名为EpiPad的可穿戴技术，能够把佩戴者的前臂皮肤变成一块可用的触控板，用来操控智能手表。该系统借助微型毫米波雷达和轻量级机器学习模型，识别手指在前臂上的点击、滑动、双指滚动、捏合缩放以及不同力度的按压，让用户在手表之外获得类似笔记本电脑触控板的操作体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1587940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-25T18:25:41+00:00",
+      "published_ts": 1795631141.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.596
+      "importance": 1.812
+    },
+    {
+      "id": "qbitai:19856fccdb27",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "url": "https://www.qbitai.com/2026/11/512683.html",
+      "summary": "贯通具⾝智能研发流程",
+      "published_at": "2026-11-25T14:20:24+00:00",
+      "published_ts": 1795616424.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.61
+    },
+    {
+      "id": "qbitai:129375fb308a",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "Anthropic还藏着2个最强模型…",
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "summary": "Fable5.2已经很旧了。",
+      "published_at": "2026-11-25T08:23:24+00:00",
+      "published_ts": 1795595004.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.356
     }
   ]
 }

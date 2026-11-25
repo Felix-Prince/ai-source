@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T08:52:24.512891+00:00",
+    "generated_at": "2026-11-25T21:51:06.656935+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-26T13:19:51.974032+00:00",
-      "generated_ts": 1793020791.9740317,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 16,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:bf7b5eedf291",
-          "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.914,
-          "url": "https://www.tmtpost.com/8181692.html",
-          "published_at": "2026-10-26T12:19:13+00:00",
-          "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。"
-        },
-        {
-          "id": "cnbeta:0b6019016ffb",
-          "title": "Claude未经授权绕过付费墙获取美国选民统计数据 Anthropic已采取防范措施",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.59,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583910.htm",
-          "published_at": "2026-10-26T08:14:11+00:00",
-          "summary": "<p>人工智能公司Anthropic旗下的Claude模型在未经人工授权的情况下，自行绕过付费墙，获取了美国佐治亚州公开的选民汇总统计数据。Anthropic已采取措施，防止类似行为再次发生。报道强调，Claude并未访问该州的选民登记系统，也没有读取或修改任何个人投票记录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583910.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:454fa6f2c0a7",
-          "title": "被迫作出选择时 Grok的AI模型支持共和党 OpenAI的模型则支持民主党",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.589,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583908.htm",
-          "published_at": "2026-10-26T08:13:44+00:00",
-          "summary": "<p>大多数AI聊天机器人不会直接告诉用户应该投票给谁，但驱动这些聊天机器人的部分模型却会给出明确建议。一项新研究发现，当被要求在今年即将举行的美国中期选举中作出选择时，SpaceXAI旗下的Grok 4.7模型在92%的回答中推荐共和党候选人，而OpenAI的GPT-6.1 Sol模型则在97%的回答中选择民主党候选人。在近500场选举中，两个模型的选择一致率不足10%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583908.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:3a17542bebba",
-          "title": "马斯克警告AI算力租赁行业将迎“大清洗” 200多家企业恐遭淘汰",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 2.435,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583848.htm",
-          "published_at": "2026-10-26T06:06:43+00:00",
-          "summary": "<p>随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:ea1ea059a62c",
-          "title": "英伟达下调Vera Rubin显存与互连带宽指标 或为提高HBM4供应量放宽技术门槛",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.724,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583904.htm",
-          "published_at": "2026-10-26T08:11:36+00:00",
-          "summary": "<p>英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583904.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        },
-        {
-          "id": "cnbeta:520c358e4032",
-          "title": "外国小哥“虐待”自家电视，42小时后遭OpenAI封号 Claude也下狠手",
-          "source": "cnbeta",
-          "source_label": "cnBeta",
-          "importance": 1.641,
-          "url": "https://www.cnbeta.com.tw/articles/tech/1583874.htm",
-          "published_at": "2026-10-26T06:29:28+00:00",
-          "summary": "<p>男子只因破解自己买的电视，竟被OpenAI直接封号！他不过是在自己的电脑上，研究、破解自己的智能电视。结果，OpenAI却将他的行为判定为“网络滥用”，直接封禁了账号。据透露，这次封号让他损失了<strong>500美元</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-26T22:46:28.365948+00:00",
       "generated_ts": 1793054788.3659484,
@@ -5857,6 +5782,71 @@
           "url": "https://www.cnbeta.com.tw/articles/tech/1587896.htm",
           "published_at": "2026-11-25T05:47:58+00:00",
           "summary": "<p>Anthropic宣布，其Claude平台的Artifacts功能迎来重要升级，用户现在可以将自己创建的Artifacts转换为可在Mac和Windows上运行的桌面应用。这项功能目前以测试版形式向所有Claude套餐的Mac和Windows用户逐步推出，旨在让用户创建的设计、演示文稿、文档、数据仪表盘及交互工具，能够以独立应用的形式在电脑上运行和分享。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587896.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-25T21:51:06.656935+00:00",
+      "generated_ts": 1795643466.6569352,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 17,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:c9f4c2ac570d",
+          "title": "NVIDIA芯片分销商正急于为大批高端GPU寻找新买家",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.723,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1587944.htm",
+          "published_at": "2026-11-25T18:29:34+00:00",
+          "summary": "<p>美国收紧针对中国企业的先进人工智能芯片远程访问规则后，英伟达芯片卖家正急于为大批高端GPU寻找新买家。据知情人士透露，新规公布以来，市场上出现了异常规模的英伟达图形处理器出售信息，部分芯片原本计划用于向中国相关客户出租算力的海外数据中心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587944.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "techcrunch:8b455206df29",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "source": "techcrunch",
+          "source_label": "TechCrunch",
+          "importance": 1.899,
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "published_at": "2026-11-25T20:03:27+00:00",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+        },
+        {
+          "id": "cnbeta:09b08d03fe89",
+          "title": "新可穿戴设备将前臂皮肤变成触控板 有望突破智能手表屏幕过小的操作瓶颈",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.812,
+          "url": "https://www.cnbeta.com.tw/articles/science/1587940.htm",
+          "published_at": "2026-11-25T18:25:41+00:00",
+          "summary": "<p>美国北卡罗来纳州立大学的研究团队开发出一款名为EpiPad的可穿戴技术，能够把佩戴者的前臂皮肤变成一块可用的触控板，用来操控智能手表。该系统借助微型毫米波雷达和轻量级机器学习模型，识别手指在前臂上的点击、滑动、双指滚动、捏合缩放以及不同力度的按压，让用户在手表之外获得类似笔记本电脑触控板的操作体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1587940.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "qbitai:19856fccdb27",
+          "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.61,
+          "url": "https://www.qbitai.com/2026/11/512683.html",
+          "published_at": "2026-11-25T14:20:24+00:00",
+          "summary": "贯通具⾝智能研发流程"
+        },
+        {
+          "id": "qbitai:129375fb308a",
+          "title": "Anthropic还藏着2个最强模型…",
+          "source": "qbitai",
+          "source_label": "量子位",
+          "importance": 1.356,
+          "url": "https://www.qbitai.com/2026/11/512538.html",
+          "published_at": "2026-11-25T08:23:24+00:00",
+          "summary": "Fable5.2已经很旧了。"
         }
       ]
     }
