@@ -1,41 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T22:37:15.622610+00:00",
-    "generated_ts": 1795559835.6226099,
+    "generated_at": "2026-11-25T08:52:24.512891+00:00",
+    "generated_ts": 1795596744.5128913,
     "window_hours": 24.0,
-    "total": 14
+    "total": 9
   },
   "items": [
-    {
-      "id": "tmtpost:a4e25b517ec6",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
-      "url": "https://www.tmtpost.com/8215026.html",
-      "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审查细则（2026版）》；“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池和电池组安全技术规范》；中国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项；监管明确两融调整要求，违约处置要稳妥审慎；中金所增加10年期国债期货合约可交割国债；深交所首批主动ETF平稳上市，引入180亿元增量资金；首批主动ETF在沪深交易所上市；乘联分会秘书长崔东树：2026年动力电池市场竞争趋向多元化",
-      "published_at": "2026-11-23T23:20:00+00:00",
-      "published_ts": 1795476000.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.934
-    },
-    {
-      "id": "cnbeta:0b366aa52730",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI模型越大越容易被投毒？一项新研究发现惊人风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587780.htm",
-      "summary": "<p>11月24日，据加州大学伯克利分校、伊利诺伊大学厄巴纳-香槟分校（UIUC）及Anthropic研究人员的一项联合研究，仅需污染AI模型预训练阶段0.1%的文本数据，就可能在模型中植入难以清除的后门。<strong>即使随后使用完全干净的数据进行微调和强化学习，这些后门仍可能保留，并在特定条件下诱导AI智能体执行攻击者指定的命令。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587780.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T03:00:13+00:00",
-      "published_ts": 1795489213.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.442
-    },
     {
       "id": "cnbeta:a24de4b5bb92",
       "source": "cnbeta",
@@ -65,6 +35,21 @@
       "tier": 1,
       "ai_score": 3.0,
       "importance": 2.418
+    },
+    {
+      "id": "tmtpost:8b9b040d5bd6",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元",
+      "url": "https://www.tmtpost.com/8216719.html",
+      "summary": "大烨智能年报虚假记载遭行政处罚，股票11月26日起戴帽；厦航拟斥资近500亿元买50架波音飞机；天齐锂业拟豪掷68.72亿元买矿；AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型；中国在5个自贸试验区开展人工智能标准化自主开放试点；外交部回应“英伟达重新任命黄仁勋为首席执行官”。",
+      "published_at": "2026-11-24T23:20:00+00:00",
+      "published_ts": 1795562400.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.278
     },
     {
       "id": "openai_blog:8595d759c7b0",
@@ -127,79 +112,19 @@
       "importance": 1.946
     },
     {
-      "id": "cnbeta:1e5b80b63f50",
+      "id": "cnbeta:b5e4c7726a4b",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "黄仁勋重返英伟达CEO职位后台积电单日市值暴增1580亿美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587798.htm",
-      "summary": "<p>英伟达董事会周一投票决定恢复黄仁勋的首席执行官职务，结束了此前重创人工智能（AI）供应链的领导层危机。受此消息提振，亚洲股市周二普遍上涨。英伟达芯片代工厂商台积电股价大涨9.9%，触及单日涨幅上限，单日市值增加5.2万亿新台币（约合1580亿美元）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T07:33:40+00:00",
-      "published_ts": 1795505620.0,
+      "title": "Anthropic Claude Artifacts现可转换为Mac和Windows桌面应用",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587896.htm",
+      "summary": "<p>Anthropic宣布，其Claude平台的Artifacts功能迎来重要升级，用户现在可以将自己创建的Artifacts转换为可在Mac和Windows上运行的桌面应用。这项功能目前以测试版形式向所有Claude套餐的Mac和Windows用户逐步推出，旨在让用户创建的设计、演示文稿、文档、数据仪表盘及交互工具，能够以独立应用的形式在电脑上运行和分享。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587896.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-25T05:47:58+00:00",
+      "published_ts": 1795585678.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.857
-    },
-    {
-      "id": "qbitai:a8b127e3f599",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "published_at": "2026-11-24T06:35:06+00:00",
-      "published_ts": 1795502106.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.806
-    },
-    {
-      "id": "cnbeta:4395363d6692",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "黄仁勋复职 显示特朗普为维持AI繁荣“不惜一切手段”",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587766.htm",
-      "summary": "<p>对美国总统特朗普而言，股市长期是他经济议程的晴雨表。他常常拿股市造势，用来证明在自己任内人工智能产业蓬勃发展。因此，当丑闻席卷芯片巨头英伟达、逼走CEO黄仁勋，并引发金融市场剧烈动荡时，特朗普迅速出手干预。他站出来为黄仁勋辩护，动用白宫的影响力，推动这位身陷风波的高管复职。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T02:53:10+00:00",
-      "published_ts": 1795488790.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.623
-    },
-    {
-      "id": "cnbeta:1dc37b37b7ed",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "AI让软件和技术产品的主要客户不再是人类",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587760.htm",
-      "summary": "<p>微软Copilot、智能体与平台业务执行副总裁查尔斯·拉曼纳表示，随着人工智能智能体日益普及，大量软件和技术产品的“主要客户”将不再是人类，而是AI智能体。他认为，软件的界面、接口和商业模式都必须为此做出调整，而工程师虽然写代码的时间减少，却需要比以往更加深入地思考系统设计、验证、测试和安全发布等问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587760.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T02:48:25+00:00",
-      "published_ts": 1795488505.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.619
-    },
-    {
-      "id": "cnbeta:6131c3312e14",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic推出Claude Ship 让AI代理审查、修复并批准代码变更",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587742.htm",
-      "summary": "<p>Anthropic于11月23日宣布推出Claude Ship，这是一套面向软件开发流程的AI代理工具，旨在让AI不仅编写代码，还能审查、修复并批准常规代码变更，从而帮助开发团队减少代码合入前的瓶颈。该产品目前以测试版形式推出，面向使用GitHub仓库的Claude Team和Enterprise计划用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587742.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-24T02:34:15+00:00",
-      "published_ts": 1795487655.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.608
+      "importance": 1.83
     },
     {
       "id": "cnbeta:bc50bec7d941",
