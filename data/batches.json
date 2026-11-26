@@ -1,84 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T08:38:21.287414+00:00",
+    "generated_at": "2026-11-26T21:44:34.354744+00:00",
     "max_days": 30
   },
   "batches": [
-    {
-      "generated_at": "2026-10-27T12:27:50.934180+00:00",
-      "generated_ts": 1793104070.9341795,
-      "sources": {
-        "openai_blog": 50,
-        "the_verge": 10,
-        "techcrunch": 20,
-        "ars_technica": 20,
-        "qbitai": 10,
-        "tmtpost": 19,
-        "cnbeta": 50
-      },
-      "items": [
-        {
-          "id": "tmtpost:52358e9be7ec",
-          "title": "Kimi额度的问题，Anthropic找到了解决办法",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.82,
-          "url": "https://www.tmtpost.com/8183235.html",
-          "published_at": "2026-10-27T10:19:24+00:00",
-          "summary": "你的额度为什么不经用？大半都在给子Agent“开无效会议”"
-        },
-        {
-          "id": "tmtpost:5b94532f5c35",
-          "title": "科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型\"绕开\"封锁",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.754,
-          "url": "https://www.tmtpost.com/8183533.html",
-          "published_at": "2026-10-27T09:29:45+00:00",
-          "summary": "刘庆峰表示，\"我们并不希望讯飞是唯一一个在国产算力上做训练的，我们大声疾呼就希望有更多的人进来。\""
-        },
-        {
-          "id": "tmtpost:74d9436b6f15",
-          "title": "算力最多，进展最慢：字节大模型困于赛马制",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 2.74,
-          "url": "https://www.tmtpost.com/8182141.html",
-          "published_at": "2026-10-27T09:19:16+00:00",
-          "summary": "旧有的“赛马+短周期考核”方式，已经难以为继。"
-        },
-        {
-          "id": "tmtpost:cfdf5af43a7f",
-          "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.901,
-          "url": "https://www.tmtpost.com/8183550.html",
-          "published_at": "2026-10-27T10:42:42+00:00",
-          "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。"
-        },
-        {
-          "id": "the_verge:ff142634e854",
-          "title": "Data center backlash is uniting America",
-          "source": "the_verge",
-          "source_label": "The Verge",
-          "importance": 1.863,
-          "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-          "published_at": "2026-10-27T10:00:00+00:00",
-          "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become"
-        },
-        {
-          "id": "tmtpost:f8247b2e05d1",
-          "title": "SpaceX借来400亿美元，押注GPU的未来五年",
-          "source": "tmtpost",
-          "source_label": "钛媒体",
-          "importance": 1.826,
-          "url": "https://www.tmtpost.com/8182988.html",
-          "published_at": "2026-10-27T09:19:13+00:00",
-          "summary": "芯片一年一迭代，马斯克为何敢借五年？"
-        }
-      ]
-    },
     {
       "generated_at": "2026-10-27T22:25:42.556302+00:00",
       "generated_ts": 1793139942.5563016,
@@ -5732,6 +5657,71 @@
           "url": "https://www.qbitai.com/2026/11/512897.html",
           "published_at": "2026-11-26T03:23:35+00:00",
           "summary": "李斌坦言：不做AI变革可能活不下去"
+        }
+      ]
+    },
+    {
+      "generated_at": "2026-11-26T21:44:34.354744+00:00",
+      "generated_ts": 1795729474.3547444,
+      "sources": {
+        "openai_blog": 50,
+        "the_verge": 10,
+        "techcrunch": 20,
+        "ars_technica": 20,
+        "qbitai": 10,
+        "tmtpost": 18,
+        "cnbeta": 50
+      },
+      "items": [
+        {
+          "id": "cnbeta:ea02cc4acce2",
+          "title": "路透社母公司使用中国AI开发新模型 计算机操作功能出色",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 2.296,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1588080.htm",
+          "published_at": "2026-11-26T12:28:56+00:00",
+          "summary": "<p>据《商业内幕》报道，路透社母公司汤森路透将于今年年底推出一款名为“汤森1.1”(Thomson 1.1)的新AI模型。该模型基于两个国家的开源模型构建，分别是中国智谱AI的GLM和Google的Gemma。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588080.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:25dd845db7c5",
+          "title": "铠侠携手英伟达完成概念验证：144块SSD将GPU内存扩展至1PB以上",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.865,
+          "url": "https://www.cnbeta.com.tw/articles/tech/1588112.htm",
+          "published_at": "2026-11-26T19:19:00+00:00",
+          "summary": "<p>人工智能加速器和GPU的计算能力，如今越来越受限于处理器在任意时刻能够访问的高带宽内存容量。日本存储厂商铠侠认为，如果将企业级SSD直接嵌入服务器机架系统，它们可以成为高带宽内存（HBM）的可行替代方案。为此，铠侠正与英伟达合作，利用大容量企业级SSD大幅扩展AI数据中心的内存容量。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "cnbeta:9e1d5a54f0f4",
+          "title": "日本文化厅扩大动漫盗版排查测试 标记范围延伸至海外网络资源",
+          "source": "cnbeta",
+          "source_label": "cnBeta",
+          "importance": 1.46,
+          "url": "https://www.cnbeta.com.tw/articles/comic/1588072.htm",
+          "published_at": "2026-11-26T10:50:06+00:00",
+          "summary": "<p>《读卖新闻》11月24日报道，日本文化厅正在测试一款能自行上网查找盗版动画和漫画的人工智能智能体。日本文化厅的代表说，测试显示，这款工具的准确率很高。</p> <a href=\"https://www.cnbeta.com.tw/articles/comic/1588072.htm\" target=\"_blank\"><strong>阅读全文</strong></a>"
+        },
+        {
+          "id": "tmtpost:bdec40bcd7a4",
+          "title": "Anthropic上市：从Uber的预算看Claude怎么赚钱",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.449,
+          "url": "https://www.tmtpost.com/8218636.html",
+          "published_at": "2026-11-26T10:34:24+00:00",
+          "summary": "Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。"
+        },
+        {
+          "id": "tmtpost:0a9dafce0f30",
+          "title": "最需要Personal Agent的，是开始健忘的中年人",
+          "source": "tmtpost",
+          "source_label": "钛媒体",
+          "importance": 1.388,
+          "url": "https://www.tmtpost.com/8218302.html",
+          "published_at": "2026-11-26T09:05:48+00:00",
+          "summary": "大脑算力不够了。"
         }
       ]
     }
