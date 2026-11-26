@@ -1,11 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T21:51:06.656935+00:00",
-    "generated_ts": 1795643466.6569352,
+    "generated_at": "2026-11-26T08:38:21.287414+00:00",
+    "generated_ts": 1795682301.2874143,
     "window_hours": 24.0,
-    "total": 7
+    "total": 9
   },
   "items": [
+    {
+      "id": "tmtpost:70169908382b",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "AI“奥本海默”时刻：两家龙头公司员工已经不相信模型安全了",
+      "url": "https://www.tmtpost.com/8218572.html",
+      "summary": "OpenAI和Anthropic的最强AI，他们自己都不敢放出来。",
+      "published_at": "2026-11-26T06:30:00+00:00",
+      "published_ts": 1795674600.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.82
+    },
     {
       "id": "cnbeta:c9f4c2ac570d",
       "source": "cnbeta",
@@ -22,19 +37,34 @@
       "importance": 2.723
     },
     {
-      "id": "tmtpost:8b9b040d5bd6",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元",
-      "url": "https://www.tmtpost.com/8216719.html",
-      "summary": "大烨智能年报虚假记载遭行政处罚，股票11月26日起戴帽；厦航拟斥资近500亿元买50架波音飞机；天齐锂业拟豪掷68.72亿元买矿；AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型；中国在5个自贸试验区开展人工智能标准化自主开放试点；外交部回应“英伟达重新任命黄仁勋为首席执行官”。",
-      "published_at": "2026-11-24T23:20:00+00:00",
-      "published_ts": 1795562400.0,
+      "id": "cnbeta:656eaa535866",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "谷歌研究：AI只听你一面之词判断他人意图 可能越聊越强化你的偏见",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588022.htm",
+      "summary": "<p>11月26日，Google研究团队（Google Research）公布了一项关于大语言模型社交推理能力的研究，并开源了一套基于多智能体模拟的评估框架及包含超2万条样本的数据集。研究人员对12款大语言模型进行测试后发现，<strong>当AI仅依靠用户的单方面描述判断他人真实意图时，其判断准确性会显著下降，甚至可能强化用户原本存在的偏见。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588022.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-26T04:14:41+00:00",
+      "published_ts": 1795666481.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.278
+      "importance": 2.642
+    },
+    {
+      "id": "cnbeta:47a08a017222",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI测试“私密推理”：模型运行时隔离客户数据 内部人员也无法查看",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588020.htm",
+      "summary": "<p>OpenAI首席执行官萨姆·阿尔特曼当地时间11月25日在X平台宣布，开始面向一小部分客户测试“私密推理”（Private Inference）功能。据OpenAI产品页介绍，该能力结合机密计算与严格、可验证的控制手段，在模型运行期间隔离客户数据；产品当前处于Alpha阶段，定价尚未公布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-26T04:13:55+00:00",
+      "published_ts": 1795666435.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.641
     },
     {
       "id": "techcrunch:8b455206df29",
@@ -52,21 +82,6 @@
       "importance": 1.899
     },
     {
-      "id": "cnbeta:b5e4c7726a4b",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "Anthropic Claude Artifacts现可转换为Mac和Windows桌面应用",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587896.htm",
-      "summary": "<p>Anthropic宣布，其Claude平台的Artifacts功能迎来重要升级，用户现在可以将自己创建的Artifacts转换为可在Mac和Windows上运行的桌面应用。这项功能目前以测试版形式向所有Claude套餐的Mac和Windows用户逐步推出，旨在让用户创建的设计、演示文稿、文档、数据仪表盘及交互工具，能够以独立应用的形式在电脑上运行和分享。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587896.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-25T05:47:58+00:00",
-      "published_ts": 1795585678.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.83
-    },
-    {
       "id": "cnbeta:09b08d03fe89",
       "source": "cnbeta",
       "source_label": "cnBeta",
@@ -82,6 +97,36 @@
       "importance": 1.812
     },
     {
+      "id": "cnbeta:cde601da9df5",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI合并ChatGPT聊天与工作功能 重度用户或将更早触及用量上限",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1587978.htm",
+      "summary": "<p>OpenAI 已开始向部分用户推送整合后的 ChatGPT 聊天与工作统一体验，此举正值部分订阅用户批评合并可能限制其使用量之际 。ChatGPT 产品负责人蒂博·索蒂奥（Thibault “Tibo” Sottiaux）周二在 X 平台发文称，公司已开始向一小部分 Pro 订阅用户推出这一更新。此前，OpenAI 曾通过电子邮件向用户宣布了合并计划。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-26T03:48:25+00:00",
+      "published_ts": 1795664905.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.739
+    },
+    {
+      "id": "qbitai:060f6ef8833d",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "summary": "李斌坦言：不做AI变革可能活不下去",
+      "published_at": "2026-11-26T03:23:35+00:00",
+      "published_ts": 1795663415.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.719
+    },
+    {
       "id": "qbitai:19856fccdb27",
       "source": "qbitai",
       "source_label": "量子位",
@@ -95,21 +140,6 @@
       "tier": 1,
       "ai_score": 2.0,
       "importance": 1.61
-    },
-    {
-      "id": "qbitai:129375fb308a",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "Anthropic还藏着2个最强模型…",
-      "url": "https://www.qbitai.com/2026/11/512538.html",
-      "summary": "Fable5.2已经很旧了。",
-      "published_at": "2026-11-25T08:23:24+00:00",
-      "published_ts": 1795595004.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 2.0,
-      "importance": 1.356
     }
   ]
 }
