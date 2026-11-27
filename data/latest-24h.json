@@ -1,55 +1,40 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T21:44:34.354744+00:00",
-    "generated_ts": 1795729474.3547444,
+    "generated_at": "2026-11-27T08:49:12.177584+00:00",
+    "generated_ts": 1795769352.1775837,
     "window_hours": 24.0,
-    "total": 10
+    "total": 9
   },
   "items": [
     {
-      "id": "tmtpost:70169908382b",
-      "source": "tmtpost",
-      "source_label": "钛媒体",
-      "title": "AI“奥本海默”时刻：两家龙头公司员工已经不相信模型安全了",
-      "url": "https://www.tmtpost.com/8218572.html",
-      "summary": "OpenAI和Anthropic的最强AI，他们自己都不敢放出来。",
-      "published_at": "2026-11-26T06:30:00+00:00",
-      "published_ts": 1795674600.0,
-      "category": "domestic",
-      "lang": "zh",
-      "tier": 1,
-      "ai_score": 3.0,
-      "importance": 2.82
-    },
-    {
-      "id": "cnbeta:656eaa535866",
+      "id": "cnbeta:d53de14211ee",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "谷歌研究：AI只听你一面之词判断他人意图 可能越聊越强化你的偏见",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1588022.htm",
-      "summary": "<p>11月26日，Google研究团队（Google Research）公布了一项关于大语言模型社交推理能力的研究，并开源了一套基于多智能体模拟的评估框架及包含超2万条样本的数据集。研究人员对12款大语言模型进行测试后发现，<strong>当AI仅依靠用户的单方面描述判断他人真实意图时，其判断准确性会显著下降，甚至可能强化用户原本存在的偏见。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588022.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-26T04:14:41+00:00",
-      "published_ts": 1795666481.0,
+      "title": "DeepSeek灰度上线对话额度显示功能 可直观展示对话成本",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588148.htm",
+      "summary": "<p>DeepSeek用户反馈，DeepSeek网页端和移动端 App 内正灰度测试“显示本轮消耗额度”功能。用户在完成一轮对话后，界面会弹出详情页，展示本次交互消耗的 Token 数量及其对应的估算金额（价格和 API 持平）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-27T04:09:32+00:00",
+      "published_ts": 1795752572.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.642
+      "importance": 2.622
     },
     {
-      "id": "cnbeta:47a08a017222",
+      "id": "cnbeta:a62cab6edbe6",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI测试“私密推理”：模型运行时隔离客户数据 内部人员也无法查看",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1588020.htm",
-      "summary": "<p>OpenAI首席执行官萨姆·阿尔特曼当地时间11月25日在X平台宣布，开始面向一小部分客户测试“私密推理”（Private Inference）功能。据OpenAI产品页介绍，该能力结合机密计算与严格、可验证的控制手段，在模型运行期间隔离客户数据；产品当前处于Alpha阶段，定价尚未公布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588020.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-26T04:13:55+00:00",
-      "published_ts": 1795666435.0,
+      "title": "美国出口禁令形同虚设 英伟达顶级B300服务器在中国公开售卖 开价约300万美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588138.htm",
+      "summary": "<p>尽管美国出口管制清单已将英伟达B300人工智能芯片列入对华禁运范围，但最新调查显示，只要认识“对的人”并且资金充足，这套Blackwell Ultra顶级硬件在中国并不难买到。据《华盛顿邮报》报道，一套搭载8颗GPU的B300服务器在中国市场的报价约为300万至340万美元，相当于美国零售价的5到6倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588138.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-27T04:04:00+00:00",
+      "published_ts": 1795752240.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.641
+      "importance": 2.615
     },
     {
       "id": "cnbeta:ea02cc4acce2",
@@ -82,34 +67,34 @@
       "importance": 1.865
     },
     {
-      "id": "cnbeta:cde601da9df5",
+      "id": "cnbeta:f58bbee3f845",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "OpenAI合并ChatGPT聊天与工作功能 重度用户或将更早触及用量上限",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1587978.htm",
-      "summary": "<p>OpenAI 已开始向部分用户推送整合后的 ChatGPT 聊天与工作统一体验，此举正值部分订阅用户批评合并可能限制其使用量之际 。ChatGPT 产品负责人蒂博·索蒂奥（Thibault “Tibo” Sottiaux）周二在 X 平台发文称，公司已开始向一小部分 Pro 订阅用户推出这一更新。此前，OpenAI 曾通过电子邮件向用户宣布了合并计划。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587978.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-26T03:48:25+00:00",
-      "published_ts": 1795664905.0,
+      "title": "美元升值背后：全球从“石油美元”步入“芯片美元”？",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588170.htm",
+      "summary": "<p>今年以来，科技板块的资本持续流入，叠加AI投资与普及提振的经济增长预期，正为美元提供坚实支撑。<strong>而与此同时，德意志银行基于国际贸易中心(ITC)数据的分析显示，在席卷全球的人工智能热潮助推下，半导体的全球出口总额已首次超越石油与天然气。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-27T04:20:47+00:00",
+      "published_ts": 1795753247.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.739
+      "importance": 1.758
     },
     {
-      "id": "qbitai:060f6ef8833d",
+      "id": "qbitai:b548b5396138",
       "source": "qbitai",
       "source_label": "量子位",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
-      "summary": "李斌坦言：不做AI变革可能活不下去",
-      "published_at": "2026-11-26T03:23:35+00:00",
-      "published_ts": 1795663415.0,
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "url": "https://www.qbitai.com/2026/11/513125.html",
+      "summary": "",
+      "published_at": "2026-11-27T03:33:11+00:00",
+      "published_ts": 1795750391.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.719
+      "importance": 1.718
     },
     {
       "id": "cnbeta:9e1d5a54f0f4",
