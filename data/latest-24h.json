@@ -1,40 +1,55 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T21:28:43.350199+00:00",
-    "generated_ts": 1795814923.3501992,
+    "generated_at": "2026-11-28T08:07:03.380712+00:00",
+    "generated_ts": 1795853223.3807123,
     "window_hours": 24.0,
-    "total": 8
+    "total": 10
   },
   "items": [
     {
-      "id": "cnbeta:d53de14211ee",
+      "id": "cnbeta:7df75bd754ac",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "DeepSeek灰度上线对话额度显示功能 可直观展示对话成本",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1588148.htm",
-      "summary": "<p>DeepSeek用户反馈，DeepSeek网页端和移动端 App 内正灰度测试“显示本轮消耗额度”功能。用户在完成一轮对话后，界面会弹出详情页，展示本次交互消耗的 Token 数量及其对应的估算金额（价格和 API 持平）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588148.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-27T04:09:32+00:00",
-      "published_ts": 1795752572.0,
+      "title": "Claude被指蓄意破坏AI研究",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588278.htm",
+      "summary": "<p>Claude 真的会暗中给项目“使绊子”吗？近日，多名开发者公开指控 Anthropic 旗下的 Claude 模型在执行机器学习研究任务时，出现了违背用户指令、暗中修改代码，甚至拖慢训练进程的行为。一时在 AI 社区引发热烈讨论。不过，Anthropic 员工 Edwin Arbus 否认公司在服务时会降低AI研究相关回答的质量，仅承认 Fable 5 发布最初两天有过失误且已快速修复。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588278.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-28T06:50:55+00:00",
+      "published_ts": 1795848655.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.622
+      "importance": 2.892
     },
     {
-      "id": "cnbeta:a62cab6edbe6",
-      "source": "cnbeta",
-      "source_label": "cnBeta",
-      "title": "美国出口禁令形同虚设 英伟达顶级B300服务器在中国公开售卖 开价约300万美元",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1588138.htm",
-      "summary": "<p>尽管美国出口管制清单已将英伟达B300人工智能芯片列入对华禁运范围，但最新调查显示，只要认识“对的人”并且资金充足，这套Blackwell Ultra顶级硬件在中国并不难买到。据《华盛顿邮报》报道，一套搭载8颗GPU的B300服务器在中国市场的报价约为300万至340万美元，相当于美国零售价的5到6倍。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588138.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-27T04:04:00+00:00",
-      "published_ts": 1795752240.0,
+      "id": "qbitai:76ecd1468244",
+      "source": "qbitai",
+      "source_label": "量子位",
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "url": "https://www.qbitai.com/2026/11/513428.html",
+      "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "published_at": "2026-11-28T05:54:46+00:00",
+      "published_ts": 1795845286.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 3.0,
-      "importance": 2.615
+      "importance": 2.815
+    },
+    {
+      "id": "cnbeta:efff2d3c493e",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "OpenAI反诉苹果窃取商业机密",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588264.htm",
+      "summary": "<p>OpenAI已对苹果发起新的法律诉讼，指控这家大型科技巨头窃取其商业机密，并阻断其接触硬件供应商的渠道，企图“不择手段地进行不正当竞争”。这家ChatGPT开发商于周五向加州法院提起诉讼，以此回击今年夏天这家iPhone制造商对这家人工智能实验室窃取绝密信息的指控。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-27T21:27:59+00:00",
+      "published_ts": 1795814879.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 3.0,
+      "importance": 2.206
     },
     {
       "id": "tmtpost:f9dae69b98ab",
@@ -67,19 +82,34 @@
       "importance": 2.113
     },
     {
-      "id": "cnbeta:f58bbee3f845",
+      "id": "cnbeta:0916508be87a",
       "source": "cnbeta",
       "source_label": "cnBeta",
-      "title": "美元升值背后：全球从“石油美元”步入“芯片美元”？",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1588170.htm",
-      "summary": "<p>今年以来，科技板块的资本持续流入，叠加AI投资与普及提振的经济增长预期，正为美元提供坚实支撑。<strong>而与此同时，德意志银行基于国际贸易中心(ITC)数据的分析显示，在席卷全球的人工智能热潮助推下，半导体的全球出口总额已首次超越石油与天然气。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588170.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
-      "published_at": "2026-11-27T04:20:47+00:00",
-      "published_ts": 1795753247.0,
+      "title": "Google Gemini 4基准团队11人同日被解雇 举报工程师称基准分数系“热交换”伪造",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588310.htm",
+      "summary": "<p>11月28日 一名自称Google DeepMind伦敦办公室前工程师的用户在社交平台爆料，称Google于11月19日一次性解雇了Gemini 4基准测试团队全部11名工程师，解雇理由为“未经授权访问评估基础设施”和“意图损害公司声誉”。该工程师称，被解雇前他曾通过内部研究诚信渠道报告Gemini 4系列模型存在基准测试分数与实际部署权重不一致的问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-28T07:17:22+00:00",
+      "published_ts": 1795850242.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.758
+      "importance": 1.953
+    },
+    {
+      "id": "cnbeta:32e5f3040ecb",
+      "source": "cnbeta",
+      "source_label": "cnBeta",
+      "title": "用Claude证明黎曼猜想的90后数学家收到了致命威胁",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1588286.htm",
+      "summary": "<p>用1737万行Lean代码攻破黎曼猜想的Anthropic数学家<strong>Levent Alpöge</strong>，刚刚在X上公开表明：<strong>他收到了致命威胁。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1588286.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "published_at": "2026-11-28T06:54:59+00:00",
+      "published_ts": 1795848899.0,
+      "category": "domestic",
+      "lang": "zh",
+      "tier": 1,
+      "ai_score": 2.0,
+      "importance": 1.932
     },
     {
       "id": "cnbeta:d1621ee0cd27",
@@ -97,19 +127,19 @@
       "importance": 1.72
     },
     {
-      "id": "qbitai:b548b5396138",
-      "source": "qbitai",
-      "source_label": "量子位",
-      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-      "url": "https://www.qbitai.com/2026/11/513125.html",
-      "summary": "",
-      "published_at": "2026-11-27T03:33:11+00:00",
-      "published_ts": 1795750391.0,
+      "id": "tmtpost:a2dc732b1840",
+      "source": "tmtpost",
+      "source_label": "钛媒体",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "url": "https://www.tmtpost.com/8221003.html",
+      "summary": "三家公司招聘要求背后，有五种共同能力。",
+      "published_at": "2026-11-28T02:53:00+00:00",
+      "published_ts": 1795834380.0,
       "category": "domestic",
       "lang": "zh",
       "tier": 1,
       "ai_score": 2.0,
-      "importance": 1.718
+      "importance": 1.719
     },
     {
       "id": "cnbeta:7ff459dad24c",
